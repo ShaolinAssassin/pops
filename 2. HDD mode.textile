@@ -42,6 +42,8 @@ h2. _C) Installing POPStarter :_
 
 h2. _Examples of Setups :_ 
 
+ 
+
 pre. 
 === INTERNAL HDD, NEW LAUNCH TYPE ===
 __common/POPS/IOPRP252.IMG
@@ -49,17 +51,24 @@ __common/POPS/POPS.ELF
 __.POPS/Crash Bandicoot.VCD
 __sysconf/FMCB/Crash Bandicoot.elf
 
-pre.
+
+
+
+pre. 
 === INTERNAL HDD, OLD LAUNCH TYPE (HIDDEN PARTITION) ===
 __common/POPS/IOPRP252.IMG
 __common/POPS/POPS.ELF
 __.Crash_Bandicoot/IMAGE0.VCD
 __sysconf/FMCB/__.Crash Bandicoot.elf
 
-pre.
+
+
+
+pre. 
 === INTERNAL HDD, OLD LAUNCH TYPE (HDDOSD COMPATIBLE) ===
 __common/POPS/IOPRP252.IMG
 __common/POPS/POPS.ELF
 PP.Crash_Bandicoot/EXECUTE.KELF
 PP.Crash_Bandicoot/IMAGE0.VCD
+
 
