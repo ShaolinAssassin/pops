@@ -4,7 +4,7 @@ ______________________________________________________________________
 
 h2. _POPS decrypted files :_
 
-To use POPStarter with an internal HDD, you have to find and download the POPS decrypted files. These files are named "POPS.ELF" and "IOPRP252.IMG"... They files are copyrighted and contains sony material. You are on your own to find them (google is your friend ;) )
+To use POPStarter with an internal HDD, you have to find and download the POPS decrypted files. These files are named "POPS.ELF" and "IOPRP252.IMG"... You are on your own to find them (google is your friend ;) )
 
 | *File name* | *MD5* | *Description* | *Location* |
 | POPS.ELF | 355a892a8ce4e4a105469d4ef6f39a42 | main SLBB-00001 ELF, decrypted | __common/POPS/ |
@@ -12,9 +12,9 @@ To use POPStarter with an internal HDD, you have to find and download the POPS d
 
 h2. _Other Software Requirements :_
 
-* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as ToolBox or CUE2POPS)
-* A software that allows you to manage/create partitions in your PS2 HDD (such as AKuHAK's uLaunchELF build)
-* A software that allows you to copy the decrypted POPS file to the __common partition of your PS2 HDD (such as AKuHAK's uLaunchELF build)
+* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as ToolBox )
+* A software that allows you to manage/create partitions in your PS2 HDD (such as AKuHAK's uLaunchELF build or uLE_kHn build)
+* A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as AKuHAK's uLaunchELF build or uLE_kHn build)
 * A software that allows you to transfer the converted disc images to your PS2 HDD (such as PFSshell, or uLaunchELF and RadHostClient...)
 * A PS2 software that allows you to execute the POPStarter ELFs (such as uLaunchELF, or Free Harddisk Drive Boot...) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as uLE_kHn_20150602)
 
