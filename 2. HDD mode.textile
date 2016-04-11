@@ -1,12 +1,12 @@
-# Installing POPStarter for internal HDD #
+h1. Installing POPStarter for internal HDD
 
-### *Hardware Requirements :* ###
+h3. _Hardware Requirements :_
 
 * A PS2 console which is able to run PS2 unsigned code
 * A network adapter with/or a HDD interface
 * A PS2-formatted HDD that fits your network adapter/HDD interface
 
-### *Software Requirements :* ###
+h3. _Software Requirements :_
 
 * The POPS decrypted files (POPS.ELF and IOPRP252.IMG)
 * A software that allows you to convert your disc images to the POPS virtual CDROM format (such as ToolBox or CUE2POPS)
@@ -15,7 +15,7 @@
 * A software that allows you to transfer the converted disc images to your PS2 HDD (such as PFSshell, or uLaunchELF and RadHostClient...)
 * A PS2 software that allows you to execute the POPStarter ELFs (such as uLaunchELF, or Free Harddisk Drive Boot...) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as uLE_kHn_20150602)
 
-### *POPS decrypted files :* ###
+h3. _POPS decrypted files :_
 
 These files are copyrighted and contains sony material. They will never be bundled with POPStarter. You are on your own to find them (google is your friend ;) )
 
