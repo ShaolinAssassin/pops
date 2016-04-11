@@ -1,14 +1,224 @@
 h1. *POPStarter Changelogs*
 ______________________________________________________________________
 
+h3. _WIP 06 Public Betas :_ 
+
+* *2015/12/07 (Beta 13) = LATEST BETA*
+
+pre. 
+- Added a PS2 Memory Card BOOT.ELF launcher to the in-game reset function of POPS and to the quit-on-failure code of POPStarter.
+  The launcher looks for mc0:/BOOT/BOOT.ELF and mc1:/BOOT/BOOT.ELF. If not found/invalid, exits to the PS2 browser (OSDSYS should execute FMCB/FHDB, if installed to a COMPATIBLE console).
+  POPS will still kick you out to the OSD if it cannot init (cannot load modules, cannot open the VCD...) the launcher will not be invoked.
+- The PAL patcher of POPStarter gets disabled when the XBRA and the GSM magics are found into the memory.
+  With that thing, I hope the users of GSModeSelector v0.23x beta will no longer have to use $NOPAL after they launch GSM...
+- Added a small ExcepTrap v1 build, stripped out from the kTLBException catcher and the other boring stuff.
+  I bet its debug screen isn't displayed on HDTVs. Has no PAL selector, because switching to PAL causes a weird VBLANK messup.
+- Removed stuff, in order to clean out the code and produce a smaller binary :
+--- ps2host launcher (IP.)
+--- napLink launcher (PL.)
+--- POPStarter function skipper (config table offset $412)
+--- Homebrew mcman (POPStarter loads rom0:MCMAN instead)
+  Saved about 10KB off the final ELF yay !
+
+
+* *2015/11/24 (Beta 12)*
+
+pre. 
+- Bugfixed : $SAFEMODE (in CHEATS.TXT) not working
+- User authentication is supported in SMB mode
+  Write your username to line 2 and your plain-text password to line 3 of SMBCONFIG.DAT.
+  Don't write anything to line 2 and 3 for guest access
+- Yet another built-in BIOS hack, to boot games that have a broken license (or no valid bootsector at all)
+  VCDs with messed up bootsector will be run in the POPS native NTSC video mode. Want PAL ? See $FORCEPAL below.
+- Added $FORCEPAL (in CHEATS.TXT)
+  Useful for PAL VCDs that don't have a valid license text in their bootsector.
+  It forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL).
+
+* *2015/11/11 (Beta 11)*
+
+pre. 
+- Bugfixed : Couldn't read VCDs from POPS# folders in USB mode and network modes
+- IPCONFIG.DAT is now optional in SMB mode
+- No more delay after the SMB connection is established... I hope your NAS will not dislike it...
+- You can now specify a port in SMBCONFIG.DAT (see NETWORK.TXT, the syntax is IPADDRESS:PORT)
+  If none is specified, the default port 445 is used
+- Added crash fixes for :
+--- Um Jammer Lammy (SCES-01753)
+--- Um Jammer Lammy (SCPS-18011)
+--- Um Jammer Lammy (SCUS-94448)
+--- Devil's Deception (SLES-00848)
+SFX are missing in Um Jammer Lammy, muh.
+- Automated compatibility fix 0x04 for :
+--- ATV: Quad Power Racing (SLUS-01137)
+--- ATV: Quad Power Racing (SLES-02822)
+- Added something to make Tekken 3 (SCES-01237) look better. Although, it still has got severe framerate and controller response issues :( .
+  Almost unplayable... Irritating garbage.
+  Even worse, the game boot appears to be hit or miss now. To be improved... or removed hehe.
+
+
+* *2015/10/26 (Beta 10)*
+
+pre. 
+- Bugfixed : poweroff.irx and ps2ip.irx not loaded from mc0:. Sorry of...
+
+* *2015/10/24 (Beta 9)*
+
+pre. 
+- Bugfixed : The loading of IGR_NO.TM2 was skipped in internal HDD mode.
+  (reported by ElPatas here : http://www.metagames-eu.com/forums/news-ps2/popstarter-revision-13-sorties-et-developpements-20-134569.html#post1771422 )
+- Now you can load the USB and network modules from the MC that is in the second slot too.
+  (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...)
+
+* *2015/10/23 (Beta 8)*
+
+pre. 
+- Complete rewrite and embedding of the PFS wrapper (POPStarter no longer loads PFS_WRAP.BIN)
+- Added support for ps2host, napLink (yuck) and SMB (NOT password protected, fixed port 445) shares
+- Added a loader/unpacker for POPS_IOX.PAK in USB and network modes (note that POPS_IOX.PAK is REQUIRED to make the network modes work)
+- Load network and USB modules from a PS2 MC (first slot ONLY, mc0:/POPSTARTER/). POPStarter no longer loads usbd.irx and usbhdfsd.irx from mass.
+- Yet another built-in BIOS hack, to solve this problem : http://assemblergames.com/l/threads/45347/page-67#post-832884
+- PAL patching of POPS is now denied for Tom And Jerry In House Trap (SLES-03181)
+  ( thanks for reporting, ElPatas. http://assemblergames.com/l/threads/45347/page-68#post-838947 )
+- No more USB modules and PFS wrapper injections into POPS. POPStarter loads and starts them before POPS is executed
+  (so now users can use their mc0:/POPSTARTER/usbd.irx and mc0:/POPSTARTER/usbhdfsd.irx with no file size restriction)
+- Now the default USB delay value of the PFS wrapper (in the config table, offset 417h of the ELF) is zero
+  (if it does not work with your device, you still can change that value in the config table, or using the $USBDELAY_# command of CHEATS.TXT)
+- Some other changes I can't remember...
+
+* *2015/07/28 (Beta 7)*
+
+pre. 
+- Compiled with the latest USBD again -_-
+- Fixed : Issues with the IOPCD stack
+
+* *2015/07/27 (Beta 6)*
+
+pre. 
+- Sbv from PS2SDK commit c6cd5b3447
+- Old USBD (CRC32 8EA56869) + USBHDFSD of POPStarter r13 WIP 02/05 (CRC32 E96C037A)
+- Fixed : $COMPATIBILITY_0x## (in CHEATS.TXT) did not work
+- Added : Vibration fix ( same as the "Rumble Always On" posted here http://ps2home.freeforums.net/post/2809/thread )
+- The second controller is disabled in the IGR menu, allowing you to decide/cancel from the first controller (same as the "No 2nd pad in IGR" TROJAN)
+- Added a crash fix for :
+-- Cybernetic Empire (Disc 1) (SLPS-01912)
+-- Cybernetic Empire (Disc 2) (SLPS-01913)
+-- Cybernetic Empire (SLPS-01913, RGR)
+- Added uLE_kHn_20150727 to the package (with mass:/POPS#/ support).
+
+* *2015/07/14 (Beta 5)*
+
+pre. 
+- Speedup hack (Select+L2+R2+X) removed
+- Fixed : The LC fix was flushed and $FAKELC could not set it up
+
+* * 2015/07/13 (Beta 4)*
+
+pre. 
+- Fixed : Bad cheat engine hook.
+  (The cheat engine was returning to its hook address + 8, causing POPS to execute the next function and fill the memory with garbage. Using a CHEATS.TXT was crashing POPS on startup.)
+- Added the PFS_WRAP.BIN which was posted here http://ps2home.freeforums.net/post/2764/thread , to this POPStarter zip.
+- Fixed : $USBDELAY_# didn't coexist with $C0
+
+* *2015/07/12 (Beta 3)*
+
+pre. 
+- Fixed : mass:/POPS#/TROJAN_#.BIN and mass:/POPS#/PATCH_#.BIN integrity check failure
+ (Thanks to joseri for reporting the problem)
+- Fixed : Incorrect load instruction for $C0 codes (cheat engine bug)
+- Fixed : IOPRP252.IMG integrity check failure
+- Fixed : Couldn't get the USB delay value from the config table
+ (Thanks to joseri for reporting the problem)
+- Fixed : Disc identification data wasn't flushed after the identification process
+- Memory allocation and hook address changes for the integrated game fixes and the MediEvil-specific LC crack
+  (I wasted several days on trying to figure out why POPS was so crashy. I hope the issue is now closed once and for all)
+- Made a minor change to the POPStarter payload...
+  (Experiment... theutmost did report a weird issue with running the POPStarter ELF. SCPH-30002 + Neo4.)
+- The PAL patcher is now blocked for PAL releases of Driver 2
+  (El_Patas and I discovered that the PAL patcher was crashing POPS just before the game main menu. Please use GSM for this game.)
+- Added disc check fixes for :
+-- Metal Gear Solid: Special Missions (SLES-02136)
+-- Driver 2: Back On The Streets v1.0 (Disc 2) (SLES-12993)
+-- Driver 2: Back On The Streets v1.1 (Disc 2) (SLES-12993)
+-- Driver 2: Back On The Streets (Disc 2) (SLES-12994)
+-- Driver 2: Back On The Streets v1.0 (Disc 2) (SLES-12995)
+-- Driver 2: Back On The Streets v1.1 (Disc 2) (SLES-12995)
+-- Driver 2: Back On The Streets (Disc 2) (SLES-12996)
+-- Driver 2: Back On The Streets (Disc 2) (SLES-12997)
+-- Driver 2 v1.0 (Disc 2) (SLUS-01318)
+-- Driver 2 v1.1 (Disc 2) (SLUS-01318)
+ (Thanks to largeroliker and El_Patas)
+- Added LibCrypt fixes for :
+-- F1 2000 (SLES-02723)
+-- Formula One 99 (SCES-02222)
+-- OverBlood 2 v1.0 (Disc 1) (SLES-01879)
+-- OverBlood 2 v1.0 (Disc 2) (SLES-11879)
+-- OverBlood 2 (Disc 1) (SLES-01880)
+-- OverBlood 2 (Disc 2) (SLES-11880)
+-- Men In Black: The Series: Crashdown (SLES-03523)
+-- PGA European Tour Golf (SLES-02396)
+-- Radikal Bikers (SLES-01943)
+-- Sydney 2000 (SLES-02861)
+ (Thanks to El_Patas)
+- Added a crash fix for Super Tokusatsu Taisen 2001 (SLPS-02863)
+ (Thanks to antonioks for reporting and describing the problem)
+- Added the following hotkeys :
+-- Press Select+L1+R2 to enable the smooth texture mapping
+-- Press Select+L2+R1 to disable the smooth texture mapping
+-- Press Select+L2+R2+Triangle to open the PS1 CD lid
+-- Press Select+L2+R2+Square to close the PS1 CD lid
+-- Hold Select+L2+R2+X to speed up (FPS boost)
+- Added new commands you can write to CHEATS.TXT :
+-- $USBDELAY_# (where # is a number. Sets up the PFS wrapper USB delay)
+-- $NOPAL (Disables POPStarters' PAL patcher)
+-- $SMOOTH (Enables the smooth texture mapping at startup)
+-- $COMPATIBILITY_0x## (where ## is a hexadecimal value. Activates a compatibility mode. You can write as many $COMPATIBILITY_0x## as you want.)
+-- $CACHE1 (Makes POPS buffer 1 sector instead of 16.)
+-- $FAKELC (Loads a null LibCrypt magic word into the cop0 register. May be needed by some discs that have a messed up LC protection.)
+- PFS_WRAP.BIN (the PFS wrapper) was updated to r4 :
+-- Now it defaults to a 5 seconds delay if POPStarter somehow does not manage to poke the USB delay value
 
 
 
+* *2015/06/25 (Beta 2)*
 
+pre. 
+- In USB mode : Sequential scan of mass:/POPS/, mass:/POPS0/, mass:/POPS1/... up to mass:/POPS9/ for VCDs
+- In USB mode : All the file handlers were reworked to load user files from mass:/POPS#/GAMENAME/
+- Now the VCD is checked, identified and fixes are activated BEFORE the file handlers are run
+  (it was a requirement to comply with the USB mode changes)
+- Support for the new TROJAN specs of version 3
+  IF the TROJAN version (offset Ch) is 0x03 AND IF the defined POPStarter build ID (offset Ah) is lower than the ELF build ID ANF IF the internal game fixes were loaded, the loading of the TROJAN is skipped
+- Change to the POPStarter ELF config table : offset 417h value is the USB delay used by the PFS wrapper r3 (default hardcoded value is 0x05)
+- PFS_WRAP.BIN (the PFS wrapper) was updated to r3 :
+-- Functions remove and mkdir are now dummies
+-- The MEMCARD_HACK workaround (which has been implemented in r2) was deimplemented
+-- Debug stuff and the UDPTTY module were removed
+-- Added a USB delay pattern which is poked by POPStarter
 
+* *2015/06/22 (Beta 1)*
 
+pre. 
+- Fixed : OSD.BIN in-RAM corruption
+  (was caused by a conflict with the new BIOS region free hack which has been introduced in WIP 03)
+- Fixed : In USB mode, the custom VMC directory name/path (set by the user with a PATCH_#.BIN file) is overwritten by POPStarter
+  (was because of the PFS_WRAP.BIN loader design)
+- Compiled with another USBD.IRX
+  I'm clueless about what its version is, sorry.
+- Redesign of the LibCrypt hack
+  The magic key is now directly (and constantly) loaded to the COP0r3 (in the SPM actually)
+- Re-coding of the MediEvil specific LibCrypt hack
+- Added a function which allows the user to use another VMC folder (handles VMCDIR.TXT from the POPS folder and from the game VMC folder)
+- Added a cheat engine (handles CHEATS.TXT from the game VMC folder)
+  The code list syntax is the same as the ToolBox one. Example : $800ABCDE FFFF
+- Added a new Crash Team Racing fix which is also supposed to fix the sound issue
+  (please delete the old TROJAN_1.BIN from the game VMC folder in order to try it)
+- Added a fix for Crash Bandicoot
+- Added a fix for Alundra 2
+- Added the Jackie Chan Stuntmaster (SCES-01444) LibCrypt crack
 
-* *POPStarter Revision 13, Build Date : 2015/06/03, WIP 05 PUBLIC RELEASE*
+h3. _POPStarter Stable releases :_ 
+
+* *POPStarter Revision 13, Build Date : 2015/06/03, WIP 05 PUBLIC RELEASE* *= LATEST STABLE RELEASE*
 
 
 pre. 
