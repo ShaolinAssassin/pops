@@ -37,5 +37,5 @@ h3. _Installing your PS1 Games :_
 
 h3. _Installing POPStarter :_ 
 
-* Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension;[example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "Gran Turismo.elf"]
-* Copy or leave the ELFs where you want to run them from.
+# Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension;[example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "Gran Turismo.elf"]
+# Copy or leave the ELFs where you want to run them from.
