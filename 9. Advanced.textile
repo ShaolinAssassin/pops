@@ -5,224 +5,39 @@ ______________________________________________________________________
 This documentation concerns the advanced configuration of POPStarter r13, involving the harcoding (or the patch-on-load) of settings to the POPStarter ELF/KELF...
 
 The POPStarter r13 ELF and KELF have a 32 bytes long configuration table, starting from the offset $410 (or 1040 in decimal).
-Unless you know exactly what it is for and what you're doing, please don't tamper with it.
-Perhaps a GUI or a bunch of PPFs will surface, but for now the hexediting of that stuff is for advanced users only...
-Make a backup of the default config before you start changing values
 
-
+Unless you know exactly what it is for and what you're doing, please don't tamper with it. Perhaps a GUI or a bunch of PPFs will surface, but for now the hexediting of that stuff is for advanced users only... Make a backup of the default config before you start changing values
 _____________________________________________________________________________________________________________
-
-
-
 
 *Offset $410 : Display of the debug texts/pages*
 * A value of 0x00 disables the debug printing.
 * A value between 0x01 and 0x0FF defines the delay between each page of texts. The higher the value is, the longer the delay is.
 * When set to 0xFF, the debug texts are displayed in realtime without delay (like in POPStarter 12 and lower)
-______________________________________________________________________
+_____________________________________________________________________________________________________________
 
-Offset $411 : Break the POPStarter execution after an error has occured.
-              When set to 0x00, POPStarter prints the error message for a short time, then it kicks the user to the OSD.
-              When set to anything but 0x00, POPStarter prints the error message and sleeps on that screen indefinitely 
+*Offset $411 : Break the POPStarter execution after an error has occured*
+* When set to 0x00, POPStarter prints the error message for a short time, then it kicks the user to the OSD.
+* When set to anything but 0x00, POPStarter prints the error message and sleeps on that screen indefinitely 
+_____________________________________________________________________________________________________________
 
-______________________________________________________________________
+*Offset $412 : Skip most POPStarter functions (NOT FULLY IMPLEMENTED)*
+* 0x00 == OFF
+* 0x01 == Level 1
+* 0x02 == Level 2
+* Note  : That feature is not finished, I don't even know how it behaves atm. Use at your own risk.
+_____________________________________________________________________________________________________________
 
-Offset $412 : Skip most POPStarter functions (NOT FULLY IMPLEMENTED)
-              0x00 == OFF
-              0x01 == Level 1
-              0x02 == Level 2
-              Note  : That feature is not finished, I don't even know how it behaves atm. Use at your own risk.
+*Offset $413 : USB access delay, after the execution of the POPStarter embedded USB modules*
+* 0x02 should be fine. Increase the value if POPStarter fails to access your USB device
+_____________________________________________________________________________________________________________
 
-______________________________________________________________________
+*Offset $414 : RESERVED (in USB operation mode)*
+* Must be 0x40
+_____________________________________________________________________________________________________________
 
+*Offset $415 : User ID for individual VMCs*
+* If set to 0x00, the function is disabled.
+*  For assigning an ID to the couple of VMC, the value must be an ASCII character of "0", "1", "2", "3", "4", "5", "6", "7", "8" or "9"
+_____________________________________________________________________________________________________________
 
-Offset $413 : USB access delay, after the execution of the POPStarter embedded USB modules
-              0x02 should be fine. Increase the value if POPStarter fails to access your USB device
-
-______________________________________________________________________
-
-
-Offset $414 : RESERVED (in USB operation mode)
-              Must be 0x40
-
-______________________________________________________________________
-
-Offset $415 : User ID for individual VMCs
-              If set to 0x00, the function is disabled.
-              For assigning an ID to the couple of VMC, the value must be an ASCII character of "0", "1", "2", "3", "4", "5", "6", "7", "8" or "9"
-
-______________________________________________________________________
-
-Offset $416 : POPS dev9 module loading (in USB operation mode)
-              0x00 == Let POPS load it
-              0x03 == Forbids its loading
-              Default is 0x03. If you need to wake the NIC up (for debugging stuff for example), set this to 0x00
-
-______________________________________________________________________
-
-
-Offset $417 : NOT USED
-
-______________________________________________________________________
-
-
-Offset $418 : Force a single compatibility mode
-              If set to 0x00, no compatibility mode is forced
-              Else, if set to a value between 0x00 and 0x07, the respective compatibility mode is forced and the automatic activator gets disabled.
-
-
-______________________________________________________________________
-
-
-Offset $419 : Force a single compatibility mode
-              If set to 0x00, no compatibility mode is forced
-              Else, if set to a value between 0x00 and 0x07, the respective compatibility mode is forced and the automatic activator gets disabled.
-
-______________________________________________________________________
-
-Offset $41A : Force a single compatibility mode
-              If set to 0x00, no compatibility mode is forced
-              Else, if set to a value between 0x00 and 0x07, the respective compatibility mode is forced and the automatic activator gets disabled.
-______________________________________________________________________
-
-Offset $41B : Force a single compatibility mode
-              If set to 0x00, no compatibility mode is forced
-              Else, if set to a value between 0x00 and 0x07, the respective compatibility mode is forced and the automatic activator gets disabled.
-______________________________________________________________________
-
-Offset $41C : Force a single compatibility mode
-              If set to 0x00, no compatibility mode is forced
-              Else, if set to a value between 0x00 and 0x07, the respective compatibility mode is forced and the automatic activator gets disabled.
-______________________________________________________________________
-
-Offset $41D : Force a single compatibility mode
-              If set to 0x00, no compatibility mode is forced
-              Else, if set to a value between 0x00 and 0x07, the respective compatibility mode is forced and the automatic activator gets disabled.
-______________________________________________________________________
-
-Offset $41E : Force a single compatibility mode
-              If set to 0x00, no compatibility mode is forced
-              Else, if set to a value between 0x00 and 0x07, the respective compatibility mode is forced and the automatic activator gets disabled.
-______________________________________________________________________
-
-Offset $41F : Force a single compatibility mode
-              If set to 0x00, no compatibility mode is forced
-              Else, if set to a value between 0x00 and 0x07, the respective compatibility mode is forced and the automatic activator gets disabled.
-
-______________________________________________________________________
-
-Offset $420 : Patch the genuine HDD check
-              0x00 == Don't patch
-              0x01 == Patch
-              Note  : Totally useless. When running in a PS2, a homebrew ATAD is used. When running in a PSX, the original POPS ATAD is used. Leave it to 0x01.
-______________________________________________________________________
-
-Offset $421 : Loading and execution of the OSD shell of the POPS built-in BIOS
-              0x00 == Load in the user memory and execute (don't patch anything)
-              0x01 == Don't load, don't execute
-              Note  : 0x01 has the same effect as the compatibility mode 0x06. Skips the CD checks and the PS logo. Both don't work if the user uses a BIOS.BIN.
-______________________________________________________________________
-
-Offset $422 : Exception breakpoints control
-              0x00 == Break the emulator (don't patch anything)
-              0x01 == Don't break the emulator
-              Note  : 0x01 NOPs the break instructions of the 2nd-stage exception handler, allowing the user to trigger IGR after the emulation has crashed (in a few cases)
-______________________________________________________________________
-
-Offset $423 : Original SLBB-00001 disc0 integrity check control
-              0x00 == Don't skip the integrity check
-              0x01 == Skip the integrity check
-______________________________________________________________________
-
-Offset $424 : IGR exit method
-              0x00 == Original SLBB-00001+PSBBN method
-              0x01 == POPStarter r13 method
-              Note  : 0x00 causes the emulator to read the MBR by its own, without flushing the cache and without resetting the IOP. Crashy for most users.
-______________________________________________________________________
-
-Offset $425 : IOPCD stack size (in USB operation mode)
-              0x00 == Don't patch
-              0x01 == Patch
-______________________________________________________________________
-
-Offset $426 : Delcro's patches (in USB operation mode)
-              0x00 == Don't apply those to POPS
-              0x01 == Apply those to POPS
-______________________________________________________________________
-
-Offset $427 : Emulator modules loading failure
-              0x00 == Don't patch (Kick to the PS2 OSD)
-              0x01 == Patch (Ignore and continue)
-              Note  : For your h4x0ring needz. Patch it so you no longer have to care about the returned code of your injected IRX.
-______________________________________________________________________
-
-Offset $428 : Internal HDD initialization failure
-              0x00 == Don't patch (Kick to the PS2 OSD)
-              0x01 == Patch (Ignore and continue)
-              Note  : For your h4x0ring needz.
-______________________________________________________________________
-
-Offset $429 : Virtual Memory Cards control
-              0x00 == Use both VMCs
-              0x01 == Don't use VMCs at all
-              0x02 == Use just the first VMC in the first virtual slot
-______________________________________________________________________
-
-Offset $42A : Automatic PAL patch upon European VCD recognition
-              0x00 == Disabled
-              0x01 == Enabled
-              Note  : The Automatic PAL Patcher of POPStarter expects "Euro" at the offset $102514 of the VCD
-______________________________________________________________________
-
-Offset $42B : Resident modules loader
-              0x00 == Disabled
-              0x01 == Enabled
-              Note  : POPS/MODULE_0.IRX POPS/MODULE_1.IRX... up to POPS/MODULE_9.IRX. Are executed AFTER the IOP gets reset with IOPRP252.IMG, for Great Justice.
-______________________________________________________________________
-
-Offset $42C : Software PowerOff fix
-              0x00 == Disabled
-              0x01 == Enabled
-              Note  : Can't remember what it is. Perhaps it's a redundant option of a deimplemented function... Prolific, mass ?
-______________________________________________________________________
-
-Offset $42D : IGR textures loader
-              0x00 == Disabled
-              0x01 == Enabled
-              Note  : POPS/IGR_BG.TM2 POPS/IGR_NO.TM2 POPS/IGR_YES.TM2
-______________________________________________________________________
-
-Offset $42E : Game license/region check of the POPS built-in BIOS
-              0x00 == Leave unpatched
-              0x01 == Patch it so it does not loop the check when the VCD isn't NTSC J
-              Note  : The patch just NOPs the loop. The PS logo is not shown when a non-JAP game is run.
-______________________________________________________________________
-
-Offset $42F : POPStarter automatic compatibility mode activator
-              0x00 == Do not enable anything
-              0x01 == Enable the automatic compatibility modes activation
-              0x02 == Enable the other subroutines (like LibCrypt cracks, when available)
-              0x03 == Enable all
-              Note  : If set to 0x03 and a compatibility mode is forced, it will be changed to 0x02 automatically (applies the forced modes and not the automatic ones)
-
-
-| *Offset* | *Description* | *Values* | *Notes* |
-| *$42F* | *POPStarter automatic compatibility mode activator* | *0x00 = Do not enable anything *| *Notes* |
-|   |   | *0x01 = Enable the automatic compatibility modes activation* |   |
-|   |   | *0x02 = Enable the other subroutines (like LibCrypt cracks, when available)* |   |
-|   |   | *0x03 = Enable all* |   |
-
-
-| *Offset* | *Description* | *Values* | *Notes* |
-| *$42F* | POPStarter automatic compatibility mode activator | 0x00 = Do not enable anything |   |
-|   |   | 0x01 = Enable the automatic compatibility modes activation |   |
-|   |   | 0x02 = Enable the other subroutines (like LibCrypt cracks, when available) |   |
-|   |   | 0x03 = Enable all |   |
-
-| *Offset* | *Description* | *Values* | *Notes* |
-| *$42E* | Game license/region check of the POPS built-in BIOS| 0x00 = Leave unpatched | The patch just NOPs the loop. The PS logo is not shown when a non-JAP game is run. |
-|   |   | 0x01 = Patch it so it does not loop the check when the VCD isn't NTSC J |   |
-| *$42F* | POPStarter automatic compatibility mode activator | 0x00 = Do not enable anything | If set to 0x03 and a compatibility mode is forced, it will be changed to 0x02 automatically (applies the forced modes and not the automatic ones) |
-|   |   | 0x01 = Enable the automatic compatibility modes activation |   |
-|   |   | 0x02 = Enable the other subroutines (like LibCrypt cracks, when available) |   |
-|   |   | 0x03 = Enable all |   |
+*Offset $416 : POPS dev9 module loading (in USB operation mode)*
