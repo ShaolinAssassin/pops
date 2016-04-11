@@ -11,7 +11,7 @@ To use POPStarter with an external HDD or a flash disk, you have to find and dow
 
 h2. _Other Software Requirements :_
 
-* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as ToolBox or CUE2POPS)
+* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as ToolBox)
 * A PS2 software that allows you to execute the POPStarter ELFs (such as uLaunchELF, or Free MC Boot...), or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as uLE_kHn_20150602)
 
 h2. _Hardware Requirements :_
@@ -23,7 +23,7 @@ h2. _A) Installing the Emulator :_
 
 #  Find and download the emulator compressed file;
 #  Create a directory named "POPS" in the root of your USB device;
-# Copy POPS_IOP.PAK and PFS_WRAP.BIN into the "POPS" directory you've just created.
+# Copy POPS_IOP.PAK  into the "POPS" directory you've just created.
 
 h2. _B) Installing your PS1 Games :_ 
 
@@ -51,3 +51,4 @@ h2. _Additional notes :_
 * The file extension .VCD has to be uppercase 
 * The third character of the ELF prefix is a dot (PPdot / __dot / XXdot).
 * The prefix has to be uppercase
+
