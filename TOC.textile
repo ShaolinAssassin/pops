@@ -2,6 +2,7 @@ POPStarter is a launcher which lets you play your PS1 games in combination with 
 
 POPStarter is available for free download. If you spent an outrageous amount of money in ordering a HDD that contains preinstalled games and POPStarter, YOU HAVE BEEN ROBBED. Never purchase a physical copy of POPStarter when the "seller" wants more $$$ than the media price and the shipping fees.
 
+______________________________________________________________________________________________
 
 # VCD creation
 # HDD mode
@@ -15,6 +16,7 @@ POPStarter is available for free download. If you spent an outrageous amount of 
 # Changelogs
 # Related stuff
 
+______________________________________________________________________________________________
 
 Thanks to conan14, Delcro, algol, ShaolinAssassin, El_Patas, orcanaoftime, MockyLock, Gillbert, ruffonetas, windwaker, SDJ1977, l_oliveira, SP193, hitchhikr, AKuHAK. Somechump, blueheaven, RandQalan, LocalH, SilverBull, root670, joseri, "someone who wants to remain anonymous"...
 ... to anyone who contributed to the POPStarter development by reporting bugs and compatibility issues, to the persons who spontaneously donated me bucks.
