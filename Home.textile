@@ -13,7 +13,7 @@ ________________________________________________________________________________
 # "FAQs":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/7.%20FAQs%20and%20Help
 # Known bugs
 # "POPStarter Advanced Configuration":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/9.%20POPStarter%20Advanced%20Configuration
-# Changelogs
+# "History":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/10.%20History
 # Related stuff
 
 
