@@ -14,6 +14,8 @@ Submit your reports to the USB compatibility list : "here":https://docs.google.c
 * Rev 13 *SMB* compatibility list : "here":https://docs.google.com/spreadsheets/d/1LoLl_YVY2qlJN6F3Ubwd0AvqkeK0tbHqrIEjBiGmDpQ/edit#gid=0
 Submit your reports to the SMB compatibility list : "here":https://docs.google.com/forms/d/1zimkx1nufqgF808EyoDqC9_USV2FqSQKlka678wo67w/viewform
 
+______________________________________________________________________________________________________________
+
 h3. _Compatibility modes :_ 
 
 If your game is poorly emulated, you can try to enable compatibility mode to see if it helps.
@@ -28,3 +30,28 @@ If your game is poorly emulated, you can try to enable compatibility mode to see
 
 *Caution :* Modes 0x01, 0x02, 0x03 and 0x05 cannot be enabled in the same time or combined. These are variants of the same hack and they are conflicting, so use only use one of them at a time. Please let us know (at ASSEMblergames) if you managed to solve a problem in your game by forcing modes, so I could integrate the fix in POPStarter.
 
+*How to use a mode ?*
+
+3 options : 
+# Using PATCH_X.BIN file
+# Using CHEATS.TXT file
+# Hardcoding the mode into POPStarter (see configuration table)
+
+_Using PATCH_X.BIN file_
+Copy the PATCH file in the VMC directory of your problematic game; then test the game;
+If the compatibility mode doesn't solve any problem in your game, delete the PATCH file from the VMC directory and redo the operations with the next PATCH file.
+
+_Using CHEATS.TXT file
+See 6. Features section
+
+______________________________________________________________________________________________________________
+
+h3. _Game fixes :_ 
+
+In the Game Fixes Archive, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game; then run the game. 
+
+______________________________________________________________________________________________________________
+
+h3. _Automated fixes :_ 
+
+"Here":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/5a.%20Automatedis the list of all the LC Cracks, crash fixes & compatibility modes integrated into POPStarter.
