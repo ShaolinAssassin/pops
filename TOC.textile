@@ -1,4 +1,4 @@
-# Introduction to POPStarter
+# "Introduction to POPStarter":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/Introduction%20to%20POPStarter
 # Sony files
 # VCD creation
 # Installing POPStarter
