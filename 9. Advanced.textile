@@ -10,7 +10,7 @@ Perhaps a GUI or a bunch of PPFs will surface, but for now the hexediting of tha
 Make a backup of the default config before you start changing values
 
 
-______________________________________________________________________
+_____________________________________________________________________________________________________________
 
 Offset $410 : Display of the debug texts/pages
               A value of 0x00 disables the debug printing.
