@@ -5,7 +5,7 @@ POPStarter is available for free download. If you spent an outrageous amount of 
 ______________________________________________________________________________________________________________
 
 # VCD creation
-# HDD mode
+# "HDD mode":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/2.%20HDD%20mode
 # USB mode
 # SMB mode
 # Compatibility
