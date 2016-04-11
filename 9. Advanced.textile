@@ -12,6 +12,9 @@ Make a backup of the default config before you start changing values
 
 _____________________________________________________________________________________________________________
 
+
+
+
 Offset $410 : Display of the debug texts/pages
               A value of 0x00 disables the debug printing.
               A value between 0x01 and 0x0FF defines the delay between each page of texts. The higher the value is, the longer the delay is.
@@ -203,3 +206,9 @@ Offset $42F : POPStarter automatic compatibility mode activator
               Note  : If set to 0x03 and a compatibility mode is forced, it will be changed to 0x02 automatically (applies the forced modes and not the automatic ones)
 
 
+| * Offset * | * Description * | * Values * | * Notes * |
+
+| *$42F * | * POPStarter automatic compatibility mode activator * | * 0x00 == Do not enable anything * | * Notes * |
+|  |  | * 0x01 == Enable the automatic compatibility modes activation * | |
+|  |  | *0x02 == Enable the other subroutines (like LibCrypt cracks, when available)* | |
+|  |  | *0x03 == Enable all* | |
