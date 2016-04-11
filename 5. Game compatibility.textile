@@ -1,7 +1,7 @@
 h1. *Game compatibility*
 ______________________________________________________________________
 
-h3. *Lists and forms :*
+h3. _Lists and forms :_ 
 
 * Rev 13 *HDD* compatibility list : "here":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdFIzb3NuOWU2eWZqUDNwVl9uTzFPTGc#gid=0
 Submit your reports to the HDD compatibility list : "here":https://docs.google.com/forms/d/17fb0I0GxnPpIuCvayFgFhd8MlozcBqR42kdzuOA5b1I/viewform
