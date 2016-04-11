@@ -8,7 +8,7 @@ ________________________________________________________________________________
 # "HDD mode":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/2.%20HDD%20mode
 # "USB mode":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/3.%20USB%20mode 
 # SMB mode
-# Compatibility
+# "Game Compatibility"
 # Features
 # FAQs
 # Known bugs
