@@ -74,8 +74,8 @@ PP.Crash_Bandicoot/IMAGE0.VCD
 
 h2. _Additional notes :_
 
-*The internal HDD has to be PS2 formatted. If you need to format it, I'd recommend you use the latest WIP version of AKuHAK's uLaunchELF HDD edition (find the link in 0-INTRODUCTION.TXT)
-*The file name "IMAGE0.VCD" has to be uppercase (old launch type)
-*The file extension .VCD has to be uppercase (old launch type)
-*The partition names are case sensitive, and have to match the POPStarter ELF names (old launch type)
-*Whitespaces are not allowed in the partition names (old launch type)
+* The internal HDD has to be PS2 formatted. If you need to format it, I'd recommend you use the latest WIP version of AKuHAK's uLaunchELF HDD edition (find the link in 0-INTRODUCTION.TXT)
+* The file name "IMAGE0.VCD" has to be uppercase (old launch type)
+* The file extension .VCD has to be uppercase (old launch type)
+* The partition names are case sensitive, and have to match the POPStarter ELF names (old launch type)
+* Whitespaces are not allowed in the partition names (old launch type)
