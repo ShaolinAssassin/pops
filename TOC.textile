@@ -16,7 +16,8 @@ ________________________________________________________________________________
 # Changelogs
 # Related stuff
 
-______________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
 
 Thanks to conan14, Delcro, algol, ShaolinAssassin, El_Patas, orcanaoftime, MockyLock, Gillbert, ruffonetas, windwaker, SDJ1977, l_oliveira, SP193, hitchhikr, AKuHAK. Somechump, blueheaven, RandQalan, LocalH, SilverBull, root670, joseri, "someone who wants to remain anonymous"...
 ... to anyone who contributed to the POPStarter development by reporting bugs and compatibility issues, to the persons who spontaneously donated me bucks.
