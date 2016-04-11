@@ -13,7 +13,6 @@ POPStarter is available for free download. If you spent an outrageous amount of 
 # Known bugs
 # Advanced
 # Changelogs
-# Downloads
 # Related stuff
 
 
