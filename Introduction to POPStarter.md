@@ -1,0 +1,3 @@
+POPStarter is a launcher which lets you play your PS1 games in combination with $ony's PS1 emulator for PS2 (known as "POPS" or "SLBB-00001"). Unlike the previous POPStarter versions and the proofs of concept, POPStarter r13 does NOT contain the emulator itself or libraries that belong to $ony. It is safe to publish in forums/sites that don't tolerate warez stuff, as long as it's not repacked with the decrypted emulator files or things like a PS BIOS.
+
+POPStarter is available for free download. If you spent an outrageous amount of money in ordering a HDD that contains preinstalled games and POPStarter, YOU HAVE BEEN ROBBED. Never purchase a physical copy of POPStarter when the "seller" wants more $$$ than the media price and the shipping fees.
