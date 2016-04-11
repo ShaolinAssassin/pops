@@ -15,10 +15,10 @@ ________________________________________________________________________________
 
 
 
-Offset $410 : Display of the debug texts/pages
-              A value of 0x00 disables the debug printing.
-              A value between 0x01 and 0x0FF defines the delay between each page of texts. The higher the value is, the longer the delay is.
-              When set to 0xFF, the debug texts are displayed in realtime without delay (like in POPStarter 12 and lower)
+*Offset $410 : Display of the debug texts/pages*
+* A value of 0x00 disables the debug printing.
+* A value between 0x01 and 0x0FF defines the delay between each page of texts. The higher the value is, the longer the delay is.
+* When set to 0xFF, the debug texts are displayed in realtime without delay (like in POPStarter 12 and lower)
 ______________________________________________________________________
 
 Offset $411 : Break the POPStarter execution after an error has occured.
