@@ -16,10 +16,15 @@ Submit your reports to the SMB compatibility list : "here":https://docs.google.c
 
 h3. _Compatibility modes :_ 
 
-| *Compatibility mode* | *Description* | 
-| 0×01 | helps restoring the music/voices in several games | 
-| 0x02 | a variant of mode 0×01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series) | 
-| 0x03 | can be used if the mode 0×01 doesn’t provide the expected results | 
-| 0x04 | prevents the emulator from writing a garbage value in two of the virtual GPU registers (fixes slowdowns, flickering, and many other glitches) | 
-| 0x05 | made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut | 
-| 0x06 | isables the OSD shell of the emulator’s built-in BIOS, making some games that freeze on startup run | 
+If your game is poorly emulated, you can try to enable compatibility mode to see if it helps.
+
+| *Compatibility mode* | *Description* | *File Name* | *Cheat code* |
+| 0×01 | helps restoring the music/voices in several games | PATCH_1.BIN | $COMPATIBILITY_0x01 |
+| 0x02 | a variant of mode 0×01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series) | PATCH_2.BIN | $COMPATIBILITY_0x02 |
+| 0x03 | can be used if the mode 0×01 doesn’t provide the expected results | PATCH_3.BIN | $COMPATIBILITY_0x03 |
+| 0x04 | prevents the emulator from writing a garbage value in two of the virtual GPU registers (fixes slowdowns, flickering, and many other glitches) | PATCH_4.BIN | $COMPATIBILITY_0x04 |
+| 0x05 | made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut | PATCH_5.BIN | $COMPATIBILITY_0x05 |
+| 0x06 | isables the OSD shell of the emulator’s built-in BIOS, making some games that freeze on startup run | PATCH_6.BIN | $COMPATIBILITY_0x06 |
+
+*Caution :* Modes 0x01, 0x02, 0x03 and 0x05 cannot be enabled in the same time or combined. These are variants of the same hack and they are conflicting, so use only use one of them at a time. Please let us know (at ASSEMblergames) if you managed to solve a problem in your game by forcing modes, so I could integrate the fix in POPStarter.
+
