@@ -1,4 +1,4 @@
-h1. Installing POPStarter for internal HDD
+                                                                                   POPStarter for internal HDD
 ______________________________________________________________________
 
 
