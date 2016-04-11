@@ -1,0 +1,13 @@
+# Introduction to POPStarter
+# Sony files
+# VCD creation
+# Installing POPStarter
+# Compatibility
+# Features
+# FAQs
+# Known bugs
+# Advanced
+# Changelogs
+# Downloads
+# Related stuff
+
