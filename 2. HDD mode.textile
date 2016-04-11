@@ -39,3 +39,27 @@ h2. _C) Installing POPStarter :_
 
 # Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension;[example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "Gran Turismo.elf"]
 # Copy or leave the ELFs where you want to run them from.
+
+h2. _Examples of Setups :_ 
+
+pre. 
+=== INTERNAL HDD, NEW LAUNCH TYPE ===
+__common/POPS/IOPRP252.IMG
+__common/POPS/POPS.ELF
+__.POPS/Crash Bandicoot.VCD
+__sysconf/FMCB/Crash Bandicoot.elf
+
+pre.
+=== INTERNAL HDD, OLD LAUNCH TYPE (HIDDEN PARTITION) ===
+__common/POPS/IOPRP252.IMG
+__common/POPS/POPS.ELF
+__.Crash_Bandicoot/IMAGE0.VCD
+__sysconf/FMCB/__.Crash Bandicoot.elf
+
+pre.
+=== INTERNAL HDD, OLD LAUNCH TYPE (HDDOSD COMPATIBLE) ===
+__common/POPS/IOPRP252.IMG
+__common/POPS/POPS.ELF
+PP.Crash_Bandicoot/EXECUTE.KELF
+PP.Crash_Bandicoot/IMAGE0.VCD
+
