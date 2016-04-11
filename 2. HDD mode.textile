@@ -21,3 +21,19 @@ h3. _Hardware Requirements :_
 * A PS2 console which is able to run PS2 unsigned code
 * A network adapter with/or a HDD interface
 * A PS2-formatted HDD that fits your network adapter/HDD interface
+
+h3. _Installing the Emulator :_
+
+# Find and download the decrypted emulator files;
+# Create a directory named "POPS" in the "__common" partition of your PS2 HDD;
+# Paste POPS.ELF and IOPRP252.IMG into the "POPS" directory you've just created.
+
+h3. _Installing your PS1 Games :_ 
+
+# Convert your BIN/CUE disc images to .VCD files using the latest stable version of CUE2POPS;
+# Create a partition named "__.POPS" in your PS2 HDD, large enough so you can put all your VCDs inside.
+
+h3. _Installing POPStarter :_ 
+
+* Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension;[example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "Gran Turismo.elf"]
+* Copy or leave the ELFs where you want to run them from.
