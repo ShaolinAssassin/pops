@@ -34,8 +34,7 @@ If you can't solve the problem and need to fix the screen position, choose one o
 
 *Your PAL game is NTSC patched, and its display is no longer centered because POPStarter patches the emulator in PAL*
 * I'd recommend you reinstall an unaltered copy of your game. 
-Disabling the Automatic PAL Patcher is possible, just by copying the attached PATCH_9.BIN into the VMC directory of your game.
-If you want to disable the Automatic PAL Patcher for all your games, copy PATCH_9.BIN in the POPS directory instead of the games VMC directories.
+Disabling the Automatic PAL Patcher is possible, just by copying the attached PATCH_9.BIN into the VMC directory of your game. If you want to disable the Automatic PAL Patcher for all your games, copy PATCH_9.BIN in the POPS directory instead of the games VMC directories.
 Advanced users can also hardcode this setting in the "configuration table":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/9.%20POPStarter%20Advanced%20Configuration of the POPStarter ELF/KELF 
 
 
@@ -51,23 +50,21 @@ Advanced users can also hardcode this setting in the "configuration table":https
 
 *Your game isn't emulated very well, and it isn't in the POPStarter internal database*
 * Go to the official release topic at ASSEMblergames to see if a new POPStarter version is available or if a PATCH/TROJAN for your game has been published
-* Try the compatibility modes.
-  This POPStarter build has 6 compatibility modes.
-  Compatibility mode 0x01 helps restoring the music/voices in several games
-  Compatibility mode 0x02 is a variant of mode 0x01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series)
-  Compatibility mode 0x03 can be used if the mode 0x01 doesn't provide the expected results
-  Compatibility mode 0x04 prevents the emulator from writing a garbage value in two of the virtual GPU registers (fixes slowdowns, flickering, and many other glitches)
-  Compatibility mode 0x05 was made for fixing the cutscenes of the PAL Resident Evil: Director's Cut.
-  Compatibility mode 0x06 disables the OSD shell of the emulator's built-in BIOS, making some games that freeze on startup run
-  Don't combine modes 0x01, 0x02, 0x03 and 0x05. Activate only one of them, because they're conflicting.
-  Please let us know (at ASSEMblergames) if you managed to solve a problem in your game by forcing modes, so I could integrate the fix in POPStarter.
+* Try the compatibility modes. This POPStarter build has 6 compatibility modes.
+# Compatibility mode 0x01 helps restoring the music/voices in several games
+# Compatibility mode 0x02 is a variant of mode 0x01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series)
+# Compatibility mode 0x03 can be used if the mode 0x01 doesn't provide the expected results
+# Compatibility mode 0x04 prevents the emulator from writing a garbage value in two of the virtual GPU registers (fixes slowdowns, flickering, and many other glitches)
+# Compatibility mode 0x05 was made for fixing the cutscenes of the PAL Resident Evil: Director's Cut.
+# Compatibility mode 0x06 disables the OSD shell of the emulator's built-in BIOS, making some games that freeze on startup run
+Don't combine modes 0x01, 0x02, 0x03 and 0x05. Activate only one of them, because they're conflicting. Please let us know (at ASSEMblergames) if you managed to solve a problem in your game by forcing modes, so I could integrate the fix in POPStarter.
 
 
-*[software name here] always add a + character in the name of the partition you're trying to create*
+*/software name here/ always add a + character in the name of the partition you're trying to create*
 * Download and use the latest version of Akuhak's unofficial LaunchELF build. At the time I write this help file, it is ule_wip7. Go check for update ! 
 
 
-*[software name here] cannot access the __common partition. It is hidden, or its access is denied*
+*/software name here/ cannot access the __common partition. It is hidden, or its access is denied*
 * Download and use the latest version of Akuhak's unofficial LaunchELF build. At the time I write this help file, it is ule_wip7. Go check for update ! 
 
 
