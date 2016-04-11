@@ -1,4 +1,4 @@
-h1. *Advanced Configuration*
+h1. *POPStarter Advanced Configuration*
 ______________________________________________________________________
 
 _[From wip05 documentation]_
