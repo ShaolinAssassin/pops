@@ -219,3 +219,7 @@ Offset $42F : POPStarter automatic compatibility mode activator
 |   |   | 0x02 = Enable the other subroutines (like LibCrypt cracks, when available) |   |
 |   |   | 0x03 = Enable all |   |
 
+| *$42F* | POPStarter automatic compatibility mode activator | 0x00 = Do not enable anything | If set to 0x03 and a compatibility mode is forced, it will be changed to 0x02 automatically (applies the forced modes and not the automatic ones) |
+|   |   | 0x01 = Enable the automatic compatibility modes activation |   |
+|   |   | 0x02 = Enable the other subroutines (like LibCrypt cracks, when available) |   |
+|   |   | 0x03 = Enable all |   |
