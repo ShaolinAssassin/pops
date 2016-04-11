@@ -3,6 +3,8 @@ ______________________________________________________________________
 
 h3. _Lists and forms :_ 
 
+These compatibility lists are managed by AlGollan84 (aka Algol, aka Allan58) and krHACKen
+
 * Rev 13 *HDD* compatibility list : "here":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdFIzb3NuOWU2eWZqUDNwVl9uTzFPTGc#gid=0
 Submit your reports to the HDD compatibility list : "here":https://docs.google.com/forms/d/17fb0I0GxnPpIuCvayFgFhd8MlozcBqR42kdzuOA5b1I/viewform
 
@@ -12,3 +14,12 @@ Submit your reports to the USB compatibility list : "here":https://docs.google.c
 * Rev 13 *SMB* compatibility list : "here":https://docs.google.com/spreadsheets/d/1LoLl_YVY2qlJN6F3Ubwd0AvqkeK0tbHqrIEjBiGmDpQ/edit#gid=0
 Submit your reports to the SMB compatibility list : "here":https://docs.google.com/forms/d/1zimkx1nufqgF808EyoDqC9_USV2FqSQKlka678wo67w/viewform
 
+h3. _Compatibility modes :_ 
+
+| *Compatibility mode* | *Description* | 
+| 0×01 | helps restoring the music/voices in several games | 
+| 0x02 | a variant of mode 0×01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series) | 
+| 0x03 | can be used if the mode 0×01 doesn’t provide the expected results | 
+| 0x04 | prevents the emulator from writing a garbage value in two of the virtual GPU registers (fixes slowdowns, flickering, and many other glitches) | 
+| 0x05 | made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut | 
+| 0x06 | isables the OSD shell of the emulator’s built-in BIOS, making some games that freeze on startup run | 
