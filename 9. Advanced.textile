@@ -41,3 +41,23 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________
 
 *Offset $416 : POPS dev9 module loading (in USB operation mode)*
+
+
+| *Offset* | *Description* | *Values* | *Notes* |
+| *$429* | Virtual Memory Cards control | 0x00 = Use both VMCs |
+|   |   | 0x01 = Don't use VMCs at all |   |
+|   |   | 0x02 = Use just the first VMC in the first virtual slot |   |
+| *$42A* | Automatic PAL patch upon European VCD recognition | 0x00 = Disabled | The Automatic PAL Patcher of POPStarter expects "Euro" at the offset $102514 of the VCD |
+|   |   | 0x01 = Enabled |   |
+| *$42B* | Resident modules loader | 0x00 = Disabled | POPS/MODULE_0.IRX POPS/MODULE_1.IRX... up to POPS/MODULE_9.IRX. Are executed AFTER the IOP gets reset with IOPRP252.IMG, for Great Justice. |
+|   |   | 0x01 = Enabled |   |
+| *$42C* | Software PowerOff fix | 0x00 = Disabled | Can't remember what it is. Perhaps it's a redundant option of a deimplemented function... Prolific, mass ? |
+|   |   | 0x01 = Enabled |   |
+| *$42D* | IGR textures loader | 0x00 = Disabled | POPS/IGR_BG.TM2 POPS/IGR_NO.TM2 POPS/IGR_YES.TM2 |
+|   |   | 0x01 = Enabled |   |
+| *$42E* | Game license/region check of the POPS built-in BIOS| 0x00 = Leave unpatched | The patch just NOPs the loop. The PS logo is not shown when a non-JAP game is run. |
+|   |   | 0x01 = Patch it so it does not loop the check when the VCD isn't NTSC J |   |
+| *$42F* | POPStarter automatic compatibility mode activator | 0x00 = Do not enable anything | If set to 0x03 and a compatibility mode is forced, it will be changed to 0x02 automatically (applies the forced modes and not the automatic ones) |
+|   |   | 0x01 = Enable the automatic compatibility modes activation |   |
+|   |   | 0x02 = Enable the other subroutines (like LibCrypt cracks, when available) |   |
+|   |   | 0x03 = Enable all |   |
