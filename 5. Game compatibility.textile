@@ -37,11 +37,11 @@ If your game is poorly emulated, you can try to enable compatibility mode to see
 # Using CHEATS.TXT file
 # Hardcoding the mode into POPStarter (see configuration table)
 
-_Using PATCH_X.BIN file_
+*Using PATCH_X.BIN file*
 Copy the PATCH file in the VMC directory of your problematic game; then test the game;
 If the compatibility mode doesn't solve any problem in your game, delete the PATCH file from the VMC directory and redo the operations with the next PATCH file.
 
-_Using CHEATS.TXT file
+*Using CHEATS.TXT file*
 See 6. Features section
 
 ______________________________________________________________________________________________________________
