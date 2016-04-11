@@ -1,4 +1,6 @@
-POPStarter Revision 13 - 2014/07/11, WIP 01 PUBLIC RELEASE
+* *POPStarter Revision 13 - 2014/07/11, WIP 01 PUBLIC RELEASE*
+
+pre. 
 - Removed the PL-2301 launch method, same for the debugging thru NapClient.
 - LC cracks for Ape Escape (SCES-02028), Ape Escape (SCES-01564) and Ape Escape (SCES-02031) were added.
 - The POPS.PAK decompression bug that occured when debug printing was turned OFF has been fixed.
@@ -7,22 +9,32 @@ POPStarter Revision 13 - 2014/07/11, WIP 01 PUBLIC RELEASE
 - The current project status is work in progress
 
 
-POPStarter Revision 12 - "No Debug" - 2013/05/14
+
+* *POPStarter Revision 12 - "No Debug" - 2013/05/14*
+
+pre. 
 + Removed libdebug
 + Removed the IMAGE0.VCD checker
 + Stripped down the OSD.BIN header parser
 + Linked expected failures/errors to TESTMODE
 
 
-POPStarter Revision 12 - 2013/05/12
+
+* *POPStarter Revision 12 - 2013/05/12*
+
+pre. 
 + SCPH-50000 fix
 + Optimisation of the VMC dir checker and the OSD/BIOS handlers
 + Removed some time consuming container integrity verifiers
 + The KELF's payload was stripped down
 
 
-POPStarter Revision 11 - 2013/04/30
+
+* *POPStarter Revision 11 - 2013/04/30*
+
+pre. 
 + Fixed BIOS & OSD handlers activation failure in EXECUTE.KELF
+
 
 
 * *POPStarter Revision 11 - 2013/04/24*
@@ -48,4 +60,6 @@ pre.
 
 
 *POPStarter Revision 9 [PATINFO/KEXEC Bundle] - 2013/04/09*
+
+pre. 
 First public release
