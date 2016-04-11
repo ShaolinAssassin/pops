@@ -1,0 +1,1475 @@
+h1. *LC Cracks, crash fixes & compatibility modes integrated into POPStarter*
+______________________________________________________________________
+
+The LibCrypt cracks are experimental and their reliability hasn't been proven with all the "supported" titles.
+These were made using IdentRip v1.02, which generates "generic" cracks for LibCrypt protected games. The resulting cracks may fail on games that have enhanced protections.
+If a POPStarter build-in LibCrypt crack crashes the emulation, prevents you from playing the game or does not work, disable it by patching the POPStarter KELF/ELF with NO_LC_CRACKS.PPF,
+then patch your disc image with a good old PS1 scene crack (you may find some of them in the Compatibility List which is maintained by El_Patas for Elotrolado, or at ConsoleCopyWorld).
+
+POPStarter Revision 13, Build Date : 2015/06/03,* WIP 05* PUBLIC RELEASE
+*461 DISCS* are recognised.
+
+007: Demain Ne Meurt Jamais (SLES-02375)
+- Crash Fix
+
+007: Der Morgen Stirbt Nie (SLES-02376)
+- Crash Fix
+
+007: Tomorrow Never Dies (SLES-01324)
+- Crash Fix
+
+007: Tomorrow Never Dies (SLPS-02604)
+- Crash Fix
+
+007: Tomorrow Never Dies (SLUS-00975)
+- Crash Fix
+
+40 Winks (SLUS-00874)
+- Compatibility Mode 0x04
+
+ASCII Entertainment Demo CD (SLUS-90010)
+- Compatibility Mode 0x04
+
+Actua Ice Hockey 2 (SLES-01226)
+- LibCrypt Crack
+
+Akumajou Dracula X: Gekka No Yasoukyoku v1.0 (SLPM-86023)
+- Compatibility Mode 0x01
+
+Akumajou Dracula X: Gekka No Yasoukyoku v1.1 (SLPM-86023)
+- Compatibility Mode 0x01
+
+Akumajou Dracula X: Gekka No Yasoukyoku v1.2 (SLPM-86023)
+- Compatibility Mode 0x01
+
+Akumajou Dracula X: Gekka No Yasoukyoku v1.2 (SLPM-86023, En by Gemini+Throughhim413 v1.0)
+- Compatibility Mode 0x01
+
+Anstoss: Premier Manager (SLES-02563)
+- LibCrypt Crack
+
+Ape Escape (SCES-01564)
+- LibCrypt Crack
+
+Ape Escape (SCES-02028)
+- LibCrypt Crack
+
+Ape Escape (SCES-02029)
+- LibCrypt Crack
+
+Ape Escape (SCES-02030)
+- LibCrypt Crack
+
+Ape Escape (SCES-02031)
+- LibCrypt Crack
+
+Apocalypse (SLES-00460)
+- Compatibility Mode 0x01
+
+Apocalypse (SLES-00834)
+- Compatibility Mode 0x01
+
+Apocalypse (SLES-00835, Megera)
+- Compatibility Mode 0x01
+
+Apocalypse (SLES-01463)
+- Compatibility Mode 0x01
+
+Apocalypse (SLUS-00373)
+- Compatibility Mode 0x01
+
+Asterix Mega Madness (SLES-03324)
+- LibCrypt Crack
+
+BDFL Manager 2001 (SLES-02977)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+BDFL Manager 2002 (SLES-03605)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Barbie: Race & Ride (SCES-02365)
+- LibCrypt Crack
+
+Barbie: Race & Ride (SCES-02366)
+- LibCrypt Crack
+
+Barbie: Race & Ride (SCES-02367)
+- LibCrypt Crack
+
+Barbie: Race & Ride (SCES-02369)
+- LibCrypt Crack
+
+Barbie: Sports Extreme (SCES-02488)
+- LibCrypt Crack
+
+Barbie: Super Sport (SCES-02489)
+- LibCrypt Crack
+
+Barbie: Super Sports (SCES-02491)
+- LibCrypt Crack
+
+Beat Mania 6th Mix + Core Remix (SLPM-87012)
+- Compatibility Mode 0x01
+
+Beat Mania 6th Mix + Core Remix (SLPM-87012, R18)
+- Compatibility Mode 0x01
+
+Bio Hazard v1.1 (SLPS-00222)
+- Compatibility Mode 0x05
+
+Bio Hazard: Director's Cut (SLPS-00998)
+- Compatibility Mode 0x05
+
+Bio Hazard: Director's Cut: Dual Shock Ver. (SLPS-01512)
+- Compatibility Mode 0x05
+
+Bloody Roar II (SCUS-94424)
+- Compatibility Mode 0x04
+
+Bust A Groove (SCUS-94263)
+- Compatibility Mode 0x04
+
+Bust A Move: Dance & Rhythm Action v1.0 (SLPS-01232)
+- Compatibility Mode 0x04
+
+Bust A Move: Dance & Rhythm Action v1.1 (SLPS-01232)
+- Compatibility Mode 0x04
+
+Bust-A-Groove (SCES-01313)
+- Compatibility Mode 0x04
+
+Bust A Groove 2 (SLUS-01159)
+- Compatibility Mode 0x04
+
+Bust A Move 2: Dance Tengoku Mix (SLPM-86219)
+- Compatibility Mode 0x04
+
+Crash Team Racing (SCUS-94426)
+- Boot And Load Fix
+
+CTR: Crash Team Racing (SCES-02105)
+- LibCrypt Crack
+- Boot And Load Fix
+
+Canal+ Premier Manager (SLES-02293)
+- LibCrypt Crack
+
+Capcom Generation: Dai 5 Shuu Kakutouka Tachi (SLPS-01725)
+- Compatibility Mode 0x01
+
+Captain Tsubasa J: Get In The Tomorrow (SLPS-00310)
+- Compatibility Mode 0x04
+
+Castlevania: Symphony Of The Night (SLES-00524)
+- Compatibility Mode 0x01
+
+Castlevania: Symphony Of The Night (SLUS-00067)
+- Compatibility Mode 0x01
+
+Chessmaster II (SLES-02117)
+- Compatibility Mode 0x04
+
+Chrono Cross (Disc 1) (SLUS-01041)
+- Compatibility Mode 0x04
+
+Chrono Cross (Disc 2) (SLUS-01080)
+- Compatibility Mode 0x04
+
+Circuit Breakers (SLUS-00697)
+- Compatibility Mode 0x04
+
+Clock Tower (SLES-00870)
+- Compatibility Mode 0x04
+
+Clock Tower (SLES-00871)
+- Compatibility Mode 0x04
+
+Clock Tower (SLUS-00539)
+- Compatibility Mode 0x04
+
+Clock Tower 2 (SLPS-00657)
+- Compatibility Mode 0x04
+
+Clock Tower 2 (Taikenban) (SLPM-80063)
+- Compatibility Mode 0x04
+
+Clock Tower II: The Struggle Within (SLUS-00695)
+- Compatibility Mode 0x04
+
+Clock Tower II: The Struggle Within (SLUS-00695, RGR)
+- Compatibility Mode 0x04
+
+Clock Tower: Ghost Head (SLPS-01290)
+- Compatibility Mode 0x04
+
+Codename: Tenka (SCUS-94409, Kudos)
+- 2nd VMC is disabled
+
+Codename: Tenka v1.0 (SCUS-94409)
+- 2nd VMC is disabled
+
+Colony Wars (Disc 1) (SLES-00860)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars (Disc 1) (SLES-00861)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars (Disc 1) (SLUS-00543)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars (Disc 2) (SLES-10860)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars (Disc 2) (SLES-10861)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars (Disc 2) (SLUS-00554)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars (SLED-00091)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars: Red Sun (SCES-01924)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars: Red Sun (SCES-02621)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars: Red Sun (SCES-02623)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars: Red Sun (SLUS-00866)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars: Vengeance (SLES-01392)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars: Vengeance (SLES-01405)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Colony Wars: Vengeance (SLUS-00722)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Cool Boarders (SCES-00568)
+- Compatibility Mode 0x03
+
+Cool Boarders (SCUS-94356)
+- Compatibility Mode 0x03
+
+Cool Boarders 2 (SCES-00992)
+- Compatibility Mode 0x03
+
+Cool Boarders 2 (SCUS-94358)
+- Compatibility Mode 0x03
+
+Cool Boarders 2: Killing Session (SLPS-00967)
+- Compatibility Mode 0x03
+
+Crash Bandicoot Racing (SCPS-10118)
+- Boot Fix
+- Load Fix
+
+Crash Bash (SCES-02834)
+- LibCrypt Crack
+
+Critical Blow (SLPS-01044)
+- Compatibility Mode 0x04
+
+Dance Dance Revolution: Disney's Rave (SLPM-86667)
+- Compatibility Mode 0x06
+
+Dance Dance Revolution: Disney's Rave (SLPM-86667, R18)
+- Compatibility Mode 0x06
+
+Dead Or Alive (SCES-01259)
+- Compatibility Mode 0x04
+
+Dead Or Alive (SLPS-01289)
+- Compatibility Mode 0x04
+- Compatibility Mode 0x06
+
+Dead Or Alive (SLUS-00606)
+- Compatibility Mode 0x04
+
+Destruction Derby 2 (SCUS-94350)
+- Crash Fix
+
+Destruction Derby 2 (SIPS-60012)
+- Crash Fix
+
+Destruction Derby 2 (SLES-00299)
+- Crash Fix
+
+Die Hard Trilogy (SLES-00445)
+- Compatibility Mode 0x03
+
+Die Hard Trilogy v1.0 (SLUS-00119)
+- Compatibility Mode 0x03
+
+Die Hard Trilogy v1.1 (SLUS-00119)
+- Compatibility Mode 0x03
+
+Dino Crisis (SLES-02207)
+- LibCrypt Crack
+
+Dino Crisis (SLES-02208)
+- LibCrypt Crack
+
+Dino Crisis (SLES-02209)
+- LibCrypt Crack
+
+Dino Crisis (SLES-02210)
+- LibCrypt Crack
+
+Dino Crisis (SLES-02211)
+- LibCrypt Crack
+
+Disney Fais Ton Histoire!: Mulan (SCES-02004)
+- LibCrypt Crack
+- Compatibility Mode 0x01
+
+Disney Libro Animato Creativo: Mulan (SCES-02006)
+- LibCrypt Crack
+- Compatibility Mode 0x01
+
+Disney Tarzan (SCES-01516)
+- LibCrypt Crack
+
+Disney Tarzan (SCES-01519)
+- LibCrypt Crack
+
+Disney's 102 Dalmatians: Puppies To The Rescue (SLES-03191)
+- LibCrypt Crack
+
+Disney's Aventura Interactiva: Mulan (SCES-02007)
+- LibCrypt Crack
+- Compatibility Mode 0x01
+
+Disney's Story Studio: Mulan (SCES-01695)
+- LibCrypt Crack
+- Compatibility Mode 0x01
+
+Disneys Interaktive Abenteuer: Mulan (SCES-02005)
+- LibCrypt Crack
+- Compatibility Mode 0x01
+
+Disneys Tarzan (SCES-01518)
+- LibCrypt Crack
+
+DonPachi (SLPS-00548)
+- Compatibility Mode 0x06
+
+Double Dragon (SLPS-00191)
+- Compatibility Mode 0x03
+
+Dragon Valor (Disc 1) (SCES-01705)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 1) (SCES-02565)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 1) (SCES-02566)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 1) (SCES-02567)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 1) (SCES-02568)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 1) (SLPS-02190)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 1) (SLUS-01092)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 2) (SCES-11705)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 2) (SCES-12565)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 2) (SCES-12566)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 2) (SCES-12567)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 2) (SCES-12568)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 2) (SLPS-02191)
+- Compatibility Mode 0x04
+
+Dragon Valor (Disc 2) (SLUS-01164)
+- Compatibility Mode 0x04
+
+EA Sports Superbike 2000 (SLES-02538)
+- LibCrypt Crack
+
+Eagle One: Harrier Attack (SLES-01715)
+- LibCrypt Crack
+
+Enigma (Disc 1) (SLPS-01351)
+- Compatibility Mode 0x04
+
+Enigma (Disc 2) (SLPS-01352)
+- Compatibility Mode 0x04
+
+Esto Es Futbol (SCES-01704)
+- LibCrypt Crack
+
+F1 2000 (SLES-02722)
+- LibCrypt Crack
+
+F1 2000 (SLES-02724)
+- LibCrypt Crack
+
+Final Fantasy IX (Disc 1) (SLES-02965)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 1) (SLES-02966)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 1) (SLES-02967)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 1) (SLES-02968)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 1) (SLES-02969)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 1) (SLPS-02000)
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 1) (SLUS-01251)
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 2) (SLES-12965)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 2) (SLES-12966)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 2) (SLES-12967)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 2) (SLES-12968)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 2) (SLES-12969)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 2) (SLPS-02001)
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 2) (SLUS-01295)
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 3) (SLES-22965)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 3) (SLES-22966)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 3) (SLES-22967)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 3) (SLES-22968)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 3) (SLES-22969)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 3) (SLPS-02002)
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 3) (SLUS-01296)
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 4) (SLES-32965)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 4) (SLES-32966)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 4) (SLES-32967)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 4) (SLES-32968)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 4) (SLES-32969)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 4) (SLPS-02003)
+- Compatibility Mode 0x04
+
+Final Fantasy IX (Disc 4) (SLUS-01297)
+- Compatibility Mode 0x04
+
+Final Fantasy VIII (Disc 1) (SLES-02080)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 1) (SLES-02081)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 1) (SLES-02082)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 1) (SLES-02083)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 1) (SLES-02084)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 2) (SLES-12080)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 2) (SLES-12081)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 2) (SLES-12082)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 2) (SLES-12083)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 2) (SLES-12084)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 3) (SLES-22080)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 3) (SLES-22081)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 3) (SLES-22082)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 3) (SLES-22083)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 3) (SLES-22084)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 4) (SLES-32080)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 4) (SLES-32081)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 4) (SLES-32082)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 4) (SLES-32083)
+- LibCrypt Crack
+
+Final Fantasy VIII (Disc 4) (SLES-32084)
+- LibCrypt Crack
+
+Formula One 99 (SCES-01979)
+- LibCrypt Crack
+
+Frogger (SLES-00704)
+- Compatibility Mode 0x04
+
+Frogger (SLUS-00506)
+- Compatibility Mode 0x04
+
+Frontschweine (SLES-02767)
+- LibCrypt Crack
+
+Fussball Live (SCES-01702)
+- LibCrypt Crack
+
+Future Racer (SLES-03508)
+- Crash Fix
+- Compatibility Mode 0x04
+
+Galerians (Disc 1) (SLES-02328)
+- LibCrypt Crack
+
+Galerians (Disc 1) (SLES-02329)
+- LibCrypt Crack
+
+Galerians (Disc 1) (SLES-02330)
+- LibCrypt Crack
+
+Galerians (Disc 2) (SLES-12328)
+- LibCrypt Crack
+
+Galerians (Disc 2) (SLES-12329)
+- LibCrypt Crack
+
+Galerians (Disc 2) (SLES-12330)
+- LibCrypt Crack
+
+Galerians (Disc 3) (SLES-22328)
+- LibCrypt Crack
+
+Galerians (Disc 3) (SLES-22329)
+- LibCrypt Crack
+
+Galerians (Disc 3) (SLES-22330)
+- LibCrypt Crack
+
+Gekido: Urban Fighters (SLES-01241)
+- LibCrypt Crack
+
+Gex 3D: Enter The Gecko (SLES-00596)
+- Compatibility Mode 0x04
+
+Gran Turismo (PAPX-90026)
+- Compatibility Mode 0x04
+
+Gran Turismo (SCES-00984)
+- Compatibility Mode 0x04
+
+Gran Turismo (SCPS-10045)
+- Compatibility Mode 0x04
+
+Gran Turismo v1.0 (SCUS-94194)
+- Compatibility Mode 0x04
+
+Gran Turismo v1.1 (SCUS-94194)
+- Compatibility Mode 0x04
+
+Gran Turismo 2 (Arcade Mode) v1.0 (SCUS-94455)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Gran Turismo 2 (Arcade Mode) v1.1 (SCUS-94455)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Gran Turismo 2 (Disc 1) (Arcade Mode) (SCES-02380)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Gran Turismo 2 (Disc 1) (Arcade) (SCPS-10116)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Gran Turismo 2 (Disc 2) (GT Mode) (SCES-12380)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Gran Turismo 2 (Disc 2) (Gran Turismo) v1.0 (SCPS-10117)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Gran Turismo 2 (Disc 2) (Gran Turismo) v1.1 (SCPS-10117)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Gran Turismo 2 (Simulation Mode) v1.0 (SCUS-94488)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Gran Turismo 2 (Simulation Mode) v1.1 (SCUS-94488)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Gran Turismo 2 (Simulation Mode) v1.2 (SCUS-94488)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Grandia (Disc 1) (SCUS-94457)
+- Compatibility Mode 0x04
+
+Grandia (Disc 1) (SLES-02397)
+- Compatibility Mode 0x04
+
+Grandia (Disc 1) (SLES-02398)
+- Compatibility Mode 0x04
+
+Grandia (Disc 1) (SLES-02399)
+- Compatibility Mode 0x04
+
+Grandia (Disc 1) (SLPS-02124)
+- Compatibility Mode 0x04
+
+Grandia (Disc 2) (SCUS-94465)
+- Compatibility Mode 0x04
+
+Grandia (Disc 2) (SLES-12397)
+- Compatibility Mode 0x04
+
+Grandia (Disc 2) (SLES-12398)
+- Compatibility Mode 0x04
+
+Grandia (Disc 2) (SLES-12399)
+- Compatibility Mode 0x04
+
+Grandia (Disc 2) (SLPS-02125)
+- Compatibility Mode 0x04
+
+Grandia: Prologue (Taikenban) (SLPM-80297)
+- Compatibility Mode 0x04
+
+Harry Potter And The Chamber Of Secrets (SLES-03972)
+- Crash Fix
+
+Harry Potter And The Chamber Of Secrets (SLES-03973)
+- Crash Fix
+
+Harry Potter And The Chamber Of Secrets (SLES-03974)
+- Crash Fix
+
+Harry Potter And The Chamber Of Secrets (SLUS-01503)
+- Crash Fix
+
+Harry Potter And The Philosopher's Stone (SLES-03662)
+- Crash Fix
+
+Harry Potter And The Philosopher's Stone (SLES-03663)
+- Crash Fix
+
+Harry Potter And The Philosopher's Stone (SLES-03664)
+- Crash Fix
+
+Harry Potter And The Philosopher's Stone (SLES-03665)
+- Crash Fix
+
+Harry Potter And The Sorcerer's Stone (SLUS-01415)
+- Crash Fix
+
+Harry Potter To Kenja No Ishi (SLPS-03355)
+- Crash Fix
+
+Hogs Of War (SLES-01041)
+- LibCrypt Crack
+
+Hogs Of War (SLES-02769)
+- LibCrypt Crack
+
+Jumping Flash! (SCUS-94103)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x04
+
+Jumping Flash! 2 (SCUS-94108)
+- Compatibility Mode 0x04
+
+LMA Manager 2001 (SLES-02975)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+LMA Manager 2002 (SLES-03603)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Le Mans 24 Hours (SLES-01362)
+- LibCrypt Crack
+
+Le Monde Des Bleus (SCES-01701)
+- LibCrypt Crack
+
+Legacy Of Kain: Soul Reaver (SLES-01301)
+- LibCrypt Crack
+
+Legacy Of Kain: Soul Reaver (SLES-02024)
+- LibCrypt Crack
+
+Legacy Of Kain: Soul Reaver (SLES-02025)
+- LibCrypt Crack
+
+Legacy Of Kain: Soul Reaver (SLES-02026)
+- LibCrypt Crack
+
+Legacy Of Kain: Soul Reaver (SLES-02027)
+- LibCrypt Crack
+
+Legaia Densetsu (SCPS-10059)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Legend Of Legaia (SCES-01752)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Legend Of Legaia (SCES-01944)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Legend Of Legaia (SCES-01945)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Legend Of Legaia (SCES-01946)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Legend Of Legaia (SCES-01947)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Legend Of Legaia (SCUS-94254)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Legend Of Legaia (SCUS-94366)
+- Compatibility Mode 0x02
+- Compatibility Mode 0x04
+
+Les Cochons De Guerre (SLES-02766)
+- LibCrypt Crack
+
+Lifeforce: Tenka (SLES-00614)
+- 2nd VMC is disabled
+
+Lifeforce: Tenka (SLES-00615)
+- 2nd VMC is disabled
+
+Lucky Luke: Western Fever (SLES-03530)
+- Title Specific LibCrypt Crack
+
+Mánager De Liga 2001 (SLES-02979)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Mánager De Liga 2002 (SLES-03607)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+Marranos En Guerra (SLES-02768)
+- LibCrypt Crack
+
+Marvel Super Heroes Vs. Street Fighter (SLES-01792)
+- Compatibility Mode 0x01
+
+Marvel Super Heroes Vs. Street Fighter (SLUS-00793)
+- Compatibility Mode 0x01
+
+Marvel Super Heroes Vs. Street Fighter: EX Edition (SLPS-01915)
+- Compatibility Mode 0x01
+
+Marvel Super Heroes Vs. Street Fighter: EX Edition (Taikenban) (SLPM-80376)
+- Compatibility Mode 0x01
+
+Marvel Vs. Capcom: Clash Of Super Heroes (SLES-02305)
+- Compatibility Mode 0x01
+
+Marvel Vs. Capcom: Clash Of Super Heroes (SLUS-01059)
+- Compatibility Mode 0x01
+
+Marvel Vs. Capcom: Clash Of Super Heroes: EX Edition (SLPS-02368)
+- Compatibility Mode 0x01
+
+MediEvil (SCES-01492)
+- LibCrypt Crack
+- Compatibility Mode 0x01
+
+MediEvil (SCES-01494)
+- LibCrypt Crack
+- Compatibility Mode 0x01
+
+MediEvil (SCES-01495)
+- LibCrypt Crack
+- Compatibility Mode 0x01
+
+MediEvil (SCUS-94227)
+- Compatibility Mode 0x01
+
+MediEvil 2 (SCES-02544)
+- LibCrypt Crack
+
+MediEvil 2 (SCES-02545)
+- LibCrypt Crack
+
+MediEvil 2 (SCES-02546)
+- LibCrypt Crack
+
+MediEvil v1.1 (SCES-00311)
+- LibCrypt Crack
+- Compatibility Mode 0x01
+
+Men In Black: The Series: Crashdown (SLES-03519)
+- LibCrypt Crack
+
+Men In Black: The Series: Crashdown (SLES-03522)
+- LibCrypt Crack
+
+Metal Gear Solid (Disc 1) (SLES-01370)
+- Skip Metal Gear Featured Cutscenes
+
+Metal Gear Solid (Disc 1) (SLES-01506)
+- Skip Metal Gear Featured Cutscenes
+
+Metal Gear Solid (Disc 1) (SLES-01507)
+- Skip Metal Gear Featured Cutscenes
+
+Metal Gear Solid (Disc 1) (SLES-01508)
+- Skip Metal Gear Featured Cutscenes
+
+Metal Gear Solid (Disc 1) (SLES-01734)
+- Skip Metal Gear Featured Cutscenes
+
+Metal Gear Solid (Disc 1) (SLPM-86111)
+- Skip Metal Gear Featured Cutscenes
+
+Metal Gear Solid v1.0 (Disc 1) (SLUS-00594)
+- Skip Metal Gear Featured Cutscenes
+
+Metal Gear Solid v1.1 (Disc 1) (SLUS-00594)
+- Skip Metal Gear Featured Cutscenes
+
+Michelin Rally Masters: Race Of Champions (SLES-01545)
+- LibCrypt Crack
+
+Michelin Rally Masters: Race Of Champions (SLES-02395)
+- LibCrypt Crack
+
+Mike Tyson Boxing (SLES-02839)
+- LibCrypt Crack
+
+Mission: Impossible (SLES-01906)
+- LibCrypt Crack
+
+Mizzurna Falls (SLPS-01783)
+- Compatibility Mode 0x04
+
+MoHo (SLES-02830)
+- LibCrypt Crack
+
+Mobil 1 Rally Championship (SLES-02574)
+- Compatibility Mode 0x04
+
+Mobil 1 Rally Championship (SLUS-01103)
+- Compatibility Mode 0x04
+
+Muppet RaceMania (SLUS-01237)
+- Compatibility Mode 0x04
+
+Myst (SCUS-94602)
+- Compatibility Mode 0x04
+
+Myst (SLES-00218)
+- Compatibility Mode 0x04
+
+Myst v1.0 (SLPS-00024)
+- Compatibility Mode 0x04
+
+Myst v1.1 (SLPS-91023)
+- Compatibility Mode 0x04
+
+N-Gen Racing (SLES-02086)
+- LibCrypt Crack
+- Compatibility Mode 0x04
+
+N-Gen Racing (SLUS-01155)
+- Compatibility Mode 0x04
+
+Need For Speed: Porsche 2000 (SLES-02689)
+- LibCrypt Crack
+
+Need For Speed: Porsche 2000 (SLES-02700)
+- LibCrypt Crack
+
+Nightmare Creatures II (SLES-02751)
+- Compatibility Mode 0x04
+
+Nightmare Creatures II (SLUS-01112)
+- Compatibility Mode 0x04
+
+PGA European Tour Golf (SLES-02061)
+- LibCrypt Crack
+
+PaRappa The Rapper (SCES-00743)
+- Compatibility Mode 0x04
+
+PaRappa The Rapper (SCUS-94183)
+- Compatibility Mode 0x04
+
+Pac-Man World (SLUS-00439)
+- Compatibility Mode 0x04
+
+Parasite Eve II (Disc 1) (SLES-02558)
+- LibCrypt Crack
+
+Parasite Eve II (Disc 1) (SLES-02559)
+- LibCrypt Crack
+
+Parasite Eve II (Disc 1) (SLES-02560)
+- LibCrypt Crack
+
+Parasite Eve II (Disc 1) (SLES-02561)
+- LibCrypt Crack
+
+Parasite Eve II (Disc 1) (SLES-02562)
+- LibCrypt Crack
+
+Parasite Eve II (Disc 2) (SLES-12558)
+- LibCrypt Crack
+
+Parasite Eve II (Disc 2) (SLES-12559)
+- LibCrypt Crack
+
+Parasite Eve II (Disc 2) (SLES-12560)
+- LibCrypt Crack
+
+Parasite Eve II (Disc 2) (SLES-12561)
+- LibCrypt Crack
+
+Parasite Eve II (Disc 2) (SLES-12562)
+- LibCrypt Crack
+
+Pop'n Music (SLPM-87089)
+- Compatibility Mode 0x01
+
+Porsche Challenge (SCES-00409)
+- Compatibility Mode 0x02
+
+Porsche Challenge (SCUS-94187)
+- Compatibility Mode 0x02
+
+Porsche Challenge (SIPS-60016)
+- Compatibility Mode 0x02
+
+Premier Manager 2000 (SLES-02292)
+- LibCrypt Crack
+
+Prince Naseem Boxing (SLES-00017)
+- LibCrypt Crack
+
+RC Revenge (SLES-02824)
+- LibCrypt Crack
+
+Rapid Racer (SCES-00394)
+- Compatibility Mode 0x04
+
+Ray Crisis (SLES-02882)
+- Compatibility Mode 0x04
+
+Raycrisis (SLPM-86450)
+- Compatibility Mode 0x04
+
+Raycrisis: Series Termination (SLUS-01217)
+- Compatibility Mode 0x04
+
+Resident Evil (SLUS-00170)
+- Compatibility Mode 0x05
+
+Resident Evil 3: Nemesis (SLES-02529)
+- LibCrypt Crack
+
+Resident Evil 3: Nemesis (SLES-02530)
+- LibCrypt Crack
+
+Resident Evil 3: Nemesis (SLES-02531)
+- LibCrypt Crack
+
+Resident Evil 3: Nemesis (SLES-02532)
+- LibCrypt Crack
+
+Resident Evil 3: Nemesis (SLES-02533)
+- LibCrypt Crack
+
+Resident Evil: Director's Cut (SLES-00969)
+- Compatibility Mode 0x05
+
+Resident Evil: Director's Cut (SLES-00970)
+- Compatibility Mode 0x05
+
+Resident Evil: Director's Cut (SLUS-00551)
+- Compatibility Mode 0x05
+
+Resident Evil: Director's Cut: Dual Shock Ver. (SLUS-00747)
+- Compatibility Mode 0x05
+
+Roadsters (SLES-02326)
+- Crash Fix
+
+Roadsters (SLUS-01024)
+- Crash Fix
+
+Ronaldo V-Football (SLES-00995)
+- LibCrypt Crack
+
+Ronaldo V-Football (SLES-02681)
+- LibCrypt Crack
+
+SaGa Frontier 2 (SLES-02112)
+- LibCrypt Crack
+
+SaGa Frontier 2 (SLES-02113)
+- LibCrypt Crack
+
+SaGa Frontier 2 (SLES-02118)
+- LibCrypt Crack
+
+Silent Hill (SLED-01735)
+- Compatibility Mode 0x04
+
+Silent Hill (SLES-01514)
+- Compatibility Mode 0x04
+
+Silent Hill (SLUS-00707)
+- Compatibility Mode 0x04
+
+Silent Hill v1.0 (SLPM-86192)
+- Compatibility Mode 0x04
+
+Silent Hill v1.1 (SLPM-86192)
+- Compatibility Mode 0x04
+
+Sled Storm (SLES-02194)
+- Compatibility Mode 0x04
+
+Sno-Cross Championship Racing (SLES-02763)
+- LibCrypt Crack
+
+Space Debris (SCES-02290)
+- LibCrypt Crack
+
+Space Debris (SCES-02430)
+- LibCrypt Crack
+
+Space Debris (SCES-02432)
+- LibCrypt Crack
+
+Speed Freaks (SCES-01763)
+- LibCrypt Crack
+
+Spyro 2: Gateway To Glimmer (SCES-02104)
+- LibCrypt Crack
+
+Spyro: Year Of The Dragon v1.0 (SCES-02835)
+- LibCrypt Crack
+
+Spyro: Year Of The Dragon v1.0 (SCUS-94467)
+- Compatibility Mode 0x01
+
+Spyro: Year Of The Dragon v1.1 (SCES-02835)
+- LibCrypt Crack
+
+Spyro: Year Of The Dragon v1.1 (SCUS-94467)
+- Compatibility Mode 0x01
+
+Star Gladiator: Episode 1: Final Crusade (SLES-00495)
+- Compatibility Mode 0x04
+
+Star Gladiator: Episode 1: Final Crusade (SLPS-00539)
+- Compatibility Mode 0x04
+
+Star Gladiator: Episode 1: Final Crusade (SLUS-00372)
+- Compatibility Mode 0x04
+
+Street Fighter Collection 2 (SLES-01721)
+- Compatibility Mode 0x01
+
+Street Fighter Collection 2 (SLUS-00746)
+- Compatibility Mode 0x01
+
+Street Fighter EX Plus Alpha (SLES-00939)
+- Compatibility Mode 0x04
+
+Street Fighter EX Plus Alpha (SLPM-86041)
+- Compatibility Mode 0x04
+
+Street Fighter EX Plus Alpha (SLUS-00548)
+- Compatibility Mode 0x04
+
+Strikers 1945 (SLPS-00407)
+- Compatibility Mode 0x04
+
+Super Puzzle Fighter II Turbo (SLES-00605)
+- Compatibility Mode 0x01
+
+Super Puzzle Fighter II Turbo (SLUS-00418)
+- Compatibility Mode 0x01
+
+Sydney 2000 (SLES-02857)
+- LibCrypt Crack
+
+Sydney 2000 (SLES-02860)
+- LibCrypt Crack
+
+Syphon Filter (SCES-01910)
+- Compatibility Mode 0x04
+
+Syphon Filter (SCES-01911)
+- Compatibility Mode 0x04
+
+Syphon Filter (SCES-01913)
+- Compatibility Mode 0x04
+
+Syphon Filter (SCES-01914)
+- Compatibility Mode 0x04
+
+Syphon Filter (SLPS-02216)
+- Compatibility Mode 0x04
+
+Syphon Filter v1.0 (SCUS-94240)
+- Compatibility Mode 0x04
+
+Syphon Filter v1.1 (SCUS-94240)
+- Compatibility Mode 0x04
+
+TOCA World Touring Cars (SLES-02572)
+- LibCrypt Crack
+
+TOCA World Touring Cars (SLES-02573)
+- LibCrypt Crack
+
+TechnoMage: El Retorno De La Eternidad (SLES-03244)
+- LibCrypt Crack
+
+TechnoMage: En Quete de L'Eternite (SLES-03242)
+- LibCrypt Crack
+
+TechnoMage: Return Of Eternity (SLES-03241)
+- LibCrypt Crack
+
+TechnoMage: Ritorno All'Eternita (SLES-03243)
+- LibCrypt Crack
+
+Tekken 3 (SCES-01237)
+- Compatibility Mode 0x01
+
+Tekken 3 (SLUS-00402)
+- Compatibility Mode 0x01
+
+Tekken 3 v1.0 (SLPS-01300 / SLPS-91202)
+- Compatibility Mode 0x01
+- Compatibility Mode 0x06
+
+Test Drive 4 (SLES-00948)
+- Compatibility Mode 0x04
+
+Test Drive 4 (SLUS-00487)
+- Compatibility Mode 0x04
+
+Test Drive 4x4 (SLES-01179)
+- Compatibility Mode 0x04
+
+The F.A Premier League Manager 2001 (SLES-03061)
+- LibCrypt Crack
+
+The Italian Job (SLES-03489)
+- LibCrypt Crack
+
+The Italian Job (SLES-03626)
+- LibCrypt Crack
+
+Theme Park World (SLES-02688)
+- LibCrypt Crack
+
+This Is Football (SCES-01700)
+- LibCrypt Crack
+
+This Is Football (SCES-01703)
+- LibCrypt Crack
+
+Tobal 2 v1.1 (SLPM-86033)
+- Compatibility Mode 0x06
+
+Tobal No.1 (SCUS-94208)
+- Compatibility Mode 0x04
+
+Tobal No.1 (SLPM-87405 / SLPS-00400)
+- Compatibility Mode 0x04
+- Compatibility Mode 0x06
+
+Tomb Raider (SLES-00024)
+- VSync Fix
+
+Tomb Raider (SLES-00485)
+- VSync Fix
+
+Tomb Raider (SLES-00486)
+- VSync Fix
+
+Tomb Raider 2 (SLPS-01200)
+- VSync Fix
+
+Tomb Raider II: Starring Lara Croft (Beta 1997-09-30)
+- VSync Fix
+
+Tomb Raider II: Starring Lara Croft (SLES-00107)
+- VSync Fix
+
+Tomb Raider II: Starring Lara Croft (SLES-00718)
+- VSync Fix
+
+Tomb Raider II: Starring Lara Croft (SLES-00719)
+- VSync Fix
+
+Tomb Raider II: Starring Lara Croft (SLES-00720)
+- VSync Fix
+
+Tomb Raider II: Starring Lara Croft v1.0 (SLUS-00437)
+- VSync Fix
+
+Tomb Raider II: Starring Lara Croft v1.1 (SLUS-00437)
+- VSync Fix
+
+Tomb Raider II: Starring Lara Croft v1.2 (SLUS-00437)
+- VSync Fix
+
+Tomb Raider II: Starring Lara Croft v1.3 (SLUS-00437)
+- VSync Fix
+
+Tomb Raider v1.0 (SLUS-00152)
+- VSync Fix
+
+Tomb Raider v1.1 (SLUS-00152)
+- VSync Fix
+
+Tomb Raider v1.2 (SLUS-00152)
+- VSync Fix
+
+Tomb Raider v1.3 (SLUS-00152)
+- VSync Fix
+
+Tomb Raider v1.4 (SLUS-00152)
+- VSync Fix
+
+Tomb Raider v1.5 (SLUS-00152)
+- VSync Fix
+
+Tomb Raider v1.6 (SLUS-00152)
+- VSync Fix
+
+Tomb Raiders (SLPS-00617)
+- VSync Fix
+
+Turbo Prop Racing (SCUS-94229)
+- Compatibility Mode 0x04
+
+UEFA Euro 2000 (SLES-02704)
+- LibCrypt Crack
+
+UEFA Euro 2000 (SLES-02706)
+- LibCrypt Crack
+
+UEFA Euro 2000 (SLES-02707)
+- LibCrypt Crack
+
+UEFA Striker (SLES-01733)
+- LibCrypt Crack
+
+Urban Chaos (SLES-02071)
+- LibCrypt Crack
+
+Urban Chaos (SLES-02354)
+- LibCrypt Crack
+
+V-Rally: Championship Edition 2 (SLES-01907)
+- LibCrypt Crack
+
+Vagrant Story (SLES-02754)
+- LibCrypt Crack
+
+Vagrant Story (SLES-02755)
+- LibCrypt Crack
+
+Vagrant Story (SLES-02756)
+- LibCrypt Crack
+
+Vigilante 8: 2nd Battle (SLPS-02615)
+- Compatibility Mode 0x04
+
+Vigilante 8: 2nd Offense (SLES-02162)
+- Compatibility Mode 0x04
+
+Vigilante 8: 2nd Offense (SLUS-00868)
+- Compatibility Mode 0x04
+
+WWF SmackDown! 2: Know Your Role (SLUS-01234)
+- Compatibility Mode 0x04
+
+Walt Disney World Quest: Magical Racing Tour (SLES-02733)
+- LibCrypt Crack
+
+Wild 9 (SLES-01333)
+- Compatibility Mode 0x04
+
+Wild 9 (SLUS-00425)
+- Compatibility Mode 0x04
+
+Wildroid 9 (SCPS-10080)
+- Compatibility Mode 0x04
+
+Wip3out (SCES-01909)
+- Compatibility Mode 0x04
+
+WipEout (SCUS-94301)
+- Crash Fix
+
+WipEout (SIPS-60003)
+- Crash Fix
+
+WipEout v1.0 (SCES-00010)
+- Crash Fix
+
+WipEout v1.1 (SCES-00010)
+- Crash Fix
+
+WipEout 2097 (SLES-00327)
+- Compatibility Mode 0x04
+
+WipEout 3 (SCPS-10098)
+- Compatibility Mode 0x04
+
+WipEout 3 (SLUS-00865)
+- Compatibility Mode 0x04
+
+WipEout 3: Special Edition (SCES-02845)
+- Compatibility Mode 0x04
+
+Wipeout XL (SCUS-94351)
+- Compatibility Mode 0x04
+
+Wipeout XL (SIPS-60010)
+- Compatibility Mode 0x04
+
+X-Men: Children Of The Atom (SLES-00198)
+- Compatibility Mode 0x04
+
+X-Men: Children Of The Atom (SLUS-00044)
+- Compatibility Mode 0x04
+______________________________________________________________________________________________________________
+
+Special thanks to El_Patas. 524PSu1, the contributors @ ASSEMblergames, Elotrolado and Metagames.
+
+The integration of the compatibility modes was made with the help and contributions of,
+algol, El_Patas. 524PSu1, MrKARATEKYUKEN, Diego Cobo, emmanu878, Subaru-San, ruffonetas, windwaker, SDJ1977, Naughty Dog, ShaolinAssassin, Halas19.
+Thank you all !!! My apologies if I forgot to mention anyone, it wasn't intentional.
