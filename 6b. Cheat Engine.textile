@@ -1,0 +1,20 @@
+h1. *POPStarter Advanced Configuration*
+______________________________________________________________________
+
+h3. _Cheating :_
+
+h3. _Automated :_ 
+
+| *Cheat Code* | *Description* | *Notes* |
+| $SAFEMODE | Disable the cheat engine and only activate it after POPS has left the PS OSD. Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |  |
+| $SMOOTH | Enables the smooth texture mapping at startup | |
+| $NOPAL | Disables POPStarters' PAL patcher | |
+| $FORCEPAL | forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL)  | Useful for PAL VCDs that don't have a valid license text in their bootsector. | 
+| $COMPATIBILITY_0x## | Activates a compatibility mode | (where ## is a hexadecimal value) You can write as many $COMPATIBILITY_0x## as you want |
+| $CACHE1 | Makes POPS buffer 1 sector instead of 16 | |
+| $FAKELC | Loads a null LibCrypt magic word into the cop0 register. May be needed by some discs that have a messed up LC protection | |
+| $USBDELAY_# | Sets up the PFS wrapper USB delay | (# is a number) |
+
+h3. _Left stick :_ 
+
+h3. _Widescreen code archive :_ 
