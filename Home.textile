@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 h2. _Wiki Table of content :_ 
 
-0.  News
+"0.  News":https://bitbucket.org/SaulGoodman/popstarter/wiki/0.%20News
 1.  VCD creation
 2.  HDD mode
 .......POPS decrypted files
