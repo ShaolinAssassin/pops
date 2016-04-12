@@ -1,9 +1,9 @@
 h1. Transfer VCD files using PFSSHELL 0.2a
 
-Video tutorial made by Waats : https://www.youtube.com/watch?v=ks5CN-Kfv04
+Video tutorial - made by Waats : https://www.youtube.com/watch?v=ks5CN-Kfv04
 ______________________________________________________________________________________________________________
 
-Text version (base on the video tutorial) :
+Text version (based on the video tutorial) :
 
 _Hardware :_
 * PS2 HDD formatted, with a __.POPS partition, locally connected to your PC
