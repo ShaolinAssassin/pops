@@ -29,7 +29,7 @@ h2. _Features :_
 
 ______________________________________________________________________________________________________________
 
-h2. _Table of content :_ 
+h2. _Wiki Table of content :_ 
 
 0.  News
 1.  VCD creation
@@ -61,15 +61,15 @@ h2. _Table of content :_
 .......Examples of Setups
 .......Additional notes
 5.  Game Compatibility
-.......Lists & forms
-.......Game fix archive
-.......Compatibility modes
+.......Compatibility Lists & Forms
+.......Game Fix Archive
+.......Compatibility Modes
 .......Automated
 6.  Features
 .......Hotkeys
 .......Cheat Engine
 .......IGR
-.......BIOS & OSD handler
+.......BIOS & OSD Handler
 7.  FAQs & help
 8.  Known bugs
 9.  POPStarter Configuration Table
