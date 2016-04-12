@@ -29,7 +29,7 @@ If you get this message : "ps2hdd: drive status 0, format version 00000002", con
 pre. 
 mount __.POPS 
 
-5. Transfer your VCDs files using the following command line : 
+5. Transfer your 1st VCD file using the following command line : 
 
 pre. 
 put NAMEOFYOURVCD.VCD
