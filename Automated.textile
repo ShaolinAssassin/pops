@@ -1,6 +1,6 @@
 h1. *LC Cracks, crash fixes & compatibility modes integrated into POPStarter*
 
-______________________________________________________________________
+
 
 _[From wip05 documentation]_
 
