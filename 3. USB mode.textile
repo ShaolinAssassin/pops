@@ -19,6 +19,8 @@ h2. _Hardware Requirements :_
 * A PS2 console which is able to run PS2 unsigned code
 * An USB mass storage device, FAT12 or FAT16 or FAT32 formatted (not NTFS !)
 
+______________________________________________________________________________________________________________
+
 h2. _A) Installing the Emulator :_
 
 #  Find and download the emulator compressed file;
@@ -45,6 +47,8 @@ POPS/POPS_IOP.PAK
 POPS/Crash Bandicoot.VCD
 XX.Crash Bandicoot.elf
 
+______________________________________________________________________________________________________________
+
 h2. _Additional notes :_
 
 * The USB hard disk / flash disk has to be FAT12 or FAT16 or FAT32 formatted, AND DEFRAGMENTED
@@ -52,3 +56,6 @@ h2. _Additional notes :_
 * The third character of the ELF prefix is a dot (PPdot / __dot / XXdot).
 * The prefix has to be uppercase
 
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
