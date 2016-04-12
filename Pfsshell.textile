@@ -18,7 +18,7 @@ where X is the number of your PS2 HDD.
 
 If you get this message : "ps2hdd: drive status 0, format version 00000002", continue.
 
-4. You now need to mount the POPS VCS partition, using the following command line : 
+4. You now need to mount the POPS VCD partition, using the following command line : 
 
 pre. 
 mount __.POPS 
