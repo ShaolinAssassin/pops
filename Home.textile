@@ -19,12 +19,12 @@ ________________________________________________________________________________
 h2. _Features :_ 
 
 * HDD, USB & SMB support
-* CDD support
+* CDDA support
 * VMC support
 * Automatic PAL patcher
 * Cheat Engine
 * Hotkeys
-* IGR
+* In Game-Reset
 * BIOS & OSD handler
 
 ______________________________________________________________________________________________________________
