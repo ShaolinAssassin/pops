@@ -25,6 +25,8 @@ h2. _Hardware Requirements :_
 * A network adapter with/or a HDD interface
 * A PS2-formatted HDD that fits your network adapter/HDD interface
 
+______________________________________________________________________________________________________________
+
 h2. _A) Installing the Emulator :_
 
 # Find and download the decrypted emulator files;
@@ -72,6 +74,7 @@ __common/POPS/POPS.ELF
 PP.Crash_Bandicoot/EXECUTE.KELF
 PP.Crash_Bandicoot/IMAGE0.VCD
 
+______________________________________________________________________________________________________________
 
 h2. _Additional notes :_
 
@@ -80,3 +83,8 @@ h2. _Additional notes :_
 * The file extension .VCD has to be uppercase (old launch type)
 * The partition names are case sensitive, and have to match the POPStarter ELF names (old launch type)
 * Whitespaces are not allowed in the partition names (old launch type)
+
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
