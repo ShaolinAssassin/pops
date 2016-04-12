@@ -1,25 +1,22 @@
 h1. *Game compatibility*
 ______________________________________________________________________
 
-h2. _Lists and forms :_ 
+h2. _Lists and Forms :_ 
 
 These compatibility lists are managed by AlGollan84 (aka Algol, aka Allan58) and krHACKen
 
-* Rev 13 *HDD* compatibility list : "here":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdFIzb3NuOWU2eWZqUDNwVl9uTzFPTGc#gid=0
-Submit your reports to the HDD compatibility list : "here":https://docs.google.com/forms/d/17fb0I0GxnPpIuCvayFgFhd8MlozcBqR42kdzuOA5b1I/viewform
+* *Rev 13 OFficial Compatibility Lists :*
 
-* Rev 13 *USB* compatibility list : "here":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdGJyVDdyRXBQR0RsOTNrM3hvaFdacmc#gid=0
-Submit your reports to the USB compatibility list : "here":https://docs.google.com/forms/d/10oPoxZvdtiO3YOe9kX_isgCkJMizCD_nvcf6TH4Xvck/viewform
+| *Device* | *Compatibility list* | *Form to submit reports* |
+| HDD | "here":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdFIzb3NuOWU2eWZqUDNwVl9uTzFPTGc#gid=0 | "here": https://docs.google.com/forms/d/17fb0I0GxnPpIuCvayFgFhd8MlozcBqR42kdzuOA5b1I/viewform |
+| USB | "here":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdGJyVDdyRXBQR0RsOTNrM3hvaFdacmc#gid=0 | "here":https://docs.google.com/forms/d/10oPoxZvdtiO3YOe9kX_isgCkJMizCD_nvcf6TH4Xvck/viewform |
+| HDD | "here":https://docs.google.com/spreadsheets/d/1LoLl_YVY2qlJN6F3Ubwd0AvqkeK0tbHqrIEjBiGmDpQ/edit#gid=0 | "here":https://docs.google.com/forms/d/1zimkx1nufqgF808EyoDqC9_USV2FqSQKlka678wo67w/viewform |
 
-* Rev 13 *SMB* compatibility list : "here":https://docs.google.com/spreadsheets/d/1LoLl_YVY2qlJN6F3Ubwd0AvqkeK0tbHqrIEjBiGmDpQ/edit#gid=0
-Submit your reports to the SMB compatibility list : "here":https://docs.google.com/forms/d/1zimkx1nufqgF808EyoDqC9_USV2FqSQKlka678wo67w/viewform
+* *Old Compatibility Lists (outdated & locked, for history) :* 
 
-Old compatibility list (outdated, for history) :
+-----POPStarter Rev 12 : "here":https://docs.google.com/spreadsheet/ccc?key=0As_WFUFvrRw5dE5fWEU1TTlscW9XMUtuTE12aU04d3c#gid=0
 
-* POPStarter Rev 12 : "here":https://docs.google.com/spreadsheet/ccc?key=0As_WFUFvrRw5dE5fWEU1TTlscW9XMUtuTE12aU04d3c#gid=0
-
-* POPS-00001 : "here":https://docs.google.com/spreadsheets/d/1OKjHsF2sk3LH6X9NiELvbK7fEkXnOyG3zidDjUvNRUk/edit#gid=0
-______________________________________________________________________________________________________________
+-----POPS-00001 : "here":https://docs.google.com/spreadsheets/d/1OKjHsF2sk3LH6X9NiELvbK7fEkXnOyG3zidDjUvNRUk/edit#gid=0
 
 h2. _Compatibility modes :_ 
 
@@ -49,13 +46,9 @@ If the compatibility mode doesn't solve any problem in your game, delete the PAT
 *Using CHEATS.TXT file*
 See 6. Features section
 
-______________________________________________________________________________________________________________
-
 h2. _Game fixes :_ 
 
 In the Game Fixes Archive, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game; then run the game. 
-
-______________________________________________________________________________________________________________
 
 h2. _Automated fixes :_ 
 
