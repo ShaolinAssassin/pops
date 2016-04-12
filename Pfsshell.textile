@@ -9,7 +9,7 @@ h2. _Software :_
 * PFSSHELL 0.2a (running under winxp - or enable XP compatibility mode)
 ______________________________________________________________________________________________________________
 
-h2. _Video tutorial_ - made by Waats : https://www.youtube.com/watch?v=ks5CN-Kfv04
+h2. "_Video tutorial_ - made by Waats":https://www.youtube.com/watch?v=ks5CN-Kfv04
 ______________________________________________________________________________________________________________
 
 h2. _Text version_ - based on the video :
