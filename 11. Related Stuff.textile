@@ -13,12 +13,15 @@ h2. _Links to some softwares you may need :_
 * MemcardRex : "here":http://shendosoft.blogspot.fr/
 * OSD.BIN Maker.rar : "here":http://www.4shared.com/rar/OgrMnnU_ba
 
+______________________________________________________________________________________________________________
 
 h2. _Tutorials :_ 
 
 *
 *
 *
+
+______________________________________________________________________________________________________________
 
 h2. _Threads (POPStarter around the web) :_ 
 
@@ -46,8 +49,7 @@ _Portuguese :_
 * "(PS2) POPStarter 13 @ Outerspace":http://web.archive.org/web/20141104192642/http://forum.outerspace.terra.com.br/index.php?threads/ps2-popstarter-13.397319/
 
 * "Popstarter: Emulador de PS1 para PS2 @ Playstation2 Homebrew Addict":http://ps2home.forumeiro.com/t27-popstarter-emulador-de-ps1-para-ps2
-
-____________________________________________________________
+______________________________________________________________________________________________________________
 
 h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
 
