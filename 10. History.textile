@@ -1,7 +1,7 @@
 h1. *POPStarter Changelogs*
 ______________________________________________________________________
 
-h3. _WIP 06 Public Betas :_ 
+hé. _WIP 06 Public Betas :_ 
 
 * *2015/12/07 (Beta 13) = LATEST BETA*
 
@@ -216,7 +216,7 @@ pre.
 - Added a fix for Alundra 2
 - Added the Jackie Chan Stuntmaster (SCES-01444) LibCrypt crack
 
-h3. _POPStarter Stable releases :_ 
+h2. _POPStarter Stable Releases :_ 
 
 * *POPStarter Revision 13, Build Date : 2015/06/03, WIP 05 PUBLIC RELEASE* *= LATEST STABLE RELEASE*
 
