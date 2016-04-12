@@ -1,17 +1,16 @@
 h1. [HDD] Transfer VCD files using PFSSHELL 0.2a
 
-_Hardware :_
+h2. _Hardware :_ 
 * PS2 HDD formatted, with a __.POPS partition, locally connected to your PC
 
-_Software :_ 
+h2. _Software :_ 
 * PFSSHELL 0.2a (running under winxp - or enable XP compatibility mode)
-
 ______________________________________________________________________________________________________________
 
-h3. *Video tutorial* - made by Waats : https://www.youtube.com/watch?v=ks5CN-Kfv04
+h2. _Video tutorial_ - made by Waats : https://www.youtube.com/watch?v=ks5CN-Kfv04
 ______________________________________________________________________________________________________________
 
-h3. *Text version* - based on the video :
+h2. _Text version_ - based on the video :
 
 1. Put your VCDs files in the psshell 0.2a folder.
 2. Run pfsshell.exe
