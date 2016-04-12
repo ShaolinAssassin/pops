@@ -33,7 +33,7 @@ h2. _Wiki Table of content :_
 
 "0.  News":https://bitbucket.org/SaulGoodman/popstarter/wiki/0.%20News
 1.  VCD creation
-2.  HDD mode
+"2.  HDD mode":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
 .......POPS decrypted files
 .......Other Software Requirements
 .......Hardware Requirements
@@ -42,7 +42,7 @@ h2. _Wiki Table of content :_
 .......C) Installing POPStarter
 .......Examples of Setups
 .......Additional notes
-3.  USB mode
+"3.  USB mode":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
 .......POPS compressed file
 .......Other Software Requirements
 .......Hardware Requirements
@@ -60,21 +60,21 @@ h2. _Wiki Table of content :_
 .......C) Installing POPStarter
 .......Examples of Setups
 .......Additional notes
-5.  Game Compatibility
-.......Compatibility Lists & Forms
-.......Game Fix Archive
-.......Compatibility Modes
-.......Automated
+"5.  Game Compatibility":https://bitbucket.org/SaulGoodman/popstarter/wiki/5.%20Game%20compatibility
+......."Compatibility Lists & Forms":https://bitbucket.org/SaulGoodman/popstarter/wiki/5.%20Game%20compatibility
+......."Game Fix Archive":https://bitbucket.org/SaulGoodman/popstarter/wiki/5.%20Game%20compatibility
+......."Compatibility Modes":https://bitbucket.org/SaulGoodman/popstarter/wiki/5.%20Game%20compatibility
+......."Automated":https://bitbucket.org/SaulGoodman/popstarter/wiki/5a.%20Automated
 6.  Features
-.......Hotkeys
-.......Cheat Engine
-.......IGR
-.......BIOS & OSD Handler
-7.  FAQs & help
-8.  Known bugs
-9.  POPStarter Configuration Table
-10. History
-11. Related stuff
+......."Hotkeys":https://bitbucket.org/SaulGoodman/popstarter/wiki/6a.%20Hotkeys
+......."Cheat Engine":https://bitbucket.org/SaulGoodman/popstarter/wiki/6b.%20Cheat%20Engine
+......."IGR":
+......."BIOS & OSD Handler":
+"7.  FAQs & help":https://bitbucket.org/SaulGoodman/popstarter/wiki/7.%20FAQs%20and%20Help
+"8.  Known bugs":https://bitbucket.org/SaulGoodman/popstarter/wiki/8.%20Known%20bugs
+"9.  POPStarter Configuration Table":https://bitbucket.org/SaulGoodman/popstarter/wiki/9.%20POPStarter%20Configuration%20Table
+"10. History":https://bitbucket.org/SaulGoodman/popstarter/wiki/10.%20History
+"11. Related stuff":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
 .......Tools
 .......Tutorials
 .......Threads
