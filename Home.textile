@@ -1,5 +1,5 @@
-h1. *Introduction to POPStarter rev13
-_________________________________________________________________________*
+h1. Introduction to POPStarter rev13
+_________________________________________________________________________
 
 h2. _Disclaimer :_ 
 
@@ -7,7 +7,7 @@ POPStarter is a launcher which lets you play your PS1 games in combination with 
 
 POPStarter is available for free download. If you spent an outrageous amount of money in ordering a HDD that contains preinstalled games and POPStarter, YOU HAVE BEEN ROBBED. Never purchase a physical copy of POPStarter when the "seller" wants more $$$ than the media price and the shipping fees.
 
-
+______________________________________________________________________________________________________________
 
 h2. _Downloads :_  
 
@@ -75,6 +75,6 @@ h2. _Wiki Table of content :_
 "9.  POPStarter Configuration Table":https://bitbucket.org/SaulGoodman/popstarter/wiki/9.%20POPStarter%20Configuration%20Table
 "10. History":https://bitbucket.org/SaulGoodman/popstarter/wiki/10.%20History
 "11. Related stuff":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
-.......Tools
-.......Tutorials
-.......Threads
+......."Tools":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
+......."Tutorials":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
+......."Threads":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
