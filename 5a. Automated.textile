@@ -1,5 +1,8 @@
 h1. *LC Cracks, crash fixes & compatibility modes integrated into POPStarter*
+
 ______________________________________________________________________
+
+_[From wip05 documentation]_
 
 The LibCrypt cracks are experimental and their reliability hasn't been proven with all the "supported" titles. These were made using IdentRip v1.02, which generates "generic" cracks for LibCrypt protected games. The resulting cracks may fail on games that have enhanced protections.
 
