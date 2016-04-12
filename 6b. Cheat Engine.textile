@@ -5,9 +5,25 @@ _[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
 
 h2. _Cheating :_
 
+Since WIP06 OBT ?, POPStarter can use GameShark/Action Replay cheat codes writen into a text file. 
+
+Create a text file nammed CHEATS.TXT, placed in the VMC folder of your game. In this text file, write $, then your code in GameShark/Action Replay format. 
+
+pre. 
+
+Ex : $800AC402 0800
+
+Notes :
+
+* Each game will have his own CHEATS.TXT file.
+* Some PS1 games need mastercodes otherwise they crash (ex : Air Race Championship). Only type C0 are supported. Mastercodes of type C1 (aka activation on delay time) are not and will not be supported.
+* You can enable a code for all your games if you place the CHEATS.TXT file in /POPS/ folder inteasted of the VMC folder.
+
 ______________________________________________________________________________________________________________
 
 h2. _Automated Codes:_ 
+
+Some useful codes have been automatised. Here are them :
 
 | *Cheat Code* | *Description* | *Notes* |
 | $SAFEMODE | Disable the cheat engine and only activate it after POPS has left the PS OSD | Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
