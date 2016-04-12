@@ -1,5 +1,5 @@
 h1. *POPStarter Configuration Table*
-______________________________________________________________________
+
 
 _[From wip05 documentation]_
 
