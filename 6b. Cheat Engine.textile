@@ -125,7 +125,7 @@ ________________________________________________________________________________
 
 h2. _POPStarter Mastercode :_ 
 
-For use with a PS2 cheat device :
+For use with a PS2 cheat device (ps2rd, codebreaker, Cheat device...) :
 
 
 pre. 
@@ -134,7 +134,9 @@ pre.
 
 ______________________________________________________________________________________________________________
 
-h2. _Widescreen code archive :_ 
+h2. _Widescreen Codes Archive :_ 
+
+Not a part of the POPStarter project, but worth to mention. Guys from "pcsx2 forum":http://forums.pcsx2.net made some great widescreen codes. Thank to El_Patas for keeping the archive updated. You can get the patches "here":http://forums.pcsx2.net/Thread-PSOne-Widescreen-Patches?pid=477709#pid477709
 
 ______________________________________________________________________________________________________________
 
