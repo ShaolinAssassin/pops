@@ -60,3 +60,8 @@ h2. _Additional notes :_
 ______________________________________________________________________________________________________________
 
 h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
+
+
+
+- Now you can load the USB and network modules from the MC that is in the second slot too.
+  (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...)
