@@ -3,6 +3,8 @@ ______________________________________________________________________
 
 h2. _Cheating :_
 
+______________________________________________________________________________________________________________
+
 h2. _Automated Codes:_ 
 
 | *Cheat Code* | *Description* | *Notes* |
@@ -14,6 +16,8 @@ h2. _Automated Codes:_
 | $CACHE1 | Makes POPS buffer 1 sector instead of 16 | |
 | $FAKELC | Loads a null LibCrypt magic word into the cop0 register | May be needed by some discs that have a messed up LC protection |
 | $USBDELAY_# | Sets up the PFS wrapper USB delay | (# is a number) |
+
+______________________________________________________________________________________________________________
 
 h2. _Left Stick is the D-Pad Code :_
 
@@ -100,6 +104,10 @@ $20231FB8 A32A0007
 $20231FBC 03E00008
 $20231FC0 A32B0006
 
-
+______________________________________________________________________________________________________________
 
 h2. _Widescreen code archive :_ 
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
