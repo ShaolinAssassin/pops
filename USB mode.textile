@@ -65,3 +65,5 @@ h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
 
 - Now you can load the USB and network modules from the MC that is in the second slot too.
   (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...)
+** 2015/10/23 (Beta 8) **
+- Complete rewrite and embedding of the PFS wrapper (POPStarter no longer loads PFS_WRAP.BIN)
