@@ -1,7 +1,7 @@
 h1. *POPStarter Changelogs*
 ______________________________________________________________________
 
-hé. _WIP 06 Public Betas :_ 
+h2. _WIP 06 Public Betas :_ 
 
 * *2015/12/07 (Beta 13) = LATEST BETA*
 
