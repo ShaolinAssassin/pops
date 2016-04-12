@@ -1,19 +1,28 @@
 h1. *Threads*
 ______________________________________________________________________
 
+_Chinese :_ 
+
+* "@ A9VG":http://bbs.a9vg.com/thread-4240514-1-1.html
+
 _English :_
 
 * "The Official POPStarter Release Thread at ASSEMblergames":http://assemblergames.com/l/threads/45347/
+
+_French :_ 
+
+* "POPStarter Revision 13, sorties et développements @ Metagames":http://www.metagames-eu.com/forums/news-ps2/popstarter-revision-13-sorties-et-developpements-134569.html
+
+* "POPStarter Rev 13 Emulateur PS1 sur PS2 @ Metagames":http://www.metagames-eu.com/forums/les-tutoriels-playstation-2/tuto-popstarter-rev-13-emulateur-ps1-sur-ps2-133098.html
 
 _Spanish :_ 
 
 * "[HILO OFICIAL] POPS emulador de PSX para PS2 @ Elotrolado":http://www.elotrolado.net/hilo_hilo-oficial-pops-emulador-de-psx-para-ps2_1874054
 
-_French :_ 
-* "POPStarter Revision 13, sorties et développements @ Metagames":http://www.metagames-eu.com/forums/news-ps2/popstarter-revision-13-sorties-et-developpements-134569.html
-* "[TUTO] POPStarter Rev 13 - Emulateur PS1 sur PS2 @ Metagames":http://www.metagames-eu.com/forums/les-tutoriels-playstation-2/tuto-popstarter-rev-13-emulateur-ps1-sur-ps2-133098.html
+_Portuguese :_ 
+
+* "(PS2) POPStarter 13 @ Outerspace":http://web.archive.org/web/20141104192642/http://forum.outerspace.terra.com.br/index.php?threads/ps2-popstarter-13.397319/
+
+* "Popstarter: Emulador de PS1 para PS2 @ Playstation2 Homebrew Addict":http://ps2home.forumeiro.com/t27-popstarter-emulador-de-ps1-para-ps2
 
 
-(PS2) POPStarter 13 @ Outerspace : http://forum.outerspace.terra.com.br/index.php?threads/ps2-popstarter-13.397319/
-Popstarter: Emulador de PS1 para PS2 @ Playstation2 Homebrew Addict : http://ps2home.forumeiro.com/t27-popstarter-emulador-de-ps1-para-ps2
-@ A9VG : http://bbs.a9vg.com/thread-4240514-1-1.html
