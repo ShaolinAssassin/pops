@@ -33,7 +33,7 @@ h2. _A) Installing the Emulator :_
 
 h2. _B) Installing your PS1 Games :_ 
 
-# Convert your BIN/CUE disc images to .VCD files using the latest stable version of CUE2POPS;
+# Convert your BIN/CUE disc images to .VCD files using the latest stable version of Toolbox;
 # Put your .VCD files in the "POPS" directory of your PS2 shared folder.
 
 h2. _C) Installing POPStarter & the network modules :_ 
