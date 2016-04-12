@@ -31,50 +31,20 @@ ________________________________________________________________________________
 
 h2. _Wiki Table of content :_ 
 
-"0.  News":https://bitbucket.org/SaulGoodman/popstarter/wiki/0.%20News
+"0.  News":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/News
 1.  VCD creation
-"2.  HDD mode":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
-......."POPS decrypted files":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
-......."Other Software Requirements":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
-......."Hardware Requirements":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
-......."A) Installing the Emulator":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
-......."B) Installing your PS1 Games":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
-......."C) Installing POPStarter":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
-......."Examples of Setups":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
-......."Additional notes":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
-"3.  USB mode":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
-......."POPS compressed file":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
-......."Other Software Requirements":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
-......."Hardware Requirements":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
-......."A) Installing the Emulator":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
-......."B) Installing your PS1 Games":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
-......."C) Installing POPStarter":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
-......."Example of Setup":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
-......."Additional notes":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
-"4.  SMB mode":https://bitbucket.org/SaulGoodman/popstarter/wiki/4.%20SMB%20mode
-......."POPS compressed file":https://bitbucket.org/SaulGoodman/popstarter/wiki/4.%20SMB%20mode
-......."Other Software Requirements":https://bitbucket.org/SaulGoodman/popstarter/wiki/4.%20SMB%20mode
-......."Hardware Requirements":https://bitbucket.org/SaulGoodman/popstarter/wiki/4.%20SMB%20mode
-......."A) Installing the Emulator & the network modules":https://bitbucket.org/SaulGoodman/popstarter/wiki/4.%20SMB%20mode
-......."B) Installing your PS1 Games":https://bitbucket.org/SaulGoodman/popstarter/wiki/4.%20SMB%20mode
-......."C) Installing POPStarter":https://bitbucket.org/SaulGoodman/popstarter/wiki/4.%20SMB%20mode
-......."Example of Setup":https://bitbucket.org/SaulGoodman/popstarter/wiki/4.%20SMB%20mode
-......."Additional notes":https://bitbucket.org/SaulGoodman/popstarter/wiki/4.%20SMB%20mode
-"5.  Game Compatibility":https://bitbucket.org/SaulGoodman/popstarter/wiki/5.%20Game%20compatibility
-......."Compatibility Lists & Forms":https://bitbucket.org/SaulGoodman/popstarter/wiki/5.%20Game%20compatibility
-......."Game Fix Archive":https://bitbucket.org/SaulGoodman/popstarter/wiki/5.%20Game%20compatibility
-......."Compatibility Modes":https://bitbucket.org/SaulGoodman/popstarter/wiki/5.%20Game%20compatibility
-......."Automated":https://bitbucket.org/SaulGoodman/popstarter/wiki/5a.%20Automated
+"2.  HDD mode":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/HDD%20mode
+"3.  USB mode":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/USB%20mode
+"4.  SMB mode":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/SMB%20mode
+"5.  Game Compatibility":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Game%20Compatibility
 6.  Features
-......."Hotkeys":https://bitbucket.org/SaulGoodman/popstarter/wiki/6a.%20Hotkeys
-......."Cheat Engine":https://bitbucket.org/SaulGoodman/popstarter/wiki/6b.%20Cheat%20Engine
+......."Hotkeys":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Hotkeys
+......."Cheat Engine":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Cheat%20Engine
 ......."IGR":
 ......."BIOS & OSD Handler":
-"7.  FAQs & help":https://bitbucket.org/SaulGoodman/popstarter/wiki/7.%20FAQs%20and%20Help
-"8.  Known bugs":https://bitbucket.org/SaulGoodman/popstarter/wiki/8.%20Known%20bugs
-"9.  POPStarter Configuration Table":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/9.%20POPStarter%20Configuration%20Table
-"10. History":https://bitbucket.org/SaulGoodman/popstarter/wiki/10.%20History
-"11. Related stuff":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
-......."Tools":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
-......."Tutorials":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
-......."Threads":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
+......."uLE_kHn":
+"7.  FAQs & help":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/FAQs%20and%20Help
+"8.  Known bugs":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Known%20bugs
+"9.  POPStarter Configuration Table":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
+"10. History":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/History
+"11. Related stuff":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Related%20Stuff
