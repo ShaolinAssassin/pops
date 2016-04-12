@@ -18,6 +18,8 @@ POPStarter Rev 12 : "here":https://docs.google.com/spreadsheet/ccc?key=0As_WFUFv
 
 POPS-00001 : "here":https://docs.google.com/spreadsheets/d/1OKjHsF2sk3LH6X9NiELvbK7fEkXnOyG3zidDjUvNRUk/edit#gid=0
 
+______________________________________________________________________________________________________________
+
 h2. _Compatibility modes :_ 
 
 If your game is poorly emulated, you can try to enable compatibility mode to see if it helps.
@@ -46,10 +48,18 @@ If the compatibility mode doesn't solve any problem in your game, delete the PAT
 *Using CHEATS.TXT file*
 See 6. Features section
 
+______________________________________________________________________________________________________________
+
 h2. _Game fixes :_ 
 
 In the Game Fixes Archive, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game; then run the game. 
 
+______________________________________________________________________________________________________________
+
 h2. _Automated fixes :_ 
 
 "Here":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/5a.%20Automatedis the list of all the LC Cracks, crash fixes & compatibility modes integrated into POPStarter.
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
