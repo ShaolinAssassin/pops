@@ -43,19 +43,6 @@ h2. _C) Installing POPStarter & the network modules :_
 # Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension, add the SB. prefix;   [example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "SB.Gran Turismo.elf"];
 # Copy or leave the ELFs where you want to run them from.
 
-* IPCONFIG.DAT syntax
-
-In a single line, 
-
-pre. 
-PS2 IP ADDRESS space NETMASK space GATEWAY
-
-
-Example below:
-
-pre. 
-192.168.0.13 255.255.255.0 192.168.0.254
-
 
 * SMBCONFIG.DAT syntax :
 
@@ -86,6 +73,20 @@ pre.
 192.168.0.254 My Shared Folder
 MyName
 MyPassword
+
+* IPCONFIG.DAT syntax _(this file is optionnal in SMB mode)_
+
+In a single line, 
+
+pre. 
+PS2 IP ADDRESS space NETMASK space GATEWAY
+
+
+Example below:
+
+pre. 
+192.168.0.13 255.255.255.0 192.168.0.254
+
 
 
 h2. _Example of Setups :_ 
