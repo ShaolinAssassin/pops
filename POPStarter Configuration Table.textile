@@ -15,9 +15,7 @@ Unless you know exactly what it is for and what you're doing, please don't tampe
 |   |   | 0xFF =  the debug texts are displayed in realtime without delay (like in POPStarter 12 and lower)|   |
 | *$411* | Break the POPStarter execution after an error has occured | 0x00 = POPStarter prints the error message for a short time, then it kicks the user to the OSD.|   |
 |   |   | 0x0X POPStarter prints the error message and sleeps on that screen indefinitely  |   |
-| *$412* | Skip most POPStarter functions (NOT FULLY IMPLEMENTED) | 0x00 = OFF |  That feature is not finished, I don't even know how it behaves atm. Use at your own risk. |
-|   |   | 0x01 = Level 1 |   |
-|   |   | 0x02 = Level 2 |   |
+| *$412* | NOT USED |  |  |
 | *$413* | USB access delay, after the execution of the POPStarter embedded USB modules | 0x02 should be fine. Increase the value if POPStarter fails to access your USB device |  |
 | *$414* | RESERVED (in USB operation mode) | Must be 0x40 |  |
 | *$416* | POPS dev9 module loading (in USB operation mode) | 0x00 = Let POPS load it Default is 0x03. If you need to wake the NIC up (for debugging stuff for example), set this to 0x00 |   |
