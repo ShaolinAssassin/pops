@@ -90,3 +90,7 @@ Don't combine modes 0x01, 0x02, 0x03 and 0x05. Activate only one of them, becaus
 # Read carefully the PFS Wrapper documentation (if any) or the author's post, in case it has been specified that it's not compatible with this POPStarter build;
 # Replace the installed PFS_WRAP.BIN file with the new one;
 # If the PFS Wrapper comes with USBD.IRX or USBHDFSD.IRX modules (or both), copy it in your POPS directory, otherwise POPStarter's embedded modules will be used by POPS.
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
