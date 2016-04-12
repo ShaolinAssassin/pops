@@ -1,6 +1,8 @@
 h1. *Game compatibility*
 ______________________________________________________________________
 
+_[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
+
 h2. _Lists and Forms :_ 
 
 These compatibility lists are managed by AlGollan84 (aka Algol, aka Allan58) and krHACKen
