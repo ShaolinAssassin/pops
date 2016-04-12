@@ -1,5 +1,5 @@
 h1. Introduction to POPStarter rev13
-________________________________________________
+
 
 h2. _Disclaimer :_ 
 
