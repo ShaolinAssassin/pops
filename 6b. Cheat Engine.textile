@@ -1,4 +1,4 @@
-h1. *POPStarter Advanced Configuration*
+h1. *Cheat Engine*
 ______________________________________________________________________
 
 h3. _Cheating :_
