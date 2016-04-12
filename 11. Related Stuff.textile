@@ -48,5 +48,6 @@ _Portuguese :_
 * "Popstarter: Emulador de PS1 para PS2 @ Playstation2 Homebrew Addict":http://ps2home.forumeiro.com/t27-popstarter-emulador-de-ps1-para-ps2
 
 ____________________________________________________________
-h1. "Back":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
 
