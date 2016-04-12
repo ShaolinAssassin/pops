@@ -1472,8 +1472,4 @@ X-Men: Children Of The Atom (SLUS-00044)
 
 ______________________________________________________________________________________________________________
 
-Special thanks to El_Patas. 524PSu1, the contributors @ ASSEMblergames, Elotrolado and Metagames.
-
-The integration of the compatibility modes was made with the help and contributions of,
-algol, El_Patas. 524PSu1, MrKARATEKYUKEN, Diego Cobo, emmanu878, Subaru-San, ruffonetas, windwaker, SDJ1977, Naughty Dog, ShaolinAssassin, Halas19.
-Thank you all !!! My apologies if I forgot to mention anyone, it wasn't intentional.
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
