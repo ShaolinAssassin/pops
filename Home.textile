@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 h3. _Table of content :_ 
 
-_1.  VCD creation
+1.  VCD creation
 2.  HDD mode
 -------POPS decrypted files
 -------Other Software Requirements
