@@ -10,7 +10,6 @@ Since WIP06 OBT ?, POPStarter can use GameShark/Action Replay cheat codes writen
 Create a text file nammed CHEATS.TXT, placed in the VMC folder of your game. In this text file, write $, then your code in GameShark/Action Replay format. 
 
 pre. 
-
 Ex : $800AC402 0800
 
 Notes :
