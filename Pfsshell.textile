@@ -1,9 +1,11 @@
 h1. [HDD] Transfer VCD files using PFSSHELL 0.2a
 
 h2. _Hardware :_ 
+
 * PS2 HDD formatted, with a __.POPS partition, locally connected to your PC
 
 h2. _Software :_ 
+
 * PFSSHELL 0.2a (running under winxp - or enable XP compatibility mode)
 ______________________________________________________________________________________________________________
 
