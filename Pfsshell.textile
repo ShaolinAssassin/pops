@@ -4,8 +4,12 @@ h1. Transfer VCD files using PFSSHELL 0.2a
 
 * Text version (base on the video tutorial) :
 
-Hardware :
-Software : 
+_Hardware :_
+* PS2 HDD formatted, with a __.POPS partition, locally connected to your PC
+
+_Software :_ 
+* PFSSHELL 0.2a (running under winxp - or enable XP compatibility mode)
+
 
 1. Put your VCDs files in the psshell 0.2a folder.
 2. Run pfsshell.exe
@@ -39,3 +43,9 @@ then
 pre. 
 exit 
 
+7. You're done. 
+
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
