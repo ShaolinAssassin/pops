@@ -11,8 +11,8 @@ ________________________________________________________________________________
 
 h2. _Downloads :_  
 
-*LATEST STABLE VERSION :* POPStarter Revision 13, WIP 05 (2015/06/03)
-*LATEST BETA VERSION :* POPStarter Revision 13, WIP 06, OBT 13 (2015/12/07)
+*LATEST STABLE VERSION :* "POPStarter Revision 13, WIP 05 (2015/06/03)":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/downloads/POPStarter_r13_WIP_06_OBT_13_20151207.zip
+*LATEST BETA VERSION :* "POPStarter Revision 13, WIP 06, OBT 13 (2015/12/07)":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/downloads/POPStarter%20r13%20WIP%2005.zip
 
 ______________________________________________________________________________________________________________
 
