@@ -12,6 +12,7 @@ Software :
 1. Put your VCDs files in the psshell 0.2a folder.
 2. Run pfsshell.exe
 3. Select your PS2 HDD using the following command line :
+
 pre. 
 device hddX:
 
@@ -20,8 +21,21 @@ where X is the number of your PS2 HDD.
 If you get this message : "ps2hdd: drive status 0, format version 00000002", continue.
 
 4. You now need to mount the POPS VCS partition, using the following command line : 
+
 pre. 
 mount __.POPS 
 
-5. Type
- 
+5. Transfer your VCDs files using the following command line : 
+
+pre. 
+put NAMEOFYOURVCD.VCD
+
+6. Once the transfer is over, you can transfer another VCD or quit the programm running :
+
+pre. 
+unmount
+
+then 
+
+pre.
+exit 
