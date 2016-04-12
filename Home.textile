@@ -42,29 +42,33 @@ h3. _Table of content :_
 .......Examples of Setups
 .......Additional notes
 3.  USB mode
--------POPS compressed file
--------Other Software Requirements
--------Hardware Requirements
--------A) Installing the Emulator
--------B) Installing your PS1 Games
--------C) Installing POPStarter
--------Examples of Setups
--------Additional notes
+.......POPS compressed file
+.......Other Software Requirements
+.......Hardware Requirements
+.......A) Installing the Emulator
+.......B) Installing your PS1 Games
+.......C) Installing POPStarter
+.......Examples of Setups
+.......Additional notes
 4.  SMB mode
--------POPS compressed file
--------Other Software Requirements
--------Hardware Requirements
--------A) Installing the Emulator
--------B) Installing your PS1 Games
--------C) Installing POPStarter
--------Examples of Setups
--------Additional notes
+.......POPS compressed file
+.......Other Software Requirements
+.......Hardware Requirements
+.......A) Installing the Emulator
+.......B) Installing your PS1 Games
+.......C) Installing POPStarter
+.......Examples of Setups
+.......Additional notes
 5.  Game Compatibility
--------Lists & forms
--------Game fix archive
--------Compatibility modes
--------Automated
+.......Lists & forms
+.......Game fix archive
+.......Compatibility modes
+.......Automated
 6.  Features
+.......Hotkeys
+.......Cheat Engine
+.......IGR
+.......BIOS & OSD handler
 7.  FAQs & help
 8.  Known bugs
 9.  POPStarter Configuration Table
