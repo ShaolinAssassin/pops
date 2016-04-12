@@ -60,7 +60,7 @@ ________________________________________________________________________________
 
 h2. _Automated fixes :_ 
 
-"Here":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/5a.%20Automatedis the list of all the LC Cracks, crash fixes & compatibility modes integrated into POPStarter.
+"Here":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Automated is the list of all the LC Cracks, crash fixes & compatibility modes integrated into POPStarter.
 
 ______________________________________________________________________________________________________________
 
