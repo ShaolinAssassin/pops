@@ -17,6 +17,9 @@ h2. _Automated Codes:_
 
 h2. _Left Stick is the D-Pad Code :_
 
+
+Copy/paste the code below in a CHEATS.TXT file placed into your VMC game folder.
+
 Code :
 
 
@@ -98,6 +101,5 @@ $20231FBC 03E00008
 $20231FC0 A32B0006
 
 
-Copy/paste this code in a CHEATS.TXT file placed into your VMC game folder.
 
 h2. _Widescreen code archive :_ 
