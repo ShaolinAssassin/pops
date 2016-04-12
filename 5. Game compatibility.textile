@@ -14,6 +14,11 @@ Submit your reports to the USB compatibility list : "here":https://docs.google.c
 * Rev 13 *SMB* compatibility list : "here":https://docs.google.com/spreadsheets/d/1LoLl_YVY2qlJN6F3Ubwd0AvqkeK0tbHqrIEjBiGmDpQ/edit#gid=0
 Submit your reports to the SMB compatibility list : "here":https://docs.google.com/forms/d/1zimkx1nufqgF808EyoDqC9_USV2FqSQKlka678wo67w/viewform
 
+Old compatibility list (outdated, for history) :
+
+* POPStarter Rev 12 : "here":https://docs.google.com/spreadsheet/ccc?key=0As_WFUFvrRw5dE5fWEU1TTlscW9XMUtuTE12aU04d3c#gid=0
+
+* POPS-00001 : "here":https://docs.google.com/spreadsheets/d/1OKjHsF2sk3LH6X9NiELvbK7fEkXnOyG3zidDjUvNRUk/edit#gid=0
 ______________________________________________________________________________________________________________
 
 h3. _Compatibility modes :_ 
