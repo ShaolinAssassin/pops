@@ -1,10 +1,8 @@
 h1. Transfer VCD files using PFSSHELL 0.2a
 
-_English version :_ 
-
 * Video tutorial made by Waats : https://www.youtube.com/watch?v=ks5CN-Kfv04
 
-* Text version :
+* Text version (base on the video tutorial) :
 
 Hardware :
 Software : 
@@ -37,5 +35,7 @@ unmount
 
 then 
 
-pre.
+
+pre. 
 exit 
+
