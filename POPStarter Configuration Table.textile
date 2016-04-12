@@ -18,6 +18,7 @@ Unless you know exactly what it is for and what you're doing, please don't tampe
 | *$412* | NOT USED |  |  |
 | *$413* | USB access delay, after the execution of the POPStarter embedded USB modules | 0x02 should be fine. Increase the value if POPStarter fails to access your USB device |  |
 | *$414* | RESERVED (in USB operation mode) | Must be 0x40 |  |
+| *$415* | User ID for individual VMCs | If set to 0x00, the function is disabled. | For assigning an ID to the couple of VMC, the value must be an ASCII character of "0", "1", "2", "3", "4", "5", "6", "7", "8" or "9" |
 | *$416* | POPS dev9 module loading (in USB operation mode) | 0x00 = Let POPS load it Default is 0x03. If you need to wake the NIC up (for debugging stuff for example), set this to 0x00 |   |
 |   |   | 0x03 = Forbids its loading |   |
 | *$417* | NOT USED |  |  |
