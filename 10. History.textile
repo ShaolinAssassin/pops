@@ -111,7 +111,7 @@ pre.
 - Speedup hack (Select+L2+R2+X) removed
 - Fixed : The LC fix was flushed and $FAKELC could not set it up
 
-* * 2015/07/13 (Beta 4)*
+* *2015/07/13 (Beta 4)*
 
 pre. 
 - Fixed : Bad cheat engine hook.
