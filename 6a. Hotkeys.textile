@@ -1,0 +1,9 @@
+h1. *POPStarter Hotkeys*
+______________________________________________________________________
+
+| *Hotkey* | *Description* | *Notes* |
+| Select+L1+R1 | native In-Game Reset | can be changed using the IGR behaviour modifiers |
+| Select+L1+R2 | enable the smooth texture mapping |  |
+| Select+L2+R1 | disable the smooth texture mapping |  |
+| Select+L2+R2+Triangle | open the PS1 CD lid |  |
+| Select+L2+R2+Square | close the PS1 CD lid |  |
