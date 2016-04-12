@@ -1,5 +1,5 @@
 h1. *POPStarter FAQs and Help*
-______________________________________________________________________
+
 
 _[From wip05 documentation]_
 
