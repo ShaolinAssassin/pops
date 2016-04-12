@@ -1,4 +1,4 @@
-h1. *POPStarter for internal HDD*
+h1. *POPStarter for SMB*
 ______________________________________________________________________
 
 _[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
