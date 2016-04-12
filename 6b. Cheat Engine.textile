@@ -136,7 +136,7 @@ ________________________________________________________________________________
 
 h2. _Widescreen Codes Archive :_ 
 
-Not a part of the POPStarter project, but worth to mention. Guys from "pcsx2 forum":http://forums.pcsx2.net made some great widescreen codes. Thank to El_Patas for keeping the archive updated. You can get the patches "here":http://forums.pcsx2.net/Thread-PSOne-Widescreen-Patches?pid=477709#pid477709
+Not a part of the POPStarter project, but worth to mention. Guys from "pcsx2 forum":http://forums.pcsx2.net made some great widescreen codes. Thank to El_Patas for keeping the archive updated. You can get the patches "here":http://forums.pcsx2.net/Thread-PSOne-Widescreen-Patches?pid=477709#pid477709. Credits to their authors. 
 
 ______________________________________________________________________________________________________________
 
