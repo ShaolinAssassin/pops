@@ -93,4 +93,4 @@ Don't combine modes 0x01, 0x02, 0x03 and 0x05. Activate only one of them, becaus
 
 ______________________________________________________________________________________________________________
 
-h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
