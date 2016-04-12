@@ -1,9 +1,9 @@
 h1. *Cheat Engine*
 ______________________________________________________________________
 
-h3. _Cheating :_
+h2. _Cheating :_
 
-h3. _Automated :_ 
+h2. _Automated Codes:_ 
 
 | *Cheat Code* | *Description* | *Notes* |
 | $SAFEMODE | Disable the cheat engine and only activate it after POPS has left the PS OSD | Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
@@ -15,6 +15,6 @@ h3. _Automated :_
 | $FAKELC | Loads a null LibCrypt magic word into the cop0 register | May be needed by some discs that have a messed up LC protection |
 | $USBDELAY_# | Sets up the PFS wrapper USB delay | (# is a number) |
 
-h3. _Left stick :_ 
+h2. _Left stick :_ 
 
-h3. _Widescreen code archive :_ 
+h2. _Widescreen code archive :_ 
