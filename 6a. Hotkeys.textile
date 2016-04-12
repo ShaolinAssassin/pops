@@ -7,3 +7,7 @@ ______________________________________________________________________
 | Select+L2+R1 | disable the smooth texture mapping |  |
 | Select+L2+R2+Triangle | open the PS1 CD lid |  |
 | Select+L2+R2+Square | close the PS1 CD lid |  |
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
