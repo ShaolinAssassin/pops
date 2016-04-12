@@ -34,7 +34,7 @@ h2. _A) Installing the Emulator :_
 h2. _B) Installing your PS1 Games :_ 
 
 # Convert your BIN/CUE disc images to .VCD files using the latest stable version of CUE2POPS;
-# Put your .VCD files in the in the "POPS" directory of your PS2 shared folder.
+# Put your .VCD files in the "POPS" directory of your PS2 shared folder.
 
 h2. _C) Installing POPStarter & the network modules :_ 
 
@@ -46,6 +46,7 @@ h2. _C) Installing POPStarter & the network modules :_
 * IPCONFIG.DAT syntax
 
 In a single line, 
+
 pre. 
 PS2 IP ADDRESS space NETMASK space GATEWAY
 
@@ -59,6 +60,7 @@ pre.
 * SMBCONFIG.DAT syntax :
 
 In a single line, 
+
 pre. 
 SERVER IP ADDRESS space SHARE NAME
 
