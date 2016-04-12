@@ -72,7 +72,7 @@ h2. _Wiki Table of content :_
 ......."BIOS & OSD Handler":
 "7.  FAQs & help":https://bitbucket.org/SaulGoodman/popstarter/wiki/7.%20FAQs%20and%20Help
 "8.  Known bugs":https://bitbucket.org/SaulGoodman/popstarter/wiki/8.%20Known%20bugs
-"9.  POPStarter Configuration Table":https://bitbucket.org/SaulGoodman/popstarter/wiki/9.%20POPStarter%20Configuration%20Table
+"9.  POPStarter Configuration Table":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/9.%20POPStarter%20Configuration%20Table
 "10. History":https://bitbucket.org/SaulGoodman/popstarter/wiki/10.%20History
 "11. Related stuff":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
 ......."Tools":https://bitbucket.org/SaulGoodman/popstarter/wiki/11.%20Related%20Stuff
