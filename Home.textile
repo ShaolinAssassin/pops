@@ -42,7 +42,7 @@ h2. _Wiki Table of content :_
 ......."C) Installing POPStarter":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
 ......."Examples of Setups":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
 ......."Additional notes":https://bitbucket.org/SaulGoodman/popstarter/wiki/2.%20HDD%20mode
-3.  USB mode":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
+"3.  USB mode":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
 ......."POPS compressed file":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
 ......."Other Software Requirements":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
 ......."Hardware Requirements":https://bitbucket.org/SaulGoodman/popstarter/wiki/3.%20USB%20mode
