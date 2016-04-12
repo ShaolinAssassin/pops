@@ -2,7 +2,7 @@ h1. *Related Stuff*
 
 *______________________________________________________________________*
 
-h3. _Links to some softwares you may need :_ 
+h2. _Links to some softwares you may need :_ 
 
 * ImgBurn : "here":http://imgburn.com/
 * PFSshell 0.2a : "here":http://www.sksapps.com/hd/pfsshell-0.2a.zip
@@ -16,7 +16,7 @@ h3. _Links to some softwares you may need :_
 
 ______________________________________________________________________
 
-h3. _Tutorials :_ 
+h2. _Tutorials :_ 
 
 *
 *
@@ -24,7 +24,7 @@ h3. _Tutorials :_
 
 ______________________________________________________________________
 
-h3. _Threads (POPStarter around the web) :_ 
+h2. _Threads (POPStarter around the web) :_ 
 
 
 _Chinese :_ 
