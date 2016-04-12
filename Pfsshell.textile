@@ -8,10 +8,10 @@ _Software :_
 
 ______________________________________________________________________________________________________________
 
-Video tutorial - made by Waats : https://www.youtube.com/watch?v=ks5CN-Kfv04
+h3. *Video tutorial* - made by Waats : https://www.youtube.com/watch?v=ks5CN-Kfv04
 ______________________________________________________________________________________________________________
 
-Text version (based on the video tutorial) :
+h3. *Text version* - based on the video :
 
 1. Put your VCDs files in the psshell 0.2a folder.
 2. Run pfsshell.exe
