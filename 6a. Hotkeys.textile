@@ -1,6 +1,8 @@
 h1. *POPStarter Hotkeys*
 ______________________________________________________________________
 
+_[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
+
 | *Hotkey* | *Description* | *Notes* |
 | Select+L1+R1 | native In-Game Reset | can be changed using the IGR behaviour modifiers |
 | Select+L1+R2 | enable the smooth texture mapping |  |
