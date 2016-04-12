@@ -1,0 +1,113 @@
+h1. *POPStarter for internal HDD*
+______________________________________________________________________
+
+_[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
+
+h2. _POPS compressed file :_
+
+To use POPStarter in SMB mode, you have to find and download the compressed POPS file. This file is named "POPS_IOP.PAK" and it's the same as the USB mode uses... You are on your own to find it (google is your friend ;) )
+
+| *File name* | *MD5* | *Description* | *Location* |
+| POPS_IOX.PAK | a625d0b3036823cdbf04a3c0e1648901 | old POPS.PAK with network modules embedded | smb0:/YourSharedFolder/POPS/POPS_IOX.PAK |
+
+h2. _Other Software Requirements :_
+
+* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as ToolBox)
+* A PS2 software that allows you to execute the POPStarter ELFs (such as uLaunchELF, or Free Harddisk Drive Boot...) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as uLE_kHn_20150602)
+* PS2 network modules
+* A text editor (such as Notepad)
+
+h2. _Hardware Requirements :_
+
+* A PS2 console which is able to run PS2 unsigned code
+* A PS2 console with a network interface (network adaptor or native)
+* A PS2 memory card
+
+______________________________________________________________________________________________________________
+
+h2. _A) Installing the Emulator :_
+
+# Find and download the compressed emulator files;
+# Create a directory named "POPS" in your PS2 shared folder;
+# Copy POPS_IOP.PAK  into the "POPS" directory you've just created.
+
+h2. _B) Installing your PS1 Games :_ 
+
+# Convert your BIN/CUE disc images to .VCD files using the latest stable version of CUE2POPS;
+# Put your .VCD files in the in the "POPS" directory of your PS2 shared folder.
+
+h2. _C) Installing POPStarter & the network modules :_ 
+
+# Grab the network modules and edit the 2 DAT files (syntax below) with your network settings;
+# Paste the network modules and the DAT files into mc#/:POPSTARTER/ folder;
+# Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension, add the SB. prefix;   [example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "SB.Gran Turismo.elf"];
+# Copy or leave the ELFs where you want to run them from.
+
+* IPCONFIG.DAT syntax
+
+In a single line, 
+pre. 
+PS2 IP ADDRESS space NETMASK space GATEWAY
+
+
+Example below:
+
+pre. 
+192.168.0.13 255.255.255.0 192.168.0.254
+
+
+* SMBCONFIG.DAT syntax :
+
+In a single line, 
+pre. 
+SERVER IP ADDRESS space SHARE NAME
+
+Example below:
+
+
+pre. 
+192.168.0.254 My Shared Folder
+
+
+You can also specify a port, like this (default is 445) :
+
+pre. 
+192.168.0.254:139 My Shared Folder
+
+
+
+For user authentication, write your username to line 2 and your password to line 3.
+
+Example below:
+
+pre. 
+192.168.0.254 My Shared Folder
+MyName
+MyPassword
+
+
+h2. _Example of Setups :_ 
+
+pre. 
+=== SMB, NEW LAUNCH TYPE ===
+mc#:/POPSTARTER/IPCONFIG.DAT
+mc#:/POPSTARTER/SMBCONFIG.DAT
+mc#:/POPSTARTER/poweroff.irx
+mc#:/POPSTARTER/ps2dev9.irx
+mc#:/POPSTARTER/smsutils.irx
+mc#:/POPSTARTER/ps2ip.irx
+mc#:/POPSTARTER/ps2smap.irx
+mc#:/POPSTARTER/smbman.irx
+smb0:/YourSharedFolder/POPS/POPS_IOX.PAK
+smb0:/YourSharedFolder/POPS/Crash Bandicoot.VCD
+smb0:/YourSharedFolder/POPS/SB.Crash Bandicoot.elf
+
+______________________________________________________________________________________________________________
+
+h2. _Additional notes :_
+
+* The file extension .VCD has to be uppercase.
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter/wiki/Home
