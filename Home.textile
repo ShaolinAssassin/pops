@@ -9,6 +9,13 @@ POPStarter is available for free download. If you spent an outrageous amount of 
 
 ______________________________________________________________________________________________________________
 
+h3. _Downloads :_  
+
+*LATEST STABLE VERSION :* POPStarter Revision 13, WIP 05 (2015/06/03)
+*LATEST BETA VERSION :* POPStarter Revision 13, WIP 06, OBT 13 (2015/12/07)
+
+______________________________________________________________________________________________________________
+
 h3. _Features :_ 
 
 * HDD, USB & SMB support
@@ -20,28 +27,18 @@ h3. _Features :_
 * IGR
 * BIOS & OSD handler
 
-*LATEST STABLE VERSION :* POPStarter Revision 13, WIP 05 (2015/06/03)
-*LATEST BETA VERSION :* POPStarter Revision 13, WIP 06, OBT 13 (2015/12/07)
-
-
-
-
 ______________________________________________________________________________________________________________
 
-# VCD creation
-# "HDD mode":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/2.%20HDD%20mode
-# "USB mode":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/3.%20USB%20mode 
-# SMB mode
-# "Game Compatibility":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/5.%20Game%20compatibility
-# Features
-# "FAQs":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/7.%20FAQs%20and%20Help
-# Known bugs
-# "POPStarter Advanced Configuration":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/9.%20POPStarter%20Advanced%20Configuration
-# "History":https://bitbucket.org/SaulGoodman/popstarter-wiki/wiki/10.%20History
-# Related stuff
+h3. _Table of content :_ 
 
-
-______________________________________________________________________________________________________________
-
-Thanks to conan14, Delcro, algol, ShaolinAssassin, El_Patas, orcanaoftime, MockyLock, Gillbert, ruffonetas, windwaker, SDJ1977, l_oliveira, SP193, hitchhikr, AKuHAK. Somechump, blueheaven, RandQalan, LocalH, SilverBull, root670, joseri, "someone who wants to remain anonymous"...
-... to anyone who contributed to the POPStarter development by reporting bugs and compatibility issues, to the persons who spontaneously donated me bucks.
+1.  VCD creation
+2.  HDD mode
+3.  USB mode 
+4.  SMB mode
+5.  Game Compatibility
+6.  Features
+7.  FAQs & help
+8.  Known bugs
+9.  POPStarter Configuration Table
+10. History
+11. Related stuff
