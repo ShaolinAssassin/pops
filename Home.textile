@@ -31,6 +31,7 @@ ________________________________________________________________________________
 
 h3. _Table of content :_ 
 
+0.  News
 1.  VCD creation
 2.  HDD mode
 .......POPS decrypted files
@@ -74,3 +75,6 @@ h3. _Table of content :_
 9.  POPStarter Configuration Table
 10. History
 11. Related stuff
+.......Tools
+.......Tutorials
+.......Threads
