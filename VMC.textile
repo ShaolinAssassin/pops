@@ -29,5 +29,11 @@ Let's say your game is MY_GAME.VCD. The VMCs are saved to /POPS/MY_GAME/. You wa
 
 ______________________________________________________________________________________________________________
 
+h2. _Additional notes :_ 
+
+* No physical MC support ATM - would be veeeeerrrrrrryyyyyyy sllllllooooooooowwwww...
+
+______________________________________________________________________________________________________________
+
 h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
 
