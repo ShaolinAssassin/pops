@@ -1,4 +1,7 @@
-h1. POPStarter Features
+h1. *POPStarter Features*
+
+
+______________________________________________________________________________________________________________
 
 * "Hotkeys":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Hotkeys
 * "Cheat Engine":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Cheat%20Engine
