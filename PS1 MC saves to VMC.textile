@@ -2,7 +2,7 @@ h1. [VMC] *Using your PS1 MC saves with POPStarter*
 
 
 ______________________________________________________________________________________________________________
-_[Original french tutorial by Subaru-San_ "@metagames":http://www.metagames-eu.com/forums/les-tutoriels-playstation-2/convertir-ses-saves-ps1-pour-pops-et-de-pops-pour-mc-ps1-134666.html] 
+_[Original french tutorial by Subaru-San]_ "@metagames":http://www.metagames-eu.com/forums/les-tutoriels-playstation-2/convertir-ses-saves-ps1-pour-pops-et-de-pops-pour-mc-ps1-134666.html 
 
 h2.  _Software Requirements :_ 
 
