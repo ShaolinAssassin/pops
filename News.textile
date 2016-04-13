@@ -3,11 +3,11 @@ h1. *News*
 ______________________________________________________________________________________________________________
 
 
-| *Hotkey* | *Description* | *Notes* |
-| !https://bitbucket.org/repo/Mpy7Eg/images/2070562384-new.gif(title)! | *Description* | *Notes* |
+|  | *Date* | *Description* | Wiki | POPStarter project |
+| !https://bitbucket.org/repo/Mpy7Eg/images/2070562384-new.gif(title)! | 04/13/2016 | "IGR page":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/IGR completed. | X | - |
+| !https://bitbucket.org/repo/Mpy7Eg/images/2070562384-new.gif(title)! | 04/12/2016 | wiki online. | X | - |
 
-
-* 04/13/2016 : "IGR page":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/IGR completed.
+* 04/13/2016 : 
 * 04/12/2016 : wiki online.
 
 ______________________________________________________________________________________________________________
