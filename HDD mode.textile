@@ -84,7 +84,7 @@ POPStarter bundle comes with a POPStrater.kelf (Krypo-elf,ELF embedded into a co
 
 *Notes if you use the POPStarter.KELF :* 
 * Partition name prefix is of course PP. (PPdot)
-* A partition per game
+* 1 partition = 1 game
 
 
 ______________________________________________________________________________________________________________
