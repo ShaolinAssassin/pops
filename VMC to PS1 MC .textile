@@ -1,4 +1,4 @@
-h1. [VMC] *Use your VMC saves on retail PS1*
+h1. [VMC] *Use your VMC saves on a PS1 retail console*
 
 
 ______________________________________________________________________________________________________________
@@ -16,12 +16,15 @@ ________________________________________________________________________________
 2. Launch MemcardRex, click "Open", then "All files", then browse to your VMC. You will see your VMC content.
 
 !https://bitbucket.org/repo/Mpy7Eg/images/1060162485-04_bmp10.jpg(title)!
+
 !https://bitbucket.org/repo/Mpy7Eg/images/2290081780-14_bmp10.jpg(title)!
 
 3. Select the save you want to export, click "Export", then choose "RAW single save (B???????????*)", then save. 
 
 !https://bitbucket.org/repo/Mpy7Eg/images/126152954-15_bmp10.jpg(title)!
+
 !https://bitbucket.org/repo/Mpy7Eg/images/2142941461-16_bmp10.jpg(title)!
+
 !https://bitbucket.org/repo/Mpy7Eg/images/3851751281-17_bmp10.jpg(title)!
 
 Your save is now extracted from the VMC.
