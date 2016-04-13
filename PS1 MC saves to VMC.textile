@@ -25,7 +25,7 @@ ________________________________________________________________________________
 ![06_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/1817022192-06_bmp10.jpg)
 ![07_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/1144105031-07_bmp10.jpg)
 
-4. If your PS1 game saves different kind of content (game date, settings data, replay data linke in this Gran Turismo save), you can also import them by repeating the operation. 
+4. If your PS1 game saves different kind of content (game date, settings data, replay data like in this _Gran Turismo_ save), you can also import them by repeating the operation. 
 
 ![10_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/2785125941-10_bmp10.jpg)
 
