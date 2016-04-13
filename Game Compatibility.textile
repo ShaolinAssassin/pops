@@ -6,7 +6,7 @@ _[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
 
 h2. _Compatibility Lists and Forms :_ 
 
-These compatibility lists are managed by AlGollan84 (aka Algol, aka Allan58) and krHACKen
+These compatibility lists are managed by AlGollan84 (aka Algol, aka Allan58) and krHACKen.
 
 * *Rev 13 Official Compatibility Lists :*
 
@@ -14,6 +14,8 @@ These compatibility lists are managed by AlGollan84 (aka Algol, aka Allan58) and
 | HDD | "here":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdFIzb3NuOWU2eWZqUDNwVl9uTzFPTGc#gid=0 | "here":https://docs.google.com/forms/d/17fb0I0GxnPpIuCvayFgFhd8MlozcBqR42kdzuOA5b1I/viewform |
 | USB | "here":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdGJyVDdyRXBQR0RsOTNrM3hvaFdacmc#gid=0 | "here":https://docs.google.com/forms/d/10oPoxZvdtiO3YOe9kX_isgCkJMizCD_nvcf6TH4Xvck/viewform |
 | SMB | "here":https://docs.google.com/spreadsheets/d/1LoLl_YVY2qlJN6F3Ubwd0AvqkeK0tbHqrIEjBiGmDpQ/edit#gid=0 | "here":https://docs.google.com/forms/d/1zimkx1nufqgF808EyoDqC9_USV2FqSQKlka678wo67w/viewform |
+
+* *EOL Compatibility list (managed by El_Patas) :* "here":http://www.el_patas.byethost10.com/pops/pops0-9.html
 
 * *Old Compatibility Lists (outdated & locked, for history) :* 
 
