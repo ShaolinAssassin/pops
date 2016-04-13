@@ -22,6 +22,7 @@ h2. _Tutorials :_
 
 * [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Pfsshell (english)
 * [VMC] "Use your PS1 MC saves with POPStarter":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/PS1%20MC%20saves%20to%20VMC (english)
+* [VMC] "Use your VMC saves on a PS1 retail console":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/VMC%20to%20PS1%20MC
 * [FULL DOCUMENTATION] "POPStarter Manual ":https://drive.google.com/file/d/0B7703VwHdBEPdDM1eDhCamxGOXc/view (portuguese)
 
 
