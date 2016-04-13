@@ -1,3 +1,17 @@
+h1. *In-Game-Reset*
+
+
+______________________________________________________________________________________________________________
+
+h2. _IGR Textures:_ 
+
+POPStarter has an IGR loader texture built-in so you can change the japanese IGR screen to one of your language. Just drop the "IGR_BG.TM2", "IGR_NO.TM2" and "IGR_YES.TM2" files into your POPS folder (hdd0:/__common /POPS, or mass0:/POPS, or smb0:/YourSharedFolder/POPS).
+
+*Note :* .TM2 extension MUST be UPPERCASE for internal HDD - or it won't work. 
+
+Some IGR textures made by the guys @"ASSEMbler":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/
+Kudos to them. Credits go to their original authors.
+
 | *Preview* | *Author* | *Chinese* |*English* | *French* | *Spanish* | *Polish* | *Portuguese* |
 | !https://bitbucket.org/repo/Mpy7Eg/images/1646263520-Original.png(title)! | arkl1t32 | - | X | X | - | X | - |
 | !https://bitbucket.org/repo/Mpy7Eg/images/527436286-Ps2%20v1.png(title)! | arkl1t32 | - | X | X | - | X | - |
