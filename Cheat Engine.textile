@@ -19,7 +19,7 @@ Notes :
 
 * Each game will have his own CHEATS.TXT file.
 * Some PS1 games need mastercodes otherwise they crash (ex : Air Race Championship). Only type C0 are supported. Mastercodes of type C1 (aka activation on delay time) are not and will not be supported.
-* You can enable a code for all your games if you place the CHEATS.TXT file in /POPS/ folder inteasted of the VMC folder.
+* You can enable a code for all your games if you place the CHEATS.TXT file in POPS folder instead of the VMC folder.
 
 ______________________________________________________________________________________________________________
 
