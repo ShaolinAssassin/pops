@@ -1,0 +1,29 @@
+h1. *Virtual Memory Cards*
+
+
+______________________________________________________________________________________________________________
+_[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
+
+
+______________________________________________________________________________________________________________
+
+h2. _Setting a path for the VMC folder
+
+Here's how to change the destination VMC folder of your games :
+Let's say your game is MY_GAME.VCD. The VMCs are saved to /POPS/MY_GAME/. You want the VMCs to be saved into /POPS/BLAHBLAH/ instead.
+# Create an empty text file;
+# Write BLAHBLAH into it;
+# Save it as VMCDIR.TXT;
+# Copy VMCDIR.TXT to /POPS/MY_GAME/
+
+* *Notes :* 
+*  All the POPStarter files (TROJANs, PATCHes, cheats...) will still be loaded from /POPS/MY_GAME/, but POPS will use the VMCs that are in /POPS/BLAHBLAH/
+* Characters that are obviously not allowed are / \ and :
+* VMCDIR.TXT will not be loaded if it's bigger than 103 bytes or if it contains more than 1 line.
+* New folder must still be placed in POPS folder.
+* Can not be used to swap disk for multi-disk games.
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
+
