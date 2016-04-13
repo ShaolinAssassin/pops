@@ -16,6 +16,8 @@ h2. _Other Software Requirements :_
 * A software that allows you to convert your disc images to the POPS virtual CDROM format (such as ToolBox)
 * A PS2 software that allows you to execute the POPStarter ELFs (such as uLaunchELF, or Free MC Boot...), or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as uLE_kHn_20150602)
 
+*Note :* you no longer need PFS_WRAP.BIN since OBT8, it's now embedded into POPStarter ELF.
+
 h2. _Hardware Requirements :_
 
 * A PS2 console which is able to run PS2 unsigned code
@@ -27,7 +29,7 @@ h2. _A) Installing the Emulator :_
 
 #  Find and download the emulator compressed file;
 #  Create a directory named "POPS" in the root of your USB device;
-# Copy POPS_IOP.PAK  into the "POPS" directory you've just created.
+#  Copy POPS_IOP.PAK  into the "POPS" directory you've just created.
 
 h2. _B) Installing your PS1 Games :_ 
 
@@ -57,14 +59,9 @@ h2. _Additional notes :_
 * The file extension .VCD has to be uppercase 
 * The third character of the ELF prefix is a dot (PPdot / __dot / XXdot).
 * The prefix has to be uppercase
-
+* Mass folders mass:/POPS/, mass:/POPS0/, mass:/POPS1/... to mass:/POPS9/ can received your VCDs (and will be read in this order). The usual files for the POPS folder (POPS_IOP.PAK & the TM2s) must remain in the main POPS folder.
+* You can use your own USB modules (usbd.irx & usbhdfsd.irx, case sensitive, no file size restriction) from mc#:/POPSTARTER/ (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...). Mass is not supported anymore.
 ______________________________________________________________________________________________________________
 
 h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
-
-
-
-- Now you can load the USB and network modules from the MC that is in the second slot too.
-  (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...)
-** 2015/10/23 (Beta 8) **
-- Complete rewrite and embedding of the PFS wrapper (POPStarter no longer loads PFS_WRAP.BIN)
+ 
