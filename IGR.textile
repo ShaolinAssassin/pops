@@ -9,8 +9,7 @@ POPStarter has an IGR loader texture built-in so you can change the japanese IGR
 
 *Note :* .TM2 extension MUST be UPPERCASE for internal HDD - or it won't work. 
 
-Some IGR textures made by the guys @"ASSEMbler":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/
-Kudos to them. Credits go to their original authors.
+Some IGR textures made by the guys @"ASSEMbler":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/. Kudos to them. Credits go to their original authors.
 
 | *Preview* | *Author* | *Chinese* |*English* | *French* | *Spanish* | *Polish* | *Portuguese* |
 | !https://bitbucket.org/repo/Mpy7Eg/images/1646263520-Original.png(title)! | arkl1t32 | - | X | X | - | X | - |
