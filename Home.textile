@@ -44,4 +44,4 @@ h2. _Wiki Table of content :_
 "8.  Known bugs":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Known%20bugs
 "9.  POPStarter Configuration Table":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
 "10. History":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/History
-"11. Related stuff":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Related%20Stuff
+"11. Tools, Tutorials...":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Related%20Stuff
