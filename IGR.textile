@@ -1,5 +1,31 @@
-h1. *In-Game-Reset*
+h1. *In Game-Reset*
 
+
+______________________________________________________________________________________________________________
+
+h2. _IGR Behaviour Modifiers :_ 
+
+POPStarter has his own IGR (Select+R1+L1). You can change the button combo using one PATCH/TROJAN.
+
+| *File name* | *Button combo* |
+| TROJAN_0.BIN | Hold L1+L2+R1+R2+X+Down to open the IGR menu |
+| TROJAN_1.BIN | Hold Start+Select to open the IGR menu |
+| TROJAN_2.BIN | Hold L1+L2+R1+R2+Start+Select to open the IGR menu |
+| TROJAN_3.BIN | Hold L1+L2+R1+R2+X+Down to terminate POPS (no IGR menu) |
+| TROJAN_4.BIN | Hold Start+Select to terminate POPS (no IGR menu) |
+| TROJAN_5.BIN | Hold L1+L2+R1+R2+Start+Select to terminate POPS (no IGR menu) |
+| PATCH_0.BIN | Disables the IGR menu |
+
+* *How to install :*
+Copy one of the PATCH/TROJAN files to the VMC directory of your game, or to the POPS directory.
+When copied to a VMC directory, it's used on the relative game only.
+When copied to the POPS directory, it's used on all the installed games.
+
+* *What to do if you don't want to overwrite your existing TROJAN_#.BIN/PATCH_#.BIN file :* 
+# Change the number in the name of the file you want to copy;
+# Open the file you want to copy with a hexadecimal editor, change the number in its header according to the one of the new file name;
+# And finally copy the edited file.
+POPStarter will refuse to load the PATCH/TROJAN file if the number in its filename doesn't match the number in its header.
 
 ______________________________________________________________________________________________________________
 
@@ -20,12 +46,12 @@ Some IGR textures made by the guys @"ASSEMbler":http://assemblergames.com/l/thre
 | !https://bitbucket.org/repo/Mpy7Eg/images/2807855345-preview_en.png(title)! | gledson99 | - | X | X | - | - | X |
 | !https://bitbucket.org/repo/Mpy7Eg/images/3600508499-preview_sp.png(title)! | El_Patas (mod of gledson99's) | - | X | - | - | X | - |
 
+______________________________________________________________________________________________________________
 
-** 2015/12/07 (Beta 13) **
-- Added a PS2 Memory Card BOOT.ELF launcher to the in-game reset function of POPS and to the quit-on-failure code of POPStarter.
-  The launcher looks for mc0:/BOOT/BOOT.ELF and mc1:/BOOT/BOOT.ELF. If not found/invalid, exits to the PS2 browser (OSDSYS should execute FMCB/FHDB, if installed to a COMPATIBLE console).
-  POPS will still kick you out to the OSD if it cannot init (cannot load modules, cannot open the VCD...) the launcher will not be invoked.
+h2. _"Exit to [name of app]" function :_ 
 
+POPStarter has a built-in launcher added to the in-game reset function. It looks for mc0:/BOOT/BOOT.ELF then mc1:/BOOT/BOOT.ELF. If not found/invalid, it exits to the PS2 browser. 
+If you want to exit to some app (uLE_kHn for example), name it BOOT.ELF and place it in the BOOT folder of your memory card. 
 
 ______________________________________________________________________________________________________________
 
