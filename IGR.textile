@@ -1,13 +1,12 @@
 
 
 
-
 | *Preview* | *Author* | *Chinese* |*English* | *French* | *Spanish* | *Polish* | *Portuguese* |
 | !https://bitbucket.org/repo/Mpy7Eg/images/1646263520-Original.png(title)! | arkl1t32 | - | link | link | - | link | - |
 
 
 
-pre. 
+
 ** 2015/12/07 (Beta 13) **
 - Added a PS2 Memory Card BOOT.ELF launcher to the in-game reset function of POPS and to the quit-on-failure code of POPStarter.
   The launcher looks for mc0:/BOOT/BOOT.ELF and mc1:/BOOT/BOOT.ELF. If not found/invalid, exits to the PS2 browser (OSDSYS should execute FMCB/FHDB, if installed to a COMPATIBLE console).
