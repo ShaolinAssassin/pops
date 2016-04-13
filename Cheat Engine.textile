@@ -6,7 +6,7 @@ _[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
 
 h2. _Cheating :_
 
-Since WIP06 OBT ?, POPStarter can use GameShark/Action Replay cheat codes writen into a text file. 
+Since WIP06 OBT 01, POPStarter can use GameShark/Action Replay cheat codes writen into a text file. 
 
 Create a text file nammed CHEATS.TXT, placed in the VMC folder of your game. In this text file, write $, then your code in GameShark/Action Replay format. 
 
