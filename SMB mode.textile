@@ -90,7 +90,7 @@ pre.
 
 
 
-h2. _Example of Setups :_ 
+h2. _Example of Setup :_ 
 
 pre. 
 === SMB LAUNCH TYPE ===
