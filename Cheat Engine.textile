@@ -8,14 +8,14 @@ h2. _Cheating :_
 
 Since WIP06 OBT 01, POPStarter can use GameShark/Action Replay cheat codes written into a text file. 
 
-Create a text file nammed CHEATS.TXT, placed in the VMC folder of your game. In this text file, write $, then your code in GameShark/Action Replay format. 
+Create a text file named CHEATS.TXT placed in the VMC folder of your game. In this text file, write $, then your code in GameShark/Action Replay format. 
 
 Ex : 
 
 pre. 
 $800AC402 0800
 
-Notes :
+*Notes :* 
 
 * Each game will have his own CHEATS.TXT file.
 * Some PS1 games need mastercodes otherwise they crash (ex : Air Race Championship). Only type C0 are supported. Mastercodes of type C1 (aka activation on delay time) are not and will not be supported.
@@ -143,7 +143,7 @@ Not a part of the POPStarter project, but worth to mention. Guys from "pcsx2 for
 
 *Note :* these files are "almost-ready-to-use" = you need to add the "$" symbol. 
 
-_Driver (teasing, yeah :p):_  
+_Colin McRae Rally 2 (teasing, yeah :p):_  
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3801833563-2md7xs.jpg(4:3)!
 
