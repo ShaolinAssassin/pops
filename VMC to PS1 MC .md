@@ -1,0 +1,29 @@
+h1. [VMC] *Use your VMC saves on retail PS1*
+
+
+______________________________________________________________________________________________________________
+_[Original french tutorial by Subaru-San - translation by ShaolinAssassin]_ "@metagames":http://www.metagames-eu.com/forums/les-tutoriels-playstation-2/convertir-ses-saves-ps1-pour-pops-et-de-pops-pour-mc-ps1-134666.html 
+
+h2.  _Software Requirements :_ 
+
+* uLaunchELF (any version)
+* MemcardRex 1.8
+
+______________________________________________________________________________________________________________
+
+1. Copy/paste your VMC from POPS directory to USB, then to your PC. 
+
+2. Launch MemcardRex, click "Open", then "All files", then browse to your VMC. You will see your VMC content.
+
+!https://bitbucket.org/repo/Mpy7Eg/images/1060162485-04_bmp10.jpg(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/2290081780-14_bmp10.jpg(title)!
+
+3. Select the save you want to export, click "Export", then choose "RAW single save (B???????????*)", then save. 
+
+!https://bitbucket.org/repo/Mpy7Eg/images/126152954-15_bmp10.jpg(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/2142941461-16_bmp10.jpg(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/3851751281-17_bmp10.jpg(title)!
+
+Your save is now extracted from the VMC.
+
+4. Time to import it to your PS1 MC. Use uLE to copy/paste it from USB to PS1 MC. 
