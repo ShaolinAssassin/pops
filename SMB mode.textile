@@ -93,7 +93,7 @@ pre.
 h2. _Example of Setups :_ 
 
 pre. 
-=== SMB, NEW LAUNCH TYPE ===
+=== SMB LAUNCH TYPE ===
 mc#:/POPSTARTER/IPCONFIG.DAT
 mc#:/POPSTARTER/SMBCONFIG.DAT
 mc#:/POPSTARTER/poweroff.irx
