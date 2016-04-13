@@ -1,4 +1,4 @@
-h1. *POPStarter for SMB*
+h1. *POPStarter for SMB (since OBT08)*
 
 
 ______________________________________________________________________________________________________________
@@ -45,7 +45,7 @@ h2. _C) Installing POPStarter & the network modules :_
 # Copy or leave the ELFs where you want to run them from.
 
 
-* SMBCONFIG.DAT syntax :
+* *SMBCONFIG.DAT syntax :*
 
 In a single line, 
 
@@ -75,7 +75,7 @@ pre.
 MyName
 MyPassword
 
-* IPCONFIG.DAT syntax _(this file is optionnal in SMB mode)_
+* *IPCONFIG.DAT syntax* _(this file is optionnal in SMB mode)_
 
 In a single line, 
 
@@ -111,6 +111,9 @@ ________________________________________________________________________________
 h2. _Additional notes :_
 
 * The file extension .VCD has to be uppercase.
+* The third character of the ELF prefix is a dot (PPdot / __dot / XXdot / SBdot).
+* The prefix has to be uppercase
+* You can load the network modules from the MC that is in the second slot too. (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...).
 
 ______________________________________________________________________________________________________________
 
