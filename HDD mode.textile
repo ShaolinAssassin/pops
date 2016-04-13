@@ -78,6 +78,17 @@ PP.Crash_Bandicoot/IMAGE0.VCD
 
 ______________________________________________________________________________________________________________
 
+h2. _POPSTARTER.KELF :_ 
+
+POPStarter bundle comes with a POPStrater.kelf (Krypo-elf,ELF embedded into a container). It can be used of you have the Browser 2.00 aka HDDOSD installed on your HDD. Otherwise, it's useless. Use AkuHak's hdl_dumx to install it.
+
+*Notes if you use the POPStarter.KELF :* 
+* Partition name prefix is of course PP. (PPdot)
+* A partition per game
+
+
+______________________________________________________________________________________________________________
+
 h2. _Additional notes :_
 
 * The internal HDD has to be PS2 formatted. If you need to format it, I'd recommend you use the latest WIP version of AKuHAK's uLaunchELF HDD edition (find the link in 0-INTRODUCTION.TXT)
