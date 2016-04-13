@@ -6,7 +6,7 @@ _[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
 
 h2. _Compatibility Lists and Forms :_ 
 
-These compatibility lists are managed by AlGollan84 (aka Algol, aka Allan58) and krHACKen.
+These compatibility lists are managed by AlGollan84 (aka Algol aka Allan58) and krHACKen.
 
 * *Rev 13 Official Compatibility Lists :*
 
