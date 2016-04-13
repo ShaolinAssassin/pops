@@ -16,8 +16,6 @@ h2. _Other Software Requirements :_
 * A software that allows you to convert your disc images to the POPS virtual CDROM format (such as ToolBox)
 * A PS2 software that allows you to execute the POPStarter ELFs (such as uLaunchELF, or Free MC Boot...), or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as uLE_kHn_20150602)
 
-*Note :* you no longer need PFS_WRAP.BIN since OBT8, it's now embedded into POPStarter ELF.
-
 h2. _Hardware Requirements :_
 
 * A PS2 console which is able to run PS2 unsigned code
@@ -40,6 +38,8 @@ h2. _C) Installing POPStarter :_
 
 #  Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension, add the XX. prefix;   [example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "XX.Gran Turismo.elf"]
 #  Copy or leave the ELFs where you want to run them from.
+
+*Note :* you no longer need PFS_WRAP.BIN since OBT8, it's now embedded into POPStarter ELF.
 
 h2. _Example of Setup :_ 
 
