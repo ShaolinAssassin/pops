@@ -26,17 +26,25 @@ device hddX:
 
 where X is the number of your PS2 HDD.
 
+!https://bitbucket.org/repo/Mpy7Eg/images/3283922665-1.png(title)!
+
 If you get this message : "ps2hdd: drive status 0, format version 00000002", continue.
+
+!https://bitbucket.org/repo/Mpy7Eg/images/164592225-4.png(title)!
 
 4. You now need to mount the POPS VCD partition, using the following command line : 
 
 pre. 
 mount __.POPS 
 
+!https://bitbucket.org/repo/Mpy7Eg/images/3289115186-3.png(title)!
+
 5. Transfer your 1st VCD file using the following command line : 
 
 pre. 
 put NAMEOFYOURVCD.VCD
+
+!https://bitbucket.org/repo/Mpy7Eg/images/1601087869-2.png(title)!
 
 6. Once the transfer is over, you can transfer another VCD or quit the programm running :
 
