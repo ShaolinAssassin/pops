@@ -1,6 +1,7 @@
 h1. *POPStarter FAQs and Help*
 
 
+______________________________________________________________________________________________________________
 _[From wip05 documentation]_
 
 *POPStarter takes you to the PS2 browser after you launch it. All you can see is a black screen, then the PS2 menu*
