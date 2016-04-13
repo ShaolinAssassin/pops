@@ -236,11 +236,9 @@ NOTES : So, I tried the "partition icon to VMC folder icon" function of WIP 02. 
 * *POPStarter Revision 13, Build Date : 2015/05/31, WIP 04 PUBLIC RELEASE*
 
 pre. 
-
 - Removed the messed up partition icon to VMC folder icon code. It was saving garbage data in list.ico, so the VMC folders of PP. installed games were displayed as "corrupted data".
 
 * *POPStarter Revision 13, Build Date : 2015/04/24, WIP 03 PUBLIC RELEASE*
-
 
 pre. 
 - Fixed: SJIS conversion error in the icon.sys generator for the VMC directories
