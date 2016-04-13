@@ -17,9 +17,24 @@ ________________________________________________________________________________
 
 2. Launch MemcardRex, click "Open", then "All files", then browse to your VMC.
 
-![01_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/2084063178-01_bmp10.jpg)
-![02_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/2329291489-02_bmp10.jpg)
-![03_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/2348636821-03_bmp10.jpg)
+!https://bitbucket.org/repo/Mpy7Eg/images/1060162485-04_bmp10.jpg(title)!
+
+3. Import PS1 saves into the VMC : select the first Free slot, then "Import Save", then browse to your PS1 MC save, select it and you're done. Your PS1 MC save is now in your VMC.
+
+![05_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/3387794816-05_bmp10.jpg)
+![06_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/1817022192-06_bmp10.jpg)
+![07_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/1144105031-07_bmp10.jpg)
+
+4. If your PS1 game saves different kind of content (game date, settings data, replay data linke in this Gran Turismo save), you can also import them by repeating the operation. 
+
+![10_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/2785125941-10_bmp10.jpg)
+
+5. Time to save your work.
+
+![08_bmp10.jpg](https://bitbucket.org/repo/Mpy7Eg/images/3460739571-08_bmp10.jpg)
+
+6. Done. Copy/paste your VMC into your POPS directory and enjoy your old PS1 saves with POPS. 
+
 
 
 ______________________________________________________________________________________________________________
