@@ -10,8 +10,10 @@ Since WIP06 OBT ?, POPStarter can use GameShark/Action Replay cheat codes writen
 
 Create a text file nammed CHEATS.TXT, placed in the VMC folder of your game. In this text file, write $, then your code in GameShark/Action Replay format. 
 
+Ex : 
+
 pre. 
-Ex : $800AC402 0800
+$800AC402 0800
 
 Notes :
 
@@ -141,11 +143,15 @@ Not a part of the POPStarter project, but worth to mention. Guys from "pcsx2 for
 
 *Note :* these files are "almost-ready-to-use" = you need to add the "$" symbol. 
 
-_Driver Teaser :_ :P 
+_Driver (teasing, yeah :p):_  
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3801833563-2md7xs.jpg(4:3)!
 
+_4:3_
+
 !https://bitbucket.org/repo/Mpy7Eg/images/4286767539-2n0oweq.jpg(16:9)!
+
+_16:9_
 
 ______________________________________________________________________________________________________________
 
