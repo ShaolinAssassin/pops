@@ -21,7 +21,7 @@ h2. _Tutorials :_
 
 
 * [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Pfsshell (english)
-* POPStarter Manual (portuese)
+* "POPStarter Manual (portuese)":https://drive.google.com/file/d/0B7703VwHdBEPdDM1eDhCamxGOXc/view
 
 
 ______________________________________________________________________________________________________________
