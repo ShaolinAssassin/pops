@@ -22,7 +22,8 @@ h2. _Hardware Requirements :_
 
 * A PS2 console which is able to run PS2 unsigned code
 * A PS2 console with a network interface (network adaptor or native)
-* A PS2 memory card
+* A network cable
+* A PS2 Memory Card
 
 ______________________________________________________________________________________________________________
 
