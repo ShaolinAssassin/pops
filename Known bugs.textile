@@ -3,7 +3,9 @@ h1. *Known bugs*
 
 
 ______________________________________________________________________________________________________________
-* 
+_[From wip05 documentation]_
+
+* The clock rate of the emulator running in PAL is not correct. This may lead the emulator to re-sync the A/V by itself and to cause stuttering during XA playback.
 
 ______________________________________________________________________________________________________________
 
