@@ -1,4 +1,4 @@
-h1. [VMC] *Using your PS1 MC saves with POPStarter*
+h1. [VMC] *Use your PS1 MC saves with POPStarter*
 
 
 ______________________________________________________________________________________________________________
