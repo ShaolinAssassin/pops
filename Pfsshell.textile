@@ -41,7 +41,7 @@ put NAMEOFYOURVCD.VCD
 6. Once the transfer is over, you can transfer another VCD or quit the programm running :
 
 pre. 
-unmount
+umount
 
 then 
 
