@@ -2,7 +2,7 @@ h1. *News*
 
 ______________________________________________________________________________________________________________
 
-* 04/13/2016 : "IGR":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/IGR page completed.
+* 04/13/2016 : "IGR page":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/IGR completed.
 * 04/12/2016 : wiki created & online.
 
 ______________________________________________________________________________________________________________
