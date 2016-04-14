@@ -1,0 +1,37 @@
+h1. [HDD] *Transfer VCD files over network using RadHostClient*
+
+
+______________________________________________________________________________________________________________
+
+
+h2. _Hardware Requirements :_ 
+
+* PS2 HDD formatted, with a __.POPS partition, connected to your PC via network
+
+h2. _Software Requirements :_ 
+
+* RadHostClient
+* uLE (any version)
+
+______________________________________________________________________________________________________________
+
+
+1. [PS2] If not done yet, configure using uLE your network settings giving your PS2 an IP adress ("Configure uLaunchElf/Network Settings..."). Do not forget to save it - and do not forget the IP adress;
+
+2. [PS2] Go back to uLE File broswer, then enter host:/;
+
+3. [PC] Launch RadHostClient (admin mode ?) and set the PS2 IP adress. Once your PS2 is detected over network, you will see "Connected" at the bottom of RadHostClient program;
+
+4. [PC] Drag & drop your VCD(s) from his (their) folder(s) to RadHostClient program;
+
+5. [PS2] Time to refresh : go back to uLE File broswer, then enter host:/ again;
+
+6. [PS2] Your VCD(s) should now be visible into uLE. Copy/paste your VCD(s) from host:/ to __.POPS partition;
+
+7. You're done.
+
+
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
