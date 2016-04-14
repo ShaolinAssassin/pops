@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 h2. _Wiki Table of content :_ 
 
-"1.  Converting your PS1 games to VCD format:"https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/VCD
+"1.  Converting your PS1 games to VCD format":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/VCD
 "2.  HDD mode":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/HDD%20mode
 "3.  USB mode":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/USB%20mode
 "4.  SMB mode":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/SMB%20mode
