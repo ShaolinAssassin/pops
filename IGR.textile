@@ -7,7 +7,7 @@ _[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
 
 h2. _IGR Behaviour Modifiers :_ 
 
-POPStarter has his own IGR (Select+R1+L1). You can change the button combo using one PATCH/TROJAN.
+POPStarter has his own IGR (Select+R1+L1). You can change the button combo using one PATCH/TROJAN ("IGR Behaviour Modifiers archive":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/downloads/IGR%20Behaviour%20Modifiers.zip).
 
 | *File name* | *Button combo* |
 | TROJAN_0.BIN | Hold L1+L2+R1+R2+X+Down to open the IGR menu |
