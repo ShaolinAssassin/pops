@@ -1,11 +1,4 @@
-h1. *Codes for PS2 cheat device*
-
-
-______________________________________________________________________________________________________________
-
-
-
-Massive code list of PS1 codes that can be used with a PS2 cheat device (only). 
+PS1 codes in PS2 RAW
 
 
 "360 (UK)"
@@ -24545,6 +24538,3 @@ Infinite Health P2
 
 
 
-______________________________________________________________________________________________________________
-
-h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
