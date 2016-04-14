@@ -4,9 +4,8 @@ h1. *Converting your PS1 games to VCD format*
 
 ______________________________________________________________________________________________________________
 
-h2. _Toolbox :_ 
+h2. _"Toolbox":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/downloads/ToolBox.zip :_ 
 
-Download *"Toolbox":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/downloads/ToolBox.zip*.
 
 POPS uses VCD format. You need to create a 1:1 image of your PS1 game, first in .BIN+.CUE format using your favorite dump software, then to .VCD using Toolbox. 
 
