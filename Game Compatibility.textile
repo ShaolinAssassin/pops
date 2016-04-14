@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
 h2. _Game fixes :_ 
 
-In the Game Fixes Archive, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game; then run the game. 
+In the "Game Fixes Archive":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/downloads/IGR%20Behaviour%20Modifiers.zip, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game; then run the game. 
 
 ______________________________________________________________________________________________________________
 
