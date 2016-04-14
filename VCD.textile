@@ -11,15 +11,12 @@ POPS uses VCD format. You need to create a 1:1 image of your PS1 game, first in 
 
 Your .BIN+.CUE image must be in Mode 2 RAW format (MODE2/2352) and the .CUE in ASCII. Open the .CUE file in a text editor and check the first line. If you can see "MODE2/2352", it's ok. 
  
-* *Simple :* 
 
 # Put your .BIN+.CUE image in the Toolbox folder. 
 # Drag & drop your .CUE file on the CUE2POPS.BAT file. 
 # A .VCD image of your game will be created in the folder. You're done.
 
-* *Advanced :* 
 
-(to be continued)
 
 *Note :* 
 * If your .CUE is missing, you can download an archive (bunch of PS1 .CUEs) from "here":http://redump.org/cues/psx/ (do not forget that names of .BIN & .CUE must match. Ex : Driver.bin & Driver.cue. Rename your .BIN, as maybe the .CUE you downloaded has info inside about CD tracks). 
