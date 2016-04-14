@@ -4,7 +4,7 @@ h1. *Converting to VCD format*
 
 ______________________________________________________________________________________________________________
 
-h. _Toolbox :_ 
+h2. _Toolbox :_ 
 
 POPS uses VCD format. You need to create a 1:1 image of your PS1 game, first in .BIN+.CUE format using your favorite dump software, then to .VCD using Toolbox. 
 
@@ -20,7 +20,7 @@ Your .BIN+.CUE image must be in Mode 2 RAW format (MODE2/2352) and the .CUE in A
 
 ______________________________________________________________________________________________________________
 
-h. _Multi-disc games :_ 
+h2. _Multi-disc games :_ 
 
 POPS doesnt have a swap disc feature. To play multi-disc games, you need to combine the several discs of your game into a single .BIN+.CUE files using a "kit":https://app.box.com/s/b02715f2fe91cdc42fd1, then convert it using Toolbox. 
 
