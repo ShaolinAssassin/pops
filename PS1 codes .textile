@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 Massive code list of PS1 codes that can be used with a PS2 cheat device (only). 
 
-//--------
+
 "360 (UK)"
 POPS Enable Code
 902377F4 0C0902EF
@@ -24541,7 +24541,7 @@ Infinite Health P1
 1106E176 000000C8
 Infinite Health P2
 1106EDDE 000000C8
-//--------
+
 
 
 
