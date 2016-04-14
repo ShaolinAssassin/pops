@@ -3,6 +3,8 @@ h1. *Codes for PS2 cheat device*
 
 ______________________________________________________________________________________________________________
 
+
+
 Massive code list of PS1 codes that can be used with a PS2 cheat device (only). 
 
 //--------
