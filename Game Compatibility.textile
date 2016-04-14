@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 h2. _Compatibility modes :_ 
 
-If your game is poorly emulated, you can try to enable compatibility mode to see if it helps.
+If your game is poorly emulated, you can try to enable a "compatibility mode":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/downloads/Compatibility%20Modes.zip to see if it helps.
 
 | *Compatibility mode* | *Description* | *File Name* | *Cheat code* |
 | 0×01 | helps restoring the music/voices in several games | PATCH_1.BIN | $COMPATIBILITY_0x01 |
