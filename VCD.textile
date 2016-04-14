@@ -1,4 +1,4 @@
-h1. *Converting to VCD format*
+h1. *Converting your PS1 games to VCD format*
 
 
 
@@ -18,6 +18,7 @@ Your .BIN+.CUE image must be in Mode 2 RAW format (MODE2/2352) and the .CUE in A
 
 *Advanced :* 
 
+(to be continued)
 ______________________________________________________________________________________________________________
 
 h2. _Multi-disc games :_ 
