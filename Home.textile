@@ -1,4 +1,4 @@
-h1. Introduction to POPStarter rev13
+h1. *Introduction to POPStarter rev13*
 
 
 ______________________________________________________________________________________________________________
@@ -33,8 +33,7 @@ ________________________________________________________________________________
 
 h2. _Wiki Table of content :_ 
 
-"0.  News":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/News
-1.  VCD creation
+"1.  Converting your PS1 games to VCD format:"https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/VCD
 "2.  HDD mode":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/HDD%20mode
 "3.  USB mode":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/USB%20mode
 "4.  SMB mode":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/SMB%20mode
