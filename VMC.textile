@@ -6,7 +6,7 @@ _[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
 
 h2. _About VMC :_ 
 
-When you launch a game for the very first time, a new folder named "NameofyourVCD" will be created into your POPS directory. It has 2 files (SLOT0.VMC & SLOT1.VMC), which are you VMC. If you know how to hexedit POPStarter, you can change it to have only 1 VMC created - or not at all. Check the "configuration table":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table to know how to change the default setting (offset $429).
+When you launch a game for the very first time, a new folder named "Nameofyourgame.VCD" will be created into your POPS directory. It has 2 files (SLOT0.VMC & SLOT1.VMC), which are you VMC. If you know how to hexedit POPStarter, you can change it to have only 1 VMC created - or not at all. Check the "configuration table":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table to know how to change the default setting (offset $429).
 
 ______________________________________________________________________________________________________________
 
@@ -25,7 +25,7 @@ Let's say your game is MY_GAME.VCD. The VMCs are saved to /POPS/MY_GAME/. You wa
 * VMCDIR.TXT will not be loaded if it's bigger than 103 bytes or if it contains more than 1 line.
 * New folder must still be placed in POPS folder.
 * Can not be used to swap disk for multi-disk games.
-* This feature is useful when you are several users and want to use different VMC. Each user can have his own VMC folder.
+* This feature is useful when you are several users and want to use different VMCs. Each user can have his own VMC folder.
 
 ______________________________________________________________________________________________________________
 
