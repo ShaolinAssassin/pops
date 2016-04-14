@@ -1,0 +1,34 @@
+h1. *uLE_kHn*
+
+
+______________________________________________________________________________________________________________
+_[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
+
+
+
+
+
+______________________________________________________________________________________________________________
+
+h2. *Changelogs :* 
+
+
+pre. 
+uLE_kHn_20150727
+- Sbv from PS2SDK commit c6cd5b3447
+- Old USBD (CRC32 8EA56869) + USBHDFSD of POPStarter r13 WIP 02/05 (CRC32 E96C037A)
+- Added support for running VCDs from mass:/POPS#/ (as introduced in POPStarter r13 WIP 06 OBT)
+- The stub of the packed ELF is a clone of the POPStarter r13 payload.
+Side note : compiled the same day as POPStarter r13 WIP 06 open beta 6
+
+uLE_kHn_20150602
+- Fixed : Red screen of death in the PSX after selecting MISC/PS2Browser
+- MISC/PS2Browser does not skip the HDD and the MC when uLE has not been run from the MBR
+
+uLE_kHn_20150506
+- Fixed : Cannot launch ELFs/VCDs on slims and fats that don't have a HDD
+
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
