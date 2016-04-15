@@ -1,0 +1,25 @@
+
+
+1. VCD
+2. HDD mode
+3. USB mode
+4. SMB mode
+5. Game Compatibility
+----Automated
+6. Features
+----VMC
+----Hotkeys
+----Cheat Engine
+---------PS1 codes in PS2 RAW
+----IGR
+----“BIOS & OSD Handler”:
+----uLE_kHn
+7. FAQs & help
+8. Known bugs
+9. POPStarter Configuration Table
+10. History
+11. Tools, Tutorials…
+-----Pfsshell
+-----RadHostClient
+-----VMC to PS1 MC
+-----PS1 MC saves to VMC
