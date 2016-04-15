@@ -5,9 +5,9 @@ ________________________________________________________________________________
 _[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
 
 | *Hotkey* | *Description* | *Notes* |
-| Select+L1+R1 | Native In-Game Reset | can be changed using the IGR behaviour modifiers |
-| Select+L1+R2 | Enables the smooth texture mapping |  |
-| Select+L2+R1 | Disables the smooth texture mapping |  |
+| Select+L1+R1 | Native In-Game Reset | Can be changed using the IGR Behaviour Modifiers. |
+| Select+L1+R2 | Enable the smooth texture mapping |  |
+| Select+L2+R1 | Disable the smooth texture mapping |  |
 | Select+L2+R2+Triangle | Opens the PS1 CD lid | If used with a BIOS.BIN, opening the lid at startup makes the MC manager and the CD Player reachable.  |
 | Select+L2+R2+Square | Closes the PS1 CD lid | Closing the lid in the OSD will run the game. |
 
