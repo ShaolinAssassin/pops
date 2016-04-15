@@ -27,6 +27,7 @@ h2. _Details :_
 
 * Tool name : CUE2POPS Lite (base v2.1 beta 2)
 * 
+
 pre. 
 Hello! I convert BIN+CUE disc images to the POPS format.
 The BIN has to be a raw MODE2/2352 dump.
