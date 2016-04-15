@@ -9,8 +9,11 @@ h2. _List of Toolbox commands :_
 | *Command* | *Description* |
 
 | -cue2pops | Convert a BIN+CUE to a POPS formatted VCD | 
+
 | -lc | Make a LibCrypt cracker, for protected PAL games (TROJAN file) | 
+
 | -vmode |  Make a PAL to NTSC patcher, expect unpleasant rendering (TROJAN file) | 
+
 | -trainer | Compile a trainer so you activate permanent game cheats (TROJAN file) | 
 | -makeosd | Convert a PS-X executable to a replacement OSD file (OSD.BIN) | 
 | -igrpix | Assemble an IGR theme that you can copy to VMC folders (PATCH file) | 
