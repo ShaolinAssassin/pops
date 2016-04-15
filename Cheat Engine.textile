@@ -8,7 +8,7 @@ h2. _Cheating :_
 
 Since WIP06 OBT 01, POPStarter can use GameShark/Action Replay cheat codes written into a text file. 
 
-Create a text file named CHEATS.TXT placed in the VMC folder of your game. In this text file, write $, then your code in GameShark/Action Replay format. 
+Create a text file named CHEATS.TXT & place it into the VMC folder of your game. In this text file, write $, then your code in GameShark/Action Replay format. 
 
 Ex : 
 
@@ -17,7 +17,7 @@ $800AC402 0800
 
 *Notes :* 
 
-* Each game will have his own CHEATS.TXT file.
+* Each game must have his own CHEATS.TXT file.
 * Some PS1 games need mastercodes otherwise they crash (ex : Air Race Championship). Only type C0 are supported. Mastercodes of type C1 (aka activation on delay time) are not and will not be supported.
 * You can enable a code for all your games if you place the CHEATS.TXT file in POPS folder instead of the VMC folder.
 
@@ -25,21 +25,21 @@ ________________________________________________________________________________
 
 h2. _Automated Codes:_ 
 
-Some useful codes have been automatised. Here are them :
+Some useful codes have been automated. Here are them :
 
 | *Cheat Code* | *Description* | *Notes* |
 | $SAFEMODE | Disable the cheat engine and only activate it after POPS has left the PS OSD | Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
-| $SMOOTH | Enables the smooth texture mapping at startup | |
-| $NOPAL | Disables POPStarters' PAL patcher | |
-| $FORCEPAL | Forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL)  | Useful for PAL VCDs that don't have a valid license text in their bootsector | 
-| $COMPATIBILITY_0x## | Activates a compatibility mode | (where ## is a hexadecimal value) You can write as many $COMPATIBILITY_0x## as you want |
+| $SMOOTH | Enable the smooth texture mapping at startup | |
+| $NOPAL | Disable POPStarters' PAL patcher | PATCH_9.BIN now obsolete |
+| $FORCEPAL | Force the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL)  | Useful for PAL VCDs that don't have a valid license text in their bootsector. PATCH_8.BIN now obsolete | 
+| $COMPATIBILITY_0x## | Activate a compatibility mode | (where ## is a hexadecimal value) You can write as many $COMPATIBILITY_0x## as you want |
 | $CACHE1 | Makes POPS buffer 1 sector instead of 16 | |
 | $FAKELC | Loads a null LibCrypt magic word into the cop0 register | May be needed by some discs that have a messed up LC protection |
 | $USBDELAY_# | Sets up the PFS wrapper USB delay | (# is a number) |
 
 ______________________________________________________________________________________________________________
 
-h2. _Left Stick is the D-Pad Code :_
+h2. _"Left Stick is the D-Pad" Code :_
 
 
 Copy/paste the code below in a CHEATS.TXT file placed into your VMC game folder.
@@ -142,9 +142,9 @@ h2. _Widescreen Codes Archive :_
 
 Not a part of the POPStarter project, but worth to mention. Guys from "pcsx2 forum":http://forums.pcsx2.net made some great widescreen codes. Thank to El_Patas for keeping the archive updated. You can get the patches "here":http://forums.pcsx2.net/Thread-PSOne-Widescreen-Patches?pid=477709#pid477709. Credits to their authors. 
 
-*Note :* these files are "almost-ready-to-use" = you need to add the "$" symbol. 
+*Note :* these files are "_almost-ready-to-use_" = you need to add the "$" symbol. 
 
-_Colin McRae Rally 2 (teasing, yeah :p):_  
+_Colin McRae Rally 2 :_  
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3801833563-2md7xs.jpg(4:3)!
 
