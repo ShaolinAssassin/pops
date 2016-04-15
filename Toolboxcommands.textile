@@ -81,7 +81,7 @@ pre.
 "toolbox.exe" -lc "input_file"
 
 * _Notes :_  
-input_file can be :
+input_file can be : 
 - a pSX Quicksave (PSV)
 - a Xebra Running Image
 - a PCSX Save State v3 (Uncompressed)
