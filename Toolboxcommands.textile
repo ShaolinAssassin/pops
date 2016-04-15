@@ -23,15 +23,24 @@ ________________________________________________________________________________
 
 h2. _Details :_
 
-* *-cue2pops*
+*-cue2pops*
 
-*Tool name (version) :*  CUE2POPS Lite (base v2.1 beta 2)
-*Message :* : 
-*Usage :*
-*Example(s) :*
-*Notes :*
+* *Tool name (version) :*  CUE2POPS Lite (base v2.1 beta 2)
+* *Message :* : 
+* *Usage :*
+* *Example(s) :*
+* *Notes :*
 
 
+
+
+*-cue2pops*
+
+* *Tool name (version) :*  CUE2POPS Lite (base v2.1 beta 2)
+* *Message :* : 
+* *Usage :*
+* *Example(s) :*
+* *Notes :*
 
 
 
