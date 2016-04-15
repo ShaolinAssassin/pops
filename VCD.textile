@@ -17,7 +17,7 @@ Your .BIN image must be a raw MODE2/2352 dump and the .CUE a standard ASCII cues
 # Drag & drop your .CUE file on the CUE2POPS.BAT file. 
 # A .VCD image of your game will be created in the folder. 
 
-* *Toolbox commands :* "here":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Toolbox%20commands*
+* *Toolbox commands :* "here":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Toolbox%20commands.
 
 
 *Note :* 
