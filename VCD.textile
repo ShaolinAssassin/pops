@@ -7,7 +7,7 @@ ________________________________________________________________________________
 h2. _Toolbox :_ 
 
 
-POPS uses VCD format. You need to create a 1:1 image of your PS1 game, first in .BIN+.CUE format using your favorite dump software, then to .VCD using "Toolbox":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/downloads/ToolBox.zip. 
+POPS uses virtual CDROM format (.VCD). You need to create a 1:1 image of your PS1 game, first in .BIN+.CUE format using your favorite dump software, then to .VCD using "Toolbox":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/downloads/ToolBox.zip. 
 
 Your .BIN+.CUE image must be in Mode 2 RAW format (MODE2/2352) and the .CUE in ASCII. Open the .CUE file in a text editor and check the first line. If you can see "MODE2/2352", it's ok. 
  
