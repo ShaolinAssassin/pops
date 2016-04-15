@@ -16,7 +16,7 @@ _h2. List of Toolbox commands :_
 | -vmcid | Configure POPStarter so it assigns a user ID to the VMCs | 
 | -dbgdelay | Configure POPStarter so you can see the debug texts for the time you want | 
 | -usbdelay | Configure the USB Mass access delay of POPStarter and the PFS Wrapper |
-| -cdid | Save the disc identification data, for dev or version check purposes |  
+| cdid | Save the disc identification data, for dev or version check purposes |  
 
 
 ______________________________________________________________________________________________________________
