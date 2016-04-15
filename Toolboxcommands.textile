@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 h2. _Details :_
 
-* h3.*-cue2pops :*
+h3. * *-cue2pops :*
 
 - *Tool name (version)* | CUE2POPS Lite (base v2.1 beta 2) | 
 | *Message* | Hello! I convert BIN+CUE disc images to the POPS format. | 
