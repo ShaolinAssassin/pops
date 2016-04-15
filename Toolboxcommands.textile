@@ -173,6 +173,162 @@ $50000202 3BF1
 $8005D468 270F
 
 
+______________________________________________________________________________________________________________
+
+
+
+h3. _*-makeosd :*_  
+
+* _Tool name (version) :_ PS-X executable to OSD.BIN converter v1.0
+
+pre. 
+Hello! I convert PS-X EXEs to OSD.BIN files
+The maximum allowed size of the PS-X EXE is 317600 bytes.
+Note that OSD.BIN files are loaded by POPStarter with the built-in BIOS.
+OSD.BIN can't be loaded when a BIOS.BIN is used.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -makeosd "PSX.EXE"
+
+
+______________________________________________________________________________________________________________
+
+
+h3. _*-makeosd :*_  
+
+* _Tool name (version) :_ PS-X executable to OSD.BIN converter v1.0
+
+pre. 
+Hello! I convert PS-X EXEs to OSD.BIN files
+The maximum allowed size of the PS-X EXE is 317600 bytes.
+Note that OSD.BIN files are loaded by POPStarter with the built-in BIOS.
+OSD.BIN can't be loaded when a BIOS.BIN is used.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -makeosd "PSX.EXE"
+
+
+______________________________________________________________________________________________________________
+
+
+h3. _*-igrpix :*_  
+
+* _Tool name (version) :_ IGR Texture Replacer Version 1.0
+
+pre. 
+Hello! I build patches that replace the IGR textures by the ones of your choice.
+Then you can copy the patches in the VMC directories you want...
+In other words, I assemble per-game IGR "themes" with your TIM2 pictures.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -igrpix "background.tm2" "no_button.tm2" "yes_button.tm2"
+
+* _Example :_
+
+pre. 
+toolbox -igrpix "K:\toolbox\IGR_BG.TM2" "K:\toolbox\IGR_NO.TM2" "K:\toolbox\IGR_YES.TM2"
+
+
+______________________________________________________________________________________________________________
+
+
+h3. _*-vmcid :*_  
+
+* _Tool name (version) :_ User ID assignment util for making POPS save in individual VMC couples
+
+pre. 
+Hello! I configure the POPStarter ELF/KELF to allow you and yours save on separate VMCs.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -vmcid "POPStarter.elf"
+
+* _Example :_
+
+pre. 
+toolbox -vmcid "K:\toolbox\XX.AMERICAN_POOL.ELF"
+
+
+______________________________________________________________________________________________________________
+
+
+
+h3. _*-dbgdelay :*_  
+
+* _Tool name (version) :_ POPStarter debug pages delay config tool that has a long and stupid name
+
+pre. 
+Hello! I configure the POPStarter ELF/KELF so you can choose how long to print debug stuff.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -dbgdelay "POPStarter.elf"
+
+* _Example :_
+
+pre. 
+toolbox -dbgdelay "K:\toolbox\XX.AMERICAN_POOL.ELF"
+
+
+______________________________________________________________________________________________________________
+
+
+
+h3. _*-usbdelay :*_  
+
+* _Tool name (version) :_ USB Access Delay Config Tool v1.0
+
+pre. 
+Hello! I let you set the USB access delay of Delcro's PFS Wrapper v2 and POPStarter.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -usbdelay "POPStarter.elf" "PFS_WRAP.BIN"
+
+* _Example :_
+
+pre. 
+toolbox -usbdelay "K:\toolbox\XX.AMERICAN_POOL.ELF" "K:\toolbox\PFS_WRAP.BIN"
+
+
+______________________________________________________________________________________________________________
+
+
+h3. _*-cdid :*_  
+
+* _Tool name (version) :_ Game Identification Data Extractor (IdentRip)
+
+pre. 
+Hello! I make disc identification files for the POPStarter development.
+These files are required for integrating and activating per-game stuff in POPStarter.
+The POPStarter end users don't need 'em, but krHACKen does.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -cdid "input_file"
+
+* _Example :_
+
+pre. 
+toolbox -cdid "K:\toolbox\AMERICAN_POOL.bin"
+
+* _Notes :_
+
+input_file can be :
+- a Mode 2 Form 1 CDROM image
+- an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image
+- a POPS virtual CD-ROM image (VCD)
+
 
 
 ______________________________________________________________________________________________________________
