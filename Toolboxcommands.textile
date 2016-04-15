@@ -58,8 +58,9 @@ toolbox -cue2pops "K:\toolbox\AMERICAN_POOL.cue"
 
 
 * _Notes :_  
-# input_file must be an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image
-# output_file is the filename of the VCD you want to create (optional).
+
+input_file must be an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image
+output_file is the filename of the VCD you want to create (optional).
 
 
 ______________________________________________________________________________________________________________
@@ -81,13 +82,14 @@ pre.
 "toolbox.exe" -lc "input_file"
 
 * _Notes :_  
-# input_file can be :
+
+input_file can be :
 - a pSX Quicksave (PSV)
 - a Xebra Running Image
 - a PCSX Save State v3 (Uncompressed)
 - a PCSX Save State v4 (Uncompressed)
 - an ePSXe Save State (Uncompressed)
-# "(Uncompressed)" means that you must decompress it manually, using a gzip archiver such as 7-Zip...
+"(Uncompressed)" means that you must decompress it manually, using a gzip archiver such as 7-Zip...
 
 
 ______________________________________________________________________________________________________________
