@@ -177,26 +177,6 @@ $8005D468 270F
 ______________________________________________________________________________________________________________
 
 
-
-h3. _*-makeosd :*_  
-
-* _Tool name (version) :_ PS-X executable to OSD.BIN converter v1.0
-
-pre. 
-Hello! I convert PS-X EXEs to OSD.BIN files
-The maximum allowed size of the PS-X EXE is 317600 bytes.
-Note that OSD.BIN files are loaded by POPStarter with the built-in BIOS.
-OSD.BIN can't be loaded when a BIOS.BIN is used.
-
-* _Usage :_
-
-pre. 
-"toolbox.exe" -makeosd "PSX.EXE"
-
-
-______________________________________________________________________________________________________________
-
-
 h3. _*-makeosd :*_  
 
 * _Tool name (version) :_ PS-X executable to OSD.BIN converter v1.0
