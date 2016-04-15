@@ -4,7 +4,7 @@ h1. *Toolbox commands*
 ______________________________________________________________________________________________________________
 _[Tool Box Version 1.0]_
 
-_h2. List of Toolbox commands :_
+h2. _List of Toolbox commands :_
 
 | *Command* | *Description* | 
 | -cue2pops | Convert a BIN+CUE to a POPS formatted VCD | 
