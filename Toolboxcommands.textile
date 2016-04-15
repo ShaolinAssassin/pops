@@ -84,11 +84,11 @@ pre.
 * _Notes :_  
 
 Input_file can be :     
-- A pSX Quicksave (PSV)
-- A Xebra Running Image
-- A PCSX Save State v3 (Uncompressed)
-- A PCSX Save State v4 (Uncompressed)
-- An ePSXe Save State (Uncompressed)
+. A pSX Quicksave (PSV)
+. A Xebra Running Image
+. A PCSX Save State v3 (Uncompressed)
+. A PCSX Save State v4 (Uncompressed)
+. An ePSXe Save State (Uncompressed)
 "(Uncompressed)" means that you must decompress it manually, using a gzip archiver such as 7-Zip...
 
 
@@ -118,16 +118,16 @@ toolbox -vmode "K:\toolbox\SLUS_014.88"
 
 
 * _Notes :_  
-input_file can be :
-- a pSX Quicksave (PSV)
-- an ePSXe Save State (Uncompressed)
-- a PCSX Save State v3 (Uncompressed)
-- a PCSX Save State v4 (Uncompressed)
-- a Xebra Running Image
-- a PS-X Executable
-- a PS-X RAM Dump
-- a PS2 Kernel Memory Dump (POPS)
-- a PS2 User Memory Dump (POPS)
+Input_file can be :
+. A pSX Quicksave (PSV)
+. An ePSXe Save State (Uncompressed)
+. A PCSX Save State v3 (Uncompressed)
+. A PCSX Save State v4 (Uncompressed)
+. A Xebra Running Image
+. A PS-X Executable
+. A PS-X RAM Dump
+. A PS2 Kernel Memory Dump (POPS)
+. A PS2 User Memory Dump (POPS)
 "(Uncompressed)" means that you must decompress it manually, using a gzip archiver such as 7-Zip...
 
 
@@ -157,10 +157,10 @@ toolbox -trainer "K:\toolbox\2Xtreme.txt"
 
 * _Notes :_  
 Syntax of the codelist:
-- Each line of code you want to "activate" must start with the character $
-- There must be a whitespace between the address and the value in your code(s)
-- The supported code types are 30, 50, 80 and D0
-- Anything that doesn't match the above criteria’s will be ignored on compile
+. Each line of code you want to "activate" must start with the character $
+. There must be a whitespace between the address and the value in your code(s)
+. The supported code types are 30, 50, 80 and D0
+. Anything that doesn't match the above criteria’s will be ignored on compile
 
 Example of a codelist:
 
@@ -326,10 +326,10 @@ toolbox -cdid "K:\toolbox\AMERICAN_POOL.bin"
 
 * _Notes :_
 
-input_file can be :
-- a Mode 2 Form 1 CDROM image
-- an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image
-- a POPS virtual CD-ROM image (VCD)
+Input_file can be :
+. A Mode 2 Form 1 CDROM image
+. An ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image
+. A POPS virtual CD-ROM image (VCD)
 
 
 
