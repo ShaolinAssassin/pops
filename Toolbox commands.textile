@@ -91,3 +91,246 @@ Input_file can be :
 
 
 ______________________________________________________________________________________________________________
+
+
+h3. _*-vmode :*_  
+
+* _Tool name (version) :_ PAL2NTSC Trojan Maker v1.0
+
+pre. 
+Hello! I make TROJANs that patch your games VMODE to NTSC.
+The patch is applied to the POPS memory, so your VCD remains untouched.
+Results are as horrible as what you got with the vmode function of the old CUE2POPS, because the display is not resized nor cropped to the NTSC resolution.
+Games with multiple EXEs/routines are not supported.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -vmode "input_file"
+
+
+* _Example :_ 
+
+pre. 
+toolbox -vmode "K:\toolbox\SLUS_014.88"
+
+
+* _Notes :_  
+Input_file can be :
+. a pSX Quicksave (PSV)
+. an ePSXe Save State (Uncompressed)
+. a PCSX Save State v3 (Uncompressed)
+. a PCSX Save State v4 (Uncompressed)
+. a Xebra Running Image
+. a PS-X Executable
+. a PS-X RAM Dump
+. a PS2 Kernel Memory Dump (POPS)
+. a PS2 User Memory Dump (POPS)
+"(Uncompressed)" means that you must decompress it manually, using a gzip archiver such as 7-Zip...
+
+
+______________________________________________________________________________________________________________
+
+
+
+h3. _*-trainer :*_  
+
+* _Tool name (version) :_ Game Trainer Maker Version 1.0
+
+pre. 
+Hello! I compile trainers (per-game cheat plugins), from a text file that contains PS1 GameShark/Action Replay codes
+for your game.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -trainer "your codelist.txt"
+
+
+* _Example :_ 
+
+pre. 
+toolbox -trainer "K:\toolbox\2Xtreme.txt"
+
+
+* _Notes :_  
+Syntax of the codelist:
+. Each line of code you want to "activate" must start with the character $
+. There must be a whitespace between the address and the value in your code(s)
+. The supported code types are 30, 50, 80 and D0
+. Anything that doesn't match the above criteria’s will be ignored on compile
+
+Example of a codelist:
+
+pre. 
+Unlock All Tracks
+$80076398 3F3F
+Refresh Skill Bonus (Press Select)
+$D00B69F2 0100
+$80086BB8 0200
+Stop Timer
+$50000202 3BF1
+$8005D468 270F
+
+
+______________________________________________________________________________________________________________
+
+
+
+h3. _*-makeosd :*_  
+
+* _Tool name (version) :_ PS-X executable to OSD.BIN converter v1.0
+
+pre. 
+Hello! I convert PS-X EXEs to OSD.BIN files
+The maximum allowed size of the PS-X EXE is 317600 bytes.
+Note that OSD.BIN files are loaded by POPStarter with the built-in BIOS.
+OSD.BIN can't be loaded when a BIOS.BIN is used.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -makeosd "PSX.EXE"
+
+
+______________________________________________________________________________________________________________
+
+
+h3. _*-makeosd :*_  
+
+* _Tool name (version) :_ PS-X executable to OSD.BIN converter v1.0
+
+pre. 
+Hello! I convert PS-X EXEs to OSD.BIN files
+The maximum allowed size of the PS-X EXE is 317600 bytes.
+Note that OSD.BIN files are loaded by POPStarter with the built-in BIOS.
+OSD.BIN can't be loaded when a BIOS.BIN is used.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -makeosd "PSX.EXE"
+
+
+______________________________________________________________________________________________________________
+
+
+h3. _*-igrpix :*_  
+
+* _Tool name (version) :_ IGR Texture Replacer Version 1.0
+
+pre. 
+Hello! I build patches that replace the IGR textures by the ones of your choice.
+Then you can copy the patches in the VMC directories you want...
+In other words, I assemble per-game IGR "themes" with your TIM2 pictures.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -igrpix "background.tm2" "no_button.tm2" "yes_button.tm2"
+
+* _Example :_
+
+pre. 
+toolbox -igrpix "K:\toolbox\IGR_BG.TM2" "K:\toolbox\IGR_NO.TM2" "K:\toolbox\IGR_YES.TM2"
+
+
+______________________________________________________________________________________________________________
+
+
+h3. _*-vmcid :*_  
+
+* _Tool name (version) :_ User ID assignment util for making POPS save in individual VMC couples
+
+pre. 
+Hello! I configure the POPStarter ELF/KELF to allow you and yours save on separate VMCs.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -vmcid "POPStarter.elf"
+
+* _Example :_
+
+pre. 
+toolbox -vmcid "K:\toolbox\XX.AMERICAN_POOL.ELF"
+
+
+______________________________________________________________________________________________________________
+
+
+
+h3. _*-dbgdelay :*_  
+
+* _Tool name (version) :_ POPStarter debug pages delay config tool that has a long and stupid name
+
+pre. 
+Hello! I configure the POPStarter ELF/KELF so you can choose how long to print debug stuff.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -dbgdelay "POPStarter.elf"
+
+* _Example :_
+
+pre. 
+toolbox -dbgdelay "K:\toolbox\XX.AMERICAN_POOL.ELF"
+
+
+______________________________________________________________________________________________________________
+
+
+
+h3. _*-usbdelay :*_  
+
+* _Tool name (version) :_ USB Access Delay Config Tool v1.0
+
+pre. 
+Hello! I let you set the USB access delay of Delcro's PFS Wrapper v2 and POPStarter.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -usbdelay "POPStarter.elf" "PFS_WRAP.BIN"
+
+* _Example :_
+
+pre. 
+toolbox -usbdelay "K:\toolbox\XX.AMERICAN_POOL.ELF" "K:\toolbox\PFS_WRAP.BIN"
+
+
+______________________________________________________________________________________________________________
+
+
+h3. _*-cdid :*_  
+
+* _Tool name (version) :_ Game Identification Data Extractor (IdentRip)
+
+pre. 
+Hello! I make disc identification files for the POPStarter development.
+These files are required for integrating and activating per-game stuff in POPStarter.
+The POPStarter end users don't need 'em, but krHACKen does.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -cdid "input_file"
+
+* _Example :_
+
+pre. 
+toolbox -cdid "K:\toolbox\AMERICAN_POOL.bin"
+
+* _Notes :_
+
+Input_file can be :
+. a Mode 2 Form 1 CDROM image
+. an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image
+. a POPS virtual CD-ROM image (VCD)
+
+
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
