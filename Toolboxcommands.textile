@@ -25,7 +25,9 @@ h2. _Details :_
 
 -cue2pops
 
-CUE2POPS Lite (base v2.1 beta 2)
+* Tool name : CUE2POPS Lite (base v2.1 beta 2)
+* 
+pre. 
 Hello! I convert BIN+CUE disc images to the POPS format.
 The BIN has to be a raw MODE2/2352 dump.
 The CUE has to be a standard ASCII cuesheet.
@@ -33,6 +35,7 @@ Exotic files like NRG, CCD, ISO, GI... are not supported.
 Splitted dumps (with separate tracks) are not supported.
 High density dumps (aka merged/combined discs) are supported.
 Old extra commands gap++, gap--, vmode, trainer, whatever, no longer exist.
+
 Usage:
 "toolbox.exe" -cue2pops "input_file" "output_file"
 Or
