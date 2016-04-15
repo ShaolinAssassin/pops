@@ -1,5 +1,4 @@
 
-
 1. VCD
 2. HDD mode
 3. USB mode
