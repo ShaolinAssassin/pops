@@ -81,7 +81,7 @@ pre.
 "toolbox.exe" -lc "input_file"
 
 * _Notes :_  
-input_file can be : 
+input_file can be :
 - a pSX Quicksave (PSV)
 - a Xebra Running Image
 - a PCSX Save State v3 (Uncompressed)
@@ -131,6 +131,46 @@ input_file can be :
 
 ______________________________________________________________________________________________________________
 
+
+
+h3. _*-trainer :*_  
+
+* _Tool name (version) :_ Game Trainer Maker Version 1.0
+
+pre. 
+Hello! I compile trainers (per-game cheat plugins), from a text file that contains PS1 GameShark/Action Replay codes
+for your game.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -trainer "your codelist.txt"
+
+
+* _Example :_ 
+
+pre. 
+toolbox -trainer "K:\toolbox\2Xtreme.txt"
+
+
+* _Notes :_  
+Syntax of the codelist:
+- Each line of code you want to "activate" must start with the character $
+- There must be a whitespace between the address and the value in your code(s)
+- The supported code types are 30, 50, 80 and D0
+- Anything that doesn't match the above criteria’s will be ignored on compile
+
+Example of a codelist:
+
+pre. 
+Unlock All Tracks
+$80076398 3F3F
+Refresh Skill Bonus (Press Select)
+$D00B69F2 0100
+$80086BB8 0200
+Stop Timer
+$50000202 3BF1
+$8005D468 270F
 
 
 
