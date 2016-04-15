@@ -23,9 +23,9 @@ ________________________________________________________________________________
 
 h2. _Details :_
 
-h3. _-cue2pops :_   
+h3. _*-cue2pops :*_   
 
-* _Tool name (version)* :_ CUE2POPS Lite (base v2.1 beta 2)  
+* _Tool name (version) :_ CUE2POPS Lite (base v2.1 beta 2)  
 
 pre. 
 Hello! I convert BIN+CUE disc images to the POPS format.  
@@ -35,7 +35,7 @@ Splitted dumps (with separate tracks) are not supported.
 High density dumps (aka merged/combined discs) are supported.
 Old extra commands gap++, gap--, vmode, trainer, whatever, no longer exist.
 
-* _Usage :_* :
+* _Usage :_ :
 
 pre. 
 "toolbox.exe" -cue2pops "input_file" "output_file"
@@ -52,8 +52,10 @@ pre.
 
 OR 
 
-pre.
+
+pre. 
 "toolbox -cue2pops "K:\toolbox\AMERICAN_POOL.cue" 
+
 
 * _Notes :_  
 - input_file must be an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image.
