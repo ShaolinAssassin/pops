@@ -8,7 +8,7 @@ This documentation concerns the advanced configuration of POPStarter r13, involv
 
 The POPStarter r13 ELF and KELF have a 32 bytes long configuration table, starting from the offset $410 (or 1040 in decimal).
 
-Unless you know exactly what it is for and what you're doing, please don't tamper with it. Perhaps a GUI or a bunch of PPFs will surface, but for now the hexediting of that stuff is for advanced users only... Make a backup of the default config before you start changing values.
+* *Caution* : Unless you know exactly what it is for and what you're doing, please don't tamper with it. Perhaps a GUI or a bunch of PPFs will surface, but for now the hexediting of that stuff is for advanced users only... Make a backup of the default config before you start changing values.
 
 | *Offset* | *Description* | *Values* | *Notes* |
 | *$410* | Display of the debug texts/pages | 0x00 = disables the debug printing |  |
