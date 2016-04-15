@@ -1,0 +1,52 @@
+h1. *Toolbox commands*
+
+
+______________________________________________________________________________________________________________
+_[Tool Box Version 1.0]_
+
+h2. _List of Toolbox commands :_
+
+| *Command* | *Description* |
+| cue2pops   | Convert a BIN+CUE to a POPS formatted VCD | 
+
+
+| -lc | Make a LibCrypt cracker, for protected PAL games (TROJAN file) | 
+
+| -vmode |  Make a PAL to NTSC patcher, expect unpleasant rendering (TROJAN file) | 
+
+| -trainer | Compile a trainer so you activate permanent game cheats (TROJAN file) | 
+| -makeosd | Convert a PS-X executable to a replacement OSD file (OSD.BIN) | 
+| -igrpix | Assemble an IGR theme that you can copy to VMC folders (PATCH file) | 
+| -vmcid | Configure POPStarter so it assigns a user ID to the VMCs | 
+| -dbgdelay | Configure POPStarter so you can see the debug texts for the time you want | 
+| -usbdelay | Configure the USB Mass access delay of POPStarter and the PFS Wrapper |
+| cdid | Save the disc identification data, for dev or version check purposes |  
+
+
+______________________________________________________________________________________________________________
+
+_h2. Details :_
+
+* *-cue2pops*
+
+| *Tool name (version)* | CUE2POPS Lite (base v2.1 beta 2) | 
+| *Message* | Hello! I convert BIN+CUE disc images to the POPS format. The BIN has to be a raw MODE2/2352 dump. The CUE has to be a standard ASCII cuesheet. Exotic files like NRG, CCD, ISO, GI... are not supported.
+Splitted dumps (with separate tracks) are not supported. High density dumps (aka merged/combined discs) are supported. Old extra commands gap++, gap--, vmode, trainer, whatever, no longer exist. | 
+| *Usage* | "toolbox.exe" -cue2pops "input_file" "output_file" Or "toolbox.exe" -cue2pops "input_file" | 
+| *Example(s)* | toolbox -cue2pops "K:\toolbox\AMERICAN_POOL.cue" "L:\POPS\AMERICAN_POOL.VCD" Or toolbox -cue2pops "K:\toolbox\AMERICAN_POOL.cue" | 
+| *Notes* | input_file must be an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image. output_file is the filename of the VCD you want to create (optional). | 
+
+
+
+* *-cue2pops*
+
+| *Tool name (version)* |  | 
+| *Message* |  | 
+| *Usage* |  | 
+| *Example* |  | 
+| *Notes* |  | 
+
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
