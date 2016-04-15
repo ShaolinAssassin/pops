@@ -7,7 +7,7 @@ _[Tool Box Version 1.0]_
 h2. _List of Toolbox commands :_
 
 
-| *Command* | *Description* |  |
+| *Command* | *Description* | *Notes* |
 | _-cue2pops_ | Convert a BIN+CUE to a POPS formatted VCD |  |
 | _-lc_ | Make a LibCrypt cracker, for protected PAL games (TROJAN file) |  |
 | _-vmode_ |  Make a PAL to NTSC patcher, expect unpleasant rendering (TROJAN file) |  |
