@@ -82,4 +82,12 @@ pre.
 
 * _Notes :_  
 Input_file can be :
-- a pSX Quicksave (PSV).
+. a pSX Quicksave (PSV).
+. a Xebra Running Image
+. a PCSX Save State v3 (Uncompressed)
+. a PCSX Save State v4 (Uncompressed)
+. an ePSXe Save State (Uncompressed)
+"(Uncompressed)" means that you must decompress it manually, using a gzip archiver such as 7-Zip...
+
+
+______________________________________________________________________________________________________________
