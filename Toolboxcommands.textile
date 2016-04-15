@@ -48,13 +48,13 @@ pre.
 * _Examples :_ 
 
 pre. 
-"toolbox -cue2pops "K:\toolbox\AMERICAN_POOL.cue" "L:\POPS\AMERICAN_POOL.VCD""
+toolbox -cue2pops "K:\toolbox\AMERICAN_POOL.cue" "L:\POPS\AMERICAN_POOL.VCD"
 
 OR 
 
 
 pre. 
-"toolbox -cue2pops "K:\toolbox\AMERICAN_POOL.cue" 
+toolbox -cue2pops "K:\toolbox\AMERICAN_POOL.cue" 
 
 
 * _Notes :_  
@@ -70,16 +70,12 @@ h3. _*-lc :*_
 
 pre. 
 Hello! I make TROJANs that crack your LibCrypt protected games.
-The crack is applied to the POPS memory, so your VCD remains untouched.1. Run your game in pSX/ePSXe/PCSX/Xebra (must have a genuine SBI or SUB)
+The crack is applied to the POPS memory, so your VCD remains untouched.
+1. Run your game in pSX/ePSXe/PCSX/Xebra (must have a genuine SBI or SUB)
 2. Do a savestate as soon as it has gone past the LibCrypt thread
 3. Decompress the savestate if it's compressed
 
 * _Usage :_ :
-
-pre. 
-"toolbox.exe" -lc "input_file"
-
-* _Example :_ 
 
 pre. 
 "toolbox.exe" -lc "input_file"
@@ -97,6 +93,43 @@ input_file can be :
 ______________________________________________________________________________________________________________
 
 
+h3. _*-vmode :*_  
+
+* _Tool name (version) :_ PAL2NTSC Trojan Maker v1.0
+
+pre. 
+Hello! I make TROJANs that patch your games VMODE to NTSC.
+The patch is applied to the POPS memory, so your VCD remains untouched.
+Results are as horrible as what you got with the vmode function of the old CUE2POPS, because the display is not resized nor cropped to the NTSC resolution.
+Games with multiple EXEs/routines are not supported.
+
+* _Usage :_
+
+pre. 
+"toolbox.exe" -vmode "input_file"
+
+
+* _Example :_ 
+
+pre. 
+toolbox -vmode "K:\toolbox\SLUS_014.88"
+
+
+* _Notes :_  
+input_file can be :
+- a pSX Quicksave (PSV)
+- an ePSXe Save State (Uncompressed)
+- a PCSX Save State v3 (Uncompressed)
+- a PCSX Save State v4 (Uncompressed)
+- a Xebra Running Image
+- a PS-X Executable
+- a PS-X RAM Dump
+- a PS2 Kernel Memory Dump (POPS)
+- a PS2 User Memory Dump (POPS)
+"(Uncompressed)" means that you must decompress it manually, using a gzip archiver such as 7-Zip...
+
+
+______________________________________________________________________________________________________________
 
 
 
