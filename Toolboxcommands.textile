@@ -58,7 +58,7 @@ pre.
 
 
 * _Notes :_  
-- input_file must be an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image.
+- input_file must be an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image
 - output_file is the filename of the VCD you want to create (optional).
 
 
