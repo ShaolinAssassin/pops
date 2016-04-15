@@ -117,15 +117,10 @@ toolbox -vmode "K:\toolbox\SLUS_014.88"
 
 * _Notes :_  
 input_file can be :
-
 - a pSX Quicksave (PSV)
-
 - an ePSXe Save State (Uncompressed)
-
 - a PCSX Save State v3 (Uncompressed)
-
 - a PCSX Save State v4 (Uncompressed)
-
 - a Xebra Running Image
 - a PS-X Executable
 - a PS-X RAM Dump
