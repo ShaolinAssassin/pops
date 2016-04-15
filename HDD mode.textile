@@ -37,7 +37,7 @@ h2. _A) Installing the Emulator :_
 
 h2. _B) Installing your PS1 Games :_ 
 
-# Convert your BIN/CUE disc images to .VCD files using the latest stable version of CUE2POPS;
+# Convert your BIN/CUE disc images to .VCD files using the latest stable version of Toolbox;
 # Create a partition named "__.POPS" in your PS2 HDD, large enough so you can put all your VCDs inside.
 
 h2. _C) Installing POPStarter :_ 
@@ -80,7 +80,7 @@ ________________________________________________________________________________
 
 h2. _POPSTARTER.KELF :_ 
 
-POPStarter bundle comes with a POPSTARTER.KELF (Krypo-elf,ELF embedded into a container). It can be used of you have the Browser 2.00 aka HDDOSD installed on your HDD. Otherwise, it's useless. Use AkuHak's hdl_dumx to install it.
+POPStarter bundle comes with a POPSTARTER.KELF (Krypo-ELF = ELF embedded into a container). It can be used if you have the Browser 2.00 aka HDDOSD installed on your HDD. Otherwise, it's useless. Use AkuHak's hdl_dumx to install it.
 
 *Notes if you use the POPStarter.KELF :* 
 * Partition name prefix is of course PP. (PPdot)
@@ -92,10 +92,10 @@ ________________________________________________________________________________
 h2. _Additional notes :_
 
 * The internal HDD has to be PS2 formatted. If you need to format it, I'd recommend you use the latest WIP version of AKuHAK's uLaunchELF HDD edition.
-* The file name "IMAGE0.VCD" has to be uppercase (old launch type)
-* The file extension .VCD has to be uppercase (old launch type)
-* The partition names are case sensitive, and have to match the POPStarter ELF names (old launch type)
-* Whitespaces are not allowed in the partition names (old launch type)
+* The file extension .VCD has to be uppercase.
+* The file name "IMAGE0.VCD" has to be uppercase (_old launch type setup_).
+* The partition names are case sensitive, and have to match the POPStarter ELF names (old launch type setup_).
+* Whitespaces are not allowed in the partition names (old launch type  setup_).
 
 
 ______________________________________________________________________________________________________________
