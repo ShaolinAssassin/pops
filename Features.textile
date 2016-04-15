@@ -7,7 +7,7 @@ ________________________________________________________________________________
 # "Hotkeys":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Hotkeys
 # "Cheat Engine":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Cheat%20Engine
 # "In-Game Reset":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/IGR
-# "BIOS & OSD Handler":
+# "BIOS & OSD Handler":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/BIOS%20OSD
 # "uLE_kHn":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/uLE_kHn
 
 ______________________________________________________________________________________________________________
