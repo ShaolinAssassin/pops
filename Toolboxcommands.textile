@@ -23,23 +23,21 @@ ________________________________________________________________________________
 
 h2. _Details :_
 
+* *-cue2pops :*
 
-
-
-
-
--cue2pops
-
-| *Tool name (version)* | Description | 
-| *Message* | Convert a BIN+CUE to a POPS formatted VCD | 
-|  | Make a LibCrypt cracker, for protected PAL games (TROJAN file) | 
-|  |  Make a PAL to NTSC patcher, expect unpleasant rendering (TROJAN file) |
-|  | Compile a trainer so you activate permanent game cheats (TROJAN file) | 
-|  | Convert a PS-X executable to a replacement OSD file (OSD.BIN) |
-|  | Assemble an IGR theme that you can copy to VMC folders (PATCH file) |
-| *Usage* | Configure POPStarter so it assigns a user ID to the VMCs |
-| *Example* | Configure POPStarter so you can see the debug texts for the time you want |
-| *Notes* | Configure the USB Mass access delay of POPStarter and the PFS Wrapper |
+| *Tool name (version)* | CUE2POPS Lite (base v2.1 beta 2) | 
+| *Message* | Hello! I convert BIN+CUE disc images to the POPS format. | 
+|  | The BIN has to be a raw MODE2/2352 dump. | 
+|  | The CUE has to be a standard ASCII cuesheet. |
+|  | Splitted dumps (with separate tracks) are not supported. | 
+|  | High density dumps (aka merged/combined discs) are supported. |
+|  | Old extra commands gap++, gap--, vmode, trainer, whatever, no longer exist. |
+| *Usage* | "toolbox.exe" -cue2pops "input_file" "output_file" |
+|  | OR "toolbox.exe" -cue2pops "input_file" |
+| *Example* | "K:\toolbox\AMERICAN_POOL.cue" "L:\POPS\AMERICAN_POOL.VCD" |
+|  | OR "K:\toolbox\AMERICAN_POOL.cue"  |
+| *Notes* | input_file must be an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image. |
+|  | output_file is the filename of the VCD you want to create (optional). |
 
 
 
