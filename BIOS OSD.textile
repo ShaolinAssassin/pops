@@ -22,6 +22,39 @@ If you put an OSD replacement image in the VMC directory, named as "OSD.BIN" (ex
 When using a OSD replacement file, "BIOS.BIN" is ignored. 
 
 
+pre. 
+===================================================
+OSD Replacement Image [Version 1] Header Structure
+===================================================
+
+Offset 0h to 8h		= Identifier (PS-X OSD)
+Offset 8h to Ch		= NULL NULL NULL NULL
+Offset Ch		= Image version (Currently 0x01 for Version 1, POPStarter Rev.10 compatible)
+Offset Dh		= NULL
+Offset Eh		= Program/OSD build, user defined
+Offset Fh		= NULL
+Offset 10h to 14h	= Load Address
+Offset 14h to 18h	= Entrypoint
+Offset 18h to 1Ch	= RESERVED RESERVED RESERVED RESERVED
+Offset 1Ch to 20h	= Size of the OSD (loadable segment size, the header length is excluded)
+Offset 20h to 34h	= Program/OSD name, 20 ASCII chars max, terminated with 0x00 (user defined)
+Offset 34h to 40h	= UNDEFINED (must be NULL)
+Offset 40h		= Executable segment start
+
+
+========================================
+LIMITATIONS AND RESTRICTIONS [Version 1]
+========================================
+
++ The file identifier must be "PS-X OSD"
++ The name of the OSD replacement (in the header, starting from offset 20h) must be at least 1 ASCII character long; the length can be up to 20 characters
++ The OSD Load Address and the Entrypoint have to be multiples of 10000h
++ The image version (offset Ch) and the OSD build (offset Eh) cannot be NULL
++ NULL/RESERVED/UNDEFINED fields have to be NULL
++ The size of the OSD replacement file (OSD.BIN) has to be the header length PLUS the OSD size
+
+"Infos":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-4#post-667305
+
 
 ______________________________________________________________________________________________________________
 
