@@ -26,7 +26,6 @@ pre.
 ===================================================
 OSD Replacement Image [Version 1] Header Structure
 ===================================================
-
 Offset 0h to 8h		= Identifier (PS-X OSD)
 Offset 8h to Ch		= NULL NULL NULL NULL
 Offset Ch		= Image version (Currently 0x01 for Version 1, POPStarter Rev.10 compatible)
@@ -40,12 +39,9 @@ Offset 1Ch to 20h	= Size of the OSD (loadable segment size, the header length is
 Offset 20h to 34h	= Program/OSD name, 20 ASCII chars max, terminated with 0x00 (user defined)
 Offset 34h to 40h	= UNDEFINED (must be NULL)
 Offset 40h		= Executable segment start
-
-
 ========================================
 LIMITATIONS AND RESTRICTIONS [Version 1]
 ========================================
-
 + The file identifier must be "PS-X OSD"
 + The name of the OSD replacement (in the header, starting from offset 20h) must be at least 1 ASCII character long; the length can be up to 20 characters
 + The OSD Load Address and the Entrypoint have to be multiples of 10000h
