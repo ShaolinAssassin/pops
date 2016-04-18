@@ -24,7 +24,7 @@ ________________________________________________________________________________
 h2. _Text version_ - based on the video :
 
 
-*h3. _Transfer one VCD :_*
+h3. _*Transfer one VCD :*_ 
 
 
 1. Put your VCDs files in the psshell 0.2a folder.
@@ -70,7 +70,7 @@ exit
 7. You're done. 
 
 
-*h3. _ Transfer several VCD at once :_*
+h3. _*Transfer several VCD at once :*_   
 
 _[Original tutorial by El_Patas @"elotrolado":http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054
 
