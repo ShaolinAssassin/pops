@@ -77,7 +77,7 @@ The POPStarter r13 ELF and KELF have a 32 bytes long configuration table, starti
 
 ______________________________________________________________________________________________________________
 
-h2. _Default values (WIP 06, OBT 13 (2015/12/07) :_ 
+h2. _Default values (WIP 06, OBT 13 (2015/12/07)) :_ 
 
 !https://bitbucket.org/repo/Mpy7Eg/images/28454758-Sans-titre-1.jpg(title)!
 
