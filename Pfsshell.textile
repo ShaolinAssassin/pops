@@ -14,7 +14,8 @@ h2. _Software Requirements :_
 ______________________________________________________________________________________________________________
 
 
-h2. "_Video tutorial_ - made by Waats":https://www.youtube.com/watch?v=ks5CN-Kfv04
+h2. "_Video tutorial :_":https://www.youtube.com/watch?v=ks5CN-Kfv04
+_[made by Waats]_
 
 
 ______________________________________________________________________________________________________________
@@ -72,7 +73,7 @@ exit
 
 h3. _*Transfer several VCD at once :*_   
 
-_[Original tutorial by ElPatas_ @"elotrolado":http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054
+_[Original tutorial by ElPatas @"elotrolado":http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054]_
 
 1. Get "pfs.bat":http://www.4shared.com/rar/8kqUGnmoce/PFSshell_02a.html file and place it in pfsshell folder. 
 
