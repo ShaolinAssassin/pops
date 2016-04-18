@@ -72,7 +72,7 @@ exit
 
 h3. _Transfer several VCD at one :_
 
-_[Original tutorial by El_Patas @'elotroldado':http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054
+_[Original tutorial by El_Patas @"elotrolado":http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054
 
 1. Get "pfs.bat":http://www.4shared.com/rar/8kqUGnmoce/PFSshell_02a.html file and place it in pfsshell folder. 
 
@@ -82,7 +82,16 @@ _[Original tutorial by El_Patas @'elotroldado':http://www.elotrolado.net/hilo_ho
 
 !https://bitbucket.org/repo/Mpy7Eg/images/1510911193-pops05_zps81df52b9.jpg(title)!
 
+4. Execute the .bat running the following command line : 
 
+pre. 
+pfs.bat hddX: __.POPS *.VCD
+
+* where X is the number of your PS2 HDD;
+* __.POPS the partition where the VCDs will be transfer;
+* *.VCD means to tranfer all files with .VCD extension.
+
+5. 
 
 
 
