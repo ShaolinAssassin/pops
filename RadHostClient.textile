@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 2. [PS2] Go back to uLE File broswer, then enter host:/;
 
-3. [PC] Launch RadHostClient (admin mode ?) and set the PS2 IP adress. Once your PS2 is detected over network, you will see "Connected" at the bottom of RadHostClient program;
+3. [PC] Launch RadHostClient and set the PS2 IP adress. Once your PS2 is detected over network, you will see "Connected" at the bottom of RadHostClient program;
 
 4. [PC] Drag & drop your VCD(s) from his (their) folder(s) to RadHostClient program;
 
