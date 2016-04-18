@@ -72,7 +72,7 @@ exit
 
 h3. _*Transfer several VCD at once :*_   
 
-_[Original tutorial by El_Patas_ @"elotrolado":http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054
+_[Original tutorial by ElPatas_ @"elotrolado":http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054
 
 1. Get "pfs.bat":http://www.4shared.com/rar/8kqUGnmoce/PFSshell_02a.html file and place it in pfsshell folder. 
 
