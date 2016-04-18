@@ -2,7 +2,7 @@ h1. [HDD] *Transfer VCD files using PFSSHELL 0.2a*
 
 
 ______________________________________________________________________________________________________________
-_Original tutorial by Watts_
+
 
 h2. _Hardware Requirements :_ 
 
@@ -11,6 +11,7 @@ h2. _Hardware Requirements :_
 h2. _Software Requirements :_ 
 
 * PFSSHELL 0.2a (running under winxp - or enable XP compatibility mode)
+
 ______________________________________________________________________________________________________________
 
 
