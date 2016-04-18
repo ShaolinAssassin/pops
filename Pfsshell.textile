@@ -13,10 +13,19 @@ h2. _Software Requirements :_
 * PFSSHELL 0.2a (running under winxp - or enable XP compatibility mode)
 ______________________________________________________________________________________________________________
 
+
 h2. "_Video tutorial_ - made by Waats":https://www.youtube.com/watch?v=ks5CN-Kfv04
+
+
 ______________________________________________________________________________________________________________
 
+
+
 h2. _Text version_ - based on the video :
+
+
+h3. _Transfer one VCD :_
+
 
 1. Put your VCDs files in the psshell 0.2a folder.
 2. Run pfsshell.exe
@@ -59,6 +68,23 @@ pre.
 exit 
 
 7. You're done. 
+
+
+h3. _Transfer several VCD at one :_
+
+_[Original tutorial by El_Patas @'elotroldado':http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054
+
+1. Get "pfs.bat":http://www.4shared.com/rar/8kqUGnmoce/PFSshell_02a.html file and place it in pfsshell folder. 
+
+2. Open command prompt, then type "cmd".
+
+3. You need to launch the .bat file from it's folder. In the example below, pfshell is placed into D: partition, into a folder named "CD Juegos PSX". 
+
+!https://bitbucket.org/repo/Mpy7Eg/images/1510911193-pops05_zps81df52b9.jpg(title)!
+
+
+
+
 
 
 ______________________________________________________________________________________________________________
