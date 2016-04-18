@@ -14,8 +14,8 @@ h2. _Software Requirements :_
 ______________________________________________________________________________________________________________
 
 
-h2. "_Video tutorial :_":https://www.youtube.com/watch?v=ks5CN-Kfv04
-_[made by Waats]_
+h2. Video tutorial : "here":https://www.youtube.com/watch?v=ks5CN-Kfv04
+_[Made by Waats]_
 
 
 ______________________________________________________________________________________________________________
