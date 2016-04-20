@@ -98,8 +98,8 @@ h2. _Additional notes :_
 
 *1. "Old launch type" (HDDOSD compatible) :* 
 
-| *Prefix for POPStarter.ELF* | PP. (PP(dot))  -    (if used) |
-| *Prefix for partition name* | PP. (PP(dot)) |
+| *Prefix for POPStarter.ELF* | PP. (if used) | __. | No prefix |
+| *Prefix for partition name* | PP. |
 | *Game name* | IMAGE0.VCD (all uppercase) |
 | *Description* | This is a launch type that was used in POPStarter 12 and older versions. It allows you to install one VCD per partition. |
 | *Example* | With the POPStarter ELF renamed as "PP.Some Game.elf", POPStarter will launch IMAGE0.VCD which is in the partition named "PP.Some Game". |
