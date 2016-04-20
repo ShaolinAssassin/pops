@@ -98,7 +98,8 @@ h2. _Additional notes :_
 
 |  | *Old launch type* | *Alternate Old launch type* | *New launch type* |
 | *HDDOSD compatible* | Yes | Yes | No |
-| *Partition shown in the HDDOSD / PSBBN / PSX XMB* | Yes | No | - |
+| *Partition shown in the HDDOSD/PSBBN/PSX XMB* | Yes | No | - |
+
 | *Prefix for POPStarter.ELF* | PP. (if used) | __. | No prefix |
 | *Prefix for partition name* | PP. | __. | No prefix |
 | *Game name* | IMAGE0.VCD (all uppercase) | IMAGE0.VCD (all uppercase) | Name of the Game.VCD |
