@@ -98,6 +98,14 @@ h2. _Additional notes :_
 
 *1. Old launch type (HDDOSD compatible) :_
 
+| *Prefix for POPStarter.ELF* | *MD5* |
+| *Prefix for partition name* | *MD5* |
+| *Game name* | *MD5* |
+| *Description* | *MD5* |
+| *Example* | *MD5* |
+| *Notes* | *MD5* |
+
+
 _Prefix for POPStarter.ELF :_ PP. (PP(dot))  -    (if used)
 _Prefix for partition name :_ PP. (PP(dot))
 _Game name :_ IMAGE0.VCD (all uppercase)
