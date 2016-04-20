@@ -120,6 +120,7 @@ SMB supports only 1 launch type - the "new" one :
 | *Description* | Launch type introduced in POPStarter 13 WIP 06, OBT 08. Allows to run VCDs from an SMB share. |
 | *Example* | With the POPStarter ELF renamed as SB.Some Game.elf, POPStarter will launch Some Game.VCD which is in the POPStarter folder named POPS placed into your shared folder. |
 
+______________________________________________________________________________________________________________
 
 h2. _Additional notes :_
 
