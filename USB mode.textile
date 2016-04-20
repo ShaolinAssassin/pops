@@ -55,11 +55,11 @@ ________________________________________________________________________________
 
 h2. _Additional notes :_
 
-* HDD supports 1 launch type - the "new" one.
+* HDD supports 1 launch type - the "new" one : 
 
 |  | *USB launch type* | 
 | *Prefix for POPStarter.ELF* | XX. | 
-| *POPStarter folder name* | POPS(#) | 
+| *POPStarter folder name* | POPS or POPS# | 
 | *Game name* | Name of the Game.VCD | 
 | *Description* | Launch type introduced in POPStarter 13 WIP 02. Allows to run VCDs from an USB mass storage device. |
 | *Example* | With the POPStarter ELF renamed as Some Game.elf, POPStarter will launch Some Game.VCD which is in the POPStarter folder named /POPS/ or /POPS0/ or /POPS1/ up to /POPS9/ |
