@@ -109,7 +109,7 @@ smb0:/YourSharedFolder/POPS/SB.Crash Bandicoot.elf
 
 ______________________________________________________________________________________________________________
 
-h2. _USB launch type :_
+h2. _SMB launch type :_
 
 SMB supports only 1 launch type - the "new" one : 
 
