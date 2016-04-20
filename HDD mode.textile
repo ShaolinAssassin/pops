@@ -99,7 +99,7 @@ h2. _Additional notes :_
 | *HDDOSD compatible* | Yes | Yes | No |
 | *Partition shown in the HDDOSD/PSBBN/PSX XMB* | Yes | No | - |
 | *Prefix for POPStarter.ELF* | PP. (if used) | __. | No prefix |
-| *Prefix for partition name* | PP. | __. | __.POPS(X) |
+| *Prefix for partition name* | PP. | __. | __.POPS or __.POPS# |
 | *Game name* | IMAGE0.VCD (all uppercase) | IMAGE0.VCD (all uppercase) | Name of the Game.VCD |
 | *Examples* | (1) | (2) | (3) |
 | *Description* | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type introduced in POPStarter 13 WIP 01. Allows to put multiple VCDs in a single partition. |
@@ -114,9 +114,10 @@ h2. _Additional notes :_
 
 * The internal HDD has to be PS2 formatted. If you need to format it, I'd recommend you use the latest WIP version of AKuHAK's uLaunchELF HDD edition.
 * The partition names are case sensitive, and have to match the POPStarter ELF names.
-* Whitespaces are not allowed in the partition names. 
+* The third character of the ELF prefix (when used) is a dot (PPdot / __dot ).
+* The prefix (when used) has to be uppercase.
 * The file extension .VCD has to be uppercase.
-
+* Whitespaces are not allowed in the partition names (old types). 
 
 
 ______________________________________________________________________________________________________________
