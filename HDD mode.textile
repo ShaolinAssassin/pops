@@ -104,9 +104,9 @@ h2. _Additional notes :_
 | *Description* | This is a launch type that was used in POPStarter 12 and older versions. It allows you to install one VCD per partition. |
 | *Example* | With the POPStarter ELF renamed as "PP.Some Game.elf", POPStarter will launch IMAGE0.VCD which is in the partition named "PP.Some Game". |
 | *Notes* | The partition is shown in the HDDOSD / PSBBN / PSX XMB. |
-| *Notes* | The partition names are case sensitive, and have to match the POPStarter ELF names. |
-| *Notes* | Whitespaces are not allowed in the partition names. |
-| *Notes* | The file extension .VCD has to be uppercase. |
+|  | The partition names are case sensitive, and have to match the POPStarter ELF names. |
+|  | Whitespaces are not allowed in the partition names. |
+|  | The file extension .VCD has to be uppercase. |
 
 _Prefix for POPStarter.ELF :_ PP. (PP(dot))  -    (if used)
 _Prefix for partition name :_ PP. (PP(dot))
