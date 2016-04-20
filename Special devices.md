@@ -1,0 +1,29 @@
+h1. [VMC] *Use your [special device : light gun...] with POPS*
+
+
+______________________________________________________________________________________________________________
+_[Original tutorial by AKuHAK]_ "@ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-56#post-794781
+
+
+1. Get game that supports your special device (I mean PS2 title) and look inside it content;
+2. Look for some IRX files at the disk;
+3. First file that you need is SIO2MAN.IRX. You need this module for making other modules working;
+4. Copy it into POPS folder and rename as MODULE_0.IRX;
+5. Search for your specific IRX files. I cant help you in recognizing what exactly you need. It can be one file or multiple files. I hope that for light gun it is USBD.IRX and USBGUN.IRX;
+6. Rename them as MODULE_1.IRX, MODULE_2.IRX, ... etc. I dont know about exact order you have to experiment with it. For example I hope that for light gun first have to be usbd and second usbgun;
+7. Copy it into POPS folder and lets play.
+
+If you got special device to work - have fun! 
+
+8. If you have no luck - you can copy specific IOPRPxxx.IMG from game into POPS folder and rename it as IOPRP252.IMG. In such way you have to delete POPS.PAK and use only POPS.ELF + IOPRP252.IMG.
+9. If still no way you can also try to add more modules from game into 6th step, you can try to change module order in 6th step. Just good luck )) 
+
+*Notes :*
+Don't forget that usb devices may not work if you use usb version of pops. 
+And of course these mainpulations doesn't mean that you will be able to use all special functions. These steps only means that your device will be recognized properly (so all standard functions will work). 
+
+
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
