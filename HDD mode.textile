@@ -106,12 +106,12 @@ h2. _Additional notes :_
  
 *Examples :* 
 
-(1) _With the POPStarter ELF renamed as PP.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the 
-partition named PP.SomeGame._
+(1) With the POPStarter ELF renamed as PP.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the 
+partition named PP.SomeGame.
 
-(2) _With the POPStarter ELF renamed as __.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the partition named __.SomeGame._
+(2) With the POPStarter ELF renamed as __.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the partition named __.SomeGame.
 
-(3) _With the POPStarter ELF renamed as Some Game.elf, POPStarter will launch Some Game.VCD which is in the partition named __.POPS or __.POPS0 or __.POPS1... up to __.POPS9._
+(3) With the POPStarter ELF renamed as Some Game.elf, POPStarter will launch Some Game.VCD which is in the partition named __.POPS or __.POPS0 or __.POPS1... up to __.POPS9.
 
 * The internal HDD has to be PS2 formatted. If you need to format it, I'd recommend you use the latest WIP version of AKuHAK's uLaunchELF HDD edition.
 * The partition names are case sensitive, and have to match the POPStarter ELF names.
