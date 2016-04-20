@@ -96,32 +96,15 @@ h2. _Additional notes :_
 
 * HDD supports 3 launch types. Each type uses is own prefix for the POPSTARTER.ELF and his own way to name the VCD file : 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 |  | *Old launch type* | *Alternate Old type* | *New launch type* |
 | *HDDOSD compatible* | Yes | Yes | No |
 | *Partition shown in the HDDOSD/PSBBN/PSX XMB* | Yes | No | - |
 | *Prefix for POPStarter.ELF* | PP. (if used) | __. | No prefix |
 | *Prefix for partition name* | PP. | __. | __.POPS(X) |
 | *Game name* | IMAGE0.VCD (all uppercase) | IMAGE0.VCD (all uppercase) | Name of the Game.VCD |
+| *Examples* | (1) | (2) | (3) |
 | *Description* | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type introduced in POPStarter 13 WIP 01. Allows to put multiple VCDs in a single partition. |
-| *Examples* | (1) | (2) | (3) | 
-
-
+ 
 *Examples :* 
 (1) With the POPStarter ELF renamed as "PP.SomeGame.elf", POPStarter will launch IMAGE0.VCD which is in the partition named "PP.SomeGame".
 (2) With the POPStarter ELF renamed as "__.SomeGame.elf", POPStarter will launch IMAGE0.VCD which is in the partition named "__.SomeGame".
