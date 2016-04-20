@@ -106,8 +106,7 @@ h2. _Additional notes :_
  
 *Examples :* 
 
-(1) With the POPStarter ELF renamed as PP.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the 
-partition named PP.SomeGame.
+(1) With the POPStarter ELF renamed as PP.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the partition named PP.SomeGame.
 
 (2) With the POPStarter ELF renamed as __.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the partition named __.SomeGame.
 
