@@ -109,13 +109,27 @@ smb0:/YourSharedFolder/POPS/SB.Crash Bandicoot.elf
 
 ______________________________________________________________________________________________________________
 
+h2. _USB launch type :_
+
+SMB supports only 1 launch type - the "new" one : 
+
+|  | *SMB launch type* | 
+| *Prefix for POPStarter.ELF* | SB. | 
+| *POPStarter folder name* | POPS | 
+| *Game name* | Name of the Game.VCD | 
+| *Description* | Launch type introduced in POPStarter 13 WIP 06, OBT 08. Allows to run VCDs from an SMB share. |
+| *Example* | With the POPStarter ELF renamed as SB.Some Game.elf, POPStarter will launch Some Game.VCD which is in the POPStarter folder named POPS placed into your shared folder. |
+
+
 h2. _Additional notes :_
 
+* You can not use the old POPS.ELF+IOPRP252.IMG files (POPS.PAK) in SMB mode, updating to POPS_IOP_PAK is mandatory.
+* You can load the network modules from the MC that is in the second slot too. When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/....
+* Debug infos at startup can not be skipped.
+* The third character of the ELF prefix is a dot (SBdot).
 * The file extension .VCD has to be uppercase.
-* The third character of the ELF prefix is a dot (PPdot / __dot / XXdot / SBdot).
 * The prefix has to be uppercase.
-* You can load the network modules from the MC that is in the second slot too. (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...).
-* Debug info at startup can not be skipped.
+
 
 ______________________________________________________________________________________________________________
 
