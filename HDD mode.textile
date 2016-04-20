@@ -93,7 +93,7 @@ h2. _HDD Launch types :_
 HDD supports 3 "launch types". The "launch type" relies on the prefix you put to your ELF names. Each type uses his own way to name the VCD file : 
 
 |  | *Old launch type* | *Alternate Old type* | *New launch type* |
-| *HDDOSD compatible* | Yes | Yes | No |
+| *HDDOSD compatible* | Yes | No | No |
 | *Partition shown in the HDDOSD/PSBBN/PSX XMB* | Yes | No | - |
 | *Prefix for POPStarter.ELF* | PP. (if used) | __. | No prefix |
 | *Prefix for partition name* | PP. | __. | __.POPS or __.POPS# |
