@@ -96,7 +96,7 @@ h2. _Additional notes :_
 
 * HDD supports 3 launch types. Each type uses is own prefix for the POPSTARTER.ELF and his own way to name the VCD file : 
 
-Old launch type (HDDOSD compatible) :
+*_Old launch type (HDDOSD compatible) :_*
 Prefix for POPStarter.ELF : PP. (PP(dot))  -    (if used)
 Prefix for partition name : PP. (PP(dot))
 Game name : IMAGE0.VCD (all uppercase)
