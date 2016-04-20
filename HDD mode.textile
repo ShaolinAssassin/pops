@@ -91,13 +91,12 @@ ________________________________________________________________________________
 
 h2. _Additional notes :_
 
-h3. HDD specific notes :_ 
 
 * The internal HDD has to be PS2 formatted. If you need to format it, I'd recommend you use the latest WIP version of AKuHAK's uLaunchELF HDD edition.
 
-* HDD supports 3 launch types. Each type uses is own prefix for the POPSTARTER.ELF and his own way to name the VCD file. 
+* HDD supports 3 launch types. Each type uses is own prefix for the POPSTARTER.ELF and his own way to name the VCD file : 
 
----- Old launch type (HDDOSD compatible)
+_Old launch type (HDDOSD compatible) :_
 - Prefix for POPStarter.ELF : PP. (PP(dot))  -    (if used)
 - Prefix for partition name : PP. (PP(dot))
 - Game name : IMAGE0.VCD (all uppercase)
