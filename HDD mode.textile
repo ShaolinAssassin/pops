@@ -99,9 +99,9 @@ h2. _Additional notes :_
 *1. "Old launch type" (HDDOSD compatible) :* 
 
 
-|  | Old launch type | Alternate Old launch type | New launch type |
+|  | *Old launch type* | *Alternate Old launch type* | *New launch type* |
 | *Prefix for POPStarter.ELF* | PP. (if used) | __. | No prefix |
-
+| HDDOSD compatible | Yes | Yes | No | 
 | *Prefix for partition name* | PP. |
 | *Game name* | IMAGE0.VCD (all uppercase) |
 | *Description* | This is a launch type that was used in POPStarter 12 and older versions. It allows you to install one VCD per partition. |
