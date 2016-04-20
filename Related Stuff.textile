@@ -20,10 +20,10 @@ ________________________________________________________________________________
 h2. _Tutorials :_ 
 
 
-* [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Pfsshell 
-* [HDD] "Transfer VCD files over network using RadHostClient":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/RadHostClient
-* [VMC] "Use your PS1 MC saves with POPStarter":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/PS1%20MC%20saves%20to%20VMC 
-* [VMC] "Use your VMC saves on a PS1 retail console":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/VMC%20to%20PS1%20MC%20 
+* [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell 
+* [HDD] "Transfer VCD files over network using RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/RadHostClient
+* [VMC] "Use your PS1 MC saves with POPStarter":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/PS1%20MC%20saves%20to%20VMC 
+* [VMC] "Use your VMC saves on a PS1 retail console":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC%20to%20PS1%20MC%20 
 
 
 ______________________________________________________________________________________________________________
@@ -56,5 +56,5 @@ _Portuguese :_
 * "Popstarter: Emulador de PS1 para PS2 @ Playstation2 Homebrew Addict":http://ps2home.forumeiro.com/t27-popstarter-emulador-de-ps1-para-ps2
 ______________________________________________________________________________________________________________
 
-h1. "*Back*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
+h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
 
