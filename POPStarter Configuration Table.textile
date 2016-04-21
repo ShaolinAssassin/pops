@@ -8,7 +8,11 @@ This documentation concerns the advanced configuration of POPStarter r13, involv
 
 The POPStarter r13 ELF and KELF have a 32 bytes long configuration table, starting from the offset $410 (or 1040 in decimal).
 
-* *Caution* : Unless you know exactly what it is for and what you're doing, please don't tamper with it. Perhaps a GUI or a bunch of PPFs will surface, but for now the hexediting of that stuff is for advanced users only... Make a backup of the default config before you start changing values.
+* *Caution* : Unless you know exactly what it is for and what you're doing, please don't tamper with it. Hexediting of that stuff is for advanced users only. Make a backup of the default config before you start changing values. If you are not sure, read the section below (PPF bunch pack). 
+
+
+
+
 
 | *Offset* | *Description* | *Values* | *Notes* |
 | *$410* | Display of the debug texts/pages | 0x00 = disables the debug printing |  |
@@ -80,6 +84,30 @@ ________________________________________________________________________________
 h2. _Default values (WIP 06, OBT 13 (2015/12/07)) :_ 
 
 !https://bitbucket.org/repo/Mpy7Eg/images/28454758-Sans-titre-1.jpg(title)!
+
+______________________________________________________________________________________________________________
+
+h2. _"PPF bunch pack":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/PPF%20Bunch%20pack%20v1.7z :_ 
+
+
+pre. 
+=================================================================================
+-----------------------PPF Bunch pack for POPStarter r13-------------------------
+=================================================================================
+Hi ! 
+I am a bunch of .PFF files. You can use me to enable POPStarter advanced settings. You need a PPF patcher (such as PPF-O-Matic) to use me and apply PPF over POPStarter.ELF. 
+Here is what I can do for you :
+- File name : description (notes) 
+- NO_LC_CRACKS.PPF : Disables the built-in LC cracks of POPStarter r13 (from WIP05. Automated modes are disabled also).
+- DEBUG_AND_HALT.PPF : Prints the screen debug messages and halt (from WIP05).
+- NO_VMC.PPF : Disables VMC feature (new)
+- ONLY_1ST_VMC.PPF : Only the first VMC in the first virtual slot is created (new)
+- NO_PAL.PPF : Disables the automatic PAL patch (new)
+- FORCE_MODEX.PPF : Mode X hardcoded into POPStarter r13 (new)
+- DEFAULT_IGR_TEXTURES.PPF : Disables the IGR textures loader (new)
+- LC_ONLY.PPF : Enable the other subroutines (like LibCrypt cracks), disable the compatibility modes. (new).
+- NO_AUTO_PATCH.PPF : Disables everything (modes, LC cracks...) (new).
+
 
 ______________________________________________________________________________________________________________
 
