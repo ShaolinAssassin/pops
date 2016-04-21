@@ -29,7 +29,15 @@ h2. _Features :_
 * Hotkeys
 * In Game-Reset
 * BIOS & OSD handlers
+* Compatibility rates :  
+HDD (PAL) : 78% (343/438)
+HDD (NTSC) : 75% (165/219)
+USB (PAL) : 79% (298/377)
+USB (NTSC) : 83% (211/252)
+SMB (PAL) : 76% (133/174)
+SMB (NTSC) : 80% (92/114)
 
+ 
 ______________________________________________________________________________________________________________
 
 h2. _Wiki Table of content :_ 
