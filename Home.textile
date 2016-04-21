@@ -22,6 +22,7 @@ h2. _Features :_
 
 * "PSX support":https://en.wikipedia.org/wiki/PSX_%28video_game_console%29
 * HDD, USB & SMB support
+* High compatibility rate (around 75%/80%)
 * CDDA support
 * VMC support
 * Automatic PAL patcher
@@ -29,13 +30,8 @@ h2. _Features :_
 * Hotkeys
 * In Game-Reset
 * BIOS & OSD handlers
-* Compatibility rates :  
-HDD (PAL) : 78% (343/438)
-HDD (NTSC) : 75% (165/219)
-USB (PAL) : 79% (298/377)
-USB (NTSC) : 83% (211/252)
-SMB (PAL) : 76% (133/174)
-SMB (NTSC) : 80% (92/114)
+ 
+
 
  
 ______________________________________________________________________________________________________________
