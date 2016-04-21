@@ -3,6 +3,15 @@ h1. *FAQs*
 
 ______________________________________________________________________________________________________________
 
+* *Question : does POPS support mutitap player ?* 
+
+*Answer :* Unfortunately, no. Only the 2 first controllers are recognised.
+
+
+* *Question : does POPS support physical memory card saving ?*
+
+*Answer :* No, it doesnt. There is a technical reason about it : POPS doesnt save on a single memory card block but flash the whole VMC. Doing it on physical memory card would be very slow if possible.  
+
 
 
 ______________________________________________________________________________________________________________
