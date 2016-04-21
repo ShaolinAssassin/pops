@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 h2. _Features :_ 
 
-* PSX support
+* "PSX support":https://en.wikipedia.org/wiki/PSX_%28video_game_console%29
 * HDD, USB & SMB support
 * CDDA support
 * VMC support
