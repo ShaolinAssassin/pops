@@ -40,7 +40,7 @@ h2. _Wiki Table of content :_
 "5.  Game Compatibility":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
 "6.  Features":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Features
 "7.  POPStarter Help":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Help
-"8.  FAQs":
+"8.  FAQs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/FAQs
 "9.  Known bugs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Known%20bugs
 "10.  POPStarter Configuration Table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
 "11. History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/History
