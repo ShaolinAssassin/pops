@@ -23,7 +23,7 @@ h2. _Features :_
 * "PSX support":https://en.wikipedia.org/wiki/PSX_%28video_game_console%29
 * HDD, USB & SMB support
 * High compatibility rate (around 75%/80%)
-* CDDA support
+* CDDA tracks support
 * VMC support
 * Automatic PAL patcher
 * Cheat Engine
