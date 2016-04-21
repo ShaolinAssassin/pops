@@ -20,6 +20,7 @@ ________________________________________________________________________________
 
 h2. _Features :_ 
 
+* PSX support
 * HDD, USB & SMB support
 * CDDA support
 * VMC support
@@ -27,7 +28,7 @@ h2. _Features :_
 * Cheat Engine
 * Hotkeys
 * In Game-Reset
-* BIOS & OSD handler
+* BIOS & OSD handlers
 
 ______________________________________________________________________________________________________________
 
