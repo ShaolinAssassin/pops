@@ -2,15 +2,61 @@ h1. *LC Cracks, crash fixes & compatibility modes integrated into POPStarter*
 
 
 ______________________________________________________________________________________________________________
-_[From wip05 documentation]_
 
-* *Note :* This list comes from the WIP05 documentation. Some others LC Cracks, crash fixes & compatibility modes were integrated into POPStarter since. You can find which ones "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/History.
 
 The LibCrypt cracks are experimental and their reliability hasn't been proven with all the "supported" titles. These were made using IdentRip v1.02, which generates "generic" cracks for LibCrypt protected games. The resulting cracks may fail on games that have enhanced protections.
 
 If a POPStarter build-in LibCrypt crack crashes the emulation, prevents you from playing the game or does not work, disable it by patching the POPStarter KELF/ELF with NO_LC_CRACKS.PPF, then patch your disc image with a good old PS1 scene crack (you may find some of them in the Compatibility List which is maintained by El_Patas for Elotrolado, or at ConsoleCopyWorld).
 
+
 ______________________________________________________________________________________________________________
+_[According to POPStarter changelog]_
+
+
+New fixes integrated into POPStarter Revision 13 *since WIP 06 OBT13* 
+
+*495 DISCS* are recognised.
+
+* Alundra 2 – Fix
+* ATV: Quad Power Racing (SLES-02822) – Compatibility Mode 0×04
+* ATV: Quad Power Racing (SLUS-01137) – Compatibility Mode 0×04
+* Crash Bandicoot – Fix
+* Crash Team Racing (SCUS-94426) – Sound Fix
+* Cybernetic Empire (Disc 1) (SLPS-01912) – Crash Fix
+* Cybernetic Empire (Disc 2) (SLPS-01913) – Crash Fix
+* Cybernetic Empire (SLPS-01913, RGR) – Crash Fix
+* Devil's Deception (SLES-00848) – Crash Fix
+* Driver 2 v1.0 (Disc 2) (SLUS-01318) – Disk Check Fix
+* Driver 2 v1.1 (Disc 2) (SLUS-01318) – Disk Check Fix
+* Driver 2: Back On The Streets (Disc 2) (SLES-12994) – Disk Check Fix
+* Driver 2: Back On The Streets (Disc 2) (SLES-12996) – Disk Check Fix
+* Driver 2: Back On The Streets (Disc 2) (SLES-12997) – Disk Check Fix
+* Driver 2: Back On The Streets v1.0 (Disc 2) (SLES-12993) – Disk Check Fix
+* Driver 2: Back On The Streets v1.0 (Disc 2) (SLES-12995) – Disk Check Fix
+* Driver 2: Back On The Streets v1.1 (Disc 2) (SLES-12993) – Disk Check Fix
+* Driver 2: Back On The Streets v1.1 (Disc 2) (SLES-12995) – Disk Check Fix
+* F1 2000 (SLES-02723) – LibCrypt Crack
+* Formula One 99 (SCES-02222) – LibCrypt Crack
+* Jackie Chan Stuntmaster (SCES-01444) – LibCrypt crack
+* Men In Black: The Series: Crashdown (SLES-03523) – LibCrypt Crack
+* Metal Gear Solid: Special Missions (SLES-02136) – Disk Check Fix
+* OverBlood 2 (Disc 1) (SLES-01880) – LibCrypt Crack
+* OverBlood 2 (Disc 2) (SLES-11880) – LibCrypt Crack
+* OverBlood 2 v1.0 (Disc 1) (SLES-01879) – LibCrypt Crack
+* OverBlood 2 v1.0 (Disc 2) (SLES-11879) – LibCrypt Crack
+* PGA European Tour Golf (SLES-02396) – LibCrypt Crack
+* Radikal Bikers (SLES-01943) – LibCrypt Crack
+* Super Tokusatsu Taisen 2001 (SLPS-02863)  – Crash Fix
+* Sydney 2000 (SLES-02861) – LibCrypt Crack
+* Um Jammer Lammy (SCES-01753) – Crash Fix
+* Um Jammer Lammy (SCPS-18011) – Crash Fix
+* Um Jammer Lammy (SCUS-94448) – Crash Fix
+
+
+
+______________________________________________________________________________________________________________
+_[From wip05 documentation]_
+
 
 POPStarter Revision 13, Build Date : 2015/06/03, *WIP 05* PUBLIC RELEASE
 
