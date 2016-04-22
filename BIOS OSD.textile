@@ -9,7 +9,7 @@ h2. _BIOS handler :_
 
 You can use a PlayStation BIOS dump with POPS. Put a "BIOS.BIN" file in the VMC directory (example : __common/POPS/PBPX-95000.MY_GAME/BIOS.BIN) so POPStarter can handle it.
 If you didn't, POPS will use the built-in BIOS.
-
+You can also put it in the POPS folder, so it will be used for all games.
 
 
 ______________________________________________________________________________________________________________
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 h2. _OSD handler :_ 
 
 
-If you put an OSD replacement image in the VMC directory, named as "OSD.BIN" (example : __common/POPS/PBPX-95000.MY_GAME/OSD.BIN), it will be injected in the built-in BIOS for POPS to run it.
+If you put an OSD replacement image in the VMC directory (or in POPS folder), named as "OSD.BIN" (example : __common/POPS/PBPX-95000.MY_GAME/OSD.BIN), it will be injected in the built-in BIOS for POPS to run it.
 When using a OSD replacement file, "BIOS.BIN" is ignored. 
 
 
@@ -49,7 +49,7 @@ LIMITATIONS AND RESTRICTIONS [Version 1]
 + NULL/RESERVED/UNDEFINED fields have to be NULL
 + The size of the OSD replacement file (OSD.BIN) has to be the header length PLUS the OSD size
 
-"Infos":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-4#post-667305
+More infos about it @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-4#post-667305
 
 
 ______________________________________________________________________________________________________________
