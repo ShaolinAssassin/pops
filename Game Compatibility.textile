@@ -9,7 +9,7 @@ h2. _Compatibility rates (04/21/2016) :_
 
 
 pre. 
-MODE (Region) : XX% games playable (partially or perfectly emulated/tested)
+* MODE (Region) : XX% games playable (partially or perfectly emulated/tested)
 
 
 * HDD (PAL) : 78% (343/438)
