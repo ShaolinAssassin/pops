@@ -13,9 +13,11 @@ ________________________________________________________________________________
 _[According to POPStarter changelog]_
 
 
-New fixes integrated into POPStarter Revision 13 *since WIP 06 OBT13* 
+New fixes integrated into POPStarter Revision 13 since WIP 05.
 
-*495 DISCS* are recognised.
+POPStarter Revision 13, *WIP 05, OBT 13*
+
+*495 DISCS* (+34 Disks) are recognised.
 
 * Alundra 2 – Fix
 * ATV: Quad Power Racing (SLES-02822) – Compatibility Mode 0×04
