@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 h2. _Features :_ 
 
-* "PSX":https://en.wikipedia.org/wiki/PSX_%28video_game_console%29 support
+* "PSX DVR":https://en.wikipedia.org/wiki/PSX_%28video_game_console%29 support
 * HDD, USB & SMB support
 * High compatibility rate (around 75%/80%)
 * CDDA tracks support
