@@ -39,10 +39,10 @@ pre.
 - PATINFO.KELF
 
 POPS-00001 limitations : 
-- Name of the partition was harcoded into EXECUTE.ELF at offset 3B95h;
-- It was 24 Bit limited;
-- It required a so call "POPS header" taken from disc0 (which is Bishi Bashi demo) to be applied to the dump game;
-- It also required to change the region sectors of the PAL & NTSC-U dump games, since it was NTSC-J limited (tho that were a workaround : using an EXECUTE.ELF with an injected region free BIOS inside - the so called "EXECUTE_POPS-PSP-660_BIOS_.ELF").
+* Name of the partition was harcoded into EXECUTE.ELF at offset 3B95h;
+* It was 24 Bit limited;
+* It required a so call "POPS header" taken from disc0 (which is Bishi Bashi demo) to be applied to the dump game;
+* It also required to change the region sectors of the PAL & NTSC-U dump games, since it was NTSC-J limited (tho that were a workaround : using an EXECUTE.ELF with an injected region free BIOS inside - the so called "EXECUTE_POPS-PSP-660_BIOS_.ELF").
 
 POPS-00001/POC2 wasnt end-user friendly and required a lot of hexediting.
 
