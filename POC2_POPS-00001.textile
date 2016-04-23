@@ -3,7 +3,7 @@ h1. [HISTORY] *POC2/POPS-00001*
 
 ______________________________________________________________________________________________________________
 
-* *WARNING :* This tutorial is *OBSOLETE* & for *HISTORY PURPOSE ONLY*
+* *WARNING :* This tutorial is *OBSOLETE* & for *HISTORY PURPOSE ONLY.* 
 
 ______________________________________________________________________________________________________________
 
@@ -15,7 +15,7 @@ POC2/POPS-00001 was a demonstration test, showing all the potential of the decry
 
 Contrary to what had been told, POPS-00001 isnt the emulator itself, it's a loader which has POPS inside. The "famous" 3,3MB EXECUTE.ELF was made of a homebrew launcher + the POPS ELF + the POPS IOPRP.
 
-Original POPS-00001 content : 
+Original POPS-00001 archive content : 
 
 pre. 
 - PP.POPS-00001/disc/disc0
@@ -134,6 +134,7 @@ Thanks to CUE2POPS/Toolbox, we do not have to mess around with this anymore !
 
 3. Then we could save the double-modified dump as MYDUMP.BIN and transfer it to the game partition. 
 
+All these steps for only 1 game *facepalm*
 
 
 ______________________________________________________________________________________________________________
