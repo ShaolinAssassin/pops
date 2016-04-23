@@ -130,7 +130,9 @@ This was the tricky part for people not familiar with hexedition like me.
 
 !https://bitbucket.org/repo/Mpy7Eg/images/1177744224-6.png(title)!
 
-3. Then we could save the double modifier dump as MYDUMP.BIN and transfer it to the game partition. 
+Thanks to CUE2POPS/Toolbox, we do not have to mess around with this anymore !
+
+3. Then we could save the double-modified dump as MYDUMP.BIN and transfer it to the game partition. 
 
 
 
