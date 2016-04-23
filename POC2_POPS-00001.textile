@@ -104,7 +104,7 @@ h3. *Creating the game partition :*
 
 !https://bitbucket.org/repo/Mpy7Eg/images/2153831563-ESdBYV.jpg(title)!
 
-POPS built-in BIOS starts at offset 0x508B0. To replace it with a console BIOS we had first to remove some garbage at the end of the BIOS we wanted to use with an hex editor (after 0x7FF90, "Copyright 1993,1994,1995 (C) Sony Computer Entertainment Inc"), then insert the rest into the EXECUTE.ELF. Keep in mind that the BIOS had to match the region of the game. That's why an alternate EXECUTE.ELF quickly spread out : EXECUTE_POPS-PSP-660_BIOS_.ELF, which has the region free Popsloader from PS1 PSP emulator embedded. 
+POPS built-in BIOS starts at offset 0x508B0. To replace it with a console BIOS we had first to remove some garbage at the end of the BIOS we wanted to use with an hex editor (after 0x7FF90, "Copyright 1993,1994,1995 (C) Sony Computer Entertainment Inc"), then insert the rest into the EXECUTE.ELF. Keep in mind that the BIOS had to match the region of the game. That's why an alternate EXECUTE.ELF quickly spread out : EXECUTE_POPS-PSP-660_BIOS_.ELF, which has the region free BIOS from Popsloader PS1 PSP emulator embedded. 
 
 
 h3. *Installing POC2/POPS-00001 files :* 
