@@ -59,3 +59,7 @@ h2. _Wiki Table of content :_
 "11. Changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Changelog
 "12. POPS' History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/History
 "13. Tools, Tutorials...":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
+
+______________________________________________________________________________________________________________
+
+_Original documentation : krHACKen_
