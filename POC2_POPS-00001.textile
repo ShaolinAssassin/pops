@@ -42,7 +42,7 @@ POPS-00001 limitations :
 * Name of the partition was harcoded into EXECUTE.ELF at offset 3B95h;
 * It was 24 Bit limited;
 * It required a so call "POPS header" taken from disc0 (which is Bishi Bashi demo) to be applied to the dump game;
-* It also required to change the region sectors of the PAL & NTSC-U dump games, since it was NTSC-J limited (tho that were a workaround : using an EXECUTE.ELF with an injected region free BIOS inside - the so called "EXECUTE_POPS-PSP-660_BIOS_.ELF").
+* It also required to change the region sectors of the PAL & NTSC-U dump games, since it was regions-locked : NTSC-J limited (tho that were a workaround : using an EXECUTE.ELF with an injected region free BIOS inside - the so called "EXECUTE_POPS-PSP-660_BIOS_.ELF").
 
 POPS-00001/POC2 wasnt end-user friendly and required a lot of hexediting.
 
@@ -109,8 +109,17 @@ Keep in mind that each partition created had to have the disc0 file and the EXEC
 
 
 
-h3. *
+h3. *Editing the game dump :* 
 
+This was the tricky part for people not familiar with hexedition like me. 
+
+1. At first, if we did not insert a region BIOS matching our dump, we had to edit the game's Licence data to Japan. Some ready-to-use files made it easier. This step required a file named "Japan game Licence". All we had to do a copy/paste of the Japan Game Licence over the dump. 
+
+!https://bitbucket.org/repo/Mpy7Eg/images/142663629-1.png(title)! 
+
+![2.png](https://bitbucket.org/repo/Mpy7Eg/images/1391261396-2.png)
+
+!https://bitbucket.org/repo/Mpy7Eg/images/95817135-3.png(title)!
 
 
 
