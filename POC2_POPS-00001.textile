@@ -76,7 +76,40 @@ __common/ps1emu/card1 [used VMC image, slot 2, created by the emu]
 
 ______________________________________________________________________________________________________________
 
+h2. _Installing the POC2 :_ 
 
+h3. *Creating the game partition :* 
+
+1. Before creating the game partition, we had to harcode the game partition name into the EXECUTE.ELF. If we can use this file at it is for the first game installed on the HDD, it was a must-to-do if we wanted to have several games installed.
+
+!https://bitbucket.org/repo/Mpy7Eg/images/1562921491-POPSLOADPATH.JPG(title)!
+
+* *Note :* a workaround to hexedition was to create a very large PP.POPS-00001 partition, with only 1 EXECUTE.ELF to run the emu inside, and with all the games inside this partition. It wasnt more comfortable. When you wanted to play one game, you had to rename it before to MYGAME.BIN.
+
+2. Then we had to create the partition using new version of uLE. At these times, there were 2 new version : uLE442_ev.ELF (for evil) and uLE442b_Hacked.elf. Both of them were able to create the partition without the "+" symbol. 
+
+3. Optional step : we could also inject another BIOS into the EXECUTE.ELF.
+
+!https://bitbucket.org/repo/Mpy7Eg/images/2153831563-ESdBYV.jpg(title)!
+
+POPS built-in BIOS starts at offset 0x508B0. To replace it with a console BIOS we had first to remove some garbage at the end of the BIOS we wanted to use with an hex editor (after 0x7FF90, "Copyright 1993,1994,1995 (C) Sony Computer Entertainment Inc"), then insert the rest into the EXECUTE.ELF. Keep in mind that the BIOS had to match the region of the game. That's why an alternate EXECUTE.ELF quickly spread out : EXECUTE_POPS-PSP-660_BIOS_.ELF, which has the region free Popsloader from PS1 PSP emulator embedded. 
+
+
+h3. *Installing POC2/POPS-00001 files :* 
+
+It was the easy part. All we had to do was a copy/paste of the files into the new partition. 
+
+
+pre. 
+PP.POPS-00001/disc/disc0 [the original Bishi Bashi image]
+PP.POPS-00001/EXECUTE.ELF [POPS in it's container]
+PP.POPS-00001/MYDUMP.BIN [Your game image]
+
+Keep in mind that each partition created had to have the disc0 file and the EXECUTE.ELF into.
+
+
+
+h3. *
 
 
 
