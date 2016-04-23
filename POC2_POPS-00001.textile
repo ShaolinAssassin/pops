@@ -55,8 +55,9 @@ POPS-00001 limitations :
 * It required a so call "POPS header" taken from disc0 (which is Bishi Bashi demo) to be applied to the dump game;
 * It also required to change the region sectors of the PAL & NTSC-U dump games, since it was regions-locked : NTSC-J limited (tho that were a workaround : using an EXECUTE.ELF with an injected region free BIOS inside - the so called "EXECUTE_POPS-PSP-660_BIOS_.ELF");
 * Buggy IGR.
+* HDD support only - of course.
 
-POPS-00001/POC2 wasnt end-user friendly and required a lot of hexediting.
+POPS-00001/POC2 wasn't end-user friendly and required a lot of hexediting.
 
 ______________________________________________________________________________________________________________
 
