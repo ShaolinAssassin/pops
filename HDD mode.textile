@@ -40,7 +40,7 @@ h2. _B) Installing your PS1 Games :_
 # Convert your BIN/CUE disc images to .VCD files using the latest stable version of Toolbox;
 # Create a partition named "__.POPS" in your PS2 HDD, large enough so you can put all your VCDs inside.
 
-* *Note :* +__.POPS is not correct. AKuHAK's uLaunchELF build or uLE_kHn build to create partition without +.
+* *Note :* +__.POPS is not correct. Use AKuHAK's uLaunchELF build or uLE_kHn build to create partition without +.
 
 h2. _C) Installing POPStarter :_ 
 
