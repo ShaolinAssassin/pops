@@ -56,8 +56,6 @@ toolbox.exe -igrpix "background.tm2" "no_button.tm2 "yes_button.tm2"
 
 Result : 
 
-!https://bitbucket.org/repo/Mpy7Eg/images/3333649027-result.png(title)!
-
 !https://bitbucket.org/repo/Mpy7Eg/images/2114982071-IGR_sample.gif(title)!
 
 
