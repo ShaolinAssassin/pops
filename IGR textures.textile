@@ -12,8 +12,9 @@ h2. _Software Requirements :_
 * A hex editor, such as HxD. 
 
 _Sample files :_"here": 
+
 Included : 
-. PSD file with guide lines
+. PSD file with guidelines
 . 3 images files, as .bmp
 . 3 images files, as .TM2
 . IGR replacement, compiled as TR0JAN#.BIN file.
