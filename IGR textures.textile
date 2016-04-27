@@ -22,7 +22,7 @@ Included :
 ______________________________________________________________________________________________________________
 
 
-1. Using your favorite graphic editor, create 3 .bmp files with the above dimensions : 
+*1.* Using your favorite graphic editor, create 3 .bmp files with the above dimensions : 
 
 . IGR_BG : 400 x 260 px
 
@@ -36,23 +36,24 @@ Use the PSD file with guidelines if need to crop properly.
 
 !https://bitbucket.org/repo/Mpy7Eg/images/4238144417-preview-guidelines.png(title)!
 
-2. Open these 3 files with a TM2 editor & save them as .TM2 files.
+*2.* Open these 3 files with a TM2 editor & save them as .TM2 files.
 
-3. Open IGR_YES.TM2 and IGR_NO.TM2 with a hex editor and delete the last 8 digits in last offset (1D80) : 
+*3.* Open IGR_YES.TM2 and IGR_NO.TM2 with a hex editor and delete the last 8 digits in last offset (1D80) : 
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3117688129-bez%C3%82%C2%A0tytu%C5%82u.png(title)!
 
-4. You can either : 
+*4.* You can either : 
 . place your .TM2 files as they are in the POPS folder (named as IGR_BG.TM2, IGR_NO.TM2 & IGR_YES.TM2)
 OR
 . [optionnal step] compiled them as a PATCH#.BIN.
 
-5. If you want to compile them as PATCH#.BIN, use toolbox command : 
+*5.* If you want to compile them as PATCH#.BIN, use toolbox command : 
 
 
 pre. 
 toolbox.exe -igrpix "background.tm2" "no_button.tm2 "yes_button.tm2"
 
+*6.* Place your PATCH#.BIN file into POPS folder.
 
 Result : 
 
