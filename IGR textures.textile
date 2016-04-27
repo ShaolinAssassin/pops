@@ -1,18 +1,62 @@
+h1. [IGR] *Make your own IGR textures*
+
 
 ______________________________________________________________________________________________________________
 
-h2. _Make your own textures:_ 
+h2. _Software Requirements :_ 
 
-Some piece of info from arkl1t32 about how to make you own IGR textures :
+* A graphic editor, such as Photoshop or GIMP; 
+* A TIM2 editor, such as OPTPiX iMageStudio;
+* A hex editor, such as HxD. 
+
+_Sample files :_"here": 
+Included : 
+. PSD file with guide lines
+. 3 images files, as .bmp
+. 3 images files, as .TM2
+. IGR replacement, compiled as TR0JAN#.BIN file.
+
+______________________________________________________________________________________________________________
+_Based on infos shared by arkl1t32 @"ASSEMblergames":!https://bitbucket.org/repo/Mpy7Eg/images/3117688129-bez%C3%82%C2%A0tytu%C5%82u.png(title)!
 
 
-pre. 
-1 editing background is easy and only .TM2 editor is needed.
-2 editing select icons is litle tricky, you need 2 programs, .TM2 editor and HEX editor
-use my NO YES files as a base to edit, they work, but remember black color for NO YES files is TRANSPARENT!! it's almost invisible! other colors are shown normaly
-after editing you must open them by hex editor end DELETE last 8 digits in last offset like on this picture. And last offset must be 1DB0!
-i dont know why byt saving file after edition in .tm2 editor, program writes those 8 empty fields so, they must be deleted again with hex editor 
+1. Using your favorite graphic editor, create 3 .bmp files with the above dimensions : 
+
+. IGR_BG : 400 x 260 px
+
+!https://bitbucket.org/repo/Mpy7Eg/images/1390009092-IGR_BG.png(title)!
+
+. IGR_YES & IGR_NO : 74 x 34 px
+
+!https://bitbucket.org/repo/Mpy7Eg/images/3308953039-IGR_YES.png(title)!
+
+Use the PSD file with guidelines if need to crop properly.
+
+!https://bitbucket.org/repo/Mpy7Eg/images/4238144417-preview-guidelines.png(title)!
+
+2. Open these 3 files with a TM2 editor & save them as .TM2 files.
+
+3. Open IGR_YES.TM2 and IGR_NO.TM2 with a hex editor and delete the last 8 digits in last offset (1D80) : 
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3117688129-bez%C3%82%C2%A0tytu%C5%82u.png(title)!
 
-"Source":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-38#post-771111
+4. You can either : 
+. place your .TM2 files as they are in the POPS folder (named as IGR_BG.TM2, IGR_NO.TM2 & IGR_YES.TM2)
+OR
+. [optionnal step] compiled them as a PATCH#.BIN.
+
+5. If you want to compile them as PATCH#.BIN, use toolbox command : 
+
+
+pre. 
+toolbox.exe -igrpix "background.tm2" "no_button.tm2 "yes_button.tm2"
+
+
+Result : 
+
+!https://bitbucket.org/repo/Mpy7Eg/images/3333649027-result.png(title)!
+
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
