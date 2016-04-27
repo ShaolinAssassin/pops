@@ -88,9 +88,9 @@ COMPATIBILITY_0×06
 
 * *How to use it :* 
 
-1. Copy past all lines into a CHEATS.TXT file.
+1. Copy/past all lines into a CHEATS.TXT file.
 2. Put that file into the game VMC folder. 
-3. Use uLE Text editor to active the wanted combinaison ($) + and let the other lines unedited.
+3. Use uLE Text editor to active the wanted combinaison (+ $) and let the other lines unedited.
 
 
 Ex : modes 3+4 enabled 
@@ -134,8 +134,8 @@ COMPATIBILITY_0×02
 COMPATIBILITY_0×06
 ------------------------------------------------------------------
 // modes 3+4
-$COMPATIBILITY_0×03
-$COMPATIBILITY_0×04
+*$*COMPATIBILITY_0×03
+*$*COMPATIBILITY_0×04
 ------------------------------------------------------------------
 // modes 3+6
 COMPATIBILITY_0×03
