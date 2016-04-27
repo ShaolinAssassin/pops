@@ -11,7 +11,7 @@ h2. _Software Requirements :_
 * A TIM2 editor, such as OPTPiX iMageStudio;
 * A hex editor, such as HxD. 
 
-_Sample files :_"here": 
+Sample files : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_sample_kit_04272016.7z 
 
 Included : 
 . PSD file with guidelines
