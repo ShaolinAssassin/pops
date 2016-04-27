@@ -37,5 +37,14 @@ h2. _Additional notes :_
 
 ______________________________________________________________________________________________________________
 
+h2. _Related stuff :_ 
+
+You may want to give a look at this :
+
+* [VMC] "Use your PS1 MC saves with POPStarter":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/PS1%20MC%20saves%20to%20VMC 
+* [VMC] "Use your VMC saves on a PS1 retail console":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC%20to%20PS1%20MC%20 
+
+______________________________________________________________________________________________________________
+
 h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
 
