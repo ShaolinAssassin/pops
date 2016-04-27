@@ -6,8 +6,8 @@ ________________________________________________________________________________
 
 
 * 04/27/2016 : 
-- [WIKI] New tutorial about how to troubleshoot your games "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Troubleshooting%20games
-- [WIKI] "News" section added in front page "here": https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/News
+[WIKI] New tutorial about how to troubleshoot your games "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Troubleshooting%20games.
+[WIKI] "News" section added in front page "here": https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/News.
 ______________________________________________________________________________________________________________
 
 h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
