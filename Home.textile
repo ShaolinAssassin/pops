@@ -63,4 +63,4 @@ h2. _Wiki Table of content :_
 
 ______________________________________________________________________________________________________________
 
-_Original documentation : krHACKen_
+_Original documentation : krHACKen - updated by ShaolinAssassin_
