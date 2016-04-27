@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 . IGR_YES & IGR_NO : 74 x 34 px
 
-!https://bitbucket.org/repo/Mpy7Eg/images/3308953039-IGR_YES.png(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/3308953039-IGR_YES.png(title)! 
 
 Use the PSD file with guidelines if need to crop properly.
 
