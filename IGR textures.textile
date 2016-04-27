@@ -17,7 +17,7 @@ Included :
 . PSD file with guidelines
 . 3 images files, as .bmp
 . 3 images files, as .TM2
-. IGR replacement, compiled as TR0JAN#.BIN file.
+. IGR replacement, compiled as PATCH#.BIN file.
 
 ______________________________________________________________________________________________________________
 
