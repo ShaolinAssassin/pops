@@ -84,4 +84,12 @@ h2. _Automated fixes :_
 
 ______________________________________________________________________________________________________________
 
+h2. _Related stuff :_ 
+
+You may want to give a look at this : 
+
+* [COMPATIBILITY] "Troubleshooting games":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Troubleshooting%20games
+
+______________________________________________________________________________________________________________
+
 h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
