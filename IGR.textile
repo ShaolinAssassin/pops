@@ -57,6 +57,15 @@ h2. _"Exit to [name of app]" function :_
 POPStarter has a built-in launcher added to the in-game reset function. It looks for mc0:/BOOT/BOOT.ELF then mc1:/BOOT/BOOT.ELF. If not found/invalid, it exits to the PS2 browser. 
 If you want to exit to some app (uLE_kHn for example), name it BOOT.ELF and place it in the BOOT folder of your memory card. 
 
+
+______________________________________________________________________________________________________________
+
+h2. _Related stuff :_ 
+
+You may want to give a look at this :
+
+* [IGR] "Make your own IGR textures":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR%20textures
+
 ______________________________________________________________________________________________________________
 
 h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
