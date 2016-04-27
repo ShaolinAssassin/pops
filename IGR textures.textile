@@ -2,6 +2,8 @@ h1. [IGR] *Make your own IGR textures*
 
 
 ______________________________________________________________________________________________________________
+_Based on infos shared by arkl1t32_ @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-38#post-771111
+
 
 h2. _Software Requirements :_ 
 
@@ -17,7 +19,7 @@ Included :
 . IGR replacement, compiled as TR0JAN#.BIN file.
 
 ______________________________________________________________________________________________________________
-_Based on infos shared by arkl1t32_ @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-38#post-771111
+
 
 1. Using your favorite graphic editor, create 3 .bmp files with the above dimensions : 
 
