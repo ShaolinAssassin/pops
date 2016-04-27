@@ -4,7 +4,7 @@ h1. *News (wiki / POPStarter Project)*
 ______________________________________________________________________________________________________________
 
 
-
+* 04/27/2016 : [WIKI] Consolidated tutorial about "creating IGR textures":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR%20textures
 * 04/27/2016 : [WIKI] New tutorial about how to troubleshoot your games "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Troubleshooting%20games.
 * 04/27/2016 : [WIKI] "News" section added in front page.
 ______________________________________________________________________________________________________________
