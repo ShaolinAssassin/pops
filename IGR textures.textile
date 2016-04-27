@@ -17,7 +17,9 @@ Included :
 . IGR replacement, compiled as TR0JAN#.BIN file.
 
 ______________________________________________________________________________________________________________
-_Based on infos shared by arkl1t32 @"ASSEMblergames":!https://bitbucket.org/repo/Mpy7Eg/images/3117688129-bez%C3%82%C2%A0tytu%C5%82u.png(title)!
+_Based on infos shared by arkl1t32 @"ASSEMblergames":
+
+!https://bitbucket.org/repo/Mpy7Eg/images/3117688129-bez%C3%82%C2%A0tytu%C5%82u.png(title)!
 
 
 1. Using your favorite graphic editor, create 3 .bmp files with the above dimensions : 
