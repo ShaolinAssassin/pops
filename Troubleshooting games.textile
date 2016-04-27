@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 You can use the Cheat Engine feature to troubleshoot problematic games.
 
-Here is a ready-to-use CHEATS.TXT file which can help you and save you time :
+Here is a ready-to-use CHEATS.TXT file with all possible combinaison of modes which can help you and save you time :
 
 pre. 
 Single compatibility mode test
@@ -134,8 +134,8 @@ COMPATIBILITY_0×02
 COMPATIBILITY_0×06
 ------------------------------------------------------------------
 // modes 3+4
-*$*COMPATIBILITY_0×03
-*$*COMPATIBILITY_0×04
+$COMPATIBILITY_0×03
+$COMPATIBILITY_0×04
 ------------------------------------------------------------------
 // modes 3+6
 COMPATIBILITY_0×03
