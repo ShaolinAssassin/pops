@@ -142,7 +142,7 @@ h2. _Related stuff :_
 
 You may want to give a look at this : 
 
-. [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/16/9
+* [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/16/9
 
 
 ______________________________________________________________________________________________________________
