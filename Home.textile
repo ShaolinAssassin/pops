@@ -96,7 +96,7 @@ h2. _Wiki Table of content :_
 . [VMC] "Use your VMC saves on a PS1 retail console":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC%20to%20PS1%20MC%20 
 . [IGR] "Make your own IGR textures":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR%20textures
 . [PS1 Devices] "Use your [special device] with POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Special%20devices
-* [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/WS%20codes
+. [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/WS%20codes
 
 * Softwares 
 * Threads – POPStarter around the web
