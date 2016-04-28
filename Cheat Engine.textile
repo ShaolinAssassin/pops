@@ -138,21 +138,12 @@ Massive codes list can be found "here":https://bitbucket.org/ShaolinAssassin/pop
 
 ______________________________________________________________________________________________________________
 
-h2. _Widescreen Codes Archive :_ 
+h2. _Related stuff :_ 
 
-Not a part of the POPStarter project, but worth to mention. Guys from "pcsx2 forum":http://forums.pcsx2.net made some great widescreen codes. Thank to El_Patas for keeping the archive updated. You can get the patches "here":http://forums.pcsx2.net/Thread-PSOne-Widescreen-Patches?pid=477709#pid477709. Credits to their authors. 
+You may want to give a look at this : 
 
-*Note :* these files are "_almost-ready-to-use_" = you need to add the "$" symbol. 
+. [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/16/9
 
-_Colin McRae Rally 2 :_  
-
-!https://bitbucket.org/repo/Mpy7Eg/images/3801833563-2md7xs.jpg(4:3)!
-
-_4:3_
-
-!https://bitbucket.org/repo/Mpy7Eg/images/4286767539-2n0oweq.jpg(16:9)!
-
-_16:9_
 
 ______________________________________________________________________________________________________________
 
