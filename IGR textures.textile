@@ -17,7 +17,8 @@ Included :
 . PSD file with guidelines
 . 3 images files, as .bmp
 . 3 images files, as .TM2
-. IGR replacement, compiled as PATCH#.BIN file.
+. static & animated previews
+. IGR replacement, compiled as PATCH1.BIN file.
 
 ______________________________________________________________________________________________________________
 
