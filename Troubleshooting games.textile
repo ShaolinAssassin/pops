@@ -16,7 +16,7 @@ COMPATIBILITY_0×01
 // mode 2 = help restoring the music/voices + not breaking the MDECoding of FMVs
 COMPATIBILITY_0×02
 ------------------------------------------------------------------
-// mode 3 = (aletrnate to mode 1) help restoring the music/voices in several games 
+// mode 3 = help restoring the music/voices in several games 
 COMPATIBILITY_0×03
 ------------------------------------------------------------------
 // mode 4 = fixes slowdowns, flickering, and many other glitches 
