@@ -22,7 +22,7 @@ To convert your PS1 games from .BIN+.CUE to .VCD, you need to use the last versi
 
 *Notes :* 
 
-* Toolbox can do more than only convert your games to .VCD. For a complete description, see "here"::https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Toolbox%20commands.
+* Toolbox can do more than only convert your games to .VCD. For a complete description, see "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Toolbox%20commands
 * If your .CUE is missing, you can download an archive (lot of PS1 .CUEs) from "here":http://redump.org/cues/psx/ (do not forget that names of .BIN & .CUE must match. Ex : Driver.bin & Driver.cue. Rename your .BIN, as maybe the .CUE you downloaded has info inside about CD tracks). 
 * Linux users, you can get CUE2POPS src code with changes made for Linux "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/cue2pops_src_linux.zip Download gcc with your distributions package manager and compile the file (SovietStriker @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-55#post-792589) 
 
