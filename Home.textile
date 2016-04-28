@@ -46,26 +46,43 @@ ________________________________________________________________________________
 
 h2. _Wiki Table of content :_ 
 
-"0. News":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/News
+"*0.* News":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/News
 
-"1.  Convert your PS1 games to VCD format":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VCD
-* VCD creation
-* Multi-disc games
-* CUE2POPS/Toolbox changelog
-* Toolbox commands
+"*1.*  Convert your PS1 games to VCD format":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VCD
+* "VCD creation":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VCD
+* "Multi-disc games":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VCD
+* "Toolbox commands (advanced)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Toolbox%20commands
 
-"2.  HDD mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/HDD%20mode
-"3.  USB mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/USB%20mode
-"4.  SMB mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/SMB%20mode
+"2.  POPStarter for internal HDD":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/HDD%20mode
+
+"3.  POPStarter for USB device storage type":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/USB%20mode
+
+"4.  POPStarter for SMB":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/SMB%20mode
+
 "5.  Game Compatibility":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
+* Compatibility rates
+* Compatibility Lists and Forms
+* Game fixes
+* Automated fixes
+
+
 "6.  Features":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Features
+"10.  POPStarter Configuration Table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
+
 "7.  POPStarter Help":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Help
 "8.  FAQs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/FAQs%20
 "9.  Known bugs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Known%20bugs
-"10.  POPStarter Configuration Table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
-"11. Changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Changelog
-"12. POPS' History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/History
-"13. Tools, Tutorials...":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
+
+About POPStarter & POPS
+* "POPStarter changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Changelog
+* "CUE2POPS changelog":
+* "POPS' History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/History
+
+"Related stuff...":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
+* Links to some softwares you may need
+* Guides/informations
+* Threads – POPStarter around the web
+
 
 ______________________________________________________________________________________________________________
 
