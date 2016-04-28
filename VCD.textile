@@ -4,23 +4,25 @@ h1. *Convert your PS1 games to VCD format*
 
 ______________________________________________________________________________________________________________
 
-h2. _Toolbox :_ 
+h2. _VCD creation :_ 
 
 
-POPS uses virtual CDROM format (.VCD). You need to create a 1:1 image of your PS1 game, first in .BIN+.CUE format using your favorite dump software, then to .VCD using "Toolbox":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/ToolBox.zip. 
+POPS uses virtual CDROM format (.VCD). You need to create a 1:1 image of your PS1 game, first in .BIN+.CUE format using your favorite dump software, then to .VCD. 
 
 Your .BIN image must be a raw MODE2/2352 dump and the .CUE a standard ASCII cuesheet. Open the .CUE file in a text editor and check the first line. If you can see "MODE2/2352", it's ok. 
  
-* *Simple & quick :*
+* *How to convert to .VCD :*
+
+To convert your PS1 games from .BIN+.CUE to .VCD, you need to use the last version of CUE2POPS included into "Toolbox":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/ToolBox.zip. 
 
 # Put your .BIN+.CUE image in the Toolbox folder. 
 # Drag & drop your .CUE file on the CUE2POPS.BAT file. 
 # A .VCD image of your game will be created in the folder. 
 
-* *Toolbox commands :* "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Toolbox%20commands.
 
+*Notes :* 
 
-*Note :* 
+* Toolbox can do more than only convert your games to .VD. For a complete description, see "here"::https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Toolbox%20commands.
 * If your .CUE is missing, you can download an archive (lot of PS1 .CUEs) from "here":http://redump.org/cues/psx/ (do not forget that names of .BIN & .CUE must match. Ex : Driver.bin & Driver.cue. Rename your .BIN, as maybe the .CUE you downloaded has info inside about CD tracks). 
 * Linux users, you can get CUE2POPS src code with changes made for Linux "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/cue2pops_src_linux.zip Download gcc with your distributions package manager and compile the file (SovietStriker @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-55#post-792589) 
 
@@ -40,7 +42,11 @@ ________________________________________________________________________________
 
 h2. _CUE2POPS/Toolbox changelog :_ 
 
-*2013/05/16 - v2.0*
+h3 _Toolbox :_ 
+
+h3. _CUE2POPS :_ 
+
+*2013/05/16 - v2.0 [CUE2POPS]*
 
 pre. 
 + Fixed : dumpsize not known / daTrack_ptr set to zero when running a non-debug build
@@ -57,14 +63,14 @@ pre.
 + The CUE2POPS version identifier is now 0x20
 
 
-*2013/04/22 - v1.2*
+*2013/04/22 - v1.2 [CUE2POPS]*
 
 pre. 
 + Fixed : dumpsize not known / daTrack_ptr set to zero when trying to patch a single track game to NTSC
 + The CUE2POPS version identifier is now 0x02
 
 
-*2013/04/19 - v1.1*
+*2013/04/19 - v1.1 [CUE2POPS]*
 
 pre. 
 + A bit of sanitization
@@ -73,7 +79,7 @@ pre.
 + Writes a CUE2POPS version identifier in the POPS header, for interaction with POPStarter Revision 10
 
 
-*2013/04/06 - v1.0*
+*2013/04/06 - v1.0 [CUE2POPS]*
 
 pre. 
 Initial release
