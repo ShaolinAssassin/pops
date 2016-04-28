@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 h2. _"Left Stick is the D-Pad" Code :_
 
-
+This code enables analogic support (by remapping the Left Stick and the D-Pad) for games that doesnt support it natively.
 Copy/paste the code below in a CHEATS.TXT file placed into your VMC game folder.
 
 Code :
