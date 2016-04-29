@@ -3,6 +3,7 @@ h1. *News (wiki / POPStarter Project)*
 
 ______________________________________________________________________________________________________________
 
+* 04/29/2016 : [WIKI] General note added about "external files":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Features
 * 04/29/2016 : [WIKI] Few lines about POPS added into "POPS' history":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/History section.
 * 04/28/2016 : [WIKI] Widescreen codes section moved to Related stuff section.
 * 04/28/2016 : [WIKI] WIKI TOC modified to make it more user friendly.
