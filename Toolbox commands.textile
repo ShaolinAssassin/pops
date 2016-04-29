@@ -312,7 +312,7 @@ Input_file can be :
 
 ______________________________________________________________________________________________________________
 
-h2. _POPS2CUE.EXE :_
+h2. _POPS2CUE :_
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3844714277-POPS2CUE.JPG(title)!
 
