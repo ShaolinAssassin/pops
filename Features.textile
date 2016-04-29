@@ -3,6 +3,25 @@ h1. *POPStarter Features*
 
 ______________________________________________________________________________________________________________
 
+h2. *General note*
+
+POPStarter is able to handle external files, so you can configure it's settings, even tho POPStarter is a GUI-less app. These external files come as TROJAN#BIN, PATCH#.BIN, BIOS.BIN, OSD.BIN, CHEATS.TXT, VMC.DIR...
+These files can be placed into 2 different locations, POPS folder and the game VMC folder. 
+
+As a general rules : 
+* if a TROJAN#BIN, PATCH#.BIN, BIOS.BIN, OSD.BIN, CHEATS.TXT, VMC.DIR, WHATEVER... is placed into POPS folder, it will be applied to ALL games in POPS folder;
+* if a TROJAN#BIN, PATCH#.BIN, BIOS.BIN, OSD.BIN, CHEATS.TXT, VMC.DIR, WHATEVER... is placed into the game VMC folder, it will be applied to only this particular game;
+* POPStarter can handle multiple external files at the same time;
+* POPStarter can handle multiple external files at the same time from different locations
+
+Ex : 
+
+pre.
+POPS/PATCH1.BIN
+POPS/Crash Bandicoot (VMC folder)/CHEATS.TXT
+
+* *POPStarter features and settings :*
+
 # "Virtual Memory Cards":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC
 # "Hotkeys":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Hotkeys
 # "Cheat Engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Cheat%20Engine
