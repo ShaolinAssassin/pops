@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 You can use the Cheat Engine feature to troubleshoot problematic games.
 
-Here is a ready-to-use CHEATS.TXT file with all possible combinaison of modes which can help you and save you time :
+Here is a ready-to-use "CHEATS.TXT":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/CHEATS.TXT file with all possible combinaison of modes which can help you and save you time :
 
 pre. 
 Single compatibility mode test
@@ -88,7 +88,7 @@ COMPATIBILITY_0×06
 
 * *How to use it :* 
 
-1. Copy/past all lines into a CHEATS.TXT file.
+1. Copy/past all lines into a CHEATS.TXT file (or download "it":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/CHEATS.TXT ).
 2. Put that file into the game VMC folder. 
 3. Use uLE Text editor to active the wanted combinaison (+ $) and let the other lines unedited.
 
