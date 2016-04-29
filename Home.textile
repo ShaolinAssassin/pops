@@ -83,7 +83,7 @@ h2. _Wiki Table of content :_
 
 *8.* About POPStarter & POPS
 * "POPStarter changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Changelog
-* "CUE2POPS changelog":
+* "Toolbox/CUE2POPS changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/CUE2POPS_Toolbox%20changelogs
 * "POPS' History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/History
 
 "*9.* Related stuff...":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
