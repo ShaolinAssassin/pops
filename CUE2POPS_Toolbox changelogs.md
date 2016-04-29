@@ -1,0 +1,61 @@
+h1. _Toolbox/CUE2POPS Changelogs :_ 
+
+
+
+h2. _Toolbox :_ 
+
+*2014/10/19 - v1.0*
+
+pre. 
+Initial release (undocumented)
+
+
+______________________________________________________________________________________________________________
+
+h2. _CUE2POPS (standalone versions) :_ 
+
+*2013/05/16 - v2.0*
+
+pre. 
++ Fixed : dumpsize not known / daTrack_ptr set to zero when running a non-debug build
++ Fixed : False-positive Y-Pos pattern detections
++ Fixed : Incorrect Track Type in the descriptor A2
++ Blocked non-MODE2/2352 dumps
++ The NTSCpatcher console output is no longer restricted to the DEBUG build
++ Introduced the title identification system
++ Introduced NTSC Patcher exceptions (deny_vmode), for Crash Bandicoot [SCES-00344]
++ Added the Y-Pos fix for PAL VMODE
++ Introduced game cheats (command "trainer"), for Crash Bandicoot NTSC J, NTSC U/C and PAL
++ Introduced game fixes (automatic), for MGS Special Missions [SLES-02136]
++ Pregap correctors (gap++, gap-- and the unconditional one) were rewritten
++ The CUE2POPS version identifier is now 0x20
+
+
+*2013/04/22 - v1.2*
+
+pre. 
++ Fixed : dumpsize not known / daTrack_ptr set to zero when trying to patch a single track game to NTSC
++ The CUE2POPS version identifier is now 0x02
+
+
+*2013/04/19 - v1.1*
+
+pre. 
++ A bit of sanitization
++ Fixed : the INDEX 01 of TRACK 01 = 00:02:00 (mistakenly marked as 00:00:00 in the previous build, without a pregap)
++ Now adds 2 seconds to all tracks unconditionally
++ Writes a CUE2POPS version identifier in the POPS header, for interaction with POPStarter Revision 10
+
+
+*2013/04/06 - v1.0*
+
+pre. 
+Initial release
+
+
+
+
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
