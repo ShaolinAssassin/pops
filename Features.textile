@@ -16,9 +16,12 @@ As a general rules :
 
 Ex : 
 
-pre.
+
+pre. 
+
 POPS/PATCH1.BIN
 POPS/Crash Bandicoot (VMC folder)/CHEATS.TXT
+
 
 * *POPStarter features and settings :*
 
