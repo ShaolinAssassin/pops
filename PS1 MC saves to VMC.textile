@@ -6,8 +6,8 @@ _[Original french tutorial by Subaru-San - translation by ShaolinAssassin]_ "@me
 
 h2.  _Software Requirements :_ 
 
-* uLaunchELF (any version)
-* MemcardRex 1.8
+* "uLaunchELF (any version)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip
+* "MemcardRex 1.8":http://shendosoft.blogspot.fr/
 
 ______________________________________________________________________________________________________________
 
