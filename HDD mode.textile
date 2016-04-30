@@ -15,11 +15,11 @@ To use POPStarter with an internal HDD, you have to find and download the POPS d
 
 h2. _Other Software Requirements :_
 
-* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as ToolBox )
-* A software that allows you to manage/create partitions in your PS2 HDD (such as AKuHAK's uLaunchELF build or uLE_kHn build)
-* A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as AKuHAK's uLaunchELF build or uLE_kHn build)
-* A software that allows you to transfer the converted disc images to your PS2 HDD (such as PFSshell, or uLaunchELF and RadHostClient...)
-* A PS2 software that allows you to execute the POPStarter ELFs (such as uLaunchELF, or Free Harddisk Drive Boot...) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as uLE_kHn_20150602)
+* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "ToolBox":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/ToolBox.zip )
+* A software that allows you to manage/create partitions in your PS2 HDD (such as AKuHAK's uLaunchELF build or "uLE_kHn build"https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip)
+* A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as AKuHAK's uLaunchELF build or "uLE_kHn build"https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip)
+* A software that allows you to transfer the converted disc images to your PS2 HDD (such as "PFSshell":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell, or "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip and "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/RadHostClient...)
+* A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/...) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn_20150727":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip)
 
 h2. _Hardware Requirements :_
 
@@ -40,7 +40,7 @@ h2. _B) Installing your PS1 Games :_
 # Convert your BIN/CUE disc images to .VCD files using the latest stable version of Toolbox;
 # Create a partition named "__.POPS" in your PS2 HDD, large enough so you can put all your VCDs inside.
 
-* *Note :* +__.POPS is not correct. Use AKuHAK's uLaunchELF build or uLE_kHn build to create partition without +.
+* *Note :* +__.POPS is not correct. Use AKuHAK's uLaunchELF build or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip to create partition without +.
 
 h2. _C) Installing POPStarter :_ 
 
@@ -82,7 +82,7 @@ ________________________________________________________________________________
 
 h2. _POPSTARTER.KELF :_ 
 
-POPStarter bundle comes with a POPSTARTER.KELF (Krypo-ELF = ELF embedded into a container). It can be used if you have the Browser 2.00 aka HDDOSD installed on your HDD. Otherwise, it's useless. Use AkuHak's hdl_dumx to install it.
+POPStarter bundle comes with a POPSTARTER.KELF (Krypo-ELF = ELF embedded into a container). It can be used if you have the Browser 2.00 (aka HDDOSD) installed on your HDD. Otherwise, it's useless. Use "AKuHAK's hdl_dumx":https://bitbucket.org/AKuHAK/hdl-dump/downloads to install it.
 
 *Notes if you use the POPStarter.KELF :* 
 * Partition name prefix is of course PP. (PPdot)
@@ -121,7 +121,7 @@ h2. _Additional notes :_
 * The third character of the ELF prefix (when used) is a dot (PPdot / __dot ).
 * The prefix (when used) has to be uppercase.
 * The file extension .VCD has to be uppercase.
-* Whitespaces are not allowed in the partition names (old types). 
+* Whitespaces are not allowed in the partition names (for old launch types). 
 
 ______________________________________________________________________________________________________________
 
