@@ -10,8 +10,8 @@ h2. _Hardware Requirements :_
 
 h2. _Software Requirements :_ 
 
-* RadHostClient
-* uLE (any version)
+* "RadHostClient":http://sksapps.com/media/RadHostClient.zip
+* "uLE (any version)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip
 
 ______________________________________________________________________________________________________________
 
