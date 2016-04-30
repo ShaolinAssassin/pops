@@ -1,10 +1,13 @@
-h1. *$SMOOTH cheat code - screenshots*
+h1. *$SMOOTH - screenshots*
 
 
 ______________________________________________________________________________________________________________
 
 
 h3. _Ape Escape :_
+
+!https://bitbucket.org/repo/Mpy7Eg/images/4009783262-APE_ESCAPE_BEFORE.JPG(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/645826872-APE_ESCAPE_AFTER.JPG(title)!
 
 
 h3. _Burning Road :_
