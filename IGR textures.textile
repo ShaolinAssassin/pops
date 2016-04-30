@@ -7,9 +7,9 @@ _Based on infos shared by arkl1t32_ @"ASSEMblergames":http://assemblergames.com/
 
 h2. _Software Requirements :_ 
 
-* A graphic editor, such as Photoshop or GIMP; 
+* A graphic editor, such as "Photoshop":https://media.giphy.com/media/z1RWCfBXTue3K/giphy.gif or "GIMP":http://www.gimp.org/; 
 * A TIM2 editor, such as OPTPiX iMageStudio;
-* A hex editor, such as HxD. 
+* A hex editor, such as "HxD":https://mh-nexus.de/en/hxd/. 
 
 Sample files : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_sample_kit_04272016.7z 
 
