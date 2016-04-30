@@ -3,6 +3,7 @@ h1. *News (wiki / POPStarter Project)*
 
 ______________________________________________________________________________________________________________
 
+* 04/30/2016 : [WIKI] Links to softwares in HDD/USB/SMB & guides/informations sections fixed. 
 * 04/30/2016 : [WIKI] New page created (SMOOTH "screenshots":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/SMOOTH)
 * 04/29/2016 : [WIKI] Toolbox/CUE2POPS Changelog own page created.
 * 04/29/2016 : [WIKI] General note added about "external files":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Features
