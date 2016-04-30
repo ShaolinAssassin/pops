@@ -86,12 +86,12 @@ h2. _Wiki Table of content :_
 * "Toolbox/CUE2POPS changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/CUE2POPS_Toolbox%20changelogs
 * "POPS' History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/History
 
-"*9.* Downloads :":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads
+"*9.* Downloads":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads
 
 "*10.* Related stuff...":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
 
-"* Softwares":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff 
-"* Threads – POPStarter around the web":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
+* "Softwares":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff 
+* "Threads – POPStarter around the web":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
 
 * Guides/informations : 
 . "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell 
