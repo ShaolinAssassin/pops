@@ -16,8 +16,8 @@ To use POPStarter with an internal HDD, you have to find and download the POPS d
 h2. _Other Software Requirements :_
 
 * A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "ToolBox":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/ToolBox.zip )
-* A software that allows you to manage/create partitions in your PS2 HDD (such as AKuHAK's uLaunchELF build or "uLE_kHn build"https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip)
-* A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as AKuHAK's uLaunchELF build or "uLE_kHn build"https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip)
+* A software that allows you to manage/create partitions in your PS2 HDD (such as AKuHAK's uLaunchELF build or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip)
+* A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as AKuHAK's uLaunchELF build or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip)
 * A software that allows you to transfer the converted disc images to your PS2 HDD (such as "PFSshell":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell, or "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip and "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/RadHostClient...)
 * A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/...) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn_20150727":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip)
 
