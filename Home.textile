@@ -94,7 +94,7 @@ h2. _Wiki Table of content :_
 * "Threads – POPStarter around the web":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
 
 * Guides/informations : 
-. "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell 
+"[HDD] Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell 
 . "Transfer VCD files over network using RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/RadHostClient
 . "Troubleshooting games":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Troubleshooting%20games
 . "Use your PS1 MC saves with POPStarter":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/PS1%20MC%20saves%20to%20VMC 
