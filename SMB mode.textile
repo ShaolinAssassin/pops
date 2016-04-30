@@ -13,9 +13,9 @@ To use POPStarter in SMB mode, you have to find and download the compressed POPS
 
 h2. _Other Software Requirements :_
 
-* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as ToolBox)
-* A PS2 software that allows you to execute the POPStarter ELFs (such as uLaunchELF, or Free Harddisk Drive Boot...) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as uLE_kHn_20150602)
-* PS2 network modules
+* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "ToolBox":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/ToolBox.zip)
+* A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/...) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn_20150727":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip)
+* "PS2 network modules":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/network_modules.zip
 * A text editor (such as Notepad)
 
 h2. _Hardware Requirements :_
@@ -126,7 +126,7 @@ h2. _Additional notes :_
 
 * You can not use the old POPS.ELF+IOPRP252.IMG files (POPS.PAK) in SMB mode, updating to POPS_IOP_PAK is mandatory.
 * You can load the network modules from the MC that is in the second slot too. When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/....
-* Debug infos at startup can not be skipped.
+* Debug infos at startup can not be skipped in SMB mode.
 * The third character of the ELF prefix is a dot (SBdot).
 * The file extension .VCD has to be uppercase.
 * The prefix has to be uppercase.
