@@ -29,7 +29,7 @@ Some useful codes have been automated. Here are them :
 
 | *Cheat Code* | *Description* | *Notes* |
 | $SAFEMODE | Disable the cheat engine and only activate it after POPS has left the PS OSD | Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
-| $SMOOTH | Enable the smooth texture mapping at startup | $S0003390 00000001 |
+| $SMOOTH | Enable the "smooth texture":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/SMOOTH mapping at startup | $S0003390 00000001 |
 | $NOPAL | Disable POPStarters' PAL patcher | PATCH_9.BIN now obsolete |
 | $FORCEPAL | Force the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL)  | Useful for PAL VCDs that don't have a valid license text in their bootsector. PATCH_8.BIN now obsolete | 
 | $COMPATIBILITY_0x## | Activate a compatibility mode | (where ## is a hexadecimal value) You can write as many $COMPATIBILITY_0x## as you want |
