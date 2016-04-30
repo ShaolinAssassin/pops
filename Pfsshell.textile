@@ -10,7 +10,7 @@ h2. _Hardware Requirements :_
 
 h2. _Software Requirements :_ 
 
-* PFSSHELL 0.2a (running under winxp - or enable XP compatibility mode)
+* "PFSSHELL 0.2a":http://www.sksapps.com/hd/pfsshell-0.2a.zip (running under winxp - or enable XP compatibility mode)
 
 ______________________________________________________________________________________________________________
 
