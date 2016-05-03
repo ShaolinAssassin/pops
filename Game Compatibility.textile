@@ -68,7 +68,7 @@ Copy the PATCH file in the VMC directory of your problematic game then test the 
 If the compatibility mode doesn't solve any problem in your game, delete the PATCH file from the VMC directory and redo the operations with the next PATCH file.
 
 *Using CHEATS.TXT file*
-"See 6. Features section"https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Cheat%20Engine.
+"See 6. Features section":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Cheat%20Engine.
 
 ______________________________________________________________________________________________________________
 
