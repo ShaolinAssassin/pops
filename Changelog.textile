@@ -314,6 +314,7 @@ pre.
 
 
 * *"POPStarter Revision 10 [PATINFO/KEXEC Bundle] - 2013/04/19":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-4#post-667149*
+Pastie #7667656.
 
 pre. 
 + Added on-screen debug info at container startup
@@ -325,7 +326,7 @@ pre.
 
 
 
-*POPStarter Revision 9 [PATINFO/KEXEC Bundle] - 2013/04/09*
+* *POPStarter Revision 9 [PATINFO/KEXEC Bundle] - 2013/04/09*
 
 pre. 
 First public release
