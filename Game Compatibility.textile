@@ -61,7 +61,7 @@ If your game is poorly emulated, you can try to enable a "compatibility mode":ht
 3 options : 
 # Using a PATCH_X.BIN file;
 # Using a CHEATS.TXT file;
-# Hardcoding the mode into POPStarter (see configuration table).
+# Hardcoding the mode into POPStarter (see "configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table).
 
 *Using "PATCH_X.BIN file":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Compatibility%20Modes.zip*
 Copy the PATCH file in the VMC directory of your problematic game then test the game;
