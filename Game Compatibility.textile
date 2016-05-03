@@ -72,11 +72,11 @@ See 6. Features section.
 
 ______________________________________________________________________________________________________________
 
-h2. _Game fixes :_ 
+h2. _Game fixes (manual) :_ 
 
-In the "Game Fixes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Game%20Fixes.zip, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game; then run the game. 
+In the "Game Fixes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Game%20Fixes.zip, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game.
 
-* List of game fixes : 
+List of game fixes : 
 
 * 007 - Demain Ne Meurt Jamais (SLES-02375)
 * 007 - Der Morgen Stirbt Nie (SLES-02376)
