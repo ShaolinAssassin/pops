@@ -286,7 +286,8 @@ pre.
 
 
 
-* *POPStarter Revision 12 - 2013/05/12*
+* *"POPStarter Revision 12 - 2013/05/12":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-11#post-674651*
+Pastie #7937017.
 
 pre. 
 + SCPH-50000 fix
@@ -296,7 +297,8 @@ pre.
 
 
 
-* *POPStarter Revision 11 - 2013/04/30*
+* *"POPStarter Revision 11 - 2013/04/30":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-6#post-670228*
+Pastie #7749880.
 
 pre. 
 + Fixed BIOS & OSD handlers activation failure in EXECUTE.KELF
@@ -304,6 +306,7 @@ pre.
 
 
 * *"POPStarter Revision 11 - 2013/04/24":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-6#post-670228*
+Pastie #7749880.
 
 pre. 
 + Added the "ELF name to argument" thing in LAUNCHER (LAUNCHER.ELF) and PORTABLE (EXECUTE.ELF) builds
