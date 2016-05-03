@@ -220,7 +220,7 @@ pre.
 
 h2. _POPStarter Stable Releases :_ 
 
-* *POPStarter Revision 13, Build Date : 2015/06/03, WIP 05 PUBLIC RELEASE* *= LATEST STABLE RELEASE*
+* *"POPStarter Revision 13, Build Date : 2015/06/03, WIP 05 PUBLIC RELEASE":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-61#post-813385* *= LATEST STABLE RELEASE*
 
 
 pre. 
