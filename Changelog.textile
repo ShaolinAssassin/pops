@@ -303,7 +303,7 @@ pre.
 
 
 
-* *POPStarter Revision 11 - 2013/04/24*
+* *"POPStarter Revision 11 - 2013/04/24":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-6#post-670228*
 
 pre. 
 + Added the "ELF name to argument" thing in LAUNCHER (LAUNCHER.ELF) and PORTABLE (EXECUTE.ELF) builds
