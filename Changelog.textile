@@ -233,12 +233,12 @@ pre.
 - Corrected a mistake in 1-INSTALLATION.TXT (because POPS actually does not allow white spaces in partition names)
 NOTES : So, I tried the "partition icon to VMC folder icon" function of WIP 02. Does not work; looks like that thing never worked lol, so I don't try to reimplement it for now.
 
-* *POPStarter Revision 13, Build Date : 2015/05/31, WIP 04 PUBLIC RELEASE*
+* *"POPStarter Revision 13, Build Date : 2015/05/31, WIP 04 PUBLIC RELEASE":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-60#post-812678*
 
 pre. 
 - Removed the messed up partition icon to VMC folder icon code. It was saving garbage data in list.ico, so the VMC folders of PP. installed games were displayed as "corrupted data".
 
-* *POPStarter Revision 13, Build Date : 2015/04/24, WIP 03 PUBLIC RELEASE*
+* *"POPStarter Revision 13, Build Date : 2015/04/24, WIP 03 PUBLIC RELEASE":http://www.metagames-eu.com/forums/1770217-post163.html*
 
 pre. 
 - Fixed: SJIS conversion error in the icon.sys generator for the VMC directories
@@ -249,7 +249,7 @@ pre.
 NOTES : No new game fixes / compatibility modes were added in this build. Only the known internal bugs were fixed, and I decided to release it now because I've also resolved the PStwo / PS2 w/o HDD issue in uLE...
 
 
-* *POPStarter Revision 13, Build Date : 2014/08/22, WIP 02 PUBLIC RELEASE*
+* *"POPStarter Revision 13, Build Date : 2014/08/22, WIP 02 PUBLIC RELEASE":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-35#post-770548*
 
 pre. 
     - Added ~160 LibCrypt cracks (experimental), and truckloads of compatibility modes autoactivations. POPStarter now recognises 402 DISCS (see 5-AUTOMATED.TXT for the list).
@@ -264,7 +264,7 @@ pre.
     - Development status is still WIP, although I'll take mah vacations soon
 
 
-* *POPStarter Revision 13 - 2014/07/11, WIP 01 PUBLIC RELEASE*
+* *"POPStarter Revision 13 - 2014/07/11, WIP 01 PUBLIC RELEASE":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-27#post-760647*
 
 pre. 
 - Removed the PL-2301 launch method, same for the debugging thru NapClient.
@@ -276,7 +276,8 @@ pre.
 
 
 
-* *POPStarter Revision 12 - "No Debug" - 2013/05/14*
+* *"POPStarter Revision 12 - "No Debug" - 2013/05/14"http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-11#post-674651*
+Pastie #7937017.
 
 pre. 
 + Removed libdebug
