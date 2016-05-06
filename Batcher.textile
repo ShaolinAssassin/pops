@@ -27,9 +27,9 @@ _How to use it :_
 
 * *USB/SMB mode :*
 
-#Put POPStarter ELFs BATCHER.bat & POPSTARTER.BAK in your /POPS(#)/ folder (mass:/POPS for USB mode / smb0:/YourSharedFolder/POPS for SMB mode);
-#Run POPStarter ELFs BATCHER.bat, choose USB or SMB;
-#Your XX.POPStarter.ELFs // SB.POPStarter.ELFs are created in your /POPS(#) folder.
+# Put POPStarter ELFs BATCHER.bat & POPSTARTER.BAK in your /POPS(#)/ folder (mass:/POPS for USB mode / smb0:/YourSharedFolder/POPS for SMB mode);
+# Run POPStarter ELFs BATCHER.bat, choose USB or SMB;
+# Your XX.POPStarter.ELFs // SB.POPStarter.ELFs are created in your /POPS(#) folder.
 
 _Caution :_
 
