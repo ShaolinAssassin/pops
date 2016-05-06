@@ -131,6 +131,13 @@ h2. _Additional notes :_
 * The file extension .VCD has to be uppercase.
 * The prefix has to be uppercase.
 
+______________________________________________________________________________________________________________
+
+h2. _Related stuff :_ 
+
+You may want to give a look at this : 
+
+* [BAT] "Create/rename/update all your POPStarter.ELFs at once":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Batcher
 
 ______________________________________________________________________________________________________________
 
