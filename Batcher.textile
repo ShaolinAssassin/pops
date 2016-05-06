@@ -5,35 +5,35 @@ ________________________________________________________________________________
 
 * POPStarter ELFs BATCHER archive :"here": 
 
-* *CONTENT :*  
+_Archive content :_  
 
-. POPStarter ELFs BATCHER.bat
-. POPSTARTER.BAK (it's POPSTARTER.ELF with .BAK extension)
+* POPStarter ELFs BATCHER.bat
+* POPSTARTER.BAK (it's POPSTARTER.ELF with .BAK extension)
 
-* *DESCRIPTION :* 
+_Description :_ 
 
 This .bat file will generate and rename automatically POPSTARTER.ELF (both prefix and file name)using the VCD files names from a directory. It can be used to create/update tons of ##.POPStarter.ELFs at once.
 All POPStarter launch types (no prefix, PP., __., XX., SB.) are supported.
 
-* *HOW TO USE IT ?*
+_How to use it :_
 
-.....HDD mode :
+* HDD mode :
 
 # Put POPStarter ELFs BATCHER.bat & POPSTARTER.BAK in your Toolbox folder, after you converted your PS1 games to .VCD file (but before you tranfer them to your HDD);
 # Run POPStarter ELFs BATCHER.bat, choose HDD, then choose the launch type;
 # Your POPStarter.ELFs // PP.POPStarter.ELFs // __.POPStarter.ELFs are created in Toolbox folder.
 
-.....USB/SMB mode : 
+* USB/SMB mode : 
 
 Put POPStarter ELFs BATCHER.bat & POPSTARTER.BAK in your /POPS(#)/ folder (mass:/POPS for USB mode / smb0:/YourSharedFolder/POPS for SMB mode);
 Run POPStarter ELFs BATCHER.bat, choose USB or SMB;
 Your XX.POPStarter.ELFs // SB.POPStarter.ELFs are created in your /POPS(#) folder.
 
-* *Caution :* 
+_Caution :_
 
-.....All existing POPStarter.ELFs // PP.POPStarter.ELFs // __.POPStarter.ELFs XX.POPStarter.ELFs // SB.POPStarter.ELFs will be deleted from Toolbox/POPS(#) folder before the new ones are created;
+* All existing POPStarter.ELFs // PP.POPStarter.ELFs // __.POPStarter.ELFs XX.POPStarter.ELFs // SB.POPStarter.ELFs will be deleted from Toolbox/POPS(#) folder before the new ones are created;
 
-.....Do not use "." in your VCD file names otherwise the name of the POPSTARTER.ELFs will be cut.
+* Do not use "." in your VCD file names otherwise the name of the POPSTARTER.ELFs will be cut.
 
 
 ______________________________________________________________________________________________________________
