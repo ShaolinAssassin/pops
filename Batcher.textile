@@ -3,7 +3,7 @@ h1. [BAT] *Create/rename/update all your POPStarter.ELFs at once*
 
 ______________________________________________________________________________________________________________
 
-POPStarter ELFs BATCHER archive :"here": 
+POPStarter ELFs BATCHER archive :"here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_ELFs%20BATCHER_05062016.7z
 
 ______________________________________________________________________________________________________________
 
