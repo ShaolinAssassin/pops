@@ -17,17 +17,17 @@ All POPStarter launch types (no prefix, PP., __., XX., SB.) are supported.
 
 _How to use it :_
 
-* HDD mode :
+* *HDD mode :*
 
 # Put POPStarter ELFs BATCHER.bat & POPSTARTER.BAK in your Toolbox folder, after you converted your PS1 games to .VCD file (but before you tranfer them to your HDD);
 # Run POPStarter ELFs BATCHER.bat, choose HDD, then choose the launch type;
 # Your POPStarter.ELFs // PP.POPStarter.ELFs // __.POPStarter.ELFs are created in Toolbox folder.
 
-* USB/SMB mode : 
+* *USB/SMB mode :*
 
-Put POPStarter ELFs BATCHER.bat & POPSTARTER.BAK in your /POPS(#)/ folder (mass:/POPS for USB mode / smb0:/YourSharedFolder/POPS for SMB mode);
-Run POPStarter ELFs BATCHER.bat, choose USB or SMB;
-Your XX.POPStarter.ELFs // SB.POPStarter.ELFs are created in your /POPS(#) folder.
+#Put POPStarter ELFs BATCHER.bat & POPSTARTER.BAK in your /POPS(#)/ folder (mass:/POPS for USB mode / smb0:/YourSharedFolder/POPS for SMB mode);
+#Run POPStarter ELFs BATCHER.bat, choose USB or SMB;
+#Your XX.POPStarter.ELFs // SB.POPStarter.ELFs are created in your /POPS(#) folder.
 
 _Caution :_
 
