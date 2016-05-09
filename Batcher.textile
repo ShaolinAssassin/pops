@@ -1,4 +1,4 @@
-h1. [BAT] *Create/rename/update all your POPStarter.ELFs at once*
+h1. [EXE] *Create/rename/update all your POPStarter.ELFs at once*
 
 
 ______________________________________________________________________________________________________________
