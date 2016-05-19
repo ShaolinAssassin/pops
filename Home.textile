@@ -62,6 +62,7 @@ h2. _Wiki Table of content :_
 "*5.  Game Compatibility*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
 * "Compatibility rates":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
 * "Compatibility Lists and Forms":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
+* "Compatibility Modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
 * "Game fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
 * "Automated fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
 
