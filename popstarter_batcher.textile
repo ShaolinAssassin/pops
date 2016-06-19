@@ -5,8 +5,8 @@ ________________________________________________________________________________
 
 _CONTENT :_
 
-- BATCHER_v0.2.exe
-- POPSTARTER.BAK (it's POPSTARTER.ELF with .BAK extension)
+* BATCHER_v0.2.exe
+* POPSTARTER.BAK (POPSTARTER.ELF with .BAK extension)
 
 
 _DESCRIPTION :_
