@@ -1,4 +1,4 @@
-h1. [EXE] *POPStarter BATCHER v0.2*
+h1. [EXE] *BATCHER v0.2*
 
 ______________________________________________________________________________________________________________
 
@@ -8,10 +8,15 @@ _CONTENT :_
 * BATCHER_v0.2.exe
 * POPSTARTER.BAK (POPSTARTER.ELF with .BAK extension)
 
+_DOWNLOAD :_ here
+
 
 _DESCRIPTION :_
 
-image
+
+!https://bitbucket.org/repo/Mpy7Eg/images/2892165152-prev.png(title)!
+
+
 
 * *A/ Files BATCHER :*
 
