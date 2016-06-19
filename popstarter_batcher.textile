@@ -44,14 +44,14 @@ USBDELAY_#
 5. You are asked if you will use a custom VMC path. A VMCDIR.TXT is generated into batcher_tmp folder. If you choose to use a VMC path, it will be written into it. Otherwise, the VMCDIR.TXT file remains empty.
 
 6. You then get a screen with : 
-- the mode you choose
-- the VMC path you will use (Default/Custom)
-- the files detected into batcher_tmp folder
+.the mode you choose
+.the VMC path you will use (Default/Custom)
+.the files detected into batcher_tmp folder
 Choose S to start batching process, C to cancel it. 
 
 _Notes :_ 
-- if the VMC game folder already exists into Toolbox/POPS folder, it will not be created,
-- if the VMC game folder already exists into Toolbox/POPS folder, the batch process will only add/overwrite files, it cant delete files.
+.if the VMC game folder already exists into Toolbox/POPS folder, it will not be created,
+.if the VMC game folder already exists into Toolbox/POPS folder, the batch process will only add/overwrite files, it cant delete files.
 
 _Example :_ 
 
