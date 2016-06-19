@@ -1,4 +1,4 @@
-h1. [EXE] *BATCHER v0.2*
+h1. [EXE] *POPStarter BATCHER v0.2*
 
 ______________________________________________________________________________________________________________
 
@@ -88,7 +88,7 @@ pre.
 List of supported files for batcher_tmp : 
 
 pre. 
--SLOT0.VMC & SLOT1.VMC - be careful to not overwrite your VMCs if you use this !
+-SLOT0.VMC and SLOT1.VMC - be careful to not overwrite your VMCs if you use this !
 -VMCDIR.TXT
 -CHEATS.TXT
 -PATCH_#.BIN 
