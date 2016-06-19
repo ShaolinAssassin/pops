@@ -95,7 +95,7 @@ h2. _Wiki Table of content :_
 * "Threads – POPStarter around the web":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
 * "Guides/informations :":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Guides 
 
-.......... [EXE] "Create/rename/update all your POPStarter.ELFs at once":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Batcher
+.......... [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter_batcher
 .......... [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell .
 .......... [HDD] "Transfer VCD files over network using RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/RadHostClient .
 .......... [COMPATIBILITY] "Troubleshooting games":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Troubleshooting%20games
