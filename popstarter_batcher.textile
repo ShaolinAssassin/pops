@@ -13,7 +13,7 @@ _DESCRIPTION :_
 
 image
 
-* A/ Files BATCHER :
+* *A/ Files BATCHER :*
 
 -generates the ##.POPStarter.ELF files (both prefix and file name) using the VCD files name of a directory;
 -creates the VMC Game folders;
@@ -83,7 +83,7 @@ List of supported files for batcher_tmp :
 Any other file will not be copied from batcher_tmp to VMC game folders.
 
 
-*B/ Version CHECKER :
+* *B/ Version CHECKER :*
 
 - Lets you know which POPStarter version you are using and detects its status (up-to-date/obsolete/unknown),
 - If you are using an unknown or obsolete version of POPStarter, it lets you generate - if desired - a message_to_you.txt file with a download link to last POPStarter version. 
@@ -93,14 +93,14 @@ Rename the ELF you want to check as CHECKVERS.ELF and let the app do the job.
 Limit : only scan 1 ELF at once.
 
 
-*C/ UPDATER :
+* *C/ UPDATER :*
 
 - Useful if/when a new POPStarter version is out. Only deal with ELF files. Grabs the ELF names and generates new updated ELFs. 
 
 Place the new version of POPStarter (named as POPSTARTER.ELF or .BAK, doesnt matter) into Toolbox/POPS folder and run the app. Of course, it uses the same mode (HDD/USB/SMB)as before the update. 
 
 
-*D & E/ Games/ELFs list VIEWER : 
+* *D & E/ Games/ELFs list VIEWER :* 
 
 - Lists all your games / ELFs (minus POPSTARTER.ELF if present) and counts them. Useful if you have huge VCD collection. If need, increase the buffer high size of the window so you can see all your games / ELFs. 
 
