@@ -61,22 +61,33 @@ _Notes :_
 _Example :_ 
 
 VMC game folder content : 
+
+pre. 
 -VMCs
 -a game fixe named PATCH_0.BIN
 
+
 batcher_tmp content : 
+
+pre. 
 -CHEATS.TXT
 -VMCDIR.TXT 
 -an IGR behaviour modifier named PATCH_0.BIN
 
+
 In this situation : 
 
+
+pre. 
 -the VMC game folder will not be created,
 -the VMCs remain intact,
 -CHEATS.TXT & VMCDIR.TXT will be added to the VMC game folder,
 -PATCH_0.BIN game fixe will be overwritten by the IGR behaviour modifier.
 
+
 List of supported files for batcher_tmp : 
+
+pre. 
 -SLOT0.VMC & SLOT1.VMC - be careful to not overwrite your VMCs if you use this !
 -VMCDIR.TXT
 -CHEATS.TXT
@@ -85,6 +96,7 @@ List of supported files for batcher_tmp :
 -IGR_BG.TM2, IGR_NO.TM2, IGR_YES.TM2
 -OSD.BIN
 -BIOS.BIN
+
 Any other file will not be copied from batcher_tmp to VMC game folders.
 
 
