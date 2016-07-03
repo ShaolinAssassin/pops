@@ -84,8 +84,7 @@ h2. _Related stuff :_
 
 You may want to give a look at this : 
 
-* [EXE] "Create/rename/update all your POPStarter.ELFs at once":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Batcher
-
+* [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter_batcher
 ______________________________________________________________________________________________________________
 
 h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
