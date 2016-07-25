@@ -84,6 +84,16 @@ pre.
 5. Non
 
 
+* *GERMAN :*
+
+
+pre. 
+1. Möchten Sie POPStarter verlassen ?
+2. Nicht gespeicherte Daten gehen verloren !
+3. (untranslated)
+4. Ja
+5. Nein
+
 * *POLISH :*  
 
 
