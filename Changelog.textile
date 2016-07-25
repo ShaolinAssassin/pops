@@ -5,7 +5,9 @@ ________________________________________________________________________________
 
 h2. _WIP 06 Public Betas :_ 
 
-* *"2015/12/07 (Beta 13) = LATEST BETA":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-73#post-847749*
+* *"2016/07/23 (Beta 13) = LATEST BETA":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-84#post-895246*
+
+* *"2015/12/07 (Beta 13)":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-73#post-847749*
 
 pre. 
 - Added a PS2 Memory Card BOOT.ELF launcher to the in-game reset function of POPS and to the quit-on-failure code of POPStarter.
