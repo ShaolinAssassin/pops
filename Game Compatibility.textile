@@ -53,7 +53,7 @@ If your game is poorly emulated, you can try to enable a "compatibility mode":ht
 | 0x04 | prevent the emulator from writing a garbage value in two of the virtual GPU registers (fixes slowdowns, flickering, and many other glitches) | PATCH_4.BIN | $COMPATIBILITY_0x04 |
 | 0x05 | made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut | PATCH_5.BIN | $COMPATIBILITY_0x05 |
 | 0x06 | disable the OSD shell of the emulator’s built-in BIOS, making some games that freeze on startup run | PATCH_6.BIN | $COMPATIBILITY_0x06 |
-| 0x07 | fixes the missing textures problems (example : Tomb Raider III) | - | $COMPATIBILITY_0x07 |
+| 0x07 | fixes the missing textures problems (example : Tomb Raider III) | (no file, only as CHEATS.TXT) | $COMPATIBILITY_0x07 |
 
 *Caution :* Modes 0x01, 0x02, 0x03 and 0x05 cannot be enabled in the same time or combined. These are variants of the same hack and they are conflicting, so use only use one of them at a time. Please let us know (at ASSEMblergames) if you managed to solve a problem in your game by forcing modes, so I could integrate the fix in POPStarter.
 
