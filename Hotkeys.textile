@@ -2,7 +2,7 @@ h1. *POPStarter Hotkeys*
 
 
 ______________________________________________________________________________________________________________
-_[Up-to-date with WIP 06, OBT 13 (2015/12/07)]_
+_[Up-to-date with WIP 06, OBT 14 (2016/23/07)]_
 
 | *Hotkey* | *Description* | *Notes* |
 | Select+L1+R1 | Native In-Game Reset | Can be changed using the IGR Behaviour Modifiers. |
