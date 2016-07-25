@@ -3,6 +3,7 @@ h1. *News (wiki / POPStarter Project)*
 
 ______________________________________________________________________________________________________________
 
+* 07/27/2016 : [POPStarter] POPStarter rev 13 OBT 14 release @ASSEMblergames.  
 * 06/19/2016 : [EXE] POPStarter BATCHER v0.2 
 * 05/06/2016 : [WIKI] New page "[BAT] Create/rename/update all your POPStarter.ELFs at once":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Batcher created.
 * 05/03/2016 : [WIKI] Added list + description of the "Game Fixes archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility content. 
