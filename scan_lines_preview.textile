@@ -2,13 +2,13 @@ h1. *Scanlines generator preview*
 
 
 ______________________________________________________________________________________________________________
-[Images thanks to @jolek]
+_[Images thanks to @jolek]_
 
-!https://bitbucket.org/repo/Mpy7Eg/images/2494224678-noscan.jpg
+!https://bitbucket.org/repo/Mpy7Eg/images/2494224678-noscan.jpg(title)!
 
 _No scanlines_
 
-![scan.jpg](https://bitbucket.org/repo/Mpy7Eg/images/3994462941-scan.jpg)
+!(https://bitbucket.org/repo/Mpy7Eg/images/3994462941-scan.jpg(title)!
 
 _Scanlines_
 
