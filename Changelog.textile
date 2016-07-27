@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 h2. _WIP 06 Public Betas :_ 
 
-* *"2016/07/23 (Beta 13) = LATEST BETA":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-84#post-895246*
+* *"2016/07/23 (Beta 14) = LATEST BETA":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-84#post-895246*
 
 
 
@@ -13,7 +13,7 @@ pre.
 - Bugfixed : Couldn't load mc#:/POPSTARTER/usbd.irx and mc#:/POPSTARTER/usbhdfsd.irx.
 - Added a truckload of LibCrypt fixes.
 - Added a couple of hotkeys for the ugly scanlines generator (Select+L1+L2 = OFF, Select+R1+R2 = ON).
-
+- New compatibility mode ($COMPATIBILITY_0x07 ) - fixes missing textures.
 
 
 * *"2015/12/07 (Beta 13)":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-73#post-847749*
