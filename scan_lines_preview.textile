@@ -8,7 +8,7 @@ _[Images thanks to @jolek]_
 
 _No scanlines_
 
-!(https://bitbucket.org/repo/Mpy7Eg/images/3994462941-scan.jpg(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/3994462941-scan.jpg(title)!
 
 _Scanlines_
 
