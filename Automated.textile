@@ -15,7 +15,11 @@ _[According to POPStarter changelog]_
 
 New fixes integrated into POPStarter Revision 13 since WIP 05.
 
-POPStarter Revision 13, *WIP 05, OBT 13*
+POPStarter Revision 13, *WIP 06, OBT 14*
+
+*540 DISCS* (new fixed not listed)
+
+POPStarter Revision 13, *WIP 06, OBT 13*
 
 *495 DISCS* (+34 Disks) are recognised.
 
