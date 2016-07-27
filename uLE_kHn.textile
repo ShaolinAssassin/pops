@@ -37,7 +37,7 @@ h2. *Changelog :*
 
 
 pre. 
-Not documented.
+Not documented. Minor change mentionned "here":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-86#post-895756
 
 
 
