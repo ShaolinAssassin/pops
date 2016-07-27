@@ -7,8 +7,6 @@ h2. _WIP 06 Public Betas :_
 
 * *"2016/07/23 (Beta 14) = LATEST BETA":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-84#post-895246*
 
-
-
 pre. 
 - Bugfixed : Couldn't load mc#:/POPSTARTER/usbd.irx and mc#:/POPSTARTER/usbhdfsd.irx.
 - Added a truckload of LibCrypt fixes.
