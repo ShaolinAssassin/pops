@@ -74,6 +74,7 @@ h2. _Wiki Table of content :_
 * "Cheat Engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Cheat%20Engine
 * "In-Game Reset":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR
 * "BIOS & OSD Handler":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/BIOS%20OSD
+* "Debug mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode
 * "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/uLE_kHn
 * "Advanced Settings":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
 
@@ -113,7 +114,7 @@ ________________________________________________________________________________
 
 h2. _Need help ?_ 
 
-Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/ or at "psx-scene":http://psx-scene.com/forums/f19/popstarter-wiki-155496/.
+Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/ or at "psx-scene":http://psx-scene.com/forums/f19/popstarter-wiki-155496/. Be sure to run POPStarter in "debug mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode before.
 
 
 ______________________________________________________________________________________________________________
