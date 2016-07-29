@@ -8,7 +8,7 @@ _[Up-to-date with WIP 06, OBT 14]_
 
 * *Toolbox* : v1.0 : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/ToolBox.zip
 
-* *POPStarter* : rev 13, WIP 06, OBT 14 () : "here":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_06_OBT_20160723.zip
+* *POPStarter* : rev 13, WIP 06, OBT 14 (20160723) : "here":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_06_OBT_20160723.zip
 
 * *uLE_kHn* : uLE_kHn_20160723 : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20160723.7z
 
