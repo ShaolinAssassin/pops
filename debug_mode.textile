@@ -3,7 +3,7 @@ h1. *POPStarter debug mode*
 
 ______________________________________________________________________________________________________________
 
-POPStarter has an enbedded debug mode. It's ON by default in SMB mode (and cant be turn OFF) and it can be turn ON in HDD and USB mode. 
+POPStarter has an embedded debug mode. It's ON by default in SMB mode (and cant be turn OFF) and it can be turn ON in HDD and USB mode. 
 
 To enable POPStarter debug mode, 2 solutions : 
 
