@@ -16,6 +16,7 @@ h2. _Downloads :_
 * *LATEST STABLE VERSION :* "POPStarter Revision 13, WIP 05 (2015/06/03)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter%20r13%20WIP%2005.zip
 * *LATEST BETA VERSION BUNDLE :* "POPStarter Revision 13, WIP 06, OBT 14 (2016/07/23)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_06_OBT_20160723.zip
 Note about OBT14 : some users reported - @ASSEMblergames, pages 84-85 - issues with that version (black screen, files corruption into POPS folder...). If you have such problems, delete your POPS folder and install it again. 
+Do not use IRX modules in USB mode - buggy for now.
 
 ______________________________________________________________________________________________________________
 
