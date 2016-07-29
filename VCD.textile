@@ -13,16 +13,16 @@ Your .BIN image must be a raw MODE2/2352 dump and the .CUE a standard ASCII cues
  
 * *How to convert to .VCD :*
 
-To convert your PS1 games from .BIN+.CUE to .VCD, you need to use the last version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads
+To convert your PS1 games from .BIN+.CUE to .VCD, you need to use the last version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode
 
-# Put your .BIN+.CUE image in the Toolbox folder. 
+# Put your .BIN+.CUE image in the CUE2POPS folder. 
 # Drag & drop your .CUE file on the BULK_CUE2POPS.BAT file. 
 # A .VCD image of your game will be created in the folder. 
 
 
 *Notes :* 
 
-* CUE2POPS is a part of Toolbox soft, which can do more than only convert your games to .VCD. For a complete description, see "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Toolbox%20commands
+* CUE2POPS is a part of Toolbox soft, which can do more than only convert your games to .VCD. For a complete description of Toolbox, see "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Toolbox%20commands
 * Linux users, you can get CUE2POPS src code with changes made for Linux "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/cue2pops_src_linux.zip Download gcc with your distributions package manager and compile the file (SovietStriker @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-55#post-792589) 
 
 
