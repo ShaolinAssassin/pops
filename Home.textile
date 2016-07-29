@@ -89,6 +89,7 @@ h2. _Wiki Table of content :_
 * "POPS' History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/History
 
 "*9. Downloads*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads
+* "Apps last version – download links":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last
 
 "*10. Related stuff...*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
 
