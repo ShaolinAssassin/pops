@@ -15,8 +15,7 @@ Last official OPL beta is : **rev907**
 * 825Ko
 * MD5 (unpacked ELF) : b10e9bfffffab4d069682ebdcea6580c
 * commit d3bda76
-* changelog :
-* +rev907 - GSM Internals: New SMODE1, SYNCH1, SYNCH2 & SYNCV macros; magic numbers on predef VModes replaced to their corresponding SYNCV values (by doctorxyz) 
+* changelog : +rev907 - GSM Internals: New SMODE1, SYNCH1, SYNCH2 & SYNCV macros; magic numbers on predef VModes replaced to their corresponding SYNCV values (by doctorxyz) 
 
  
 
