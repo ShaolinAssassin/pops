@@ -10,17 +10,14 @@ On this page, you will found the last official OPL beta build compiled from this
 Last official OPL beta is : **rev907**
 
 
-```
-#!python
+* compiled on 12 september 2016 
+* VMC+GSM+PS2RD Build
+* 825Ko
+* MD5 (unpacked ELF) : b10e9bfffffab4d069682ebdcea6580c
+* commit d3bda76
+* changelog :
+* +rev907 - GSM Internals: New SMODE1, SYNCH1, SYNCH2 & SYNCV macros; magic numbers on predef VModes replaced to their corresponding SYNCV values (by doctorxyz) 
 
-compiled on 12 september 2016 
-VMC+GSM+PS2RD Build
-825Ko
-MD5 (unpacked ELF) : b10e9bfffffab4d069682ebdcea6580c
-commit d3bda76
-changelog :
-+rev907 - GSM Internals: New SMODE1, SYNCH1, SYNCH2 & SYNCV macros; magic numbers on predef VModes replaced to their corresponding SYNCV values (by doctorxyz) 
-```
  
 
 **Download link** : [here](https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/lang_French.lng)
