@@ -2,7 +2,7 @@
 
 ______________________________________________________________________________________________________________
 
-## Last official OPL beta ##
+## *Last official OPL beta :* ##
 
 
 On this page, you will found the last official OPL beta build compiled from this repository.
@@ -28,7 +28,7 @@ Official OPL beta thread @[psx-scene](your link thread)
 
 ______________________________________________________________________________________________________________
 
-## Official language pack for OPL betas ##
+## *Official language pack for OPL betas :* ##
 
 These language files are to be used with the last OPL 0.9.3+ beta build (rev907). 
 
