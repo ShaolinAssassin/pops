@@ -36,6 +36,11 @@ Some useful codes have been automated. Here are them :
 | $CACHE1 | Makes POPS buffer 1 sector instead of 16 | |
 | $FAKELC | Loads a null LibCrypt magic word into the cop0 register | May be needed by some discs that have a messed up LC protection |
 | $USBDELAY_# | Sets up the PFS wrapper USB delay | (# is a number) |
+| $480p | Force 480p | |
+| $XPOS_#### | Help to center the screen (horizontally) | # is a number (decimal). Work only in PAL and NTSC modes. |
+| $YPOS_## | Help to center the screen (vertically) | # is a number (decimal). Work only in PAL and NTSC modes. |
+| $DWSTRETCH_#### |  Stretches the display horizontally to your screen. | # is a number (decimal). Work only in PAL and NTSC modes. |
+| $DWCROP_#### | Reduces/expands the display area width. | # is a number (decimal). Work only in PAL and NTSC modes. |
 
 ______________________________________________________________________________________________________________
 
