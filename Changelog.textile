@@ -11,7 +11,6 @@ h2. _WIP 06 Public Betas :_
 
 
 pre. 
-
 - The CD lid open/close emulation is now complete. It refreshes the TOC.
   I'm still unsure about the correctness of the CDROM status and mode field values that are used though.
   This feature pokes the CDROM registers according to the lid open/close state and issues a VCD init RPC call to the IOPCD driver. W00t.
