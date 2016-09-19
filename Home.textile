@@ -75,6 +75,7 @@ h2. _Wiki Table of content :_
 * "Hotkeys":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Hotkeys
 * "Cheat Engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Cheat%20Engine
 * "In-Game Reset":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR
+* "Change disc feature":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi_disc
 * "BIOS & OSD Handler":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/BIOS%20OSD
 * "Debug mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode
 * "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/uLE_kHn
