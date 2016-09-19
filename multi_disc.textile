@@ -9,12 +9,12 @@ Since OBT 15, POPStarter has a change-disc feature, that let you play multi-disc
 
 Hotkeys are :
 
-* Select+L2+R2+Triangle == To open the lid
-* Select+L2+R2+Up == To Insert Disc 1 (DISCS.TXT line 1)
-* Select+L2+R2+Right == To Insert Disc 2 (DISCS.TXT line 2)
-* Select+L2+R2+Down == To Insert Disc 3 (DISCS.TXT line 3)
-* Select+L2+R2+Left == To Insert Disc 4 (DISCS.TXT line 4)
-* Select+L2+R2+Square == To close the lid
+. Select+L2+R2+Triangle == To open the lid
+. Select+L2+R2+Up == To Insert Disc 1 (DISCS.TXT line 1)
+. Select+L2+R2+Right == To Insert Disc 2 (DISCS.TXT line 2)
+. Select+L2+R2+Down == To Insert Disc 3 (DISCS.TXT line 3)
+. Select+L2+R2+Left == To Insert Disc 4 (DISCS.TXT line 4)
+. Select+L2+R2+Square == To close the lid
 
 Limitations are :
 
