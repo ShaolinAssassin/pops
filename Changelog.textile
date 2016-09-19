@@ -36,7 +36,7 @@ pre.
 
 
 
-* *"2016/07/23 (Beta 14)":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-84#post-895246*
+* *"2016/07/23 = Beta 14":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-84#post-895246*
 
 pre. 
 - Bugfixed : Couldn't load mc#:/POPSTARTER/usbd.irx and mc#:/POPSTARTER/usbhdfsd.irx.
