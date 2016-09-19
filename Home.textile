@@ -38,7 +38,7 @@ h2. _Features :_
 * Hotkeys
 * In Game-Reset
 * 480p support
-* Swap-disk feature
+* Change disk support
 * BIOS & OSD handlers
  
 
