@@ -45,7 +45,7 @@ pre.
 - New compatibility mode ($COMPATIBILITY_0x07 ) - fixes missing textures.
 
 
-* *"2015/12/07 (Beta 13)":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-73#post-847749*
+* *"2015/12/07 = Beta 13":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-73#post-847749*
 
 pre. 
 - Added a PS2 Memory Card BOOT.ELF launcher to the in-game reset function of POPS and to the quit-on-failure code of POPStarter.
@@ -63,7 +63,7 @@ pre.
   Saved about 10KB off the final ELF yay !
 
 
-* *"2015/11/24 (Beta 12)":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-71#post-845446*
+* *"2015/11/24 = Beta 12":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-71#post-845446*
 
 pre. 
 - Bugfixed : $SAFEMODE (in CHEATS.TXT) not working
@@ -76,7 +76,7 @@ pre.
   Useful for PAL VCDs that don't have a valid license text in their bootsector.
   It forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL).
 
-* *"2015/11/11 (Beta 11)":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-69#post-842789*
+* *"2015/11/11 = Beta 11":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-69#post-842789*
 
 pre. 
 - Bugfixed : Couldn't read VCDs from POPS# folders in USB mode and network modes
@@ -98,12 +98,12 @@ SFX are missing in Um Jammer Lammy, muh.
   Even worse, the game boot appears to be hit or miss now. To be improved... or removed hehe.
 
 
-* *"2015/10/26 (Beta 10)":http://www.metagames-eu.com/forums/1771431-post203.html*
+* *"2015/10/26 = Beta 10":http://www.metagames-eu.com/forums/1771431-post203.html*
 
 pre. 
 - Bugfixed : poweroff.irx and ps2ip.irx not loaded from mc0:. Sorry of...
 
-* *"2015/10/24 (Beta 9)":http://www.metagames-eu.com/forums/1771423-post196.html*
+* *"2015/10/24 = Beta 9":http://www.metagames-eu.com/forums/1771423-post196.html*
 
 pre. 
 - Bugfixed : The loading of IGR_NO.TM2 was skipped in internal HDD mode.
@@ -111,7 +111,7 @@ pre.
 - Now you can load the USB and network modules from the MC that is in the second slot too.
   (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...)
 
-* *"2015/10/23 (Beta 8)":http://www.metagames-eu.com/forums/1771414-post191.html*
+* *"2015/10/23 = Beta 8":http://www.metagames-eu.com/forums/1771414-post191.html*
 
 pre. 
 - Complete rewrite and embedding of the PFS wrapper (POPStarter no longer loads PFS_WRAP.BIN)
