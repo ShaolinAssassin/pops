@@ -36,7 +36,7 @@ Some useful codes have been automated. Here are them :
 | $CACHE1 | Makes POPS buffer 1 sector instead of 16 | |
 | $FAKELC | Loads a null LibCrypt magic word into the cop0 register | May be needed by some discs that have a messed up LC protection |
 | $USBDELAY_# | Sets up the PFS wrapper USB delay | (# is a number) |
-| $480p | Force 480p | NOT reliable ATM. See notes "here": http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-93#post-908556  |
+| $480p | Force 480p | Not compatible with $XPOS_####, $YPOS_##, $DWSTRETCH_####, $DWCROP_#### & NOT reliable ATM. See notes "here":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-93#post-908556  |
 | $XPOS_#### | Help to center the screen (horizontally) | # is a number (decimal). Work only in PAL and NTSC modes. |
 | $YPOS_## | Help to center the screen (vertically) | # is a number (decimal). Work only in PAL and NTSC modes. |
 | $DWSTRETCH_#### |  Stretches the display horizontally to your screen. | # is a number (decimal). Work only in PAL and NTSC modes. |
