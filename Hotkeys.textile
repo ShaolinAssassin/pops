@@ -12,7 +12,11 @@ _[Up-to-date with WIP 06, OBT 14]_
 | Select+L1+L2 | Turns the "scanlines generator":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/scan_lines_preview ON | Starts with OBT 14 |
 | Select+L2+R1 | Disable the smooth texture mapping |  |
 | Select+L2+R2+Triangle | Opens the PS1 CD lid | If used with a BIOS.BIN, opening the lid at startup makes the MC manager and the CD Player reachable.  |
-| Select+L2+R2+Square | Closes the PS1 CD lid | Closing the lid in the OSD will run the game. |
+| Select+L2+R2+Up  | To Insert Disc 1 (DISCS.TXT line 1) | Part of the change disc feature. |
+| Select+L2+R2+Right | To Insert Disc 2 (DISCS.TXT line 2) | Part of the change disc feature. |
+| Select+L2+R2+Down | To Insert Disc 3 (DISCS.TXT line 3) | Part of the change disc feature. |
+| Select+L2+R2+Left | To Insert Disc 4 (DISCS.TXT line 4) | Part of the change disc feature. |
+| Select+L2+R2+Square | Closes the PS1 CD lid | Closing the lid in the OSD will run the game. Part of the change disc feature. |
 
 ______________________________________________________________________________________________________________
 
