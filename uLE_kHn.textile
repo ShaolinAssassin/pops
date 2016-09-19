@@ -33,7 +33,7 @@ h2. *Changelog :*
 
 
 
-* *uLE_kHn_20160723*
+* *uLE_kHn_20160723* = this will be the "last one":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-93#post-908556 distributed by kHn. 
 
 
 pre. 
