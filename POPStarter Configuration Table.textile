@@ -66,6 +66,7 @@ The POPStarter r13 ELF and KELF have a 32 bytes long configuration table, starti
 |   |   | 0x02 = Use just the first VMC in the first virtual slot |   |
 | *$42A* | Automatic PAL patch upon European VCD recognition | 0x00 = Disabled | The Automatic PAL Patcher of POPStarter expects "Euro" at the offset $102514 of the VCD |
 |   |   | 0x01 = Enabled |   |
+|   |   | 0x02 = Force 480p |   |
 | *$42B* | Resident modules loader | 0x00 = Disabled | POPS/MODULE_0.IRX POPS/MODULE_1.IRX... up to POPS/MODULE_9.IRX. Are executed AFTER the IOP gets reset with IOPRP252.IMG, for Great Justice. |
 |   |   | 0x01 = Enabled |   |
 | *$42C* | Software PowerOff fix | 0x00 = Disabled | Can't remember what it is. Perhaps it's a redundant option of a deimplemented function... Prolific, mass ? |
