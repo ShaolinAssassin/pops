@@ -1,0 +1,27 @@
+h1. *Change disc feature*
+
+______________________________________________________________________________________________________________
+
+Since OBT 15, POPStarter has a change-disc feature, that let you play multi-disc easily. 
+
+# Create a DISCS.TXT text file containing the file names of your VCDs, one file name per line;
+# Copy this DISCS.TXT file to the VMC folders of all your game discs.
+
+Hotkeys are :
+
+* Select+L2+R2+Triangle == To open the lid
+* Select+L2+R2+Up == To Insert Disc 1 (DISCS.TXT line 1)
+* Select+L2+R2+Right == To Insert Disc 2 (DISCS.TXT line 2)
+* Select+L2+R2+Down == To Insert Disc 3 (DISCS.TXT line 3)
+* Select+L2+R2+Left == To Insert Disc 4 (DISCS.TXT line 4)
+* Select+L2+R2+Square == To close the lid
+
+Limitations are :
+
+* Up to 4 file names in DISCS.TXT
+* A file name must not exceed 89 characters
+* The VCD files have to be in the same partition/folder
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
