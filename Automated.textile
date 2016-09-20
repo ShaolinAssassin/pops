@@ -15,18 +15,23 @@ _[According to POPStarter changelog]_
 
 New fixes integrated into POPStarter Revision 13 since WIP 05.
 
+***
 
-=>POPStarter Revision 13, *WIP 06, OBT 15*
+*POPStarter Revision 13, *WIP 06, OBT 15*
 
 *+540 DISCS* 
 * Parasite Eve II all retail versions - game fix (still unplayable)
 * Spyro 2 PAL - game fix (still crashes)
 
-=>POPStarter Revision 13, *WIP 06, OBT 14*
+***
+
+POPStarter Revision 13, *WIP 06, OBT 14*
 
 *540 DISCS* (new fixed not listed)
 
-=>POPStarter Revision 13, *WIP 06, OBT 13*
+***
+
+POPStarter Revision 13, *WIP 06, OBT 13*
 
 *495 DISCS* (+34 Disks) are recognised.
 
@@ -64,8 +69,6 @@ New fixes integrated into POPStarter Revision 13 since WIP 05.
 * Um Jammer Lammy (SCES-01753) – Crash Fix
 * Um Jammer Lammy (SCPS-18011) – Crash Fix
 * Um Jammer Lammy (SCUS-94448) – Crash Fix
-
-
 
 ______________________________________________________________________________________________________________
 _[From wip05 documentation]_
