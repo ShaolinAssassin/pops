@@ -2,6 +2,8 @@ h1. *Introduction to POPStarter rev13 (up-to-date with OBT15)*
 
 
 ______________________________________________________________________________________________________________
+_*[ Up-to-date with OBT15 ]*_
+
 
 h2. _Disclaimer :_ 
 
