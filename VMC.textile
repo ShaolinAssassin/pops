@@ -4,6 +4,12 @@ h1. *Virtual Memory Cards*
 ______________________________________________________________________________________________________________
 
 
+!https://bitbucket.org/repo/Mpy7Eg/images/1241696584-default_VMC.JPG(title)!
+
+
+
+
+
 h2. _About VMC :_ 
 
 When you launch a game for the very first time, a new folder named "Nameofyourgame.VCD" will be created into your POPS directory (one separate directory for each game). It has 2 files (SLOT0.VMC & SLOT1.VMC), which are you VMC. 
