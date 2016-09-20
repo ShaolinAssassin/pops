@@ -1,4 +1,4 @@
-h1. *Introduction to POPStarter rev13 (up-to-date with OBT15)*
+h1. *Introduction to POPStarter rev13*
 
 
 ______________________________________________________________________________________________________________
