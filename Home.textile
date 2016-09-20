@@ -37,7 +37,7 @@ h2. _Features :_
 * Cheat Engine
 * Hotkeys
 * In Game-Reset
-* 480p support
+* 480p support (NOT reliable ATM)
 * Change disk support
 * BIOS & OSD handlers
  
