@@ -2,14 +2,14 @@ h1. *BIOS & OSD Handlers*
 
 
 ______________________________________________________________________________________________________________
-_[Up-to-date with WIP 06, OBT 14]_
+
 
 h2. _BIOS handler :_ 
 
 
 You can use a PlayStation BIOS dump with POPS. Put a "BIOS.BIN" file in the VMC directory (example : __common/POPS/PBPX-95000.MY_GAME/BIOS.BIN) so POPStarter can handle it.
-If you didn't, POPS will use the built-in BIOS.
-You can also put it in the POPS folder, so it will be used for all games.
+If you didn't, POPS will use the built-in BIOS. You can also put it in the POPS folder, so it will be used for all games.
+This doesn't improve compatibility tho. 
 
 
 ______________________________________________________________________________________________________________
