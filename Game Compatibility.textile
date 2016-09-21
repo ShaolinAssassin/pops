@@ -2,7 +2,7 @@ h1. *Game Compatibility*
 
 
 ______________________________________________________________________________________________________________
-_[Up-to-date with WIP 06, OBT 14]_
+
 
 
 h2. _Compatibility rates (04/21/2016) :_ 
@@ -20,6 +20,7 @@ pre.
 * SMB (NTSC) : 80% (92/114)
 
 ______________________________________________________________________________________________________________
+
 
 h2. _Compatibility Lists and Forms :_ 
 
@@ -69,7 +70,7 @@ Copy the PATCH file in the VMC directory of your problematic game then test the 
 If the compatibility mode doesn't solve any problem in your game, delete the PATCH file from the VMC directory and redo the operations with the next PATCH file.
 
 *Using CHEATS.TXT file*
-"See 6. Features section":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Cheat%20Engine.
+"Here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Cheat%20Engine.
 
 ______________________________________________________________________________________________________________
 
