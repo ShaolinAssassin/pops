@@ -34,7 +34,11 @@ mass:/POPS/MGS_CD2.VCD
 mass:/POPS/XX.MGS_CD1.ELF
 mass:/POPS/XX.MGS_CD2.ELF
 mass:/POPS/MGS_CD1/DISCS.TXT
+mass:/POPS/MGS_CD1/SLOT0.VMC
+mass:/POPS/MGS_CD1/SLOT1.VMC
 mass:/POPS/MGS_CD2/DISCS.TXT
+mass:/POPS/MGS_CD2/SLOT0.VMC
+mass:/POPS/MGS_CD2/SLOT1.VMC
 
 In both DISCS.TXT files, you had to write : 
 
@@ -54,7 +58,8 @@ mass:/POPS/MGS_2.VCD
 mass:/POPS/XX.MGS.ELF
 mass:/POPS/MGS/DISCS.TXT
 mass:/POPS/MGS/VMCDIR.TXT
-
+mass:/POPS/MGS/SLOT0.VMC
+mass:/POPS/MGS/SLOT1.VMC
 
 
 In DISCS.TXT, you had to write : 
@@ -70,6 +75,7 @@ pre.
 MGS
 
 
+You can even disable the need of the 2nd VMC, by editing "POPStarter configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
 
 
 
