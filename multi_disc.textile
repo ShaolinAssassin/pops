@@ -46,11 +46,14 @@ You could also use the VMCDIR.TXT file to use only 1 pair of VMCs for this multi
 
 Example : 
 
+
+pre. 
 mass:/POPS/MGS.VCD
 mass:/POPS/MGS_2.VCD
 mass:/POPS/XX.MGS.ELF
 mass:/POPS/MGS/DISCS.TXT
 mass:/POPS/MGS/VMCDIR.TXT
+
 
 
 In DISCS.TXT, you had to write : 
