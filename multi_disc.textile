@@ -5,7 +5,10 @@ ________________________________________________________________________________
 Since OBT 15, POPStarter has a change-disc feature, that let you play multi-disc easily. 
 
 # Create a DISCS.TXT text file containing the file names of your VCDs, one file name per line (with VCD extension) ;
-# Copy this DISCS.TXT file to the VMC folders of all your game discs.
+# Copy this DISCS.TXT file to the VMC folders of all your game discs ;
+# Open the lid using the hotkey ;
+# Insert the Disc you want to load using the hotkey ;
+# Close the lid using the hotkey.
 
 Hotkeys are :
 
@@ -22,11 +25,10 @@ Limitations are :
 * A file name must not exceed 89 characters
 * The VCD files have to be in the same partition/folder
 
-Example : 
-
+Example of working setup : 
 
 pre. 
-mass:/POPS/MGS_CD1.VCD   <
+mass:/POPS/MGS_CD1.VCD   
 mass:/POPS/MGS_CD2.VCD
 mass:/POPS/XX.MGS_CD1.ELF
 mass:/POPS/XX.MGS_CD2.ELF
@@ -39,6 +41,29 @@ pre.
 MGS_CD1.VCD
 MGS_CD2.VCD
 
+
+You could also use the VMCDIR.TXT file to use only 1 pair of VMCs for this multi-disc game.
+
+Example : 
+
+mass:/POPS/MGS.VCD
+mass:/POPS/MGS_2.VCD
+mass:/POPS/XX.MGS.ELF
+mass:/POPS/MGS/DISCS.TXT
+mass:/POPS/MGS/VMCDIR.TXT
+
+
+In DISCS.TXT, you had to write : 
+
+pre. 
+MGS.VCD
+MGS_2.VCD
+
+
+In VMCDIR.TXT, you had to write : 
+
+pre. 
+MGS
 
 
 
