@@ -3,6 +3,8 @@ h1. *Change disc feature*
 ______________________________________________________________________________________________________________
 
 
+h2. _How to use it :_
+
 Since OBT 15, POPStarter has a change-disc feature, that let you play multi-disc easily. 
 
 # Create a DISCS.TXT text file containing the file names of your VCDs, one file name per line (with VCD extension) ;
@@ -47,10 +49,14 @@ MGS_CD1.VCD
 MGS_CD2.VCD
 
 
-You could also use the VMCDIR.TXT file to use only 1 pair of VMCs for this multi-disc game.
+______________________________________________________________________________________________________________
+
+
+h2. _Use a single pair of VMC for multi-disc games :_
+
+You can use the VMCDIR.TXT file to use only 1 pair of VMCs for this multi-disc game.
 
 *Example :*
-
 
 pre. 
 mass:/POPS/MGS.VCD
@@ -61,21 +67,21 @@ mass:/POPS/MGS/VMCDIR.TXT
 mass:/POPS/MGS/SLOT0.VMC
 mass:/POPS/MGS/SLOT1.VMC
 
-
 In DISCS.TXT, you had to write : 
 
 pre. 
 MGS.VCD
 MGS_2.VCD
 
-
 In VMCDIR.TXT, you had to write : 
 
 pre. 
 MGS
 
+In this situation, disc 1 and disc 2 share the same VMC folder.
 
-You can even disable the need of the 2nd VMC, by editing "POPStarter configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
+
+You could even disable the need of the 2nd VMC, by editing "POPStarter configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
 
 
 
