@@ -2,6 +2,7 @@ h1. *Change disc feature*
 
 ______________________________________________________________________________________________________________
 
+
 Since OBT 15, POPStarter has a change-disc feature, that let you play multi-disc easily. 
 
 # Create a DISCS.TXT text file containing the file names of your VCDs, one file name per line (with VCD extension) ;
@@ -25,7 +26,7 @@ Limitations are :
 * A file name must not exceed 89 characters
 * The VCD files have to be in the same partition/folder
 
-Example of working setup : 
+*Example of working setup :*
 
 pre. 
 mass:/POPS/MGS_CD1.VCD   
@@ -44,7 +45,7 @@ MGS_CD2.VCD
 
 You could also use the VMCDIR.TXT file to use only 1 pair of VMCs for this multi-disc game.
 
-Example : 
+*Example :*
 
 
 pre. 
