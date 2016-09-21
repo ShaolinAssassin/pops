@@ -2,7 +2,7 @@ h1. *Apps last version - download links*
 
 
 ______________________________________________________________________________________________________________
-_[Up-to-date with WIP 06, OBT 15]_
+
 
 * *CUE2POPS* : v2.2 : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/CUE2POPS_2.2.7z
 
