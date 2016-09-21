@@ -22,15 +22,7 @@ POPS/PATCH1.BIN
 POPS/Crash Bandicoot (VMC folder)/CHEATS.TXT
 
 
-* *POPStarter features and settings :*
 
-# "Virtual Memory Cards":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC
-# "Hotkeys":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Hotkeys
-# "Cheat Engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Cheat%20Engine
-# "In-Game Reset":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR
-# "BIOS & OSD Handler":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/BIOS%20OSD
-# "Scanlines generator preview":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/scan_lines_preview
-# "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/uLE_kHn
 
 ______________________________________________________________________________________________________________
 
