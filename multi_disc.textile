@@ -7,7 +7,7 @@ Since OBT 15, POPStarter has a change-disc feature, that let you play multi-disc
 # Create a DISCS.TXT text file containing the file names of your VCDs, one file name per line (with VCD extension) ;
 # Copy this DISCS.TXT file to the VMC folders of all your game discs ;
 # Open the lid using the hotkey ;
-# Insert the Disc you want to load using the hotkey ;
+# Insert the disc you want to load using the hotkey ;
 # Close the lid using the hotkey.
 
 Hotkeys are :
