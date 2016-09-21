@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 
 
-h2. *Few words :*
+h2. _Few words :
 
 uLE_kHn is a modified version of AkuHaK's uLE 4.42e HDD edition ("WIP7":http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/#post261143)
 
@@ -29,7 +29,7 @@ POPSTARTER.ELF
 
 ______________________________________________________________________________________________________________
 
-h2. *Changelog :* 
+h2. _Changelog :_ 
 
 
 
