@@ -23,7 +23,7 @@ pre.
 
 Hotkeys are :
 
-* Select+L2+R2+Triangle to open the lid.
+* Select+L2+R2+Triangle to open the lid : https://bitbucket-assetroot.s3.amazonaws.com/repository/Mpy7Eg/2984521000-Playstation-Button-Select.png?Signature=DSQ0EPVVcnS%2FTezUD7hfUDpb%2BoY%3D&Expires=1474533151&AWSAccessKeyId=AKIAIWY5XSVPZPDQYRQQ&versionId=G.SuKVbnAtYDlzociUQ56oMRBb6kN_hl
 * Select+L2+R2+Up to insert Disc 1 (DISCS.TXT line 1).
 * Select+L2+R2+Right to insert Disc 2 (DISCS.TXT line 2).
 * Select+L2+R2+Down to insert Disc 3 (DISCS.TXT line 3).
