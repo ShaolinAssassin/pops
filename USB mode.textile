@@ -14,7 +14,7 @@ To use POPStarter with an external HDD or a flash disk, you have to find and dow
 h2. _Other Software Requirements :_
 
 * A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "ToolBox":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/ToolBox.zip)
-* A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip, or "Free MC Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/...), or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn_20150727":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip )
+* A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip, or "Free MC Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/), or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn_20150727":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip )
 
 h2. _Hardware Requirements :_
 
