@@ -64,12 +64,11 @@ h2. _Features :_
 * High compatibility rate (around 75%/80%)
 * CDDA tracks support
 * VMC support
-* Automatic PAL patcher
-* Cheat Engine
-* Hotkeys
-* In Game-Reset
+* Automatic PAL patcher for PAL games
+* Embedded cheat engine
+* In-Game-Reset support
 * 480p support (NOT reliable ATM)
-* Change disk support
+* Multi-disc support
 * BIOS & OSD handlers
  
 
