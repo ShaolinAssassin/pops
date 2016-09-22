@@ -70,6 +70,7 @@ h2. _Features :_
 * 480p support (NOT reliable ATM)
 * Multi-disc support
 * BIOS & OSD handlers
+* Analog and vibration support
  
 
 
