@@ -12,7 +12,6 @@ ________________________________________________________________________________
 | 05/30/2008 |  RAW dump uploaded to third part host service, named as "PP_SLBB-00001.rar", 76,7MB sized. |
 | 02/07/2010 |  Decrypted files from the dump uploaded to third part host service (POPS = 3.166.988 bytes - the POPS executable, crc32 1ef0a3a7, md5 355a892a8ce4e4a105469d4ef6f39a42). The REAL leak of "Sony's official PSX emulator for PS2 HDD" - sorry psx-scene, you were wrong. |
 | Unknown date |  POC1 : first POPS hack/rape. Allows the user to rung "unauthorized" PS-X code by the injection of the executable into the PlayStation BIOS. In other words, it's now possible to play PS1 homebrews with POPS. It's the heart of POPStarter OSD.BIN handler feature. POPS is still protected against disc image replacement/alteration tho. |
-
 | 01/07/2013 |  After some days of tests, conan14 finally found a way to change the 2nd mounth path of the virtual drive and spread a launcher. Commercial games can now be launched with POPS. |
 | 01/22/2013 | POC2 release on a russian private w@rez website, with "crytic instructions" about how to use it. |
 | Unknow date | A secret project is elaborated by never-named PS2 developers. A GUI was planned. It would have had options to select VMC, BIOS..., USB support (keep in mind that POPS was at start for HDD users only),  a cheat engline, a fully working IGR... |
