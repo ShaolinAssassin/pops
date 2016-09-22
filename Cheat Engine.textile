@@ -32,7 +32,7 @@ For use with a PS2 cheat device (ps2rd, codebreaker, Cheat device...) :
 pre. 
 902377F4 0C0902EF
 
-Massive codes list can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/PS1%20codes%20in%20PS2%20RAW
+Massive PS1 code in RS2 RAW format list - ready-to-use - can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/PS1%20codes%20in%20PS2%20RAW. 
 
 ______________________________________________________________________________________________________________
 
