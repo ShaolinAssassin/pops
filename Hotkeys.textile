@@ -11,7 +11,9 @@ ________________________________________________________________________________
 | Select+L1+L2 | Turns the "scanlines generator":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/scan_lines_preview OFF | Starts with OBT 14 |
 | Select+R1+R2 | Turns the "scanlines generator":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/scan_lines_preview ON | Starts with OBT 14 |
 | Select+L2+R1 | Disable the smooth texture mapping |  |
-| Select+L2+R2+Triangle | Opens the PS1 CD lid | If used with a BIOS.BIN, opening the lid at startup makes the MC manager and the CD Player reachable.  |
+
+
+| !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2651471562-Playstation-Button-T.png(title)! | Opens the PS1 CD lid | If used with a BIOS.BIN, opening the lid at startup makes the MC manager and the CD Player reachable.  |
 | Select+L2+R2+Up  | To Insert Disc 1 (DISCS.TXT line 1) | Part of the change disc feature. |
 | Select+L2+R2+Right | To Insert Disc 2 (DISCS.TXT line 2) | Part of the change disc feature. |
 | Select+L2+R2+Down | To Insert Disc 3 (DISCS.TXT line 3) | Part of the change disc feature. |
