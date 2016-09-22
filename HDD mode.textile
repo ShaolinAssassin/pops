@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 h2. _POPS decrypted files :_
 
-To use POPStarter with an internal HDD, you have to find and download the POPS decrypted files. These files are named "POPS.ELF" and "IOPRP252.IMG"... You are on your own to find them (google is your friend ;) )
+To use POPStarter with an internal HDD, you have to find and download the POPS decrypted files. These files are named "POPS.ELF" and "IOPRP252.IMG"...They will be *NEVER* distributed with POPStarter.
 
 
 | *File name* | *MD5* | *Description* | *Location* |
@@ -133,4 +133,4 @@ You may want to give a look at this :
 
 ______________________________________________________________________________________________________________
 
-h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
