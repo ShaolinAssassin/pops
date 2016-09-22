@@ -7,11 +7,19 @@ h2. _How to use it :_
 
 Since OBT 15, POPStarter has a change-disc feature, that let you play multi-disc easily. 
 
-# Create a DISCS.TXT text file containing the file names of your VCDs, one file name per line (with VCD extension) ;
-# Copy this DISCS.TXT file to the VMC folders of all your game discs ;
-# Open the lid using the hotkey ;
-# Insert the disc you want to load using the hotkey ;
-# Close the lid using the hotkey.
+1. Create a DISCS.TXT text file containing the file names of your VCDs, one file name per line (with VCD extension) ;
+
+pre. 
+.DISCS.TXT line 1 = disc 1
+.DISCS.TXT line 2 = disc 2
+.DISCS.TXT line 3 = disc 3
+.DISCS.TXT line 4 = disc 4
+
+
+2. Copy this DISCS.TXT file to the VMC folders of all your game discs ;
+3. When required by the game, open the lid using the hotkey ;
+4. Insert the disc you want to load using the hotkey ;
+5. Close the lid using the hotkey.
 
 Hotkeys are :
 
@@ -48,13 +56,15 @@ pre.
 MGS_CD1.VCD
 MGS_CD2.VCD
 
+*Note :* keep in mind that the change disc feature is useful only if you must swap discs *without any PS1 reboot*. 
+Game like Grandia asks you to reboot to be able to load disc 2. In this situation, you only need to swap the VMCs manually (copy/paste VMCs from VMC disc 2 folder to VMC disc 2 folder) - or you can use the "trick below" to avoid such a manipulation.
 
 ______________________________________________________________________________________________________________
 
 
-h2. _Use a single pair of VMC for multi-disc games :_
+h2. _Use a single pair of VMCs for multi-disc games :_
 
-You can use the VMCDIR.TXT file to use only 1 pair of VMCs for this multi-disc game.
+You can use the VMCDIR.TXT file to use only 1 pair of VMCs for a multi-disc game.
 
 *Example :*
 
@@ -79,13 +89,6 @@ pre.
 MGS
 
 In this situation, disc 1 and disc 2 share the same VMC folder.
-
-
-You could even disable the need of the 2nd VMC, by editing "POPStarter configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
-
-
-
-
 
 ______________________________________________________________________________________________________________
 
