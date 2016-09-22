@@ -7,8 +7,7 @@ ________________________________________________________________________________
 
 h2. _IGR Behaviour Modifiers :_ 
 
-POPStarter has his own IGR ( !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! +
-!https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! ). You can change the button combo using one PATCH/TROJAN ("IGR Behaviour Modifiers archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR%20Behaviour%20Modifiers.zip).
+POPStarter has his own IGR ( !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! ). You can change the button combo using one PATCH/TROJAN ("IGR Behaviour Modifiers archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR%20Behaviour%20Modifiers.zip).
 
 | *File name* | *Button combo* |
 | TROJAN_0.BIN | Hold L1+L2+R1+R2+X+Down to open the IGR menu |
