@@ -10,7 +10,7 @@ If a POPStarter build-in LibCrypt crack crashes the emulation, prevents you from
 
 
 ______________________________________________________________________________________________________________
-_[According to POPStarter changelog]_
+_[According to POPStarter changelogs]_
 
 
 h2. _New fixes integrated into POPStarter Revision 13 since WIP 05_
