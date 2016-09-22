@@ -18,7 +18,7 @@ Some useful codes have been automated. Here are them :
 | $XPOS_#### | Help to center the screen (horizontally) | # is a number (decimal). Work only in PAL and NTSC modes. Default value : 640. Increase it to move the screen on the left, decrease for the right. |
 | $YPOS_## | Help to center the screen (vertically) | # is a number (decimal). Work only in PAL and NTSC modes. Buggy in OBT15. |
 | $DWSTRETCH_#### |  Stretches the display horizontally to your screen. | # is a number (decimal). Work only in PAL and NTSC modes. Default value : 2559. Increase it to stretch the screen on the right, decrease it for the left. |
-| $DWCROP_#### | Reduces/expands the display area width. | # is a number (decimal). Work only in PAL and NTSC modes. Maximum value : 2559. Decrease it to crop the screen on the right. |
+| $DWCROP_#### | Reduces/expands the display area width. | # is a number (decimal). Work only in PAL and NTSC modes. Maximum value : 2560. Decrease it to crop the screen on the right. |
 | $00507028 00000001 | Rumble Always On (Pad 1) |  |
 | $005070B8 00000001 | Rumble Always On (Pad 2) |  |
 | $=0507034 00000073 | Stay on Digital Mode (POPS, Pad 1) | // If analog is on |
