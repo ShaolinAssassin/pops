@@ -1,0 +1,31 @@
+h1. *Chronology - from SLBB-00001 to POPStarter*
+
+______________________________________________________________________________________________________________
+
+
+| *Date* | *Event* |
+| 2003 | Bishi Bashi Stepchamp 3 downloaded from PSBBN. Tho POPS is hardly linked to this game,and because of his native features which are not used it (VMC, vibration, anologic control, CDDA tracks support...), we can think POPS was made for something bigger. Selling PS1 classics games - like PSN - via PSBBN was maybe Sony's plan for POPS.  |
+| 06/2004 | HDLoader release. Bishi Bashi Stepchamp 3 was retired a bit later from PSBBN - perhaps because of the fear of piracy and POPS' weak protection once decrypted. |
+| 10/2004 | PS2 slimline case release. |
+| 2007 | Proper RAW dump of  the HDD partition PP.SLBB-00001. |
+| 05/30/2008 |  RAW dump uploaded to third part host service, named as "PP_SLBB-00001.rar", 76,7MB sized. |
+| 02/07/2010 |  Decrypted files from the dump uploaded to third part host service (POPS = 3.166.988 bytes - the POPS executable, crc32 1ef0a3a7, md5 355a892a8ce4e4a105469d4ef6f39a42). The REAL leak of "Sony's official PSX emulator for PS2 HDD" - sorry psx-scene, you were wrong. |
+| Unknown date |  POC1 : first POPS hack/rape. Allows the user to rung "unauthorized" PS-X code by the injection of the executable into the PlayStation BIOS. In other words, it's now possible to play PS1 homebrews with POPS. It's the heart of POPStarter OSD.BIN handler feature. POPS is still protected against disc image replacement/alteration tho. |
+| 01/07/2013 |  After some days of tests, conan14 finally found a way to change the 2nd mounth path of the virtual drive and spread a launcher. Commercial games can now be launched with POPS. |
+| 01/22/2013 | POC2 release on a russian private w@rez website, with "crytic instructions" about how to use it. |
+| Unknow date | A secret project is elaborated by never-named PS2 developers. A GUI was planned. It would have had options to select VMC, BIOS..., USB support (keep in mind that POPS was at start for HDD users only),  a cheat engline, a fully working IGR... |
+| 02/01/2013 | Leak of files and detailled instructions about how to use the POC2 @thetrisozone. It's not presented as a POC. Quickly, it will be named POPS-00001 and several (hexedited) bundles-repacks of the POC2 will be availiable for download, including high-unsecure experimental stuff (the famous 48 Bit HDDOSD dump) - and presented as "Free HDBoot 2.0" (keep in mind FHDB project born later).  |
+| 02/07/2013 | Public psx-scene mis-announcement : " NEWS: Sony's official PSX emulator for PS2 HDD leaked (POPS-00001)":http://psx-scene.com/forums/f19/news-sonys-official-psx-emulator-ps2-hdd-leaked-pops-00001-a-110832/ - POPS project maintainers start to consider abording it.   |
+| 02/14/2013 | First public mention of this project. |
+| Between 03/07/2013 & 03/12/2013  | POPS project cancelled. No announcement about it. We will know it on 03/12/2013. |
+| 03/12/2013 | First POPStarter public mention, currently in test, and already in rev7. Only one version is planned : the "PATINFO" one (which means POPStarter will be HDDOSD compatible only). |
+| 03/18/2013 | Delcro's patch release, adding USB support to POPS-00001 - big step forward. |
+| 03/19/2013 | Plans changed. POPStarter is still in test and currently in his 8th revision. 4 versions are in work : "PATINFO", "PORTABLE", "LAUCHER" & "KEXEC". POPstarter released is dalayed because of a bug in the "KEXEC" version. |
+| 04/09/2013 | POPStarter Revision 9 - first public release
+
+
+
+
+______________________________________________________________________________________________________________
+
+h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
