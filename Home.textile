@@ -104,6 +104,7 @@ h2. _Wiki Table of content :_
 * "Virtual Memory Cards":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC
 * "Hotkeys":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Hotkeys
 * "Cheat Engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Cheat%20Engine
+* "Special Cheats – Automated Codes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special_cheats
 * "In-Game Reset":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR
 * "Multi-disc support feature":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi_disc
 * "BIOS & OSD Handler":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/BIOS%20OSD
