@@ -9,10 +9,16 @@ ________________________________________________________________________________
 | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! | Enable the smooth texture mapping |  |
 | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! | Disable the smooth texture mapping |  |
 
+
+
 | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! | Turn the "scanlines generator":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/scan_lines_preview OFF | Starts with OBT 14 |
+
+
 
 | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! +
 !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! | Turn the "scanlines generator":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/scan_lines_preview ON | Starts with OBT 14 |
+
+
 
 | !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2651471562-Playstation-Button-T.png(title)! | Opens the PS1 CD lid | Part of the multi-disc change feature. Starts with OBT 15.  |
 | !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3199916752-Playstation-Dpad-Up.png(title)!  | To Insert Disc 1 (DISCS.TXT line 1) | Part of the multi-disc change feature. Starts with OBT 15. |
