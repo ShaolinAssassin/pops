@@ -107,7 +107,7 @@ h2. _Wiki Table of content :_
 * "In-Game Reset":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR
 * "Multi-disc support feature":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi_disc
 * "BIOS & OSD Handler":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/BIOS%20OSD
-* "Debug mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode
+* "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode
 * "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/uLE_kHn
 * "Advanced Settings":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
 
@@ -130,7 +130,6 @@ h2. _Wiki Table of content :_
 * "Threads – POPStarter around the web":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
 * "Guides/informations :":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Guides 
 
-.......... [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter_batcher
 .......... [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell .
 .......... [HDD] "Transfer VCD files over network using RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/RadHostClient .
 .......... [COMPATIBILITY] "Troubleshooting games":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Troubleshooting%20games
@@ -139,6 +138,7 @@ h2. _Wiki Table of content :_
 .......... [IGR] "Make your own IGR textures":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR%20textures
 .......... [SPECIAL DEVICE] "Use your [special device] with POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Special%20devices
 .......... [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/WS%20codes
+.......... [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter_batcher
 
 
 
