@@ -7,5 +7,14 @@
 !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)!
 
 !https://bitbucket.org/repo/Mpy7Eg/images/4108913469-Playstation-Dpad-Left.png(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/3199916752-Playstation-Dpad-Up.png(title)!
 !https://bitbucket.org/repo/Mpy7Eg/images/2374122730-Playstation-Dpad-Right.png(title)!
 !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)!
+
+!https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)!
+
+!https://bitbucket.org/repo/Mpy7Eg/images/2510906259-Playstation-Lstick-Neutral.png(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/3580807090-Playstation-Rstick-Neutral.png(title)!
