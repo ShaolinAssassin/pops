@@ -22,7 +22,7 @@ pre.
 ______________________________________________________________________________________________________________
 
 
-h2. _Compatibility Lists and Forms :_ 
+h2. _Compatibility lists and forms :_ 
 
 These compatibility lists are managed by AlGollan84 (aka Algol aka Allan58) and krHACKen.
 
@@ -48,12 +48,12 @@ h2. _Compatibility modes :_
 If your game is poorly emulated, you can try to enable a "compatibility mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads to see if it helps.
 
 | *Compatibility mode* | *Description* | *File Name* | *Cheat code* |
-| 0×01 | help restoring the music/voices in several games | PATCH_1.BIN | $COMPATIBILITY_0x01 |
-| 0x02 | a variant of mode 0×01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series) | PATCH_2.BIN | $COMPATIBILITY_0x02 |
-| 0x03 | can be used if the mode 0×01 doesn’t provide the expected results | PATCH_3.BIN | $COMPATIBILITY_0x03 |
-| 0x04 | prevent the emulator from writing a garbage value in two of the virtual GPU registers (fixes slowdowns, flickering, and many other glitches) | PATCH_4.BIN | $COMPATIBILITY_0x04 |
-| 0x05 | made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut | PATCH_5.BIN | $COMPATIBILITY_0x05 |
-| 0x06 | disable the OSD shell of the emulator’s built-in BIOS, making some games that freeze on startup run | PATCH_6.BIN | $COMPATIBILITY_0x06 |
+| 0×01 | Help restoring the music/voices in several games | PATCH_1.BIN | $COMPATIBILITY_0x01 |
+| 0x02 | A variant of mode 0×01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series) | PATCH_2.BIN | $COMPATIBILITY_0x02 |
+| 0x03 | Can be used if the mode 0×01 doesn’t provide the expected results | PATCH_3.BIN | $COMPATIBILITY_0x03 |
+| 0x04 | Fixes slowdowns, flickering, and many other glitches (prevent the emulator from writing a garbage value in two of the virtual GPU registers) | PATCH_4.BIN | $COMPATIBILITY_0x04 |
+| 0x05 | Made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut | PATCH_5.BIN | $COMPATIBILITY_0x05 |
+| 0x06 | Disable the OSD shell of the emulator’s built-in BIOS, making some games that freeze on startup run. | PATCH_6.BIN | $COMPATIBILITY_0x06 |
 | 0x07 | fixes the missing textures problems (example : "Tomb Raider III":https://www.youtube.com/watch?v=3LmGlgY_rNs&feature=youtu.be ) | PATCH_7.BIN | $COMPATIBILITY_0x07 |
 
 *Caution :* Modes 0x01, 0x02, 0x03 and 0x05 cannot be enabled in the same time or combined. These are variants of the same hack and they are conflicting, so use only use one of them at a time. Please let us know (at ASSEMblergames) if you managed to solve a problem in your game by forcing modes, so I could integrate the fix in POPStarter.
