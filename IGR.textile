@@ -9,14 +9,21 @@ h2. _IGR Behaviour Modifiers :_
 
 POPStarter has his own IGR ( !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! ). You can change the button combo using one PATCH/TROJAN ("IGR Behaviour Modifiers archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR%20Behaviour%20Modifiers.zip).
 
-| *File name* | *Button combo* |
-| TROJAN_0.BIN | Hold L1+L2+R1+R2+X+Down to open the IGR menu |
-| TROJAN_1.BIN | Hold Start+Select to open the IGR menu |
-| TROJAN_2.BIN | Hold L1+L2+R1+R2+Start+Select to open the IGR menu |
-| TROJAN_3.BIN | Hold L1+L2+R1+R2+X+Down to terminate POPS (no IGR menu) |
-| TROJAN_4.BIN | Hold Start+Select to terminate POPS (no IGR menu) |
-| TROJAN_5.BIN | Hold L1+L2+R1+R2+Start+Select to terminate POPS (no IGR menu) |
-| PATCH_0.BIN | Disables the IGR menu |
+| *File name* | *Button combo* | *Action* |
+
+| TROJAN_0.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/310130791-Playstation-Button-X.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)! | Open the IGR menu |
+
+| TROJAN_1.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Open the IGR menu |
+
+| TROJAN_2.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Open the IGR menu |
+
+| TROJAN_3.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/310130791-Playstation-Button-X.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)! | Terminate POPS (no IGR menu) |
+
+| TROJAN_4.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Terminate POPS (no IGR menu) |
+
+| TROJAN_5.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Terminate POPS (no IGR menu) |
+
+| PATCH_0.BIN | (none) | Disable the IGR menu |
 
 * *How to install :*
 Copy one of the PATCH/TROJAN files to the VMC directory of your game, or to the POPS directory.
