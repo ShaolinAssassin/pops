@@ -63,7 +63,7 @@ ________________________________________________________________________________
 
 h2. _Use a single pair of VMCs for multi-disc games :_
 
-You can use the VMCDIR.TXT file to use only 1 pair of VMCs for a multi-disc game.
+You can use the VMCDIR.TXT file to use only 1 pair of VMCs for a multi-disc game. This VMCDIR.TXT must be placed into the disc 1 VMC folder. 
 
 *Example :*
 
