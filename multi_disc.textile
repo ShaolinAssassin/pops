@@ -10,10 +10,10 @@ Since OBT 15, POPStarter has a change-disc feature, that let you play multi-disc
 1. Create a DISCS.TXT text file containing the file names of your VCDs, one file name per line (with VCD extension) ;
 
 pre. 
-.DISCS.TXT line 1 = disc 1
-.DISCS.TXT line 2 = disc 2
-.DISCS.TXT line 3 = disc 3
-.DISCS.TXT line 4 = disc 4
+DISCS.TXT line 1 = disc 1
+DISCS.TXT line 2 = disc 2
+DISCS.TXT line 3 = disc 3
+DISCS.TXT line 4 = disc 4
 
 
 2. Copy this DISCS.TXT file to the VMC folders of all your game discs ;
