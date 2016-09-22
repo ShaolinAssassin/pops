@@ -19,7 +19,7 @@ _[According to POPStarter changelog]_
 
 -----POPStarter Revision 13, *WIP 06, OBT 15*
 
-*+540 DISCS* 
+*+540 DISCS* are recognised.
 * Parasite Eve II all retail versions - game fix (still unplayable)
 * Spyro 2 PAL - game fix (still crashes)
 
@@ -27,7 +27,7 @@ _[According to POPStarter changelog]_
 
 -----POPStarter Revision 13, *WIP 06, OBT 14*
 
-*540 DISCS* (new fixed not listed)
+*540 DISCS* are recognised (new fixes not listed).
 
 ***
 
