@@ -13,7 +13,7 @@ ________________________________________________________________________________
 _[According to POPStarter changelog]_
 
 
-* *New fixes integrated into POPStarter Revision 13 since WIP 05*
+h2. _New fixes integrated into POPStarter Revision 13 since WIP 05_
 
 ***
 
@@ -74,7 +74,7 @@ ________________________________________________________________________________
 _[From wip05 documentation]_
 
 
-* *POPStarter Revision 13, Build Date : 2015/06/03, *WIP 05* PUBLIC RELEASE*
+h2. _POPStarter Revision 13, Build Date : 2015/06/03, *WIP 05* PUBLIC RELEASE_
 
 *461 DISCS* are recognised.
 
