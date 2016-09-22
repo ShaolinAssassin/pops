@@ -30,15 +30,6 @@ Hotkeys are :
 * Insert Disc 4 : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/4108913469-Playstation-Dpad-Left.png(title)!
 * Close the lid : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3011564833-Playstation-Button-S.png(title)!
 
-
-
-
-* Select+L2+R2+Up to insert Disc 1 (DISCS.TXT line 1).
-* Select+L2+R2+Right to insert Disc 2 (DISCS.TXT line 2).
-* Select+L2+R2+Down to insert Disc 3 (DISCS.TXT line 3).
-* Select+L2+R2+Left to insert Disc 4 (DISCS.TXT line 4).
-* Select+L2+R2+Square to close the lid.
-
 Limitations are :
 
 * Up to 4 file names in DISCS.TXT.
