@@ -23,9 +23,7 @@ pre.
 
 Hotkeys are :
 
-* Open the lid : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! +
-!https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! +
-!https://bitbucket.org/repo/Mpy7Eg/images/2651471562-Playstation-Button-T.png(title)!
+* Open the lid : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2651471562-Playstation-Button-T.png(title)!
 
 
 
