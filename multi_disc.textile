@@ -56,8 +56,7 @@ pre.
 MGS_CD1.VCD
 MGS_CD2.VCD
 
-*Note :* keep in mind that the change disc feature is useful only if you must swap discs *without any PS1 reboot*. 
-Game like Grandia asks you to reboot to be able to load disc 2. In this situation, you only need to swap the VMCs manually (copy/paste VMCs from VMC disc 2 folder to VMC disc 2 folder) - or you can use the "trick below" to avoid such a manipulation.
+*Note :* keep in mind that the change disc feature is useful only if you must swap discs *without any PS1 reboot*. Game like Grandia asks you to reboot to be able to load disc 2. In this situation, you only need to swap the VMCs manually (copy/paste VMCs from VMC disc 2 folder to VMC disc 2 folder) - or you can use the "trick below" to avoid such a manipulation.
 
 ______________________________________________________________________________________________________________
 
