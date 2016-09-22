@@ -63,7 +63,7 @@ ________________________________________________________________________________
 
 h2. _Use a single pair of VMCs for multi-disc games :_
 
-You can use the VMCDIR.TXT file to use only 1 pair of VMCs for a multi-disc game. This VMCDIR.TXT must be placed into the disc 1 VMC folder. 
+You can use the VMCDIR.TXT file to use only 1 pair of VMCs for a multi-disc game. This VMCDIR.TXT must be placed into the disc 1 VMC folder. Read "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC to know more about the VMCDIR.TXT file ("Setting a path for the VMC folder" section).
 
 *Example :*
 
@@ -82,7 +82,7 @@ pre.
 MGS.VCD
 MGS_2.VCD
 
-In VMCDIR.TXT, you had to write : 
+In VMCDIR.TXT, you had to write the name of the disc 1 VMC folder : 
 
 pre. 
 MGS
