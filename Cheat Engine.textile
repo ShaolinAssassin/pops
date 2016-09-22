@@ -147,6 +147,7 @@ h2. _Related stuff :_
 
 You may want to give a look at this : 
 
+* "Special Cheats – Automated Codes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special_cheats
 * [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/WS%20codes
 
 
