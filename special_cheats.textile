@@ -14,7 +14,7 @@ Some useful codes have been automated. Here are them :
 | $SMOOTH | Enable the "smooth texture":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/SMOOTH mapping at startup | $S0003390 00000001 |
 | $NOPAL | Disable POPStarters' PAL patcher | PATCH_9.BIN now obsolete |
 | $FORCEPAL | Force the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL)  | Useful for PAL VCDs that don't have a valid license text in their bootsector. PATCH_8.BIN now obsolete |
-| $480p | Force 480p | Not compatible with $XPOS_####, $YPOS_##, $DWSTRETCH_####, $DWCROP_#### & NOT reliable ATM. See notes "here":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-93#post-908556  |
+| $480p | Force 480p | Not compatible with $XPOS, $YPOS, $DWSTRETCH, $DWCROP & NOT reliable ATM. See notes "here":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-93#post-908556  |
 | $XPOS_#### | Help to center the screen (horizontally) | # is a number (decimal). Work only in PAL and NTSC modes. Default value : 640. Increase it to move the screen on the left, decrease for the right. |
 | $YPOS_## | Help to center the screen (vertically) | # is a number (decimal). Work only in PAL and NTSC modes. Buggy in OBT15. |
 | $DWSTRETCH_#### |  Stretches the display horizontally to your screen. | # is a number (decimal). Work only in PAL and NTSC modes. Default value : 2559. Increase it to stretch the screen on the right, decrease it for the left. |
