@@ -13,7 +13,7 @@ Your .BIN image must be a raw MODE2/2352 dump and the .CUE a standard ASCII cues
  
 * *How to convert to .VCD :*
 
-To convert your PS1 games from .BIN+.CUE to .VCD, you need to use the last version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode
+To convert your PS1 games from .BIN+.CUE to .VCD, you need to use the last version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last
 
 # Put your .BIN+.CUE image in the CUE2POPS folder. 
 # Drag & drop your .CUE file on the BULK_CUE2POPS.BAT file. 
@@ -22,95 +22,11 @@ To convert your PS1 games from .BIN+.CUE to .VCD, you need to use the last versi
 
 *Notes :* 
 
+* To multi-disc games, please read this section about how to use the "multi-dic support":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi_disc
 * CUE2POPS is a part of Toolbox soft, which can do more than only convert your games to .VCD. For a complete description of Toolbox, see "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Toolbox%20commands
 * Linux users, you can get CUE2POPS src code with changes made for Linux "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/cue2pops_src_linux.zip Download gcc with your distributions package manager and compile the file (SovietStriker @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-55#post-792589) 
 
 
-______________________________________________________________________________________________________________
-
-h2. _Multi-disc games :_ 
-
-[OBSOLETE]
-
-POPS doesn't have a swap disc feature. To play multi-disc games, you need to combine the several discs of your game into a single .BIN+.CUE files using a "kit":https://app.box.com/s/b02715f2fe91cdc42fd1 made by guys @"ngemu":http://ngemu.com/threads/disc-combining-kits.118402/, then convert it using Toolbox.
-
-Kits : 
-
-* NTSC-U collection
-
-pre. 
-Alone in the Dark - The New Nightmare
-Brain Dead 13
-Chrono Cross (*** POSSIBLE VIRUS WARNING ***)
-Colony Wars
-Countdown Vampires
-D
-Dragon Warrior VII
-Driver 2
-Fear Effect
-Fear Effect 2
-Final Fantasy VII
-Final Fantasy VIII
-Final Fantasy IX
-G-Police
-Galerians
-Grandia
-Heart of Darkness
-In Cold Blood
-Koudelka
-Legend of Dragoon
-Lunar - Silver Star Story Complete
-Lunar 2 - Eternal Blue Complete
-Metal Gear Solid
-Novastorm
-Oddworld - Abe's Exoddus
-Parasite Eve
-Parasite Eve II
-Shadow Madness
-Star Ocean - The Second Story
-Star Wars - Rebel Assault II - The Hidden Empire
-Syphon Filter 2
-Tales of Destiny II
-Thousand Arms
-Valkyrie Profile
-Wild Arms 2
-Xenogears
-
-
-
-* NTSC-J collection
-
-
-pre. 
-Brain Dead 13
-Colony Wars
-Creature Shock
-Dragon Quest VII
-Parasite Eve
-Policenauts
-Star Ocean - The Second Story
-Valkyrie Profile
-Wild Arms - 2nd Ignition
-Xenogears
-
-
-
-* PAL-E (S/G/I/F/..) collection
-
-
-pre. 
-Colony Wars
-Driver 2 - Back On the Streets
-Heart of Darkness
-In Cold Blood
-Novastorm
-Star Wars - Rebel Assault II - The Hidden Empire
-
-
-
-*Notes :*
-* It's possible that the game doesn't work after being combined & converted. 
-* If this method doesn't work, you can make a save just before the end of the disc 1, extract your save from the VMC, continue your game on PS1 PC emulator or PS1 retail console, save again after the launch of the 2nd disc, import your save to the VMC and continue your game with POPS (you will need 2 .VCD of your game, one for each disc).
 
 
 ______________________________________________________________________________________________________________
