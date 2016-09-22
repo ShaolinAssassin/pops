@@ -18,10 +18,10 @@ Ex :
 
 
 pre. 
-POPS/PATCH1.BIN
-POPS/Crash Bandicoot (VMC folder)/CHEATS.TXT
+/POPS/PATCH1.BIN
+/POPS/Crash Bandicoot/CHEATS.TXT
 
-
+Here, PATCH1.BIN will be applied to all games, while the CHEATS.TXT file will be only applied/active for Crash Bandicoot game.
 
 
 ______________________________________________________________________________________________________________
