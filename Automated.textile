@@ -10,28 +10,23 @@ If a POPStarter build-in LibCrypt crack crashes the emulation, prevents you from
 
 
 ______________________________________________________________________________________________________________
-_[According to POPStarter changelogs]_
+
 
 
 h2. _New fixes integrated into POPStarter Revision 13 since WIP 05_
+_[According to POPStarter changelogs]_
 
-***
-
------POPStarter Revision 13, *WIP 06, OBT 15*
+----POPStarter Revision 13, *WIP 06, OBT 15*
 
 *+540 DISCS* are recognised.
 * Parasite Eve II all retail versions - game fix (still unplayable)
 * Spyro 2 PAL - game fix (still crashes)
 
-***
-
------POPStarter Revision 13, *WIP 06, OBT 14*
+----POPStarter Revision 13, *WIP 06, OBT 14*
 
 *540 DISCS* are recognised (new fixes not listed).
 
-***
-
------POPStarter Revision 13, *WIP 06, OBT 13*
+----POPStarter Revision 13, *WIP 06, OBT 13*
 
 *495 DISCS* (+34 Disks) are recognised.
 
@@ -71,10 +66,11 @@ h2. _New fixes integrated into POPStarter Revision 13 since WIP 05_
 * Um Jammer Lammy (SCUS-94448) – Crash Fix
 
 ______________________________________________________________________________________________________________
-_[From wip05 documentation]_
 
 
 h2. _POPStarter Revision 13, Build Date : 2015/06/03, *WIP 05* PUBLIC RELEASE_
+_[From wip05 documentation]_
+
 
 *461 DISCS* are recognised.
 
