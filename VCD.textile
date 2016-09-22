@@ -13,7 +13,7 @@ Your .BIN image must be a raw MODE2/2352 dump and the .CUE a standard ASCII cues
  
 * *How to convert to .VCD :*
 
-To convert your PS1 games from .BIN+.CUE to .VCD, you need to use the last version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last
+To convert your PS1 games from .BIN+.CUE to .VCD, you need to use the last version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last.
 
 # Put your .BIN+.CUE image in the CUE2POPS folder. 
 # Drag & drop your .CUE file on the BULK_CUE2POPS.BAT file. 
