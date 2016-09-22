@@ -94,4 +94,4 @@ In this situation, disc 1 and disc 2 share the same VMC folder.
 
 ______________________________________________________________________________________________________________
 
-h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
