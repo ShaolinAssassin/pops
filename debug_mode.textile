@@ -9,6 +9,9 @@ To enable POPStarter debug mode, 2 solutions :
 
 1) apply "DEBUG_AND_HALT.PPF":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_05.zip  to POPStarter.ELF using a PPF patcher (such as "PPF-O-Matic":http://www.romhacking.net/utilities/356/) ;
 
+!http://www.romhacking.net/utilities/screenshots/356screenshot1.gif!
+
+
 OR
 
 2) hexedit manually POPStarter.ELF. See POPStarter configuration table "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table to know what to change.
