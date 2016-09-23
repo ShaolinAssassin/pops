@@ -24,7 +24,7 @@ $800AC402 0800
 
 ______________________________________________________________________________________________________________
 
-h2. _POPStarter Mastercode :_ 
+h2. _POPS Mastercode :_ 
 
 For use with a PS2 cheat device (ps2rd, codebreaker, Cheat device...) :
 
