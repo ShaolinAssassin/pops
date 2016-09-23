@@ -25,7 +25,7 @@ Some useful codes have been automated. Here are them :
 | $00507034 00000041  |  | // Force digital mode. |
 | $=05070C4 00000073 | Stay on Digital Mode (POPS, Pad 2). | // If analog is on. |
 | $005070C4 00000041  |  | // Force digital mode. |
-| (code below)  | "Left Stick is the D-Pad" code. | Enable analogic joystick support for games that doesnt support it natively. |
+| (code below)  | "Left Stick is the D-Pad" code. | Enable joystick support for games that doesnt support it natively. |
 
 
 
