@@ -13,7 +13,7 @@ To enable POPStarter debug mode :
 
 # Launch PPF-O-Matic ;
 # Click on "Load CD Image file" (first floppy icon) ;
-# Change File type from "CD Image " to "All files" ;
+# Change File type from "CD Image file" to "All files" ;
 # Browse to POPStarter.ELF location and select it ;
 # Click on "Load PPF file" (second floppy icon) ;
 # Browse to DEBUG_AND_HALT.PPF location and select it ;
