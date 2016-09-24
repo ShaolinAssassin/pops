@@ -2,7 +2,7 @@ h1. *Introduction to POPStarter rev13 - unofficial documentation*
 
 
 ______________________________________________________________________________________________________________
-_*[ Up-to-date with OBT15 ]*_
+_*[ Up-to-date with Rev 13 WIP6 OBT15 ]*_
 
 
 h2. _Disclaimer :_ 
