@@ -149,7 +149,7 @@ ________________________________________________________________________________
 
 h2. _Need help ?_ 
 
-Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/ or at "psx-scene":http://psx-scene.com/forums/f19/popstarter-wiki-155496/. Be sure to run POPStarter in "debug mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode before.
+Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/. Be sure to run POPStarter in "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode before.
 
 
 ______________________________________________________________________________________________________________
