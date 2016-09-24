@@ -7,7 +7,7 @@ POPStarter has an embedded debug mode. It's ON by default in SMB mode (and it ca
 
 To enable POPStarter Debug Mode : 
 
-*Normal users :* apply the DEBUG_AND_HALT.PPF included in POPStarter bundle to POPStarter.ELF using a PPF patcher (such as "PPF-O-Matic":http://www.romhacking.net/utilities/356/).
+*Normal users :* apply "the DEBUG_AND_HALT.PPF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DEBUG_AND_HALT.PPF over POPStarter.ELF using a PPF patcher (such as "PPF-O-matic":http://www.romhacking.net/utilities/356/).
 
 !http://www.romhacking.net/utilities/screenshots/356screenshot1.gif!
 
