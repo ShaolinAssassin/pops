@@ -1,6 +1,11 @@
 h1. *General note :*
 
 
+
+______________________________________________________________________________________________________________
+
+
+
 POPStarter is able to handle external files, so you can configure its settings, even though POPStarter is a GUI-less app. These external files come as TROJAN#BIN, PATCH#.BIN, BIOS.BIN, OSD.BIN, CHEATS.TXT, VMC.DIR, DISC.TXT...
 These files can be placed into 2 different locations : POPS folder and VMC folder. 
 
