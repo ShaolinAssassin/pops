@@ -78,6 +78,7 @@ mass:/POPS/MGS/DISCS.TXT
 mass:/POPS/MGS/VMCDIR.TXT
 mass:/POPS/MGS/SLOT0.VMC
 mass:/POPS/MGS/SLOT1.VMC
+mass:/POPS/MGS_2/VMCDIR.TXT
 
 In DISCS.TXT, you had to write : 
 
