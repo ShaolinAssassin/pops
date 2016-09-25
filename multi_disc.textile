@@ -66,7 +66,7 @@ ________________________________________________________________________________
 
 h2. _Use a single pair of VMCs for multi-disc games :_
 
-You can use the VMCDIR.TXT file to use only 1 pair of VMCs for a multi-disc game. This VMCDIR.TXT must be placed into the disc 1 VMC folder. Read "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC to know more about the VMCDIR.TXT file ("Setting a path for the VMC folder" section).
+You can use the VMCDIR.TXT file to use only 1 pair of VMCs for a multi-disc game. This VMCDIR.TXT must be placed into disc 1 and disc 2 VMC folders. Read "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC to know more about the VMCDIR.TXT file ("Setting a path for the VMC folder" section).
 
 *Example :*
 
