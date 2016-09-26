@@ -13,7 +13,7 @@ It has 2 main features :
 
 * Same as WIP7, it can create HDD partitions with no "+" symbol at start - to create the __.POPS/ partition.
 
-* It can launch your VCDs directly so you don't have to rename your POPStarter.ELF file. Just place a copy of POPStarter.ELF in your POPS directory and you're done. 
+* It can launch your VCDs directly so you don't have to rename your POPStarter.ELF files. Just place a copy of POPStarter.ELF in your POPS directory and you're done. 
 
 Ex.
 
