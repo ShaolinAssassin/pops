@@ -6,8 +6,8 @@ _[Original french tutorial by Subaru-San]_ "@metagames":http://www.metagames-eu.
 
 h2.  _Software Requirements :_ 
 
-* "uLaunchELF (any version)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip
-* "MemcardRex 1.8":http://shendosoft.blogspot.fr/
+* "uLaunchELF (any version)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff
+* "MemcardRex 1.8":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff
 
 ______________________________________________________________________________________________________________
 
@@ -35,4 +35,4 @@ Your save is now extracted from the VMC.
 
 ______________________________________________________________________________________________________________
 
-h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
