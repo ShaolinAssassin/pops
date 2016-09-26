@@ -16,6 +16,7 @@ The emulator has no official name, it was named "POPS" because that string were 
 * "POC2/POPS-00001 era":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/poc2-pops-00001-era
 * "POPStarter Rev 9":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter9
 * "POPStarter Rev 10":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter10
+* "POPStarter Rev 11":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter11
 
 
 
