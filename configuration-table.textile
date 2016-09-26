@@ -1,17 +1,14 @@
-h1. *POPStarter Configuration Table*
+h1. *POPStarter Configuration Table - Advanced Settings*
 
 
 ______________________________________________________________________________________________________________
-_[From wip05 documentation]_
+
 
 This documentation concerns the advanced configuration of POPStarter r13, involving the harcoding (or the patch-on-load) of settings to the POPStarter ELF/KELF...
 
 The POPStarter r13 ELF and KELF have a 32 bytes long configuration table, starting from the offset $410 (or 1040 in decimal).
 
 * *Caution* : Unless you know exactly what it is for and what you're doing, please don't tamper with it. Hexediting of that stuff is for advanced users only. Make a backup of the default config before you start changing values. If you are not sure, read the section below (PPF bunch pack). 
-
-
-
 
 
 | *Offset* | *Description* | *Values* | *Notes* |
@@ -112,5 +109,5 @@ Here is what I can do for you :
 
 ______________________________________________________________________________________________________________
 
-h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
 
