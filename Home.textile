@@ -100,7 +100,7 @@ h2. _Wiki Table of content :_
 
 *6.  Features and settings*
 * "General note":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/general-note
-* "Virtual memory cards"https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vmc
+* "Virtual memory cards":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vmc
 * "Hotkeys":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hotkeys
 * "Cheat engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cheat-engine
 * "Special cheats":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special-cheats
