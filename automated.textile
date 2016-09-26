@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 The LibCrypt cracks are experimental and their reliability hasn't been proven with all the "supported" titles. These were made using IdentRip v1.02, which generates "generic" cracks for LibCrypt protected games. The resulting cracks may fail on games that have enhanced protections.
 
-If a POPStarter build-in LibCrypt crack crashes the emulation, prevents you from playing the game or does not work, disable it by patching the POPStarter KELF/ELF with NO_LC_CRACKS.PPF, then patch your disc image with a good old PS1 scene crack (you may find some of them in the Compatibility List which is maintained by El_Patas for Elotrolado, or at ConsoleCopyWorld).
+If a POPStarter build-in LibCrypt crack crashes the emulation, prevents you from playing the game or does not work, disable it by patching the POPStarter KELF/ELF with NO_LC_CRACKS.PPF, then patch your disc image with a good old PS1 scene crack (you may find some of them in the Compatibility List which is maintained by El_Patas for Elotrolado, or at "ConsoleCopyWorld":http://consolecopyworld.com/psx/psx_patches.shtml).
 
 
 ______________________________________________________________________________________________________________
