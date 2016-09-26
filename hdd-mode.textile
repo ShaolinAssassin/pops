@@ -6,8 +6,7 @@ ________________________________________________________________________________
 
 h2. _POPS decrypted files :_
 
-To use POPStarter with an internal HDD, you have to find and download the POPS decrypted files. These files are named "POPS.ELF" and "IOPRP252.IMG"...They will be *NEVER* distributed with POPStarter.
-
+To use POPStarter with an internal HDD, you have to find and download the POPS decrypted files. These files are named "POPS.ELF" and "IOPRP252.IMG"...
 
 | *File name* | *MD5* | *Description* | *Location* |
 | POPS.ELF | 355a892a8ce4e4a105469d4ef6f39a42 | main SLBB-00001 ELF, decrypted | __common/POPS/ |
@@ -15,17 +14,17 @@ To use POPStarter with an internal HDD, you have to find and download the POPS d
 
 h2. _Other Software Requirements :_
 
-* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
-* A software that allows you to manage/create partitions in your PS2 HDD (such as "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
-* A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
-* A software that allows you to transfer the converted disc images to your PS2 HDD (such as "PFSshell":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff, or "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version and "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff)
-* A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version )
+* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version);
+* A software that allows you to manage/create partitions in your PS2 HDD (such as "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version);
+* A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version);
+* A software that allows you to transfer the converted disc images to your PS2 HDD (such as "PFSshell":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff, or "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version and "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff);
+* A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version ).
 
 h2. _Hardware Requirements :_
 
-* A PS2 console which is able to run PS2 unsigned code
-* A network adapter with/or a HDD interface
-* A PS2-formatted HDD that fits your network adapter/HDD interface
+* A PS2 console which is able to run PS2 unsigned code;
+* A network adapter with/or a HDD interface;
+* A PS2-formatted HDD that fits your network adapter/HDD interface.
 
 ______________________________________________________________________________________________________________
 
