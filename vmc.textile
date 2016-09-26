@@ -52,7 +52,7 @@ smb:/YourSharedFolder/POPS/SAVES/SLOT1.VMC
 
 with SAVES written into smb:/YourSharedFolder/POPS/VMCDIR.TXT
 
-Here the 3 games mentionned will use smb:/YourSharedFolder/POPS/SAVES/SLOT0.VMC and smb:/YourSharedFolder/POPS/SAVES/SLOT1.VMC as VMC with no issue.
+Here the 3 games mentionned will use smb:/YourSharedFolder/POPS/SAVES/SLOT0.VMC and smb:/YourSharedFolder/POPS/SAVES/SLOT1.VMC as VMCs with no issue.
 
 ______________________________________________________________________________________________________________
 
