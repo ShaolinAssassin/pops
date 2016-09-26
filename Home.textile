@@ -81,7 +81,7 @@ h2. _Wiki Table of content :_
 
 
 *1.  Convert your PS1 games to VCD format*
-* "VCD creation":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VCD
+* "VCD creation":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vcd
 * "Toolbox commands (advanced)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/toolbox-commands
 
 "*2.  POPStarter for internal HDD*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
@@ -90,55 +90,55 @@ h2. _Wiki Table of content :_
 
 "*4.  POPStarter for SMB*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
 
-"*5.  Game Compatibility*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
-* "Compatibility rates":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
-* "Compatibility Lists and Forms":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
-* "Compatibility Modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
-* "Game fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
-* "Automated fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
+*5.  Game Compatibility*
+* "Compatibility rates":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
+* "Compatibility lists":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
+* "Compatibility modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
+* "Game fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
+* "Automated fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated
 
 
-"*6.  Features and settings*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Features
-* "General note":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Features
-* "Virtual Memory Cards":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC
-* "Hotkeys":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Hotkeys
-* "Cheat Engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Cheat%20Engine
-* "Special Cheats – Automated Codes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special_cheats
-* "In-Game Reset":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR
-* "Multi-disc support feature":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi_disc
-* "BIOS & OSD Handler":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/BIOS%20OSD
-* "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode
+*6.  Features and settings*
+* "General note":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/general-note
+* "Virtual memory cards"https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vmc
+* "Hotkeys":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hotkeys
+* "Cheat engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cheat-engine
+* "Special cheats":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special-cheats
+* "In-Game-Reset":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/igr
+* "Swap disc feature":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi-disc
+* "BIOS & OSD Handler":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/bios-osd-handlers
+* "Debug mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode
 * "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/uLE_kHn
-* "Advanced Settings":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table
+* "Advanced Settings":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table
 
 *7. Help*
-* "POPStarter Help":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Help
-* "FAQ":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/FAQs%20
-* "Known bugs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Known%20bugs
+* "POPStarter Help":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/help
+* "FAQ":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/faqs
+* "Known bugs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/known-bugs
 
 *8. About POPStarter & POPS*
-* "POPStarter changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Changelog
-* "Toolbox/CUE2POPS changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/CUE2POPS_Toolbox%20changelogs
-* "POPS' History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/History
+* "POPStarter changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-changelog
+* "Toolbox/CUE2POPS changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cue2pops-and-toolbox-changelogs
+* "POPS' History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/history
 
 "*9. Downloads*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads
-* "Apps last version – download links":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last
+* "Apps last version – download links":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version
 
 "*10. Related stuff...*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
 
-* "Softwares":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff 
-* "Threads – POPStarter around the web":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
-* "Guides/informations :":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Guides 
+* "Softwares":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff
+* "Threads – POPStarter around the web":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff
+* Guides/informations :
 
-.......... [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell .
-.......... [HDD] "Transfer VCD files over network using RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/RadHostClient .
-.......... [COMPATIBILITY] "Troubleshooting games":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Troubleshooting%20games
-.......... [VMC] "Use your PS1 MC saves with POPStarter":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/PS1%20MC%20saves%20to%20VMC 
-.......... [VMC] "Use your VMC saves on a PS1 retail console":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC%20to%20PS1%20MC%20 
-.......... [IGR] "Make your own IGR textures":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/IGR%20textures
-.......... [SPECIAL DEVICE] "Use your [special device] with POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Special%20devices
-.......... [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/WS%20codes
-.......... [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter_batcher
+.......... [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/pfsshell .
+.......... [HDD] "Transfer VCD files over network using RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/radHostClient .
+.......... [COMPATIBILITY] "Troubleshooting games":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/troubleshooting-games
+.......... [VMC] "Use your PS1 MC saves with POPStarter":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/pmc-to-vmc
+.......... [VMC] "Use your VMC saves on a PS1 retail console":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vmc-to-pmc
+.......... [IGR] "Make your own IGR textures":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/igr-textures
+.......... [SPECIAL DEVICE] "Use your [special device] with POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-special-devices
+.......... [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-widescreen-codes
+.......... [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-batcher
 
 
 
@@ -148,7 +148,7 @@ ________________________________________________________________________________
 
 h2. _Need help ?_ 
 
-Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/. Be sure to run POPStarter in "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Debug%20Mode before.
+Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/. Be sure to run POPStarter in "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode before.
 
 
 ______________________________________________________________________________________________________________
