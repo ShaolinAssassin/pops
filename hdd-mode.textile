@@ -15,11 +15,11 @@ To use POPStarter with an internal HDD, you have to find and download the POPS d
 
 h2. _Other Software Requirements :_
 
-* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last )
-* A software that allows you to manage/create partitions in your PS2 HDD (such as AKuHAK's uLaunchELF build or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last)
-* A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as AKuHAK's uLaunchELF build or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last)
-* A software that allows you to transfer the converted disc images to your PS2 HDD (such as "PFSshell":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell, or "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last and "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/RadHostClient...)
-* A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/...) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last )
+* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
+* A software that allows you to manage/create partitions in your PS2 HDD (such as "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
+* A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
+* A software that allows you to transfer the converted disc images to your PS2 HDD (such as "PFSshell":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/pfsshell, or "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version and "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/radhostclient...)
+* A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/...) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version )
 
 h2. _Hardware Requirements :_
 
@@ -40,11 +40,11 @@ h2. _B) Installing your PS1 Games :_
 # Convert your BIN/CUE disc images to .VCD files using the latest stable version of Toolbox;
 # Create a partition named "__.POPS" in your PS2 HDD, large enough so you can put all your VCDs inside.
 
-* *Note :* +__.POPS is not correct. Use AKuHAK's uLaunchELF build or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20150727.zip to create partition without +.
+* *Note :* +__.POPS is not correct. Use AKuHAK's uLaunchELF build or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version to create a partition without +.
 
 h2. _C) Installing POPStarter :_ 
 
-# Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension;[example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "Gran Turismo.elf"]
+# Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension [example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "Gran Turismo.elf"] ;
 # Copy or leave the ELFs where you want to run them from.
 
 
@@ -79,7 +79,7 @@ ________________________________________________________________________________
 
 h2. _POPSTARTER.KELF :_ 
 
-POPStarter bundle comes with a POPSTARTER.KELF (Krypo-ELF = ELF embedded into a container). It can be used if you have the Browser 2.00 (aka HDDOSD) installed on your HDD. Otherwise, it's useless. Use "AKuHAK's hdl_dumx":https://bitbucket.org/AKuHAK/hdl-dump/downloads to install it.
+POPStarter bundle comes with a POPSTARTER.KELF (Krypo-ELF = ELF embedded into a container). It can be used if you have the Browser 2.00 (aka HDDOSD) installed on your HDD. Otherwise, it's useless. Use "AKuHAK's hdl_dumx":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff to install it.
 
 *Notes if you use the POPStarter.KELF :* 
 * Partition name prefix is of course PP. (PPdot)
@@ -126,9 +126,9 @@ h2. _Related stuff :_
 
 You may want to give a look at this : 
 
-* [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter_batcher
-* [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Pfsshell 
-* [HDD] "Transfer VCD files over network using RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/RadHostClient
+* [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-batcher
+* [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/pfsshell 
+* [HDD] "Transfer VCD files over network using RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/radhostclient
 
 
 ______________________________________________________________________________________________________________
