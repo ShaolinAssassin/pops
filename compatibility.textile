@@ -36,10 +36,8 @@ These compatibility lists are managed by AlGollan84 (aka Algol aka Allan58) and 
 * *EOL Compatibility List* (managed by El_Patas) : "here":http://www.el_patas.byethost10.com/pops/pops0-9.html
 
 * *Old Compatibility Lists* (outdated & locked, for history) : 
-
-POPStarter Rev 12 : "here":https://docs.google.com/spreadsheet/ccc?key=0As_WFUFvrRw5dE5fWEU1TTlscW9XMUtuTE12aU04d3c#gid=0
-
-POPS-00001 : "here":https://docs.google.com/spreadsheets/d/1OKjHsF2sk3LH6X9NiELvbK7fEkXnOyG3zidDjUvNRUk/edit#gid=0
+- POPStarter Rev 12 : "here":https://docs.google.com/spreadsheet/ccc?key=0As_WFUFvrRw5dE5fWEU1TTlscW9XMUtuTE12aU04d3c#gid=0
+- POPS-00001 : "here":https://docs.google.com/spreadsheets/d/1OKjHsF2sk3LH6X9NiELvbK7fEkXnOyG3zidDjUvNRUk/edit#gid=0
 
 ______________________________________________________________________________________________________________
 
@@ -61,11 +59,11 @@ If your game is poorly emulated, you can try to enable a "compatibility mode":ht
 *How to use a mode ?*
 
 3 options : 
-# Using a PATCH_X.BIN file;
+# Using a PATCH_X.BIN file from the compatibility mode archive;
 # Using a CHEATS.TXT file;
-# Hardcoding the mode into POPStarter (see "configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table).
+# Hardcoding the mode into POPStarter (see "POPStarter configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table).
 
-*Using "PATCH_X.BIN file":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Compatibility_Modes_07252016.7z*
+*Using a PATCH_X.BIN file*
 Copy the PATCH file in the VMC directory of your problematic game then test the game;
 If the compatibility mode doesn't solve any problem in your game, delete the PATCH file from the VMC directory and redo the operations with the next PATCH file.
 
@@ -130,7 +128,7 @@ ________________________________________________________________________________
 
 h2. _Automated fixes :_ 
 
-"Here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Automated is the list of all the LC Cracks, crash fixes & compatibility modes integrated into POPStarter.
+"Here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated is the list of all the LC cracks, crash fixes & compatibility modes integrated into POPStarter.
 
 ______________________________________________________________________________________________________________
 
@@ -138,8 +136,8 @@ h2. _Related stuff :_
 
 You may want to give a look at this : 
 
-* [COMPATIBILITY] "Troubleshooting games":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Troubleshooting%20games
+* [COMPATIBILITY] "Troubleshooting games":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/troubleshooting-games
 
 ______________________________________________________________________________________________________________
 
-h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
