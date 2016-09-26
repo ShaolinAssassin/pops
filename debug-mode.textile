@@ -21,7 +21,7 @@ To enable POPStarter Debug Mode :
 
 *Advanced users :*
 
-Hexedit manually POPStarter.ELF. See POPStarter Configuration Table "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/POPStarter%20Configuration%20Table to know what to change.
+Hexedit manually POPStarter.ELF. See POPStarter Configuration Table "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table to know what to change.
 
 Note what the debug message said and ask/report it @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/ if you need more help.
 
