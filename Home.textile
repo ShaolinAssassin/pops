@@ -106,13 +106,14 @@ h2. _Wiki Table of content :_
 * "Special Cheats":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special-cheats
 * "In-Game-Reset":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/igr
 * "Swap Disc Feature":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi-disc
-* "BIOS & OSD Handler":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/bios-osd-handlers
+* "BIOS & OSD Handlers":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/bios-osd-handlers
 * "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode
 * "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/uLE_kHn
 * "Advanced Settings":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table
 
 *7. Help*
 * "POPStarter Help":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/help
+* "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode
 * "FAQs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/faqs
 * "Known Bugs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/known-bugs
 
