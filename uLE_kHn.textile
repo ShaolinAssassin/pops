@@ -13,15 +13,15 @@ It has 2 main features :
 
 * Same as WIP7, it can create HDD partitions with no "+" symbol at start - to create the __.POPS/ partition.
 
-* It can launch your VCDs directly. Do not rename & copy POPStarter.ELF, just keep one version in your POPS directory. 
+* It can launch your VCDs directly so you don't have to rename your POPStarter.ELF file. Just place a copy of POPStarter.ELF in your POPS directory and you're done. 
 
 Ex.
 
 pre. 
 === USB DEVICE, NEW LAUNCH TYPE ===
-POPS/POPS_IOP.PAK
-POPS/Crash Bandicoot.VCD
-POPSTARTER.ELF
+mass:/POPS/POPS_IOP.PAK
+mass:/POPS/Crash Bandicoot.VCD
+mass:/POPS/POPSTARTER.ELF
 
 *Note :* 
 * SMB not supported ATM.
@@ -31,15 +31,10 @@ ________________________________________________________________________________
 
 h2. _Changelog :_ 
 
-
-
 * *uLE_kHn_20160723* = this will be the "last one":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-93#post-908556 distributed by kHn. 
-
 
 pre. 
 Not documented. Minor changes mentionned here :http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-86#post-895756
-
-
 
 * *uLE_kHn_20150727*
 
@@ -50,21 +45,16 @@ pre.
 - The stub of the packed ELF is a clone of the POPStarter r13 payload.
 Side note : compiled the same day as POPStarter r13 WIP 06 open beta 6
 
-
 * *uLE_kHn_20150602*
 
 pre. 
 - Fixed : Red screen of death in the PSX after selecting MISC/PS2Browser
 - MISC/PS2Browser does not skip the HDD and the MC when uLE has not been run from the MBR
 
-
 * *uLE_kHn_20150506*
 
 pre. 
 - Fixed : Cannot launch ELFs/VCDs on slims and fats that don't have a HDD
-
-
-
 
 ______________________________________________________________________________________________________________
 
