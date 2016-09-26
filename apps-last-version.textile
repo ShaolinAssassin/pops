@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 * *POPStarter (stable version)* : rev 13, WIP 05 (2015/06/03) : "here":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_05.zip.
 
-* *POPS2CUE * : v1.0 : included in POPStarter rev 13, WIP 06, OBT 15 bundle.
+* *POPS2CUE* : v1.0 : included in POPStarter rev 13, WIP 06, OBT 15 bundle.
 
 * *uLE_kHn* : uLE_kHn_20160723 : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/uLE_kHn_20160723.7z.
 
