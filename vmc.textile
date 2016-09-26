@@ -6,10 +6,6 @@ ________________________________________________________________________________
 
 !https://bitbucket.org/repo/Mpy7Eg/images/1241696584-default_VMC.JPG(title)!
 
-
-
-
-
 h2. _About VMC :_ 
 
 When you launch a game for the very first time, a new folder named "Nameofyourgame.VCD" will be created into your POPS directory (one separate directory for each game). It has 2 files (SLOT0.VMC & SLOT1.VMC), which are you VMC. 
@@ -27,6 +23,15 @@ Let's say your game is MY_GAME.VCD. The VMCs are saved to /POPS/MY_GAME/. You wa
 # Save it as VMCDIR.TXT;
 # Copy VMCDIR.TXT to /POPS/MY_GAME/
 
+Example :
+
+pre. 
+mass:/POPS/MY_GAME.VCD
+mass:/POPS/MY_GAME/VMCDIR.TXT
+mass:/POPS/BLAHBLAH/SLOT0.VMC
+mass:/POPS/BLAHBLAH/SLOT1.VMC
+
+
 *Notes :* 
 *  All the POPStarter files (TROJANs, PATCHes, CHEATS.TXT...) will still be loaded from /POPS/MY_GAME/, but POPS will use the VMCs that are in /POPS/BLAHBLAH/
 * Characters that are obviously not allowed are / \ and :
@@ -35,7 +40,19 @@ Let's say your game is MY_GAME.VCD. The VMCs are saved to /POPS/MY_GAME/. You wa
 * This feature is useful when you are several users and want to use different VMCs. Each user can have his own VMC folder.
 * If you want to use a single pair of VMCs for ALL your games, place the VMCDIR.TXT file in POPS folder. The VMCs will not be overwritten but mounted and loaded, and you will be able to save in them with no data loss.
 
+Example :
 
+pre. 
+smb:/YourSharedFolder/POPS/Crash Bandicoot.VCD
+smb:/YourSharedFolder/POPS/Tekken.VCD
+smb:/YourSharedFolder/POPS/Castlevania - Symphony of the night.VCD
+smb:/YourSharedFolder/POPS/VMCDIR.TXT
+smb:/YourSharedFolder/POPS/SAVES/SLOT0.VMC
+smb:/YourSharedFolder/POPS/SAVES/SLOT1.VMC
+
+with SAVES written into smb:/YourSharedFolder/POPS/VMCDIR.TXT
+
+Here the 3 games mentionned will use smb:/YourSharedFolder/POPS/SAVES/SLOT0.VMC and smb:/YourSharedFolder/POPS/SAVES/SLOT1.VMC as VMC with no issue.
 
 ______________________________________________________________________________________________________________
 
