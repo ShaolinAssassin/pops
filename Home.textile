@@ -80,15 +80,15 @@ h2. _Wiki Table of content :_
 
 
 
-"*1.  Convert your PS1 games to VCD format*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VCD
+*1.  Convert your PS1 games to VCD format*
 * "VCD creation":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VCD
-* "Toolbox commands (advanced)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Toolbox%20commands
+* "Toolbox commands (advanced)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/toolbox-commands
 
-"*2.  POPStarter for internal HDD*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/HDD%20mode
+"*2.  POPStarter for internal HDD*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
 
-"*3.  POPStarter for USB device storage type*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/USB%20mode
+"*3.  POPStarter for USB device storage type*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 
-"*4.  POPStarter for SMB*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/SMB%20mode
+"*4.  POPStarter for SMB*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
 
 "*5.  Game Compatibility*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
 * "Compatibility rates":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Game%20Compatibility
