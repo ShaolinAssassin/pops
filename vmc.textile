@@ -33,6 +33,9 @@ Let's say your game is MY_GAME.VCD. The VMCs are saved to /POPS/MY_GAME/. You wa
 * VMCDIR.TXT will not be loaded if it's bigger than 103 bytes or if it contains more than 1 line.
 * Target folder must remain in POPS folder.
 * This feature is useful when you are several users and want to use different VMCs. Each user can have his own VMC folder.
+* If you want to use a single pair of VMCs for ALL your games, place the VMCDIR.TXT file in POPS folder. The VMCs will not be overwritten but mounted and loaded, and you will be able to save in them with no data loss.
+
+
 
 ______________________________________________________________________________________________________________
 
