@@ -10,9 +10,7 @@ h2. _Few words :_
 uLE_kHn is a modified version of AkuHaK's uLE 4.42e HDD edition ("WIP7":http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/#post261143)
 
 It has 2 main features : 
-
 * Same as WIP7, it can create HDD partitions with no "+" symbol at start - to create the __.POPS/ partition.
-
 * It can launch your VCDs directly so you don't have to rename your POPStarter.ELF files. Just place a copy of POPStarter.ELF in your POPS directory and you're done. 
 
 Ex.
@@ -25,7 +23,6 @@ mass:/POPS/POPSTARTER.ELF
 
 *Note :* 
 * SMB not supported ATM.
-
 
 ______________________________________________________________________________________________________________
 
