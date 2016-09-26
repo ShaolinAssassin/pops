@@ -32,7 +32,7 @@ For use with a PS2 cheat device (ps2rd, codebreaker, Cheat device...) :
 pre. 
 902377F4 0C0902EF
 
-Massive PS1 codes list in PS2 RAW format - ready-to-use - can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/PS1%20codes%20in%20PS2%20RAW. 
+Massive PS1 codes list in PS2 RAW format - ready-to-use - can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-codes-in-ps2-raw-format. 
 
 ______________________________________________________________________________________________________________
 
@@ -40,10 +40,10 @@ h2. _Related stuff :_
 
 You may want to give a look at this : 
 
-* "Special Cheats – Automated Codes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special_cheats
-* [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/WS%20codes
+* "Special Cheats – Automated Codes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special-cheats.
+* [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-widescreen-codes.
 
 
 ______________________________________________________________________________________________________________
 
-h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
