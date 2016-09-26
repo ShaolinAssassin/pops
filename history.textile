@@ -14,6 +14,7 @@ The emulator has no official name, it was named "POPS" because that string were 
 * "Chronology – from SLBB-00001 to POPStarter":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/chronology
 * "POC1 demonstration":https://www.youtube.com/watch?v=Afvq_-HXuBo&feature=youtu.be
 * "POC2/POPS-00001 era":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/poc2-pops-00001-era
+* "POPStarter Rev 7":https://www.youtube.com/watch?v=_cTPkU37Scw
 * "POPStarter Rev 9":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter9
 * "POPStarter Rev 10":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter10
 * "POPStarter Rev 11":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter11
