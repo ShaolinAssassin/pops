@@ -61,17 +61,16 @@ h2. _Features :_
 
 * "PSX DVR":https://en.wikipedia.org/wiki/PSX_%28video_game_console%29 support
 * HDD, USB & SMB support
-* High compatibility rate (around 75%/80%)
+* High compatibility rate (around 75%-80%)
 * CDDA tracks support
 * VMC support
-* Automatic PAL patcher for PAL games
 * Embedded cheat engine
 * In-Game-Reset support
+* Automatic PAL patcher for PAL games
 * 480p support (NOT reliable ATM)
 * Multi-disc support
-* BIOS & OSD handlers
 * Analog and vibration support
- 
+* BIOS & OSD handlers 
 
 
  
@@ -149,7 +148,7 @@ ________________________________________________________________________________
 
 h2. _Need help ?_ 
 
-Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/. Be sure to run POPStarter in "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug_mode before.
+Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/. Be sure to run POPStarter in "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Debug%Mode before.
 
 
 ______________________________________________________________________________________________________________
