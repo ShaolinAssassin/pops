@@ -14,6 +14,8 @@ h2. _Links to some softwares you may need :_
 * ps2rd GUI : "here":http://wescastro.com/
 * MemcardRex : "here":http://shendosoft.blogspot.fr/
 * OSD.BIN Maker.rar : "here":http://www.4shared.com/rar/OgrMnnU_ba
+* AKuHAK’s uLaunchELF (WIP7) : "here":http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/
+* uLaunchELF 4.42d : "here":http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/
 
 ______________________________________________________________________________________________________________
 
