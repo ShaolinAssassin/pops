@@ -113,7 +113,7 @@ h2. _Wiki Table of content :_
 
 *7. Help*
 * "POPStarter Help":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/help
-* "FAQ":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/faqs
+* "FAQs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/faqs
 * "Known Bugs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/known-bugs
 
 *8. About POPStarter & POPS*
@@ -124,8 +124,7 @@ h2. _Wiki Table of content :_
 "*9. Downloads*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads
 * "Apps Last Version – Download Links":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version
 
-"*10. Related Stuff...*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Related%20Stuff
-
+*10. Related Stuff...*
 * "Softwares":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff
 * "Threads – POPStarter around the Web":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff
 * Guides/informations :
