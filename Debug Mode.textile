@@ -1,9 +1,9 @@
-h1. *POPStarter debug mode*
+h1. *POPStarter Debug Mode*
 
 
 ______________________________________________________________________________________________________________
 
-POPStarter has an embedded debug mode. It's ON by default in SMB mode (and it can't be turn OFF in this mode) and it can be turn ON in HDD and USB mode. 
+POPStarter has an embedded Debug Mode. It's ON by default in SMB mode (and it can't be turn OFF in this mode) and it can be turn ON in HDD and USB modes. 
 
 To enable POPStarter Debug Mode : 
 
@@ -13,7 +13,7 @@ To enable POPStarter Debug Mode :
 
 # Launch PPF-O-Matic ;
 # Click on "Load CD Image file" (first floppy icon) ;
-# Change File type from "CD Image file" to "All files" ;
+# Change file type from "CD Image file" to "All files" ;
 # Browse to POPStarter.ELF location and select it ;
 # Click on "Load PPF file" (second floppy icon) ;
 # Browse to DEBUG_AND_HALT.PPF location and select it ;
