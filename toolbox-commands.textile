@@ -2,7 +2,7 @@ h1. *Toolbox commands*
 
 
 ______________________________________________________________________________________________________________
-_["ToolBox":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps_last Version 1.0]_
+_["ToolBox":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version Version 1.0]_
 
 h2. _List of Toolbox commands :_
 
