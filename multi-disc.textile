@@ -58,7 +58,7 @@ MGS_CD2.VCD
 
 *Notes :* 
 * Keep in mind that the change disc feature is useful only if you must swap discs *without any PS1 reboot*. For the other games, you only need to swap the VMCs manually (copy/paste VMCs from VMC disc 1 folder to VMC disc 2 folder) - or you can use the "trick" below to avoid such a manipulation.
-* If your disc has more than 4 discs, install the forth frst ones, playthem until disc 4, then uninstall discs 1, 2 and 3, and install disc 5, 6, 7...
+* If your disc has more than 4 discs, install the forth first ones, play them until disc 4, then uninstall discs 1, 2 and 3, and install disc 5, 6, 7...
 
 
 ______________________________________________________________________________________________________________
@@ -66,7 +66,7 @@ ________________________________________________________________________________
 
 h2. _Use a single pair of VMCs for multi-disc games :_
 
-You can use the VMCDIR.TXT file to use only 1 pair of VMCs for a multi-disc game. This VMCDIR.TXT must be placed into disc 1 and disc 2 VMC folders. Read "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/VMC to know more about the VMCDIR.TXT file ("Setting a path for the VMC folder" section).
+You can use the VMCDIR.TXT file to use only 1 pair of VMCs for a multi-disc game. This VMCDIR.TXT must be placed into disc 1 and disc 2 VMC folders. Read "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vmc to know more about the VMCDIR.TXT file ("Setting a path for the VMC folder" section).
 
 *Example :*
 
