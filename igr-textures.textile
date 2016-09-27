@@ -11,12 +11,12 @@ h2. _Software Requirements :_
 * A TIM2 editor, such as OPTPiX iMageStudio;
 * A hex editor, such as "HxD":https://mh-nexus.de/en/hxd/. 
 
-Sample files : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_sample_kit_04272016.7z 
+Sample files : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_sample_kit.7z. 
 
 Included : 
 . PSD file with guidelines
-. 3 images files, as .bmp
-. 3 images files, as .TM2
+. 3 image files, as .bmp
+. 3 image files, as .TM2
 . static & animated previews
 . IGR replacement, compiled as PATCH1.BIN file.
 
