@@ -45,8 +45,8 @@ Some IGR textures made by the guys @"ASSEMbler":http://assemblergames.com/l/thre
 | !https://bitbucket.org/repo/Mpy7Eg/images/318670110-PS2%20v3.png(title)! | arkl1t32 | - | X | X | - | X | - | - |
 | !https://bitbucket.org/repo/Mpy7Eg/images/2565677352-XMB%20v1.png(title)! | arkl1t32 | X | X | X | - | X | X | - |
 | !https://bitbucket.org/repo/Mpy7Eg/images/538222967-XMB%20v2.png(title)! | arkl1t32 | - | X | X | - | X | - | - |
-| !https://bitbucket.org/repo/Mpy7Eg/images/2807855345-preview_en.png(title)! | gledson99 | - | X | X | - | - | X | - |
-| !https://bitbucket.org/repo/Mpy7Eg/images/3600508499-preview_sp.png(title)! | El_Patas (mod of gledson99's) | - | X | - | - | X | - | - |
+| !https://bitbucket.org/repo/Mpy7Eg/images/2807855345-preview_en.png(title)! | gledson999 | - | X | X | - | - | X | - |
+| !https://bitbucket.org/repo/Mpy7Eg/images/3600508499-preview_sp.png(title)! | El_Patas (mod of gledson999's) | - | X | - | - | X | - | - |
 | !http://assemblergames.com/l/attachments/review_igr_eng-gif! | LopoTRI| - | "X":http://www.mediafire.com/download/715t4yrd2iuewd9/IGR_LopoTRI_eng.zip | - | - | - | - | "X":http://www.mediafire.com/download/u2tdi123sd46ckf/IGR_LopoTRI_ger.zip |
 |  |  | *"Download":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR%20Textures%20-%20Chinese%20pack.7z* |*"Download":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR%20Textures%20-%20English%20pack.7z* | *"Download":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR%20Textures%20-%20French%20pack.7z* | *"Download":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR%20Textures%20-%20Spanish%20pack.7z* | *"Download":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR%20Textures%20-%20Polish%20pack.7z* | *"Download":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR%20Textures%20-%20Portuguese%20pack.7z* |
 
