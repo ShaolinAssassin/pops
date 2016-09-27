@@ -34,7 +34,7 @@ pre.
 
 Here, only /POPS/Crash Bandicoot/TROJAN2.BIN will be applied.
 
-* Only exception to this rule is when 2 CHEATS.TXT files are loaded from POPS and VMC game folder and that CHEATS.TXT file contains special cheats changing the video mode.
+* Only exception to this rule is when 2 CHEATS.TXT files are loaded from POPS and VMC game folder at the same time and that CHEATS.TXT file contains special cheats changing the video mode.
 
 pre. 
 /POPS/CHEATS.TXT with $480p written in it
