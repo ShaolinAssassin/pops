@@ -99,11 +99,11 @@ pre.
 
 
 pre. 
-1. Czy chcesz powrócić do glównego menu PlayStation®2?
-2. Ugawa, weszystkie niezapisane dane zostaną utracone!
+1. Czy chcesz powrócić do głównego menu PlayStation®2?
+2. Uwaga, wszystkie niezapisane dane zostaną utracone!
 3. Wciśnij O by potwierdzić, X by anulować.
-4. Reset
-5. Anuluj
+4. Tak
+5. Nie
 
 
 * *PORTUGUESE :* 
