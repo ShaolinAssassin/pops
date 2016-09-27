@@ -136,12 +136,4 @@ h2. _Additional notes :_
 
 ______________________________________________________________________________________________________________
 
-h2. _Related stuff :_ 
-
-You may want to give a look at this : 
-
-* [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-batcher
-
-______________________________________________________________________________________________________________
-
 h1. "*Home*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
