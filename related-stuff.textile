@@ -6,6 +6,7 @@ ________________________________________________________________________________
 h2. _Links to some softwares you may need :_ 
 
 * ImgBurn : "here":http://imgburn.com/
+* 7zip : "here":http://www.7-zip.org/
 * PFSshell 0.2a : "here":http://www.sksapps.com/hd/pfsshell-0.2a.zip
 * AKuHAK's reworked HDL_Dump : "here":https://bitbucket.org/AKuHAK/hdl-dump/downloads
 * Rad Host Client : "here":http://sksapps.com/media/RadHostClient.zip and "here":http://sksapps.com/media/RadHostClient.tgz
