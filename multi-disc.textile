@@ -15,6 +15,12 @@ DISCS.TXT line 2 = disc 2
 DISCS.TXT line 3 = disc 3
 DISCS.TXT line 4 = disc 4
 
+*Example :*
+
+pre. 
+Metal Gear Solid (Disc 1).VCD
+Metal Gear Solid (Disc 2).VCD
+
 
 2. Copy this DISCS.TXT file to the VMC folders of all your game discs ;
 3. When required by the game, open the lid using the hotkey ;
