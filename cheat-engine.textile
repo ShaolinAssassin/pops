@@ -8,6 +8,7 @@ h2. _Cheating :_
 
 Since WIP06 OBT 01, POPStarter has an embedded cheat engine :
 
+* codes will be stored into a txt file named CHEATS.TXT placed into the VMC game folder;
 * each code line has to start with the $ character;
 * each code line must have a space between the adress and the value;
 * PS1 RAW codes of types 30, 50, 80 and D0 are supported (Gameshark/Action Replay);
@@ -24,7 +25,7 @@ $800AC402 0800
 
 * Each game must have his own CHEATS.TXT file.
 * Some PS1 games need mastercodes otherwise they crash (ex : Air Race Championship). Only type C0 are supported. Mastercodes of type C1 (aka activation on delay time) are not and will not be supported.
-* You can enable a code for all your games if you place the CHEATS.TXT file in POPS folder instead of the VMC folder.
+* You can enable a code for all your games if you place the CHEATS.TXT file in POPS folder instead of the VMC game folder.
 
 
 ______________________________________________________________________________________________________________
@@ -39,7 +40,7 @@ pre.
 
 Massive PS1 codes list in PS2 RAW format - ready-to-use - can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-codes-in-ps2-raw-format. 
 
-To convert a PS1 code to PS2 RAW format,  add $01000000 to the adresses and comply with the code type definitions of the target PS2 cheat engine. For more info, check this "post":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-27#post-760915.
+To convert a PS1 code to PS2 RAW format,  add $01000000 to the adresses and comply with the code type definitions of the target PS2 cheat engine. For more info about how to convert codes, check this "post":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-27#post-760915.
 
 
 ______________________________________________________________________________________________________________
