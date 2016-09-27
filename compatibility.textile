@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 h2. _Compatibility modes :_ 
 
-If your game is poorly emulated, you can try to enable a "compatibility mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads to see if it helps.
+If your game is poorly emulated, you can try to enable a compatibility mode to see if it helps.
 
 | *Compatibility mode* | *Description* | *File Name* | *Cheat code* |
 | 0×01 | Help restoring the music/voices in several games | PATCH_1.BIN | $COMPATIBILITY_0x01 |
@@ -59,11 +59,11 @@ If your game is poorly emulated, you can try to enable a "compatibility mode":ht
 *How to use a mode ?*
 
 3 options : 
-# Using a PATCH_X.BIN file from the compatibility mode archive;
+# Using a PATCH_X.BIN file from the "compatibility mode archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Compatibility_Modes.zip;
 # Using a CHEATS.TXT file;
 # Hardcoding the mode into POPStarter (see "POPStarter configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table).
 
-*Using a PATCH_X.BIN file* : copy the PATCH file in the VMC directory of your problematic game then test the game;
+*Using a PATCH_X.BIN file* : get the "compatibility mode archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Compatibility_Modes.zip, copy the PATCH file in the VMC directory of your problematic game then test the game;
 If the compatibility mode doesn't solve any problem in your game, delete the PATCH file from the VMC directory and redo the operations with the next PATCH file.
 
 *Using CHEATS.TXT file* : see the "cheat engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cheat-engine section to know how to use it.
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 
 h2. _Game fixes (manual) :_ 
 
-In the "Game Fixes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Game%20Fixes.zip, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game.
+In the "Game Fixes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Game_Fixes.7z, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game.
 
 *List of game fixes :* 
 
@@ -126,7 +126,7 @@ ________________________________________________________________________________
 
 h2. _Automated fixes :_ 
 
-"Here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated is the list of all the LC cracks, crash fixes & compatibility modes integrated into POPStarter.
+A list of all the LC cracks, crash fixes & compatibility modes integrated into POPStarter can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated. You don't need to enable them/do something to get them enabled, as POPStarter will detect your game and apply the matching fix all by itself.
 
 ______________________________________________________________________________________________________________
 
