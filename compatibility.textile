@@ -72,7 +72,7 @@ ________________________________________________________________________________
 
 h2. _Game fixes (manual) :_ 
 
-In the "Game Fixes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Game_Fixes.7z, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game.
+In the "game fixes archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Game_Fixes.7z, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game.
 
 *List of game fixes :* 
 
