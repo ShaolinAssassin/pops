@@ -15,8 +15,8 @@ ________________________________________________________________________________
 
 h2. _Downloads :_  
 
-* *LATEST STABLE VERSION BUNDLE :* "POPStarter Revision 13, WIP 05 (2015/06/03)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_05.zip
-* *LATEST BETA VERSION BUNDLE :* "POPStarter Revision 13, WIP 06, OBT 15 (2016/09/18)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_06_OBT_20160918.zip
+* *LATEST STABLE VERSION BUNDLE :* "POPStarter Revision 13, WIP 05 (2015/06/03)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_WIP_05.7z
+* *LATEST BETA VERSION BUNDLE :* "POPStarter Revision 13, WIP 06, OBT 15 (2016/09/18)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_WIP_06_OBT_20160723_OBT15.7z
 
 _Changelog [WIP 06, OBT 15]_
 
