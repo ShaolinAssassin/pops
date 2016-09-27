@@ -46,13 +46,13 @@ h2. _Compatibility modes :_
 If your game is poorly emulated, you can try to enable a compatibility mode to see if it helps.
 
 | *Compatibility mode* | *Description* | *File Name* | *Cheat code* |
-| 0×01 | Help restoring the music/voices in several games | PATCH_1.BIN | $COMPATIBILITY_0x01 |
-| 0x02 | A variant of mode 0×01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series) | PATCH_2.BIN | $COMPATIBILITY_0x02 |
-| 0x03 | Can be used if the mode 0×01 doesn’t provide the expected results | PATCH_3.BIN | $COMPATIBILITY_0x03 |
-| 0x04 | Fixes slowdowns, flickering, and many other glitches (prevent the emulator from writing a garbage value in two of the virtual GPU registers) | PATCH_4.BIN | $COMPATIBILITY_0x04 |
-| 0x05 | Made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut | PATCH_5.BIN | $COMPATIBILITY_0x05 |
+| 0×01 | Help restoring the music/voices in several games. | PATCH_1.BIN | $COMPATIBILITY_0x01 |
+| 0x02 | A variant of mode 0×01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series). | PATCH_2.BIN | $COMPATIBILITY_0x02 |
+| 0x03 | Can be used if the mode 0×01 doesn’t provide the expected results. | PATCH_3.BIN | $COMPATIBILITY_0x03 |
+| 0x04 | Fixes slowdowns, flickering, and many other glitches (prevent the emulator from writing a garbage value in two of the virtual GPU registers). | PATCH_4.BIN | $COMPATIBILITY_0x04 |
+| 0x05 | Made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut. | PATCH_5.BIN | $COMPATIBILITY_0x05 |
 | 0x06 | Disable the OSD shell of the emulator’s built-in BIOS, making some games that freeze on startup run. | PATCH_6.BIN | $COMPATIBILITY_0x06 |
-| 0x07 | fixes the missing textures problems (example : "Tomb Raider III":https://www.youtube.com/watch?v=3LmGlgY_rNs&feature=youtu.be ) | PATCH_7.BIN | $COMPATIBILITY_0x07 |
+| 0x07 | Fixe the missing textures problems (example : "Tomb Raider III":https://www.youtube.com/watch?v=3LmGlgY_rNs&feature=youtu.be ). | PATCH_7.BIN | $COMPATIBILITY_0x07 |
 
 *Caution :* Modes 0x01, 0x02, 0x03 and 0x05 cannot be enabled in the same time or combined. These are variants of the same hack and they are conflicting, so use only use one of them at a time. Please let us know (at ASSEMblergames) if you managed to solve a problem in your game by forcing modes, so I could integrate the fix in POPStarter.
 
@@ -63,7 +63,7 @@ If your game is poorly emulated, you can try to enable a compatibility mode to s
 # Using a CHEATS.TXT file;
 # Hardcoding the mode into POPStarter (see "POPStarter configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table).
 
-*Using a PATCH_X.BIN file* : get the "compatibility mode archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Compatibility_Modes.zip, copy the PATCH file in the VMC directory of your problematic game then test the game;
+*Using a PATCH_X.BIN file* : get the "compatibility mode archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Compatibility_Modes.7z, copy the PATCH file in the VMC directory of your problematic game then test the game;
 If the compatibility mode doesn't solve any problem in your game, delete the PATCH file from the VMC directory and redo the operations with the next PATCH file.
 
 *Using CHEATS.TXT file* : see the "cheat engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cheat-engine section to know how to use it.
