@@ -125,7 +125,6 @@ h2. _Related stuff :_
 
 You may want to give a look at this : 
 
-* [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-batcher
 * [HDD] "Transfer VCD files using PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/pfsshell 
 * [HDD] "Transfer VCD files over network using RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/radhostclient
 
