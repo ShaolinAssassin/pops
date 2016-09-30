@@ -75,9 +75,9 @@ exit
 
 h3. _*Transfer several VCD at once :*_   
 
-_[Original tutorial by ElPatas]_ "@elotrolado":http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054
+_[Original tutorial by ElPatas]_ "@elotrolado":http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054 & _[.bats thanks to "deba5er":http://psx-scene.com/forums/members/deba5er/ ]
 
-1. Get "pfs.bat":http://www.4shared.com/rar/8kqUGnmoce/PFSshell_02a.html file and place it in pfsshell folder. 
+1. Get "pfs.bat":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/pfs-scripts.7z files and place it in pfsshell folder. 
 
 2. Open command prompt, then type "cmd".
 
