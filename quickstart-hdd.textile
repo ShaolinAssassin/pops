@@ -26,7 +26,7 @@ Quickstarter pack for USB : *"download": link *
 
 *5.* Transfer your .VCDs into __.POPS partition. The recommended method is using RadHostClient. See "here": about how to use it. 
 
-*5.* Rename POPStarter.ELF to Name of your game.ELF (example : Crash Bandicoot.elf) and copy/paste it into __.POPS partition.. The names of your ELF and the name of your VCD must be the same - it's case sensitive. 
+*6.* Rename POPStarter.ELF to Name of your game.ELF (example : Crash Bandicoot.elf) and copy/paste it into __.POPS partition.. The names of your ELF and the name of your VCD must be the same - it's case sensitive. 
 
 Incorrect : 
 
@@ -41,7 +41,7 @@ CRASH BANDICOOT.ELF
 CRASH BANDICOOT.VCD
 
 
-*6.* Your setup must look like this : 
+*7.* Your setup must look like this : 
 
 pre. 
 hdd:/__common/POPS/IOPRP252.IMG
@@ -49,7 +49,7 @@ hdd:/__common/POPS/POPS.ELF
 hdd:/__.POPS/Crash Bandicoot.VCD
 hdd:/__.POPS/Crash Bandicoot.elf
 
-*7.* Run Name of your game.ELF with uLE and enjoy.
+*8.* Run Name of your game.ELF with uLE and enjoy.
 
 
 ______________________________________________________________________________________________________________
