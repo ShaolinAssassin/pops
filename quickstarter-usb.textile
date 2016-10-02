@@ -1,11 +1,11 @@
 h1. *Quick-starter guide for USB :*
 ______________________________________________________________________________________________________________
 
-This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don't need it. 
+This is a *step-by-step basic guide* for new POPStarter users. If you are already familiar with POPStarter, you don't need it. 
 
-Quickstarter pack includes last POPStarter STABLE version [Rev 13 - WIP5] - recommended version for new POPStarter users. Once you consider yourself comfortable enough with this version, you can upgrade to the last beta and enjoy/experiment the last features - or wait for the next stable version - it's up to you.
+Quickstarter pack includes *last POPStarter STABLE version [Rev 13 - WIP5]* - recommended version for new POPStarter users. Once you consider yourself comfortable enough with this version, you can upgrade to the last beta and enjoy/experiment the last features - or wait for the next stable version - it's up to you.
 
-Quickstarter pack includes the necessary files to setup POPStarter correctly, and nothing more. 
+Quickstarter pack includes the *necessary files to setup POPStarter correctly, and nothing more*. 
 
 Quickstarter pack for USB : *"download": link *
 
@@ -15,17 +15,17 @@ Quickstarter pack for USB : *"download": link *
 
 0. Download quickstarter pack and extract it on your desktop ; 
 
-1. Create a folder named "POPS" in the root of your USB drive ;
+1. Create a folder named "*POPS*" (without "") in the *root of your USB drive* ;
  
-2. Find and download "POPS_IOX.PAK" file (google it, I can't/won't give it to you) and copy it into POPS folder ;
+2. Find and download "*POPS_IOX.PAK*" file (google it, I can't/won't give it to you) and copy it into POPS folder ;
 
-3. POPStarter/POPS doesn't support PS1 games images as .iso - but only as .VCD. First convert your PS1 games to .bin/.cue (using "ImgBurn":http://imgburn.com/ for example). Then copy your .bin/.cue into CUE2POPS folder (from quickstarter pack), and run the file named BULK_CUE2POPS.BAT. You can convert several games at once using BULK_CUE2POPS.BAT.
+3. POPStarter/POPS doesn't support PS1 games images as .iso - but *only as .VCD*. First convert your PS1 games to *.bin/.cue* (using "ImgBurn":http://imgburn.com/ for example). Then copy your .bin/.cue into CUE2POPS folder (from quickstarter pack), and *run the file named BULK_CUE2POPS.BAT*. You can convert several games at once using BULK_CUE2POPS.BAT.
 
-4. Copy your .VCD into "POPS" folder on your USB device ;
+4. *Copy your .VCD into "POPS" folder* on your USB device ;
 
-5. Rename POPStarter.ELF to *XX.*Name of your game.ELF ;
+5. *Rename POPStarter.ELF to *XX.*Name of your game.ELF* ;
 
-6. Your setup should look like this : 
+6. Your setup must look like this : 
 
 pre. 
 mass:/POPS/POPS_IOP.PAK
