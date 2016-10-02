@@ -72,8 +72,20 @@ h2. _Features :_
 * Analog and vibration support
 * BIOS & OSD handlers 
 
+______________________________________________________________________________________________________________
 
- 
+h2. _Quickstart guides :_ 
+
+Since this documentation is growing - a lot - as POPStarter is developped, I felt that new users could be over either too bored to read the whole documentation or overwhelmed by too much informations at the same time. So I wrote 2 quickstart guides, whose explain how to set-up POPStarter quickly.
+
+These guide use last POPStarter *STABLE* version [Rev 13, WIP 05] - so there is not quickstart guide for SMB (until the next stable version).
+
+"* Quickstart guide for internal HDD*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-hdd
+
+"* Quickstart guide for USB device*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-usb
+
+
+
 ______________________________________________________________________________________________________________
 
 h2. _Wiki Table of content :_ 
