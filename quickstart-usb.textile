@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 This is a *step-by-step basic guide* for new POPStarter users. If you are already familiar with POPStarter, you don't need it. 
 
-Quickstarter pack includes *last POPStarter STABLE version [Rev 13 - WIP5]* - recommended version for new POPStarter users. Once you consider yourself comfortable enough with this version, you can upgrade to the last beta and enjoy/experiment the last features - or wait for the next stable version - it's up to you.
+Quickstarter pack includes *POPStarter last STABLE version [Rev 13 - WIP5]* - recommended version for new POPStarter users. Once you consider yourself comfortable enough with this version, you can upgrade to the last beta and enjoy/experiment the last features - or wait for the next stable version - it's up to you.
 
 Quickstarter pack includes the *necessary files to setup POPStarter correctly, and nothing more*. 
 
@@ -24,7 +24,7 @@ Quickstarter pack for USB : *"download": link *
 
 *4.* Copy your .VCD into "POPS" folder on your USB device ;
 
-*5.* Rename POPStarter.ELF to XX.Name of your game.ELF (example : XX.Crash Bandicoot.elf). The names of your ELF and the name of your VCD must be the same - it's case sensitive.
+*5.* Rename POPStarter.ELF to XX.Name of your game.ELF (example : XX.Crash Bandicoot.ELF). The name of your ELF and the name of your VCD must be the same - it's case sensitive.
 
 Incorrect : 
 
