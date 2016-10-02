@@ -8,7 +8,7 @@ Quickstarter pack includes *POPStarter last STABLE version [Rev 13 - WIP5]* - re
 
 Quickstarter pack includes the *necessary files to setup POPStarter correctly, and nothing more*. 
 
-*Quickstarter pack for HDD* : "download:https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_Quickstarter_Pack_HDD_20161002.7z
+*Quickstarter pack for HDD* : "download":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_Quickstarter_Pack_HDD_20161002.7z
 
 
 
