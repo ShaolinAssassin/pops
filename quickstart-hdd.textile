@@ -24,7 +24,7 @@ Quickstarter pack for USB : *"download": link *
 
 *4.* Create a partition named  "__.POPS" in your PS2 HDD, large enough so you can put all your VCDs inside ;
 
-*5.* Transfer your .VCDs into __.POPS partition. the recommended method is using RadHostClient. See "here": about how to use it. 
+*5.* Transfer your .VCDs into __.POPS partition. The recommended method is using RadHostClient. See "here": about how to use it. 
 
 *5.* Rename POPStarter.ELF to Name of your game.ELF (example : Crash Bandicoot.elf) and copy/paste it into __.POPS partition.. The names of your ELF and the name of your VCD must be the same - it's case sensitive. 
 
