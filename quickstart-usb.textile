@@ -10,7 +10,7 @@ Quickstarter pack includes the *necessary files to setup POPStarter correctly, a
 
 *Quickstarter pack for USB :* "download":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_Quickstarter_Pack_USB_20161002.7z
 
-
+______________________________________________________________________________________________________________
 
 *STEPS :*
 
