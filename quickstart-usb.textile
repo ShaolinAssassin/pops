@@ -29,13 +29,13 @@ Quickstarter pack for USB : *"download": link *
 Incorrect : 
 
 pre. 
-CRASH BANDICOOT.ELF
+XX.CRASH BANDICOOT.ELF
 Crash_Bandicoot.VCD
 
 Correct : 
 
 pre. 
-CRASH BANDICOOT.ELF
+XX.CRASH BANDICOOT.ELF
 CRASH BANDICOOT.VCD
 
 
