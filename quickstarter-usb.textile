@@ -23,7 +23,20 @@ Quickstarter pack for USB : *"download": link *
 
 4. Copy your .VCD into "POPS" folder on your USB device ;
 
-5. Rename POPStarter.ELF to *XX.*Name of your game.ELF ;
+5. Rename POPStarter.ELF to XX.Name of your game.ELF (example : XX.Crash Bandicoot.elf). The names of your ELF and the name of your VCD must be the same - it's case sensitive.
+
+Incorrect : 
+
+pre. 
+CRASH BANDICOOT.ELF
+Crash_Bandicoot.VCD
+
+Correct : 
+
+pre. 
+CRASH BANDICOOT.ELF
+CRASH BANDICOOT.VCD
+
 
 6. Your setup must look like this : 
 
