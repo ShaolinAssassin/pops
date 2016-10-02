@@ -150,7 +150,7 @@ h2. _Wiki Table of content :_
 .......... [IGR] "Make your own IGR textures":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/igr-textures
 .......... [SPECIAL DEVICE] "Use your [special device] with POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-special-devices
 .......... [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-widescreen-codes
-.......... [EXE] "POPStarter BATCHER v0.2":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-batcher
+
 
 
 
