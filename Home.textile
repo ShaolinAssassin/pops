@@ -74,6 +74,8 @@ h2. _Features :_
 
 ______________________________________________________________________________________________________________
 
+!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!
+
 h2. _Quickstart guides :_ 
 
 Since this documentation is growing - a lot - as POPStarter is developped, I felt that new users could be over either too bored to read the whole documentation or overwhelmed by too much informations at the same time. So I wrote 2 quickstart guides, whose explain how to set-up POPStarter quickly.
