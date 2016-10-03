@@ -74,7 +74,7 @@ h2. _Features :_
 
 ______________________________________________________________________________________________________________
 
-!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!
 
 h2. _Quickstart guides :_ 
 
