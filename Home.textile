@@ -74,17 +74,15 @@ h2. _Features :_
 
 ______________________________________________________________________________________________________________
 
-!https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)! !https://bitbucket.org/repo/Mpy7Eg/images/351997-new.gif(title)!
-
 h2. _Quickstart guides :_ 
 
 Since this documentation is growing - a lot - as POPStarter is developped, I felt that new users could be over either too bored to read the whole documentation or overwhelmed by too much informations at the same time. So I wrote 2 quickstart guides, whose explain how to set-up POPStarter quickly.
 
-These guides use last POPStarter *STABLE* version [Rev 13, WIP 05] - so there is not quickstart guide for SMB (until the next stable version).
+These guides use last POPStarter *STABLE* version [Rev 13, WIP 05] - so there is no quickstart guide for SMB ATM (until the next stable version).
 
-* *"Quickstart guide for internal HDD":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-hdd*
+* *"Quickstart guide for Internal HDD":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-hdd*
 
-* *"Quickstart guide for USB device":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-usb*
+* *"Quickstart guide for USB Device Storage Type":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-usb*
 
 
 
