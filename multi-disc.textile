@@ -104,11 +104,13 @@ ________________________________________________________________________________
 
 h2. _Use DISCS POOPER tool !_
 
-DISCS_POOPER is a little program that does the boring writing text files for you. 
+DISCS_POOPER is a little program that does the boring writing DISCS.TXT files for you. 
 
 1. Create a new folder ;
 2. Drop the VCD files of your multic-disc game ;
-3. Run DISCS_POOPER.EXE
+3. Drop DISCS_POOPER.EXE in the folder and run it ;
+4. Move your VCD and VMC game folders to your POPS folder ;
+5. Enjoy. 
 
 DISCS_POOPER creates : 
 . VMC folder for each VCD in the folder ;
@@ -118,6 +120,8 @@ DISCS_POOPER creates :
 Limits : 
 . Doesn't comply with 4 CDs limit of the swap disc feature ;
 . Barney Stinson voice non-included. 
+
+Download : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DISCS_POOPER.EXE
 
 ______________________________________________________________________________________________________________
 
