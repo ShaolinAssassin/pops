@@ -102,7 +102,7 @@ In this situation, disc 1 and disc 2 share the same VMC folder.
 
 ______________________________________________________________________________________________________________
 
-h2. _Use DISCS_POOPER tool !_
+h2. _Use DISCS POOPER tool !_
 
 DISCS_POOPER is a little program that does the job for you. 
 
