@@ -120,7 +120,7 @@ DISCS_POOPER creates :
 
 *Limits :*
 
-. Doesn’t comply with 4 CDs limit of the swap disc feature ;
+. Doesn’t comply with 4 CDs limit of the swap disc feature (don't use it with more than 4 VCDs) ;
 . Barney Stinson voice non-included.
 
 Download : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DISCS_POOPER.EXE
