@@ -104,7 +104,7 @@ ________________________________________________________________________________
 
 h2. _Use DISCS POOPER tool !_
 
-DISCS_POOPER is a little program that does the job for you. 
+DISCS_POOPER is a little program that does the boring writing text files for you. 
 
 1. Create a new folder ;
 2. Drop the VCD files of your multic-disc game ;
