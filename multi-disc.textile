@@ -111,13 +111,13 @@ DISCS_POOPER is a little program that does the job for you.
 3. Run DISCS_POOPER.EXE
 
 DISCS_POOPER creates : 
-- VMC folder for each VCD in the folder ;
-- DISCS.TXT inside each VMC folder ;
-- VMCDIR.TXT inside each VMC to use only a pair of VMC for this multi-disc game.
+. VMC folder for each VCD in the folder ;
+. DISCS.TXT inside each VMC folder ;
+. VMCDIR.TXT inside each VMC to use only a pair of VMC for this multi-disc game.
 
 Limits : 
-- Doesn't comply with 4 CDs limit of the swap disc feature ;
-- Barney Stinson voice non-included. 
+. Doesn't comply with 4 CDs limit of the swap disc feature ;
+. Barney Stinson voice non-included. 
 
 ______________________________________________________________________________________________________________
 
