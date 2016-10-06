@@ -21,14 +21,7 @@ Some useful codes have been automated. Here are them :
 | $DWCROP_#### | Reduces/expands the display area width. | # is a number (decimal). Work only in PAL and NTSC modes. Maximum value : 2560. Decrease it to crop the screen on the right. |
 | $00507028 00000001 | Rumble Always On (Pad 1). |  |
 | $005070B8 00000001 | Rumble Always On (Pad 2). |  |
-| $=0507034 00000073 | Stay on Digital Mode (POPS, Pad 1). | // If analog is on. |
-| $00507034 00000041  |  | // Force digital mode. |
-| $=05070C4 00000073 | Stay on Digital Mode (POPS, Pad 2). | // If analog is on. |
-| $005070C4 00000041  |  | // Force digital mode. |
 | (code below)  | "Left Stick is the D-Pad" code. | Enable joystick support for games that doesnt support it natively. |
-
-
-
 
 
 pre. 
@@ -37,7 +30,12 @@ http://psx-scene.com/forums/f19/ps2-controller-remapper-1-20-engine-rewrite-1142
 scePadRead Hook Address : 00237798
 Remapping Routine Address : 00231EC8
 Room For The Remapping Routine Address : From 00231EC8 To 002323F8 (unused at this time, WIP 06 Beta 12)
-(...)
+Stay on Digital Mode (POPS, Pad 1)
+$=0507034 00000073 // If analog is on
+$00507034 00000041 // Force digital mode
+Stay on Digital Mode (POPS, Pad 2)
+$=05070C4 00000073 // If analog is on
+$005070C4 00000041 // Force digital mode
 Left Stick is the D-Pad
 $2023779C 0808C7B4
 $20231ED0 00C0C821
