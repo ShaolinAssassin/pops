@@ -102,4 +102,23 @@ In this situation, disc 1 and disc 2 share the same VMC folder.
 
 ______________________________________________________________________________________________________________
 
+h2. _Use DISCS_POOPER tool !_
+
+DISCS_POOPER is a little program that does the job for you. 
+
+1. Create a new folder ;
+2. Drop the VCD files of your multic-disc game ;
+3. Run DISCS_POOPER.EXE
+
+DISCS_POOPER creates : 
+- VMC folder for each VCD in the folder ;
+- DISCS.TXT inside each VMC folder ;
+- VMCDIR.TXT inside each VMC to use only a pair of VMC for this multi-disc game.
+
+Limits : 
+- Doesn't comply with 4 CDs limit of the swap disc feature ;
+- Barney Stinson voice non-included. 
+
+______________________________________________________________________________________________________________
+
 h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
