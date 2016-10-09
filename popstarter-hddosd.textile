@@ -15,6 +15,8 @@ h2. _Hardware Requirements :_
 
 * PS2 HDD formatted, locally connected to your PC ;
 
+* NA ;
+
 * A crossover cable ;
 
 h2. _Software Requirements :_ 
@@ -41,7 +43,7 @@ To install POPStarter in HDDOSD, you will need :
 
 *2.* [PC] - Convert your game as .VCD file.
 
-*3.* [PS2] - Using uLE_kHn, create a partition large enough to store your game. Name it as PP.Name of my Game. Example : PP.Cotton_Original. 
+*3.* [PS2] - Using uLE_kHn, create a partition large enough to store your game. Name it as PP.Name of my Game. Example : PP.Cotton_Original. (*! no "+" in the partition name !*)
 
 *4*. [PS2] - Transfer your VCD into your PP.Name of my Game partition and rename it IMAGE0.VCD. 
 
@@ -52,12 +54,12 @@ Your files should look like this :
 pre. 
 __common/POPS/IOPRP252.IMG
 __common/POPS/POPS.ELF
-PP.Cotton_Original/EXECUTE.KELF
-PP.Cotton_Original/IMAGE0.VCD
+PP.Cotton Original/EXECUTE.KELF
+PP.Cotton Original/IMAGE0.VCD
 
 Before you can inject the files into the partition hearder, you need to get them ready for your particular game.
 
-*6.* [PC] - Download the sample files. The .7z includes : 
+*6.* [PC] - Download the "sample files":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/hddosd_sample_files.7z. The .7z includes : 
 
 - system.cnf = this file tells the PS2 where to look at for launching POPStarter (BOOT2 = pfs:/EXECUTE.KELF in system.cnf means that the file that will be launched from HDDOSD is EXECUTE.KELF, placed into the root of the partition). Do not edit it, it's ready to use (don't bother about VMODE = NTSC in it, I'm also a PAL user and I never changed that and got it working).
 
@@ -67,8 +69,8 @@ Before you can inject the files into the partition hearder, you need to get them
 
 pre. 
 PS2X
-title0=Cotton Original // What will be displayed on the first line of the HDDOSD. Can be anything. I choose the name of the game.
-title1=[SLPM-86461] // What will be displayed on the 2nd line of the HDDOSD. Can be anything. I choose the <game_ID> of the game.
+title0=Cotton Original // What will be displayed on the first line of the HDDOSD. Can be anything. I choose the name of the game. 16 caracters max.
+title1=[SLPM-86461] // What will be displayed on the 2nd line of the HDDOSD. Can be anything. I choose the <game_ID> of the game. 16 caracters max.
 bgcola=0 // HDDOSD background color.
 bgcol0=0,0,0 // Mixed color all bgcol changes the total color.
 bgcol1=0,0,0
@@ -81,9 +83,9 @@ lightcolamb=64,64,64
 lightcol0=64,64,64
 lightcol1=16,16,16
 lightcol2=0,0,0
-uninstallmes0= Voulez-vous supprimer ce jeu ? // Message displayed on screen when you are about to delete the game/partition.
-uninstallmes1= //  I choose to translate the message in French.
-uninstallmes2=
+uninstallmes0= Voulez-vous supprimer ce jeu ? // Message displayed on screen when you are about to delete the game/partition. 16 caracters max.
+uninstallmes1= //  I choose to translate the message in French. 16 caracters max.
+uninstallmes2= // 16 caracters max.
 
 *7.* [PC] - So, create your icon(s) and edit icon.sys according to your will.
 
