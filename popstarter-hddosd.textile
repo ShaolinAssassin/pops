@@ -13,15 +13,17 @@ ________________________________________________________________________________
 
 h2. _Hardware Requirements :_ 
 
-* PS2 HDD formatted, locally connected to your PC
+* PS2 HDD formatted, locally connected to your PC ;
+
+* A crossover cable ;
 
 h2. _Software Requirements :_ 
 
-* uLE_kHn : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version 
+* uLE_kHn : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version ;
 
-* POPStarter.KELF : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version
+* POPStarter.KELF : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version ;
 
-* AKuHAK’s reworked HDL_Dump : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff
+* AKuHAK’s reworked HDL_Dump : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff ;
 
 * HDDOSD already installed on your PS2 HDD.
 
