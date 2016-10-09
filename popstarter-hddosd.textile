@@ -27,8 +27,8 @@ ________________________________________________________________________________
 
 To install POPStarter in HDDOSD, you will need : 
 
-- to use the first HDD launch type (1 game = 1 partition). You can't do it with the __.POPS partition. Your game partition will be a parent partition named PP.Name of my Game.
-- to inject some files into the partition header, to make it bootable from HDDOSD + to display infos related to your game + to customize the icon shown in the HDDOSD. 
+. to use the first HDD launch type (1 game = 1 partition). You can't do it with the __.POPS partition. Your game partition will be a parent partition named PP.Name of my Game.
+. to inject some files into the partition header, to make it bootable from HDDOSD + to display infos related to your game + to customize the icon shown in the HDDOSD. 
 
 *Set-by-step :* 
 
