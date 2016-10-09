@@ -43,7 +43,7 @@ To install POPStarter in HDDOSD, you will need :
 
 *2.* [PC] - Convert your game as .VCD file.
 
-*3.* [PS2] - Using uLE_kHn, create a partition large enough to store your game. Name it as PP.Name of my Game. Example : PP.Cotton_Original. (*! no "+" in the partition name !*)
+*3.* [PS2] - Using uLE_kHn, create a partition large enough to store your game. Name it as PP.Name of my Game. Example : PP.Cotton Original. (*! no "+" in the partition name !*)
 
 *4*. [PS2] - Transfer your VCD into your PP.Name of my Game partition and rename it IMAGE0.VCD. 
 
