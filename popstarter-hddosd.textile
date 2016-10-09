@@ -130,7 +130,7 @@ Skipped boot.kirx
 
 *15.* Done ! ;)
 
-
+*Note :* when POPStarter get an update, delete the file EXECUTE.KELF from PP.Name of my Game and replace it with the new version. 
 
 
 
