@@ -4,7 +4,7 @@ h1. [HDD] *HDDOSD / POPStarter.KELF*
 ______________________________________________________________________________________________________________
 
 
-!https://bitbucket.org/repo/Mpy7Eg/images/137826717-PREVIEW.JPG(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/137826717-PREVIEW.JPG(Cotton Original)!
 
 
 POPStarter bundle always come with a file named "POPStarter.KELF". This file allows you to install POPStarter in the PS2 Broswer 2.00 - aka HDDOSD. Let's find out how. 
