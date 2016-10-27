@@ -82,7 +82,7 @@ Since this documentation is growing - a lot - as POPStarter is developped, I fel
 
 These guides use last POPStarter *STABLE* version [Rev 13, WIP 05] - so there is no quickstart guide for SMB ATM (until the next stable version).
 
-* *"Quickstart guide for Internal HDD":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstarthdd*
+* *"Quickstart guide for Internal HDD":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-hdd*
 
 * *"Quickstart guide for USB Device Storage Type":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstartusb*
 
