@@ -2,7 +2,13 @@ h1. *Quick start guide for USB :*
 
 ______________________________________________________________________________________________________________
 
-*ERRATA 2016/10/29 : IF YOU FOLLOWED THIS GUIDE AND COULDN'T MAKE IT WORKED, PLS TRY AGAIN. I MIXED INFOS OF STABLE AND BETAS VERSIONS IN IT. -_- IT'S NOW FIXED. DOWNLOAD USB PACK AGAIN AS AWELL, THE REQUIRED MISSING FILE PFS_WRAP.BIN IS NOW INCLUDED TOO. SORRY GUYS.*
+
+***
+
+
+*ERRATA 2016/10/29 : IF YOU FOLLOWED THIS GUIDE AND COULDN'T MAKE IT WORKED, PLS TRY AGAIN. I MIXED INFOS OF STABLE AND BETAS VERSIONS IN IT. :/ IT'S NOW FIXED. DOWNLOAD USB PACK AGAIN AS AWELL, THE REQUIRED MISSING FILE PFS_WRAP.BIN IS NOW INCLUDED TOO. SORRY GUYS.*
+
+***
 
 This is a *step-by-step basic guide* for new POPStarter users. If you are already familiar with POPStarter, you don't need it. 
 
