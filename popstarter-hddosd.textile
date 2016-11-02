@@ -63,8 +63,6 @@ Before you can inject the files into the partition hearder, you need to get them
 
 - system.cnf = this file tells the PS2 where to look at for launching POPStarter (BOOT2 = pfs:/EXECUTE.KELF in system.cnf means that the file that will be launched from HDDOSD is EXECUTE.KELF, placed into the root of the partition) and also the VMODE to use (PAL/NTSC). 
 
-*Note :* PAL games are off-centered, even if you choose PAL for VMODE. To be fixed soon.
-
 - list.ico = this file is a PS2 icon, made by myself using my profile picture from PSX-scene. You can learn how to create your own icons "here":http://web.archive.org/web/20140401012522/http://sksapps.com/index.php?page=Creating_Icons_tutorial.html (very easy). If you want that HDDOSD displays a special image when you are about to delete a game/partition, repeat the process and name this file del.ico.
 
 - icon.sys = this files contains the infos that will be displayed in the HDDOSD. You need to edit it and fill some info inside. Use Notepad++.  
