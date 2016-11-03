@@ -41,7 +41,7 @@ Metal Gear Solid (Disc 2).VCD
 * Up to 4 file names in DISCS.TXT.
 * A file name must not exceed 89 characters.
 * The VCD files have to be in the same partition/folder.
-* If you have more than 5 lines in the DISCS.TXT file, the feature will not work.
+* If you have more than 4 lines in the DISCS.TXT file, the feature will not work.
 
 *Example of working setup :*
 
