@@ -24,8 +24,10 @@ h2. _CUE2POPS (standalone versions) :_
 
 pre. 
 - Bugfix for the input file being overwritten (the issue which was reported by MonkeyBoyJoey);
-- The ability to handle the .bin file from the workdir (without the full .cue file path in the command line) was restored. Apparently it got broken when I extracted the cue2pops function from ToolBox.exe lol;
-- The output file path which is generated from the .cue file path (when you don't specify an output file name, ie drag'n'drop) is checked before the creation of the VCD. If for some oddball reason the output file extension is not .VCD, CUE2POPS will display an error and not create the file.
+- The ability to handle the .bin file from the workdir (without the full .cue file path in the command line) was restored. 
+Apparently it got broken when I extracted the cue2pops function from ToolBox.exe lol;
+- The output file path which is generated from the .cue file path (when you don't specify an output file name, ie drag'n'drop) is checked before the creation of the VCD. 
+If for some oddball reason the output file extension is not .VCD, CUE2POPS will display an error and not create the file.
 
 
 
