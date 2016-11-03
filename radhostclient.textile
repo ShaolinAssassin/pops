@@ -10,7 +10,7 @@ h2. _Hardware Requirements :_
 
 h2. _Software Requirements :_ 
 
-* "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff
+* "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/RadHostClient_1.8a.7z
 * "uLE (any version)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff
 ______________________________________________________________________________________________________________
 
