@@ -7,7 +7,7 @@ ________________________________________________________________________________
 This page is dedicated to the last version of each main app related to POPStarter (yeah, I'm too lazy to fix so many hotlinks in this wiki :P ).
 
 
-* *CUE2POPS* : v2.3 (2016/11/03) : "here":http://aybabtu.chez.com/kHn/SOFTWARES/CUE2POPS_2_3.EXE.
+* *CUE2POPS* : v2.3 (2016/11/03) : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/CUE2POPS_2.3.7z.
 
 * *Toolbox* : v1 : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/ToolBox.7z.
 
