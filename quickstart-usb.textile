@@ -2,13 +2,7 @@ h1. *Quick start guide for USB :*
 
 ______________________________________________________________________________________________________________
 
-
-***
-
-
-*ERRATA 2016/10/29 : IF YOU FOLLOWED THIS GUIDE AND COULDN'T MAKE IT WORKED, PLS TRY AGAIN. I MIXED INFOS OF STABLE AND BETAS VERSIONS IN IT. :/ IT'S NOW FIXED. DOWNLOAD USB PACK AGAIN AS AWELL, THE REQUIRED MISSING FILE PFS_WRAP.BIN IS NOW INCLUDED TOO. SORRY GUYS.*
-
-***
+* *UPDATE 2016/11/03 :* new CUE2POPS version 2.3 included. 
 
 This is a *step-by-step basic guide* for new POPStarter users. If you are already familiar with POPStarter, you don't need it. 
 
@@ -16,7 +10,7 @@ Quickstarter pack includes *POPStarter last STABLE version [Rev 13 - WIP5]* - re
 
 Quickstarter pack includes the *necessary files to setup POPStarter correctly, and nothing more*. Make sure your USB device is FAT12 or FAT16 or FAT32 formatted (not NTFS !) before proceding.
 
-*Quickstarter pack for USB :* "download":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_Quickstarter_Pack_USB_20161002.7z
+*Quickstarter pack for USB :* "download":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_Quickstarter_Pack_USB_20161103.7z.
 
 ______________________________________________________________________________________________________________
 
