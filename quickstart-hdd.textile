@@ -1,7 +1,7 @@
 h1. *Quick start guide for internal HDD :*
 
 ______________________________________________________________________________________________________________
-_*[UPDATE 2016/11/03 : new CUE2POPS version 2.3 included.]*_
+_[UPDATE 2016/11/03 : new CUE2POPS version 2.3 included.]_
 
 
 *
