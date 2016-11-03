@@ -15,14 +15,12 @@ ________________________________________________________________________________
 
 h2. _Downloads :_  
 
-* *LATEST STABLE VERSION BUNDLE :* "POPStarter Revision 13, WIP 05 (2015/06/03)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_WIP_05.7z
-* *LATEST BETA VERSION BUNDLE :* "POPStarter Revision 13, WIP 06, OBT 15 (2016/09/18)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_WIP_06_OBT_20160723_OBT15.7z
+* *LATEST STABLE VERSION BUNDLE :* "POPStarter Revision 13, WIP 05 (2015/06/03)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_05.zip
+* *LATEST BETA VERSION BUNDLE :* "POPStarter Revision 13, WIP 06, OBT 15 (2016/09/18)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_06_OBT_20160918.zip
 
 *Note :* betas are for testing new features and make useful reports to kHn so he can try to fix the issues. They are not meant to be used as daily gaming version. Don't expect them to be bug free. 
 
 _Changelog [WIP 06, OBT 15]_
-
-
 
 pre. 
 - The CD lid open/close emulation is now complete. It refreshes the TOC.
