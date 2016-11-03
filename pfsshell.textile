@@ -10,7 +10,7 @@ h2. _Hardware Requirements :_
 
 h2. _Software Requirements :_ 
 
-* "PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff (running under winxp - or enable XP compatibility mode)
+* "PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/pfsshell-0.2a.7z (running under winxp - or enable XP compatibility mode)
 
 ______________________________________________________________________________________________________________
 
@@ -77,7 +77,7 @@ h3. _*Transfer several VCD at once :*_
 
 _[Original tutorial by ElPatas]_ "@elotrolado":http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054 -  _[.bat files thanks to "deba5er":http://psx-scene.com/forums/members/deba5er/ ]_
 
-1. Get "pfs.bat":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/pfs-scripts.7z files and place it in pfsshell folder. 
+1. Get these "files":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/pfsshell-0.2a.7z. 
 
 2. Open command prompt, then type "cmd".
 
