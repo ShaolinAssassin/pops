@@ -25,10 +25,12 @@ _Changelog [WIP 06, OBT 15]_
 pre. 
 - The CD lid open/close emulation is now complete. It refreshes the TOC.
   I'm still unsure about the correctness of the CDROM status and mode field values that are used though.
-  This feature pokes the CDROM registers according to the lid open/close state and issues a VCD init RPC call to the IOPCD driver. W00t.
+  This feature pokes the CDROM registers according to the lid open/close state and issues a VCD init RPC call 
+to the IOPCD driver. W00t.
 - Disc change support, alongside the CD lid open/close emulation mentioned above.
   This feature uses a DISCS.TXT file handler and parser, and separate VCDs.
-- Static SetGsCrt interlace parameter, to help with the HDTVs that can't deal with the interlaced resolutions thru component.
+- Static SetGsCrt interlace parameter, to help with the HDTVs that can't deal with the interlaced resolutions 
+thru component.
   At least it does work with my crappy led TV. Without it, the said crappy TV keeps displaying plain green screens and other rubbish.
 - Added a GS DISPLAY1/DISPLAY2 value calculator to the unfinished ($ONY's) 480p mode of POPS. 480p output can be enabled with the command $480p in CHEATS.TXT.
   I haven't found a way to stretch the display area width (damn these black boarders). Some games (like Dead Or Alive) output an odd signal that make them UNPLAYABLE (monitor says "unsupported" hmm).
