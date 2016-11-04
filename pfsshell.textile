@@ -45,7 +45,7 @@ If you get this message : "ps2hdd: drive status 0, format version 00000002", con
 
 !https://bitbucket.org/repo/Mpy7Eg/images/164592225-4.png(title)!
 
-4. You now need to mount the POPS VCD partition, using the following command line : 
+4. You now need to mount the __.POPS VCD partition, using the following command line : 
 
 pre. 
 mount __.POPS 
