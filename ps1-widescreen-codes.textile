@@ -1,9 +1,11 @@
-h1. [CHEATS] *Widescreen Codes Archive*
+h1. [CHEATS] *PlayStation 1 - Widescreen Codes Archive*
 
 
 ______________________________________________________________________________________________________________
 
-Not a part of the POPStarter project, but worthy to mention. Guys from "pcsx2 forum":http://forums.pcsx2.net made some great widescreen codes. Thank to El_Patas for keeping the archive updated. You can get the patches "here":http://forums.pcsx2.net/Thread-PSOne-Widescreen-Patches?pid=477709#pid477709. Credits to their authors. 
+Though this is not a part of the POPStarter project, it worthes to be mentionned. Guys from "PCSX2 forum":http://forums.pcsx2.net found how to create widescreen codes/patches for PlayStation 1 games. 
+You can download these patches "here":http://forums.pcsx2.net/Thread-PSOne-Widescreen-Patches?pid=477709#pid477709. 
+Thanks to El_Patas for keeping the archive updated ; credits for these codes go to their authors. 
 
 *Note :* these files are "_almost-ready-to-use_" with POPStarter = you need to add the "$" symbol. 
 
