@@ -6,10 +6,11 @@ ________________________________________________________________________________
 Though this is not a part of the POPStarter project, it worthes to be mentionned. Guys from "PCSX2 forum":http://forums.pcsx2.net found how to create widescreen codes/patches for PlayStation 1 games. You can download these patches "here":http://forums.pcsx2.net/Thread-PSOne-Widescreen-Patches?pid=477709#pid477709. 
 Thanks to El_Patas for keeping the archive updated ; credits for these codes go to their authors. 
 
-How to use them ?
+*How to use them ?*
+
 (1) Find the patch for your game in the archive ;
 (2) Copy/paste the CHEATS.TXT file into your VMC game folder ;
-(3) With uLE TextEditor, add the "$" symbol to enable the code. 
+(3) With uLE TextEditor, open the CHEATS.TXT file and add the "$" symbol to enable the code. 
 
 _Colin McRae Rally 2.0 (SLUS-01222) :_  
 
@@ -21,7 +22,7 @@ _4:3_
 
 _16:9_
 
-For some games, Eyefinity codes wre also created :
+For some games, Eyefinity codes were also created :
 
 _Eyefinity_
 
