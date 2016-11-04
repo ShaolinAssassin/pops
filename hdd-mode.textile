@@ -36,7 +36,7 @@ h2. _A) Installing the Emulator :_
 
 h2. _B) Installing your PS1 Games :_ 
 
-# Convert your BIN/CUE disc images to .VCD files using the latest stable version of Toolbox;
+# Convert your BIN/CUE disc images to .VCD files using the latest stable version of CUE2POPS;
 # Create a partition named "__.POPS" in your PS2 HDD, large enough so you can put all your VCDs inside.
 
 * *Note :* +__.POPS is not correct. Use "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version to create a partition without +.
@@ -78,11 +78,13 @@ ________________________________________________________________________________
 
 h2. _POPSTARTER.KELF :_ 
 
-POPStarter bundle comes with a POPSTARTER.KELF (Krypo-ELF = ELF embedded into a container). It can be used if you have the Browser 2.00 (aka HDDOSD) installed on your HDD. Otherwise, it's useless. Use "AKuHAK's hdl_dumx":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff to install it.
+POPStarter bundle comes with a file named POPSTARTER.KELF (KELF = Krypo-ELF = ELF embedded into a container). It can be used if you have SONY Browser 2.00 (aka HDDOSD) installed on your HDD. Otherwise, it's useless. 
 
 *Notes if you use the POPStarter.KELF :* 
 * Partition name prefix is of course PP. (PPdot)
 * 1 partition = 1 game
+
+Read "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-hddosd for a guide about how to set it up.
 
 ______________________________________________________________________________________________________________
 
@@ -112,7 +114,7 @@ ________________________________________________________________________________
 h2. _Additional notes :_
 
 
-* The internal HDD has to be PS2 formatted. If you need to format it, I'd recommend you use the latest WIP version of AKuHAK's uLaunchELF HDD edition.
+* The internal HDD has to be PS2 formatted. If you need to format it, use the latest WIP version of AKuHAK's uLaunchELF HDD edition.
 * The partition names are case sensitive, and have to match the POPStarter ELF names.
 * The third character of the ELF prefix (when used) is a dot (PPdot / __dot ).
 * The prefix (when used) has to be uppercase.
