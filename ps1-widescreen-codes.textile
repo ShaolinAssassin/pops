@@ -12,7 +12,7 @@ Thanks to El_Patas for keeping the archive updated ; credits for these codes go 
 (2) Copy/paste the CHEATS.TXT file into your VMC game folder ;
 (3) With uLE TextEditor, open the CHEATS.TXT file and add the "$" symbol to enable the code. 
 
-_Colin McRae Rally 2.0 (SLUS-01222) :_  
+*Example :* Colin McRae Rally 2.0 (SLUS-01222) 
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3801833563-2md7xs.jpg(4:3)!
 
@@ -24,9 +24,9 @@ _16:9_
 
 For some games, Eyefinity codes were also created :
 
-_Eyefinity_
-
 !https://bitbucket.org/repo/Mpy7Eg/images/270560112-16h0lcg.jpg!
+
+_Eyefinity_
 
 * *Note :* these codes can be converted into HEX codes, applied to game images and used on a PlayStation 1 retail console with no problem (as reported by some users). 
 
