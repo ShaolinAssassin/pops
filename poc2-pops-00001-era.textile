@@ -15,6 +15,13 @@ POC2/POPS-00001 was a demonstration test, showing all the potential of the decry
 
 Contrary to what had been told, POPS-00001 isn't the emulator itself, it's a loader which has POPS inside. The "famous" 3,3MB EXECUTE.ELF was made of a homebrew launcher + the POPS ELF + the POPS IOPRP.
 
+______________________________________________________________________________________________________________
+
+!https://bitbucket.org/repo/Mpy7Eg/images/2713835435-2437330.JPG(title)!
+
+______________________________________________________________________________________________________________
+
+
 Original POPS-00001 archive content : 
 
 pre. 
