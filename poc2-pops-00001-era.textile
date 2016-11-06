@@ -13,7 +13,7 @@ POPS-00001 is the second proof-of-concept (POC2) showing how it is possible to r
 
 POC2/POPS-00001 was a demonstration test, showing all the potential of the decrypted emulator from Sony. Unfortunately, on 02/01/2013, it had been leaked with detailled instructions from his author's PMs about how to use it on a well known w@rez website, bundled with an *experimental* 48 Bit HDDOSD and hexedited/"raped by the www", causing the abortion of the project that were secretely elaborated after conan14's found. On 07/02/2013, it was mis-announced on psx-scene : "NEWS: Sony's official PSX emulator for PS2 HDD leaked (POPS-00001)":http://web.archive.org/web/20160815085138/http://psx-scene.com/forums/f19/news-sonys-official-psx-emulator-ps2-hdd-leaked-pops-00001-a-110832/ (thread is now deleted).
 
-Contrary to what had been told, POPS-00001 isn't the emulator itself, it's a loader which has POPS inside. The "famous" 3,3MB EXECUTE.ELF was made of a homebrew launcher + the POPS ELF + the POPS IOPRP.
+Contrary to what had been said, POPS-00001 isn't the emulator itself, it's a loader which has POPS inside. The "famous" 3,3MB EXECUTE.ELF was made of a homebrew launcher + the POPS ELF + the POPS IOPRP.
 
 ______________________________________________________________________________________________________________
 
@@ -45,7 +45,7 @@ pre.
 - PP.POPS-00001/YAROZE_RALLY.KELF
 - PATINFO.KELF
 
-The container that goes with contains some "cryptic" instructions about how to use it : 
+The container went with contains some "cryptic" instructions about how to use it : 
 
 pre. 
 - Put the name of your partition at offset 3B95h
@@ -59,7 +59,7 @@ MYDUMP.BIN (your modified PS1 game disc image, in the root of the partition, fil
 POPS-00001 limitations : 
 * Name of the partition was harcoded into EXECUTE.ELF at offset 3B95h;
 * It was 24 Bit limited;
-* It required a so call "POPS header" taken from disc0 (which is Bishi Bashi demo) to be applied to the dump game;
+* It required a so-call "POPS header" taken from disc0 (which is Bishi Bashi demo) to be applied to the dump game;
 * It also required to change the region sectors of the PAL & NTSC-U dump games, since it was regions-locked : NTSC-J limited (tho that were a workaround : using an EXECUTE.ELF with an injected region free BIOS inside - the so called "EXECUTE_POPS-PSP-660_BIOS_.ELF");
 * Buggy IGR.
 * HDD support only - of course.
