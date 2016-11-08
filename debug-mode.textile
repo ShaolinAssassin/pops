@@ -7,23 +7,23 @@ POPStarter has an embedded Debug Mode. It's ON by default in SMB mode (and it ca
 
 To enable POPStarter Debug Mode : 
 
-*Normal users :* apply "the DEBUG_AND_HALT.PPF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DEBUG_AND_HALT.PPF over POPStarter.ELF using a PPF patcher (such as "PPF-O-matic":http://www.romhacking.net/utilities/356/).
+*Normal users :* apply "the DEBUG_AND_HALT.PPF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DEBUG_AND_HALT.PPF over POPSTARTER.ELF (or POPSTARTER.KELF) using a PPF patcher (such as "PPF-O-matic":http://www.romhacking.net/utilities/356/).
 
 !http://www.romhacking.net/utilities/screenshots/356screenshot1.gif!
 
 # Launch PPF-O-Matic ;
 # Click on "Load CD Image file" (first floppy icon) ;
 # Change file type from "CD Image file" to "All files" ;
-# Browse to POPStarter.ELF location and select it ;
+# Browse to POPSTARTER.ELF location and select it ;
 # Click on "Load PPF file" (second floppy icon) ;
 # Browse to DEBUG_AND_HALT.PPF location and select it ;
-# Click "Apply" and you're done. Do not forget to rename POPStarter file before using it. 
+# Click "Apply" and you're done. Do not forget to rename POPSTARTER.ELF before using it. 
 
 *Advanced users :*
 
-Hexedit manually POPStarter.ELF. See POPStarter Configuration Table "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table to know what to change.
+Hexedit manually POPSTARTER.ELF. See POPStarter Configuration Table "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table to know what to change.
 
-Note what the debug message said and ask/report it @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/ if you need more help.
+Take note of the debug message and ask/report it @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/ if you need more help.
 
 ______________________________________________________________________________________________________________
 
