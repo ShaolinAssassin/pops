@@ -102,5 +102,5 @@ These guides use last POPStarter *STABLE* version [Rev 13, WIP 05] - so there is
 ______________________________________________________________________________________________________________
 
 
-h1. *">> ENTER WIKI <<":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index* 
+h1. *"ENTER WIKI":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index* 
 
