@@ -91,7 +91,7 @@ These guides use last POPStarter *STABLE* version [Rev 13, WIP 05] - so there is
 ______________________________________________________________________________________________________________
 
 
-h1. *>> ENTER WIKI <<* 
+h1. *">> ENTER WIKI <<":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index* 
 
 
 
@@ -99,7 +99,7 @@ h1. *>> ENTER WIKI <<*
 
 ______________________________________________________________________________________________________________
 
-h2. _Need help ?_ 
+h3. _Need help ?_ 
 
 Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/. Be sure to run POPStarter in "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode before.
 
