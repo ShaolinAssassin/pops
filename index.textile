@@ -67,10 +67,9 @@ _*[ Up-to-date with Rev13 WIP6 OBT15 ]*_
 
 ______________________________________________________________________________________________________________
 
-_Need help ?_ 
+_*Need help ?*_ 
 
 Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/. Be sure to run POPStarter in "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode before.
 
 ______________________________________________________________________________________________________________
-
 _[Original documentation by krHACKen - updated by shaolinassassin]_
