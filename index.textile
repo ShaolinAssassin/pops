@@ -7,7 +7,7 @@ ________________________________________________________________________________
 *Note :* this documentation is up-to-date with *Rev13 WIP6 OBT15*. Some of the features described here are only available *in the last betas*.
 
 
-***
+***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   **
 
 
 *1.  Convert your PS1 games to VCD format*
