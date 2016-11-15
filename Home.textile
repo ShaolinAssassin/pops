@@ -1,9 +1,6 @@
 h1. *Introduction to POPStarter rev13 - unofficial documentation*
 
-
 ______________________________________________________________________________________________________________
-
-
 
 h2. _Disclaimer :_ 
 
@@ -47,15 +44,27 @@ thru component.
 - A game fix was added to make the PAL version of Spyro 2 run.
   ... still crashes loading certain levels and the demo mode, like POPS is going crazy with the LibCrypt crapola.
 
-
-
-
 ______________________________________________________________________________________________________________
 
 h2. _Official Thread :_ 
 
 * [PS2] POPS stuff... @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/
 
+______________________________________________________________________________________________________________
+
+h2. _Official compatibility lists :_ 
+
+* *Internal HDD (read-only)*
+. "Compatibility list":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdFIzb3NuOWU2eWZqUDNwVl9uTzFPTGc#gid=0
+. "The form for submitting reports":https://docs.google.com/forms/d/17fb0I0GxnPpIuCvayFgFhd8MlozcBqR42kdzuOA5b1I/viewform
+
+* *USB Device (read-only)*
+. "Compatibility list":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdGJyVDdyRXBQR0RsOTNrM3hvaFdacmc#gid=0
+. "The form for submitting reports":https://docs.google.com/forms/d/10oPoxZvdtiO3YOe9kX_isgCkJMizCD_nvcf6TH4Xvck/viewform
+
+* *SMB (read-only)*
+. "Compatibility list":https://docs.google.com/spreadsheets/d/1LoLl_YVY2qlJN6F3Ubwd0AvqkeK0tbHqrIEjBiGmDpQ/edit#gid=0
+. "The form for submitting reports":https://docs.google.com/forms/d/1zimkx1nufqgF808EyoDqC9_USV2FqSQKlka678wo67w/viewform
 
 ______________________________________________________________________________________________________________
 
