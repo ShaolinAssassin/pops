@@ -108,7 +108,7 @@ mc#:/POPSTARTER/ps2smap.irx
 mc#:/POPSTARTER/smbman.irx
 smb0:/YourSharedFolder/POPS/POPS_IOX.PAK
 smb0:/YourSharedFolder/POPS/Crash Bandicoot.VCD
-smb0:/YourSharedFolder/POPS/SB.Crash Bandicoot.elf
+mass:/POPS/SB.Crash Bandicoot.elf
 
 ______________________________________________________________________________________________________________
 
