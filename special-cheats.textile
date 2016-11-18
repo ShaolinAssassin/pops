@@ -6,22 +6,22 @@ ________________________________________________________________________________
 Some useful codes have been automated. Here are them :
 
 | *Cheat Code* | *Description* | *Notes* |
-| $SAFEMODE | Disable the cheat engine and only activate it after POPS has left the PS OSD. | Should be always ON. Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
-| $CACHE1 | Make POPS buffer 1 sector instead of 16. | |
-| $COMPATIBILITY_0x## | Activate a compatibility mode. | ## is a hexadecimal value. You can write as many $COMPATIBILITY_0x## as you want. |
+| $SAFEMODE | Disables the cheat engine and only activate it after POPS has left the PS OSD. | Should be always ON. Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
+| $CACHE1 | Makes POPS buffer 1 sector instead of 16. | |
+| $COMPATIBILITY_0x## | Activates a compatibility mode. | ## is a hexadecimal value. You can write as many $COMPATIBILITY_0x## as you want. |
 | $FAKELC | Loads a null LibCrypt magic word into the cop0 register. | May be needed by some discs that have a messed up LC protection. |
 | $USBDELAY_# | Sets up the PFS wrapper USB delay. | # is a number. |
-| $SMOOTH | Enable the "smooth texture":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/SMOOTH mapping at startup. | $S0003390 00000001 |
-| $NOPAL | Disable POPStarters' PAL patcher. | PATCH_9.BIN now obsolete (still working tho). |
-| $FORCEPAL | Force the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL).  | Useful for PAL VCDs that don't have a valid license text in their bootsector. PATCH_8.BIN now obsolete (still working tho). |
-| $480p | Force 480p | Not compatible with $XPOS, $YPOS, $DWSTRETCH, $DWCROP & NOT reliable ATM. See notes "here":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-93#post-908556  |
-| $XPOS_#### | Center the screen horizontally. | # is a number (decimal). Work only in PAL and NTSC modes. Default value : 640. Increase it to move the screen on the left, decrease for the right. |
-| $YPOS_## | Center the screen vertically. | # is a number (decimal). Work only in PAL and NTSC modes. Buggy in OBT15. |
-| $DWSTRETCH_#### |  Stretche the display horizontally to your screen. | # is a number (decimal). Work only in PAL and NTSC modes. Default value : 2559. Increase it to stretch the screen on the right, decrease it for the left. |
-| $DWCROP_#### | Reduces/expands the display area width. | # is a number (decimal). Work only in PAL and NTSC modes. Maximum value : 2560. Decrease it to crop the screen on the right. |
+| $SMOOTH | Enables the "smooth texture":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/SMOOTH mapping at startup. | $S0003390 00000001 |
+| $NOPAL | Disables POPStarters' PAL patcher. | PATCH_9.BIN now obsolete (still working tho). |
+| $FORCEPAL | Forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL).  | Useful for PAL VCDs that don't have a valid license text in their bootsector. PATCH_8.BIN now obsolete (still working tho). |
+| $480p | Forces 480p | Not compatible with $XPOS, $YPOS, $DWSTRETCH, $DWCROP & NOT reliable ATM. See notes "here":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-93#post-908556  |
+| $XPOS_#### | Centers the screen horizontally. | # is a number (decimal). Work only in PAL and NTSC modes. Default value : 640. Increase it to move the screen on the left, decrease for the right. |
+| $YPOS_## | Centers the screen vertically. | # is a number (decimal). Work only in PAL and NTSC modes. Buggy in OBT15. |
+| $DWSTRETCH_#### |  Stretches the display horizontally to your screen. | # is a number (decimal). Works only in PAL and NTSC modes. Default value : 2559. Increase it to stretch the screen on the right, decrease it for the left. |
+| $DWCROP_#### | Reduces/expands the display area width. | # is a number (decimal). Works only in PAL and NTSC modes. Maximum value : 2560. Decrease it to crop the screen on the right. |
 | $00507028 00000001 | Rumble Always On (Pad 1). |  |
 | $005070B8 00000001 | Rumble Always On (Pad 2). |  |
-| (code below)  | "Left Stick is the D-Pad" code. | Enable joystick support for games that doesnt support it natively. |
+| (code below)  | "Left Stick is the D-Pad" code. | Enables joystick support for games that doesn't support it natively. |
 
 
 pre. 
