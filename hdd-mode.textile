@@ -29,28 +29,74 @@ To use POPStarter with an internal HDD, you have to find and download the POPS d
 
 ______________________________________________________________________________________________________________
 
-h2. _A) Installing the Emulator :_
+h2. _Installation :_
+
+_A) Installing the Emulator :_
 
 # Find and download the decrypted emulator files;
 # Create a directory named "POPS" in the "__common" partition of your PS2 HDD;
 # Paste POPS.ELF and IOPRP252.IMG into the "POPS" directory you've just created.
 
-h2. _B) Installing your PS1 Games :_ 
+_B) Installing your PS1 Games :_ 
 
 # Convert your BIN/CUE disc images to .VCD files using the latest stable version of CUE2POPS;
 # Create a partition named "__.POPS" in your PS2 HDD, large enough so you can put all your VCDs inside.
 
 * *Note :* +__.POPS is not correct. Use "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version to create a partition without +.
 
-h2. _C) Installing POPStarter :_ 
+_C) Installing POPStarter :_ 
 
 # Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension [example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "Gran Turismo.elf"] ;
 # Copy or leave the ELFs where you want to run them from.
-
+# Enjoy !
 
 ______________________________________________________________________________________________________________
 
-h2. _Examples of Setups :_ 
+h2. _Example of Setup :_ 
+
+pre. 
+=== INTERNAL HDD, NEW LAUNCH TYPE ===
+__common/POPS/IOPRP252.IMG
+__common/POPS/POPS.ELF
+__.POPS/Crash Bandicoot.VCD
+__sysconf/FMCB/Crash Bandicoot.elf
+
+______________________________________________________________________________________________________________
+
+h2. _POPSTARTER.KELF :_ 
+
+POPStarter bundle comes with a file named POPSTARTER.KELF (KELF = Krypo-ELF = ELF embedded into a container). It can be used if you have SONY Browser 2.00 (aka HDDOSD) installed on your HDD. Otherwise, it's useless. 
+
+*Notes if you use the POPStarter.KELF :* 
+* Partition name prefix is of course PP. (PP(dot)) ;
+* 1 partition = 1 game - you can't install several games into a single partition (unless it's a multi-disc game).
+
+Read "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-hddosd for a guide about how to set it up.
+
+______________________________________________________________________________________________________________
+
+h2. _HDD Launch types (advanced) :_ 
+
+HDD supports 3 "launch types". The "launch type" relies on the prefix of your ELF names. Each type uses his own way to name the VCD file : 
+
+|  | *Old launch type* | *Alternate Old type* | *New launch type* |
+| *HDDOSD compatible* | Yes | No | No |
+| *Partition shown in the HDDOSD/PSBBN/PSX XMB* | Yes | No | - |
+| *Prefix for POPStarter.ELF* | PP. (if used) | __. | No prefix |
+| *Prefix for partition name* | PP. | __. | __.POPS or __.POPS# |
+| *Game name* | IMAGE0.VCD (all uppercase) | IMAGE0.VCD (all uppercase) | Name of the Game.VCD |
+| *Examples* | (1) | (2) | (3) |
+| *Description* | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type introduced in POPStarter 13 WIP 01. Allows to put multiple VCDs in a single partition. |
+ 
+*Examples :* 
+
+(1) With the POPStarter ELF renamed as PP.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the partition named PP.SomeGame.
+
+(2) With the POPStarter ELF renamed as __.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the partition named __.SomeGame.
+
+(3) With the POPStarter ELF renamed as Some Game.elf, POPStarter will launch Some Game.VCD which is in the partition named __.POPS or __.POPS0 or __.POPS1... up to __.POPS9.
+
+Examples of Setups :
 
 pre. 
 === INTERNAL HDD, NEW LAUNCH TYPE ===
@@ -74,41 +120,6 @@ __common/POPS/IOPRP252.IMG
 __common/POPS/POPS.ELF
 PP.Crash_Bandicoot/EXECUTE.KELF
 PP.Crash_Bandicoot/IMAGE0.VCD
-
-______________________________________________________________________________________________________________
-
-h2. _POPSTARTER.KELF :_ 
-
-POPStarter bundle comes with a file named POPSTARTER.KELF (KELF = Krypo-ELF = ELF embedded into a container). It can be used if you have SONY Browser 2.00 (aka HDDOSD) installed on your HDD. Otherwise, it's useless. 
-
-*Notes if you use the POPStarter.KELF :* 
-* Partition name prefix is of course PP. (PPdot)
-* 1 partition = 1 game
-
-Read "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-hddosd for a guide about how to set it up.
-
-______________________________________________________________________________________________________________
-
-h2. _HDD Launch types :_ 
-
-HDD supports 3 "launch types". The "launch type" relies on the prefix of your ELF names. Each type uses his own way to name the VCD file : 
-
-|  | *Old launch type* | *Alternate Old type* | *New launch type* |
-| *HDDOSD compatible* | Yes | No | No |
-| *Partition shown in the HDDOSD/PSBBN/PSX XMB* | Yes | No | - |
-| *Prefix for POPStarter.ELF* | PP. (if used) | __. | No prefix |
-| *Prefix for partition name* | PP. | __. | __.POPS or __.POPS# |
-| *Game name* | IMAGE0.VCD (all uppercase) | IMAGE0.VCD (all uppercase) | Name of the Game.VCD |
-| *Examples* | (1) | (2) | (3) |
-| *Description* | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type introduced in POPStarter 13 WIP 01. Allows to put multiple VCDs in a single partition. |
- 
-*Examples :* 
-
-(1) With the POPStarter ELF renamed as PP.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the partition named PP.SomeGame.
-
-(2) With the POPStarter ELF renamed as __.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the partition named __.SomeGame.
-
-(3) With the POPStarter ELF renamed as Some Game.elf, POPStarter will launch Some Game.VCD which is in the partition named __.POPS or __.POPS0 or __.POPS1... up to __.POPS9.
 
 ______________________________________________________________________________________________________________
 
