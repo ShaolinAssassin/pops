@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 To install POPStarter in HDDOSD, you will need : 
 
-. to use the first HDD launch type (1 game = 1 partition). You can't do it with the __.POPS partition. Your game partition will be a parent partition named PP.Name of my Game.
+. to use the first HDD launch type (1 game = 1 partition). You can't do it with the __.POPS partition. Your game partition will be a parent partition named PP.Name_of_my_Game.
 . to inject some files into the partition header, to make it bootable from HDDOSD + to display infos related to your game + to customize the icon shown in the HDDOSD. 
 
 *Set-by-step :* 
@@ -43,7 +43,7 @@ To install POPStarter in HDDOSD, you will need :
 
 *2.* [PC] - Convert your game as .VCD file.
 
-*3.* [PS2] - Using uLE_kHn, create a partition large enough to store your game. Name it as PP.Name of my Game. Example : PP.Cotton Original. (*! no "+" in the partition name !*)
+*3.* [PS2] - Using uLE_kHn, create a partition large enough to store your game. Name it as PP.Name_of_my_Game. Example : PP.Cotton_Original. (*! no "+" in the partition name, no whitespaces !*)
 
 *4*. [PS2] - Transfer your VCD into your PP.Name of my Game partition and rename it IMAGE0.VCD. 
 
@@ -54,14 +54,14 @@ Your files should look like this :
 pre. 
 __common/POPS/IOPRP252.IMG
 __common/POPS/POPS.ELF
-PP.Cotton Original/EXECUTE.KELF
-PP.Cotton Original/IMAGE0.VCD
+PP.Cotton_Original/EXECUTE.KELF
+PP.Cotton_Original/IMAGE0.VCD
 
 Before you can inject the files into the partition hearder, you need to get them ready for your particular game.
 
 *6.* [PC] - Download the "sample files":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/hddosd_sample_files.7z. The .7z includes : 
 
-- system.cnf = this file tells the PS2 where to look at for launching POPStarter (BOOT2 = pfs:/EXECUTE.KELF in system.cnf means that the file that will be launched from HDDOSD is EXECUTE.KELF, placed into the root of the partition) and also the VMODE to use (PAL/NTSC). 
+- system.cnf = this file tells the PS2 where to look at for launching POPStarter (BOOT2 = pfs:/EXECUTE.KELF in system.cnf means that the file that will be launched from HDDOSD is EXECUTE.KELF, placed into the root of the partition). 
 
 - list.ico = this file is a PS2 icon, made by myself using my profile picture from PSX-scene. You can learn how to create your own icons "here":http://web.archive.org/web/20140401012522/http://sksapps.com/index.php?page=Creating_Icons_tutorial.html (very easy). If you want that HDDOSD displays a special image when you are about to delete a game/partition, repeat the process and name this file del.ico.
 
@@ -100,7 +100,7 @@ pre.
 - list.ico 
 - system.cnf 
 
-*10.* [PS2] - Connect your PS2 to your PC using a crossover cable, and launch hdl_svr_0.93.elf using uE from it.
+*10.* [PS2] - Connect your PS2 to your PC using a crossover cable, and launch hdl_svr_0.93.elf using uLE from it.
 
 *11.* [PC] - Launch command promt.
 
@@ -130,7 +130,7 @@ Skipped boot.kirx
 
 *15.* Done ! ;)
 
-*Note :* when POPStarter get an update, delete the file EXECUTE.KELF from PP.Name of my Game and replace it with the new version. 
+*Note :* when POPStarter gets an update, delete the file EXECUTE.KELF from PP.Name_of_my_Game and replace it with the new version. 
 
 
 
