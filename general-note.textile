@@ -11,7 +11,7 @@ These files can be placed into 2 different locations : POPS folder and VMC folde
 
 As general rule :
  
-* If a TROJAN#BIN, PATCH#.BIN, BIOS.BIN, OSD.BIN, CHEATS.TXT, VMC.DIR, WHATEVER... is placed into POPS folder, it will be applied to ALL games in POPS folder;
+* If a TROJAN#BIN, PATCH#.BIN, BIOS.BIN, OSD.BIN, CHEATS.TXT, VMC.DIR, WHATEVER... is placed into POPS folder, it will be applied to ALL games;
 * If a TROJAN#BIN, PATCH#.BIN, BIOS.BIN, OSD.BIN, CHEATS.TXT, VMC.DIR, WHATEVER... is placed into the game VMC folder, it will be applied to only this particular game;
 * POPStarter can handle multiple different external files at the same time;
 * POPStarter can handle multiple different external files at the same time from different locations;
@@ -24,7 +24,7 @@ pre.
 
 Here, PATCH1.BIN will be applied to all games while the CHEATS.TXT file will be only applied/active for Crash Bandicoot game.
 
-* When you use multiple external files of same type from both POPS folder and VMC game folder, the file which is in the VMC folder has priority;
+* When you use multiple external files *of same type* from both POPS folder and VMC game folder, the file which is in the VMC folder has priority;
 
 Example : 
 
@@ -32,7 +32,7 @@ pre.
 /POPS/TROJAN2.BIN
 /POPS/Crash Bandicoot/TROJAN2.BIN
 
-Here, only /POPS/Crash Bandicoot/TROJAN2.BIN will be applied.
+Here, only POPS/Crash Bandicoot/TROJAN2.BIN will be applied.
 
 * Only exception to this rule is when 2 CHEATS.TXT files are loaded from POPS and VMC game folder at the same time and that CHEATS.TXT file contains special cheats changing the video mode.
 
