@@ -3,8 +3,6 @@ h1. *Swap disc feature*
 ______________________________________________________________________________________________________________
 
 
-h2. _How to use it :_
-
 Since OBT 15, POPStarter has a swap disc feature that lets you play multi-disc easily. 
 
 1. Create a DISCS.TXT text file containing the file names of your VCDs, one file name per line (with VCD extension) ;
@@ -22,19 +20,19 @@ Metal Gear Solid (Disc 1).VCD
 Metal Gear Solid (Disc 2).VCD
 
 
-2. Copy this DISCS.TXT file to the VMC folders of all your game discs ;
+2. Copy/paste this DISCS.TXT file to the VMC folders of ALL your game discs ;
 3. When required by the game, open the lid using the hotkey ;
 4. Insert the disc you want to load using the hotkey ;
 5. Close the lid using the hotkey.
 
 *Hotkeys :*
 
-* Open the lid : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2651471562-Playstation-Button-T.png(title)!
-* Insert Disc 1 : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3199916752-Playstation-Dpad-Up.png(title)!
-* Insert Disc 2 : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2374122730-Playstation-Dpad-Right.png(title)!
-* Insert Disc 3 : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)!
-* Insert Disc 4 : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/4108913469-Playstation-Dpad-Left.png(title)!
-* Close the lid : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3011564833-Playstation-Button-S.png(title)!
+* To open the lid : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2651471562-Playstation-Button-T.png(title)!
+* To insert Disc 1 : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3199916752-Playstation-Dpad-Up.png(title)!
+* To insert Disc 2 : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2374122730-Playstation-Dpad-Right.png(title)!
+* To insert Disc 3 : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)!
+* To insert Disc 4 : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/4108913469-Playstation-Dpad-Left.png(title)!
+* To close the lid : !https://bitbucket.org/repo/Mpy7Eg/images/3405191067-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1165364186-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1712503932-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3011564833-Playstation-Button-S.png(title)!
 
 *Limitations :*
 
@@ -64,7 +62,7 @@ MGS_CD1.VCD
 MGS_CD2.VCD
 
 *Notes :* 
-* Keep in mind that the change disc feature is useful only if you must swap discs *without any PS1 reboot*. For the other games, you only need to swap the VMCs manually (copy/paste VMCs from VMC disc 1 folder to VMC disc 2 folder) - or you can use the "trick" below to avoid such a manipulation.
+* The swap disc feature is useful only if you must swap discs *without any PS1 reboot*. For the other games, you only need to swap the VMCs manually (copy/paste VMCs from VMC disc 1 folder to VMC disc 2 folder) - or you can use the "trick" below to avoid such a manipulation.
 * If your disc has more than 4 discs, install the forth first ones, play them until disc 4, then uninstall discs 1, 2 and 3, and install disc 5, 6, 7...
 
 
@@ -104,7 +102,9 @@ ________________________________________________________________________________
 
 h2. _Use DISCS POOPER tool !_
 
-DISCS_POOPER is a little program that does the boring writing DISCS.TXT files for you.
+DISCS_POOPER is a little program that does the boring job for you.
+
+*How to use it :*
 
 1. Create a new folder ;
 2. Drop the VCD files of your multic-disc game in it ;
