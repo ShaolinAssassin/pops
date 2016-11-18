@@ -10,7 +10,7 @@ h2. _Requirements :_
 
 To use POPStarter in SMB mode, you have to find and download the compressed POPS file. This file is named "POPS_IOP.PAK" and it's the same as the USB mode uses... 
 
-| *File name* | *MD5* | *Description* | *Location* |
+| *File name* | *MD5* | *Description* |
 | POPS_IOX.PAK | a625d0b3036823cdbf04a3c0e1648901 | POPS.PAK with network modules embedded | 
 
 * *Other Software Requirements :*
