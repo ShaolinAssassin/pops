@@ -95,7 +95,7 @@ HDD supports 3 "launch types". The "launch type" relies on the prefix of your EL
 
 (3) With the POPStarter ELF renamed as Some Game.elf, POPStarter will launch Some Game.VCD which is in the partition named __.POPS or __.POPS0 or __.POPS1... up to __.POPS9.
 
-Examples of Setups :
+*Examples of Setups :
 
 pre. 
 === INTERNAL HDD, NEW LAUNCH TYPE ===
