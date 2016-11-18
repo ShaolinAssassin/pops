@@ -78,7 +78,7 @@ h2. _HDD Launch types (advanced) :_
 
 HDD supports 3 "launch types". The "launch type" relies on the prefix of your ELF names. Each type uses his own way to name the VCD file : 
 
-|  | *Old launch type* | *Alternate Old type* | *New launch type* |
+|  | *Old launch type* | *Alternate old launch type* | *New launch type* |
 | *HDDOSD compatible* | Yes | No | No |
 | *Partition shown in the HDDOSD/PSBBN/PSX XMB* | Yes | No | - |
 | *Prefix for POPStarter.ELF* | PP. (if used) | __. | No prefix |
@@ -98,27 +98,25 @@ HDD supports 3 "launch types". The "launch type" relies on the prefix of your EL
 *Examples of Setups :*
 
 pre. 
-=== INTERNAL HDD, NEW LAUNCH TYPE ===
-__common/POPS/IOPRP252.IMG
-__common/POPS/POPS.ELF
-__.POPS/Crash Bandicoot.VCD
-__sysconf/FMCB/Crash Bandicoot.elf
-
-
-pre. 
-=== INTERNAL HDD, OLD LAUNCH TYPE (HIDDEN PARTITION) ===
-__common/POPS/IOPRP252.IMG
-__common/POPS/POPS.ELF
-__.Crash_Bandicoot/IMAGE0.VCD
-__sysconf/FMCB/__.Crash Bandicoot.elf
-
-
-pre. 
 === INTERNAL HDD, OLD LAUNCH TYPE (HDDOSD COMPATIBLE) ===
 __common/POPS/IOPRP252.IMG
 __common/POPS/POPS.ELF
 PP.Crash_Bandicoot/EXECUTE.KELF
 PP.Crash_Bandicoot/IMAGE0.VCD
+
+pre. 
+=== INTERNAL HDD, ALTERNATE OLD LAUNCH TYPE (HIDDEN PARTITION) ===
+__common/POPS/IOPRP252.IMG
+__common/POPS/POPS.ELF
+__.Crash_Bandicoot/IMAGE0.VCD
+__sysconf/FMCB/__.Crash Bandicoot.elf
+
+pre. 
+=== INTERNAL HDD, NEW LAUNCH TYPE ===
+__common/POPS/IOPRP252.IMG
+__common/POPS/POPS.ELF
+__.POPS/Crash Bandicoot.VCD
+__sysconf/FMCB/Crash Bandicoot.elf
 
 ______________________________________________________________________________________________________________
 
