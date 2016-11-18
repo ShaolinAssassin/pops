@@ -23,9 +23,9 @@ To use POPStarter with an internal HDD, you have to find and download the POPS d
 
 * *Hardware Requirements :* 
 
-* A PS2 console which is able to run PS2 unsigned code;
-* A network adapter with/or a HDD interface;
-* A PS2-formatted HDD that fits your network adapter/HDD interface.
+. A PS2 console which is able to run PS2 unsigned code;
+. A network adapter with/or a HDD interface;
+. A PS2-formatted HDD that fits your network adapter/HDD interface.
 
 ______________________________________________________________________________________________________________
 
