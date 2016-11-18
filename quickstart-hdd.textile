@@ -60,4 +60,4 @@ hdd:/__.POPS/Crash Bandicoot.ELF
 
 ______________________________________________________________________________________________________________
 
-h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h3. "*Wiki Homepage*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
