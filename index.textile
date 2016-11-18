@@ -19,7 +19,7 @@ ________________________________________________________________________________
 * "Requirements":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 * "Installation":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 * "Example of setup":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
-* "HDD Launch types":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
+* "USB Launch type":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 * "Additional notes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 
 "*3.  POPStarter for SMB*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
