@@ -538,7 +538,6 @@ _[From wip05 documentation]_
 * X-Men: Children Of The Atom (SLUS-00044) – Compatibility Mode 0×04
 
 
-
 ______________________________________________________________________________________________________________
 
-h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
