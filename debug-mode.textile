@@ -1,13 +1,13 @@
-h1. *POPStarter Debug Mode*
+h1. *Debug Mode*
 
 
 ______________________________________________________________________________________________________________
 
-POPStarter has an embedded Debug Mode. It's ON by default in SMB mode (and it can't be turn OFF in this mode) and it can be turn ON in HDD and USB modes. 
+POPStarter has an embedded debug mode. It's ON by default in SMB mode (and it can't be turn OFF in this mode) and it can be turn ON in HDD and USB modes. Use debug mode when something is wrong in your setup.
 
-To enable POPStarter Debug Mode : 
+*How to enable POPStarter debug mode :* 
 
-*Normal users :* apply "the DEBUG_AND_HALT.PPF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DEBUG_AND_HALT.PPF over POPSTARTER.ELF (or POPSTARTER.KELF) using a PPF patcher (such as "PPF-O-matic":http://www.romhacking.net/utilities/356/).
+*Regular :* apply "the DEBUG_AND_HALT.PPF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DEBUG_AND_HALT.PPF over POPSTARTER.ELF (or POPSTARTER.KELF) using a PPF patcher (such as "PPF-O-matic":http://www.romhacking.net/utilities/356/).
 
 !http://www.romhacking.net/utilities/screenshots/356screenshot1.gif!
 
@@ -19,9 +19,9 @@ To enable POPStarter Debug Mode :
 # Browse to DEBUG_AND_HALT.PPF location and select it ;
 # Click "Apply" and you're done. Do not forget to rename POPSTARTER.ELF before using it. 
 
-*Advanced users :*
+*Advanced :*
 
-Hexedit manually POPSTARTER.ELF. See POPStarter Configuration Table "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table to know what to change.
+Hexedit manually POPSTARTER.ELF. See POPStarter Configuration Table "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table.
 
 Take note of the debug message and ask/report it @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/ if you need more help.
 
