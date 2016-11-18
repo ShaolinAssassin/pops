@@ -2,12 +2,12 @@ h1. *Wiki - Table of Content*
 
 
 ______________________________________________________________________________________________________________
-
+_[Original documentation by krHACKen - updated by shaolinassassin]_
 
 *Note :* the following documentation is up-to-date with *Rev13 WIP6 OBT15*. Some of the features described here are only available *in the last betas*.
 
 
-"*1.  POPStarter for Internal HDD*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
+"*1. POPStarter for Internal HDD*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
 * "Requirements":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
 * "Installation":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
 * "Example of setup":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
@@ -15,22 +15,26 @@ ________________________________________________________________________________
 * "HDD Launch types":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
 * "Additional notes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
 
-"*2.  POPStarter for USB Device Storage Type*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
+"*2. POPStarter for USB Device Storage Type*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 * "Requirements":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 * "Installation":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 * "Example of setup":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 * "USB Launch type":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 * "Additional notes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 
-"*3.  POPStarter for SMB*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
+"*3. POPStarter for SMB*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
+* "Requirements":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
+* "Installation":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
+* "Example of setup":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
+* "SMB Launch type":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
+* "Additional notes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
 
-*4.  Game Compatibility*
-* "Compatibility Rates":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
-* "Compatibility Lists":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
-* "Compatibility Modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
-* "Game Fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
+*4. Compatibility*
+* "Compatibility rates and forms":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
+* "Compatibility lists (official)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
+* "Compatibility modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
+* "Game fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
 * "Automated Fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated
-
 
 *5.  Features and Settings*
 * "General Note":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/general-note
@@ -80,4 +84,6 @@ _*Need help ?*_
 Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/. Be sure to run POPStarter in "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode before.
 
 ______________________________________________________________________________________________________________
-_[Original documentation by krHACKen - updated by shaolinassassin]_
+
+h3. "*Wiki Homepage*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+
