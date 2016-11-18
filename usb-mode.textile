@@ -35,7 +35,7 @@ h2. _Installation :_
 
 * *b) Installing your PS1 Games :*
 
-1. Convert your BIN/CUE disc images to .VCD files using the latest stable version of CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vcd;
+1. Convert your BIN/CUE disc images to .VCD files using the latest stable version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vcd ;
 2. Put your .VCD files in the "POPS" directory which is in the root of your USB device.
 
 * *c) Installing POPStarter :* 
