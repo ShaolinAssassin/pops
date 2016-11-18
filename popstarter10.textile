@@ -75,4 +75,4 @@ kHn, 2013/04/19
 
 ______________________________________________________________________________________________________________
 
-h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
