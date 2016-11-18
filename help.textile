@@ -94,4 +94,5 @@ Don't combine modes 0x01, 0x02, 0x03 and 0x05. Activate only one of them, becaus
 
 ______________________________________________________________________________________________________________
 
-h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
