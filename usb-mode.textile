@@ -86,5 +86,5 @@ h2. _Additional notes :_
 
 ______________________________________________________________________________________________________________
 
-h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home/index
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
  
