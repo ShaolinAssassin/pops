@@ -3,9 +3,6 @@ h1. *Cheat Engine*
 
 ______________________________________________________________________________________________________________
 
-
-h2. _Cheating :_
-
 Since WIP06 OBT 01, POPStarter has an embedded cheat engine :
 
 * codes will be stored into a txt file named CHEATS.TXT placed into the VMC game folder;
