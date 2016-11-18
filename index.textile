@@ -12,6 +12,12 @@ ________________________________________________________________________________
 "*1.  Convert your PS1 games to VCD format*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vcd
 
 "*2.  POPStarter for Internal HDD*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
+* "Requirements":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
+* "Installation":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
+* "Example of setup":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
+* "POPSTARTER.KELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
+* "HDD Launch types":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
+* "Additional notes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
 
 "*3.  POPStarter for USB Device Storage Type*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/usb-mode
 
