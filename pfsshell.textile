@@ -100,4 +100,5 @@ pfs.bat hddX: __.POPS *.VCD
 
 ______________________________________________________________________________________________________________
 
-h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
