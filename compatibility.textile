@@ -56,7 +56,7 @@ If your game is poorly emulated, you can try to enable a compatibility mode to s
 
 *Caution :* Modes 0x01, 0x02, 0x03 and 0x05 cannot be enabled in the same time or combined. These are variants of the same hack and they are conflicting, so use only use one of them at a time. Please let us know (at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/) if you managed to solve a problem in your game by forcing modes, so the fix can be integrated in POPStarter.
 
-*How to use a mode *
+*How to use a mode*
 
 * *using a PATCH_X.BIN file from the compatibility mode archive :* get the "compatibility mode archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Compatibility_Modes.7z, copy the PATCH file in the VMC directory of your problematic game then test the game. If the compatibility mode doesn't solve any problem in your game, delete the PATCH file from the VMC directory and redo the operations with the next PATCH file.
 * *using a CHEATS.TXT file :* see the "cheat engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cheat-engine section to know how to enable a mode using the cheat engine.
