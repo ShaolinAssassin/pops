@@ -17,4 +17,4 @@ Last version of each main app related to POPStarter (yeah, I'm too lazy to fix s
 
 ______________________________________________________________________________________________________________
 
-h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home/index
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
