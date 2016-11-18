@@ -4,47 +4,51 @@ h1. *POPStarter for SMB*
 ______________________________________________________________________________________________________________
 
 
-h2. _POPS compressed file :_
+h2. _Requirements :_
 
-To use POPStarter in SMB mode, you have to find and download the compressed POPS file. This file is named "POPS_IOP.PAK" and it's the same as the USB mode uses... You are on your own to find it (google is your friend ;) )
+* *POPS decrypted files :* 
+
+To use POPStarter in SMB mode, you have to find and download the compressed POPS file. This file is named "POPS_IOP.PAK" and it's the same as the USB mode uses... 
 
 | *File name* | *MD5* | *Description* | *Location* |
-| POPS_IOX.PAK | a625d0b3036823cdbf04a3c0e1648901 | old POPS.PAK with network modules embedded | smb0:/YourSharedFolder/POPS/POPS_IOX.PAK |
+| POPS_IOX.PAK | a625d0b3036823cdbf04a3c0e1648901 | POPS.PAK with network modules embedded | 
 
-h2. _Other Software Requirements :_
+* *Other Software Requirements :*
 
-* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
-* A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
-* "PS2 network modules":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/network_modules.zip
-* A text editor (such as Notepad)
+. A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
+. A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
+. "PS2 network modules":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/network_modules.zip
+. A text editor (such as Notepad)
 
-h2. _Hardware Requirements :_
+* *Hardware Requirements :* 
 
-* A PS2 console which is able to run PS2 unsigned code
-* A PS2 console with a network interface (network adaptor or native)
-* A network cable
-* A PS2 Memory Card
+. A PS2 console which is able to run PS2 unsigned code
+. A PS2 console with a network interface (network adaptor or native)
+. A network cable
+. A PS2 Memory Card
 
 ______________________________________________________________________________________________________________
 
-h2. _A) Installing the Emulator :_
+h2. _Installation :_
 
-# Find and download the compressed emulator files;
-# Create a directory named "POPS" in your PS2 shared folder;
-# Copy POPS_IOP.PAK  into the "POPS" directory you've just created.
+* *a) Installing the Emulator :*
 
-h2. _B) Installing your PS1 Games :_ 
+1. Find and download the compressed emulator files;
+2. Create a directory named "POPS" in your PS2 shared folder;
+3. Copy POPS_IOP.PAK  into the "POPS" directory you've just created.
 
-# Convert your BIN/CUE disc images to .VCD files using the latest stable version of Toolbox;
-# Put your .VCD files in the "POPS" directory of your PS2 shared folder.
+* *b) Installing your PS1 Games :*
 
-h2. _C) Installing POPStarter & the network modules :_ 
+1. Convert your BIN/CUE disc images to .VCD files using the latest stable version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vcd ;
+2. Put your .VCD files in the "POPS" directory of your PS2 shared folder.
 
-# Grab the network modules and edit the 2 DAT files (syntax below) with your network settings;
-# Paste the network modules and the DAT files into mc#/:POPSTARTER/ folder;
-# Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension, add the SB. prefix;   [example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "SB.Gran Turismo.elf"];
-# Copy or leave the ELFs where you want to run them from.
+* *c) Installing POPStarter :*
 
+1. Grab the network modules and edit the 2 .DAT files (syntax below) with your network settings;
+2. Paste the network modules and the .DAT files into mc#/:POPSTARTER/ folder;
+3. Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .elf extension, add the SB. prefix;   [example : for running a VCD named "Gran Turismo.VCD", the POPStarter ELF must be renamed as "SB.Gran Turismo.elf"];
+4. Copy or leave the ELFs where you want to run them from.
+5. Enjoy !
 
 * *SMBCONFIG.DAT syntax :*
 
@@ -53,8 +57,7 @@ In a single line,
 pre. 
 SERVER IP ADDRESS space SHARE NAME
 
-Example below:
-
+Example :
 
 pre. 
 192.168.0.254 My Shared Folder
@@ -69,12 +72,14 @@ pre.
 
 For user authentication, write your username to line 2 and your password to line 3.
 
-Example below:
+Example :
 
 pre. 
 192.168.0.254 My Shared Folder
 MyName
 MyPassword
+
+*Note :* don't write anything to line 2 and 3 for guest access.
 
 * *IPCONFIG.DAT syntax* _(this file is optionnal in SMB mode)_
 
@@ -83,16 +88,12 @@ In a single line,
 pre. 
 PS2 IP ADDRESS space NETMASK space GATEWAY
 
-
-Example below:
+Example :
 
 pre. 
 192.168.0.13 255.255.255.0 192.168.0.254
 
-
-
 ______________________________________________________________________________________________________________
-
 
 h2. _Example of Setup :_ 
 
@@ -108,7 +109,7 @@ mc#:/POPSTARTER/ps2smap.irx
 mc#:/POPSTARTER/smbman.irx
 smb0:/YourSharedFolder/POPS/POPS_IOX.PAK
 smb0:/YourSharedFolder/POPS/Crash Bandicoot.VCD
-mass:/POPS/SB.Crash Bandicoot.elf
+mass:/SB.Crash Bandicoot.elf
 
 ______________________________________________________________________________________________________________
 
@@ -127,7 +128,7 @@ ________________________________________________________________________________
 
 h2. _Additional notes :_
 
-* You can not use the old POPS.ELF+IOPRP252.IMG files (POPS.PAK) in SMB mode, updating to POPS_IOP_PAK is mandatory.
+* You can NOT use the old POPS.ELF+IOPRP252.IMG files (POPS.PAK) in SMB mode, updating to POPS_IOP_PAK is mandatory for SMB mode.
 * You can load the network modules from the MC that is in the second slot too. When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/....
 * Debug infos at startup can not be skipped in SMB mode.
 * The third character of the ELF prefix is a dot (SBdot).
@@ -136,4 +137,4 @@ h2. _Additional notes :_
 
 ______________________________________________________________________________________________________________
 
-h1. "*Home*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
+h3. "*Home*":https://bitbucket.org/SaulGoodman/popstarter-documentation-stuff/wiki/Home
