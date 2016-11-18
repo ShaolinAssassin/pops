@@ -27,4 +27,4 @@ To convert your PS1 games from .BIN+.CUE to .VCD format, you need to use the las
 
 ______________________________________________________________________________________________________________
 
-h3. "*Wiki index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
