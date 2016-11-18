@@ -45,28 +45,29 @@ h2. _Compatibility modes :_
 
 If your game is poorly emulated, you can try to enable a compatibility mode to see if it helps.
 
-| *Compatibility mode* | *Description* | *File Name* | *Cheat code* |
-| 0×01 | Help restoring the music/voices in several games. | PATCH_1.BIN | $COMPATIBILITY_0x01 |
-| 0x02 | A variant of mode 0×01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series). | PATCH_2.BIN | $COMPATIBILITY_0x02 |
-| 0x03 | Can be used if the mode 0×01 doesn’t provide the expected results. | PATCH_3.BIN | $COMPATIBILITY_0x03 |
-| 0x04 | Fixes slowdowns, flickering, and many other glitches (prevent the emulator from writing a garbage value in two of the virtual GPU registers). | PATCH_4.BIN | $COMPATIBILITY_0x04 |
-| 0x05 | Made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut. | PATCH_5.BIN | $COMPATIBILITY_0x05 |
-| 0x06 | Disable the OSD shell of the emulator’s built-in BIOS, making some games that freeze on startup run. | PATCH_6.BIN | $COMPATIBILITY_0x06 |
-| 0x07 | Fixe the missing textures problems (example : "Tomb Raider III":https://www.youtube.com/watch?v=3LmGlgY_rNs&feature=youtu.be ). | PATCH_7.BIN | $COMPATIBILITY_0x07 |
+| *Compatibility mode* | *Description* |
+| 0×01 | Helps restoring the music/voices in several games. |
+| 0x02 | A variant of mode 0×01, with a second hack for not breaking the MDECoding of FMVs (was designed for the Colony Wars series). |
+| 0x03 | Can be used if the mode 0×01 doesn’t provide the expected results. |
+| 0x04 | Fixes slowdowns, flickering, and many other glitches (prevents the emulator from writing a garbage value in two of the virtual GPU registers). |
+| 0x05 | Made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut. |
+| 0x06 | Disables the OSD shell of the emulator’s built-in BIOS, making some games that freeze on startup run. |
+| 0x07 | Fixes the missing textures problems (example : "Tomb Raider III":https://www.youtube.com/watch?v=3LmGlgY_rNs&feature=youtu.be ). |
 
-*Caution :* Modes 0x01, 0x02, 0x03 and 0x05 cannot be enabled in the same time or combined. These are variants of the same hack and they are conflicting, so use only use one of them at a time. Please let us know (at ASSEMblergames) if you managed to solve a problem in your game by forcing modes, so I could integrate the fix in POPStarter.
+*Caution :* Modes 0x01, 0x02, 0x03 and 0x05 cannot be enabled in the same time or combined. These are variants of the same hack and they are conflicting, so use only use one of them at a time. Please let us know (at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/) if you managed to solve a problem in your game by forcing modes, so the fix can be integrated in POPStarter.
 
 *How to use a mode ?*
 
 3 options : 
 # Using a PATCH_X.BIN file from the compatibility mode archive;
 # Using a CHEATS.TXT file;
-# Hardcoding the mode into POPStarter (see "POPStarter configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table).
+# Hardcoding the mode in POPStarter (advanced).
 
-*Using a PATCH_X.BIN file* : get the "compatibility mode archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Compatibility_Modes.7z, copy the PATCH file in the VMC directory of your problematic game then test the game;
-If the compatibility mode doesn't solve any problem in your game, delete the PATCH file from the VMC directory and redo the operations with the next PATCH file.
+*Using a PATCH_X.BIN file* : get the "compatibility mode archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Compatibility_Modes.7z, copy the PATCH file in the VMC directory of your problematic game then test the game. If the compatibility mode doesn't solve any problem in your game, delete the PATCH file from the VMC directory and redo the operations with the next PATCH file.
 
-*Using CHEATS.TXT file* : see the "cheat engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cheat-engine section to know how to use it.
+*Using CHEATS.TXT file* : see the "cheat engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cheat-engine section to know how to enable a mode using the cheat engine.
+
+*Hardcoding the mode in POPStarter : see "POPStarter configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table.
 
 ______________________________________________________________________________________________________________
 
@@ -128,13 +129,6 @@ h2. _Automated fixes :_
 
 A list of all the LC cracks, crash fixes & compatibility modes integrated into POPStarter can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated. You don't need to enable them/do something to get them enabled, as POPStarter will detect your game and apply the matching fix all by itself.
 
-______________________________________________________________________________________________________________
-
-h2. _Related stuff :_ 
-
-You may want to give a look at this : 
-
-* [COMPATIBILITY] "Troubleshooting games":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/troubleshooting-games
 
 ______________________________________________________________________________________________________________
 
