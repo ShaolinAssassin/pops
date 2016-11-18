@@ -1,16 +1,5 @@
-h1. *Toolbox/CUE2POPS Changelogs :*
+h1. *CUE2POPS changelog :*
 
-
-______________________________________________________________________________________________________________
-
-
-h2. _Toolbox :_ 
-
-
-*2014/10/19 - v1.0*
-
-pre. 
-Initial release (undocumented)
 
 
 ______________________________________________________________________________________________________________
@@ -77,10 +66,19 @@ pre.
 pre. 
 Initial release
 
+______________________________________________________________________________________________________________
 
+
+h2. _Toolbox :_ 
+
+
+*2014/10/19 - v1.0*
+
+pre. 
+Initial release (undocumented)
 
 
 
 ______________________________________________________________________________________________________________
 
-h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
