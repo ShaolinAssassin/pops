@@ -4,29 +4,27 @@ h1. *Convert your PS1 games to VCD format*
 
 ______________________________________________________________________________________________________________
 
-h2. _VCD creation :_ 
 
+POPS doesn’t support PS1 games images as *.iso. It uses virtual CD-ROM format (*.VCD files). You need to create a 1:1 image of your PS1 game, first in .BIN+.CUE format using your favorite dump software, then to convert it to .VCD. 
 
-POPS uses virtual CDROM format (.VCD). You need to create a 1:1 image of your PS1 game, first in .BIN+.CUE format using your favorite dump software, then to .VCD. 
-
-Your .BIN image must be a raw MODE2/2352 dump and the .CUE a standard ASCII cuesheet. Open the .CUE file in a text editor and check the first line. If you can see "MODE2/2352", it's ok. 
+Your .BIN image must be a raw MODE2/2352 dump and the .CUE a standard ASCII cuesheet. Open the .CUE file in a text editor and check the first lines. If you can see "MODE2/2352", it's ok. 
  
-* *How to convert to .VCD :*
+* *How to convert to .VCD format :*
 
-To convert your PS1 games from .BIN+.CUE to .VCD, you need to use the last version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version.
+To convert your PS1 games from .BIN+.CUE to .VCD format, you need to use the last version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version.
 
-# Put your .BIN+.CUE image in the CUE2POPS folder. 
-# Drag & drop your .CUE file on the BULK_CUE2POPS.BAT file. 
-# A .VCD image of your game will be created in the folder. 
+# Put your .BIN+.CUE image of your PS1 game in CUE2POPS folder ;
+# Drag and drop your .CUE file on CUE2POPS.EXE file ;
+# A .VCD image of your game is created in CUE2POPS folder. 
 
 
 *Notes :* 
 
-* You can convert several games at once by running the BULK_CUE2POPS.BAT. Your .BIN+.CUE images must be in the same folder as this file.
-* To multi-disc games, please read this section about how to use the "swap disc feature":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi-disc.
-* CUE2POPS is a part of Toolbox soft, which can do more than only convert your games to .VCD. For a complete description of Toolbox, see "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/toolbox-commands.
-* Linux users, you can get CUE2POPS src code with changes made for Linux "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/cue2pops_src_linux.7z. Download gcc with your distributions package manager and compile the file (SovietStriker @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-55#post-792589).
+* You can convert several games at once by running the BULK_CUE2POPS.BAT. BULK_CUE2POPS.BAT must be placed in CUE2POPS folder, along with your PS1 game images, as *.BIN/*.CUE.
+* For multi-disc games, please read this section about how to use the "swap disc feature":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi-disc.
+* CUE2POPS is a part of Toolbox soft, which can do more than only convert your games to .VCD format. For a complete description of Toolbox, see "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/toolbox-commands.
+* Linux users, you can get CUE2POPS src code with changes made for Linux "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/cue2pops_src_linux.7z. Download gcc with your distribution package manager and compile the file (info by SovietStriker @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-55#post-792589).
 
 ______________________________________________________________________________________________________________
 
-h1. "*Home*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h1. "*Wiki index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
