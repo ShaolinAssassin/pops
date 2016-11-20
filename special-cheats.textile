@@ -21,8 +21,8 @@ Some useful commands have been automated. Here are them :
 | $HDTVFIX | Enables SetGsCrt hack. | Helps with the HDTVs that can’t deal with the interlaced resolutions thru component (plain green screens and other rubbish displayed otherwise). Not compatible with some CRT TVs. |
 | $00507028 00000001 | Rumble Always On (Pad 1). |  |
 | $005070B8 00000001 | Rumble Always On (Pad 2). |  |
-| "$D2LS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/D2LS  | "Left Stick is the D-Pad" code.  | Stay on Digital Mode version. Enables joystick support for games that doesn't support it natively. |
-| $D2LS_ALT | "Left Stick is the D-Pad" code.  | Minus Stay on Digital Mode version. Enables joystick support for games that doesn't support it natively. |
+| "$D2LS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/D2LS  | "Left Stick is the D-Pad" code + Stay on Digital Mode.  | Enables joystick support for games that doesn't support it natively. |
+| $D2LS_ALT | "Left Stick is the D-Pad" code + Stay on Analog Mode. | Enables joystick support for games that doesn't support it natively. |
 | $IGR0 | Hold L1+L2+R1+R2+X+Down to open the IGR menu. |  |
 | $IGR1 | Hold Start+Select to open the IGR menu. |  |
 | $IGR2 | Hold L1+L2+R1+R2+Start+Select to open the IGR menu. |  |
