@@ -31,7 +31,6 @@ Some useful commands have been automated. Here are them :
 | $IGR5 | Hold L1+L2+R1+R2+Start+Select to terminate POPS (no IGR menu). |  |
 | $NOIGR | Disables the IGR menu. |  |
 | $CACHE1 | Makes POPS buffer 1 sector instead of 16. | |
-
 | $USBDELAY_# | Sets up the PFS wrapper USB delay. | # is a number. |
 ______________________________________________________________________________________________________________
 
