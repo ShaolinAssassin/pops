@@ -9,7 +9,7 @@ Some useful commands have been automated. Here are them :
 | *Cheat Code* | *Description* | *Notes* |
 | $SAFEMODE | Disables the cheat engine and only activate it after POPS has left the PS OSD. | Should be always ON. Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
 
-* *Compatibility commands:*
+* *Compatibility commands :*
 
 | *Cheat Code* | *Description* | *Notes* |
 | $COMPATIBILITY_0x## | Activates a compatibility mode. | ## is a hexadecimal value. You can write as many $COMPATIBILITY_0x## as you want. |
