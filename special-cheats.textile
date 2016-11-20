@@ -5,12 +5,20 @@ ________________________________________________________________________________
 
 Some useful commands have been automated. Here are them :
 
+
 | *Cheat Code* | *Description* | *Notes* |
 | $SAFEMODE | Disables the cheat engine and only activate it after POPS has left the PS OSD. | Should be always ON. Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
-| $CACHE1 | Makes POPS buffer 1 sector instead of 16. | |
+
+* *Compatibility commands:*
+
+| *Cheat Code* | *Description* | *Notes* |
 | $COMPATIBILITY_0x## | Activates a compatibility mode. | ## is a hexadecimal value. You can write as many $COMPATIBILITY_0x## as you want. |
 | $FAKELC | Loads a null LibCrypt magic word into the cop0 register. | May be needed by some discs that have a messed up LC protection. |
-| $USBDELAY_# | Sets up the PFS wrapper USB delay. | # is a number. |
+
+
+* *Video commands :*
+
+| *Cheat Code* | *Description* | *Notes* |
 | $SMOOTH | Enables the "smooth texture":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/SMOOTH mapping at startup. | $S0003390 00000001 |
 | $NOPAL | Disables POPStarters' PAL patcher. | PATCH_9.BIN now obsolete (still working tho). |
 | $FORCEPAL | Forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL).  | Useful for PAL VCDs that don't have a valid license text in their bootsector. PATCH_8.BIN now obsolete (still working tho). |
@@ -20,16 +28,31 @@ Some useful commands have been automated. Here are them :
 | $DWSTRETCH_#### |  Stretches the display horizontally to your screen. | # is a number (decimal). Works only in PAL and NTSC modes. Default value : 2559. Increase it to stretch the screen on the right, decrease it for the left. |
 | $DWCROP_#### | Reduces/expands the display area width. | # is a number (decimal). Works only in PAL and NTSC modes. Maximum value : 2560. Decrease it to crop the screen on the right. |
 | $HDTVFIX | Enables SetGsCrt hack. | Helps with the HDTVs that can’t deal with the interlaced resolutions thru component (plain green screens and other rubbish displayed otherwise). Not compatible with some CRT TVs. |
+
+* *Controller commands :*
+
+| *Cheat Code* | *Description* | *Notes* |
 | $00507028 00000001 | Rumble Always On (Pad 1). |  |
 | $005070B8 00000001 | Rumble Always On (Pad 2). |  |
 | "$D2LS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/D2LS  | "Left Stick is the D-Pad" code + Stay on Digital Mode. | Enables joystick support for games that doesn't support it natively. |
-| $D2LS_ALT | "Left Stick is the D-Pad" code. | Enables joystick support for games that doesn't support it natively. |
+| $D2LS_ALT | "Left Stick is the D-Pad" Remapping Code. | Enables joystick support for games that doesn't support it natively. |
 
+* *IGR Behaviour Modifiers commands :*
 
+| *Cheat Code* | *Description* | *Notes* |
+| $IGR0 | Hold L1+L2+R1+R2+X+Down to open the IGR menu. |  |
+| $IGR1 | Hold Start+Select to open the IGR menu. |  |
+| $IGR2 | Hold L1+L2+R1+R2+Start+Select to open the IGR menu. |  |
+| $IGR3 | Hold L1+L2+R1+R2+X+Down to terminate POPS (no IGR menu). |  |
+| $IGR4 | Hold Start+Select to terminate POPS (no IGR menu). |  |
+| $IGR5 | Hold L1+L2+R1+R2+Start+Select to terminate POPS (no IGR menu). |  |
+| $NOIGR | Disables the IGR menu. |  |
 
+* *Misc commands :*
 
-
-
+| *Cheat Code* | *Description* | *Notes* |
+| $CACHE1 | Makes POPS buffer 1 sector instead of 16. | |
+| $USBDELAY_# | Sets up the PFS wrapper USB delay. | # is a number. 
 ______________________________________________________________________________________________________________
 
 h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
