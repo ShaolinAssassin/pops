@@ -19,6 +19,7 @@ Some useful codes have been automated. Here are them :
 | $YPOS_## | Centers the screen vertically. | # is a number (decimal). Work only in PAL and NTSC modes. Buggy in OBT15. |
 | $DWSTRETCH_#### |  Stretches the display horizontally to your screen. | # is a number (decimal). Works only in PAL and NTSC modes. Default value : 2559. Increase it to stretch the screen on the right, decrease it for the left. |
 | $DWCROP_#### | Reduces/expands the display area width. | # is a number (decimal). Works only in PAL and NTSC modes. Maximum value : 2560. Decrease it to crop the screen on the right. |
+| $HDTVFIX | SetGsCrt hack. | Helps with the HDTVs that can’t deal with the interlaced resolutions thru component (plain green screens and other rubbish displayed otherwise). Not compatible with some CRT TVs. |
 | $00507028 00000001 | Rumble Always On (Pad 1). |  |
 | $005070B8 00000001 | Rumble Always On (Pad 2). |  |
 | (code below)  | "Left Stick is the D-Pad" code. | Enables joystick support for games that doesn't support it natively. |
