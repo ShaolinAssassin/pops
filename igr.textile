@@ -24,9 +24,9 @@ When copied to a VMC directory, it's used on the relative game only.
 When copied to the POPS directory, it's used on all the installed games.
 
 * *What to do if you don't want to overwrite your existing TROJAN_#.BIN/PATCH_#.BIN file :* 
-# Change the number in the name of the file you want to copy;
-# Open the file you want to copy with a hexadecimal editor, change the number in its header according to the one of the new file name;
-# And finally copy the edited file.
+1. Change the number in the name of the file you want to copy;
+2. Open the file you want to copy with a hexadecimal editor, change the number in its header according to the one of the new file name;
+3. And finally copy the edited file.
 POPStarter will refuse to load the PATCH/TROJAN file if the number in its filename doesn't match the number in its header.
 
 ______________________________________________________________________________________________________________
