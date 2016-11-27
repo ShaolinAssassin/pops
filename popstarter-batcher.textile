@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 *D* option is useful when a new POPSTARTER version is out. It will *update all game launchers at once* - same mode(s) as before the update.
 
-E option exits the app.
+*E* option exits the app.
 
 ______________________________________________________________________________________________________________
 
