@@ -20,7 +20,6 @@ ________________________________________________________________________________
 If the VMC game folder already exists, it's skipped.
 
 * *D/* will update all game launchers - same mode(s) as before the update.
-
 * *E/* exits the app.
 
 ______________________________________________________________________________________________________________
