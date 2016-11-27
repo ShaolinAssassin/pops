@@ -24,4 +24,4 @@ If the VMC game folder already exists, it's skipped.
 
 ______________________________________________________________________________________________________________
 
-h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home/index
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
