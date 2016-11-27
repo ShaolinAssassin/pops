@@ -14,8 +14,8 @@ _DESCRIPTION :_
 3. Run BATCHER_0.3.EXE ;
 4. Choose option :
 
-* A == will create HDD launchers (no prefix .ELF) and VMC game folders, using the same of the .VCD files ;
-* B == will create USB launchers (XX. prefix .ELF) and VMC game folders, using the same of the .VCD files ;
+* *A/* will create HDD launchers (no prefix .ELF) and VMC game folders, using the same of the .VCD files.
+* *B/* will create USB launchers (XX. prefix .ELF) and VMC game folders, using the same of the .VCD files.
 * C == will create SMB launchers (SB. prefix .ELF) and VMC game folders, using the same of the .VCD files.
 
 If the VMC game folder already exists, it's skipped.
