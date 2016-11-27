@@ -3,9 +3,8 @@ h1. [EXE] *POPStarter BATCHER v0.3*
 ______________________________________________________________________________________________________________
 
 
-_DOWNLOAD :_ "here":
+* *Download :* "here":
 
-_DESCRIPTION :_
 
 *How to use BATCHER_0.3.EXE ?*
 
@@ -16,13 +15,13 @@ _DESCRIPTION :_
 
 * *A/* will create HDD launchers (no prefix .ELF) and VMC game folders, using the same of the .VCD files.
 * *B/* will create USB launchers (XX. prefix .ELF) and VMC game folders, using the same of the .VCD files.
-* C == will create SMB launchers (SB. prefix .ELF) and VMC game folders, using the same of the .VCD files.
+* *C/* will create SMB launchers (SB. prefix .ELF) and VMC game folders, using the same of the .VCD files.
 
 If the VMC game folder already exists, it's skipped.
 
-* D == will update all game launchers - same mode(s) as before the update.
+* *D/* will update all game launchers - same mode(s) as before the update.
 
-* E == exits the app.
+* *E/* exits the app.
 
 ______________________________________________________________________________________________________________
 
