@@ -76,6 +76,7 @@ _[Original documentation by krHACKen - updated by shaolinassassin]_
 .......... [IGR] "Make your own IGR textures":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/igr-textures
 .......... [SPECIAL DEVICE] "Use your [special device] with POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-special-devices
 .......... [CHEATS] "Widescreen Codes Archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-widescreen-codes
+.......... [EXE] "BATCHER_0.3 - create your games launchers automatically":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-batcher
 
 ______________________________________________________________________________________________________________
 
