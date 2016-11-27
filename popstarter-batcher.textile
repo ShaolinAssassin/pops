@@ -1,126 +1,26 @@
-h1. [EXE] *POPStarter BATCHER v0.2*
+h1. [EXE] *POPStarter BATCHER v0.3*
 
 ______________________________________________________________________________________________________________
 
 
-_CONTENT :_
-
-* BATCHER_v0.2.exe
-* POPSTARTER.BAK (POPSTARTER.ELF with .BAK extension)
-
-_DOWNLOAD :_ "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_BATCHER_06192016.7z
-
+_DOWNLOAD :_ "here":
 
 _DESCRIPTION :_
 
+*How to use BATCHER_0.3.EXE ?*
 
-!https://bitbucket.org/repo/Mpy7Eg/images/2892165152-prev.png(title)!
+1. Drop BATCHER_0.3.EXE where your .VCD are (recommended : either from CUE2POPS folder, or from your POPS folder) ;
+2. Drop POPSTARTER.ELF in the same folder ;
+3. Run BATCHER_0.3.EXE ;
+4. Choose option :
 
-
-
-* *A/ Files BATCHER :*
-
--generates the ##.POPStarter.ELF files (both prefix and file name) using the VCD files name of a directory;
--creates the VMC Game folders;
--lets you copy all the external files (such as TROJANs, PATCHs...) to the VMC game folders.
-
-_How to use it ?_
-
-1. Place BATCHER_0.2.exe into your Toolbox/POPS folder, next to your VCDs; 
-2. Run it;
-3. Choose POPStarter mode (HDD/USB/SMB)
-4. A temporary folder named batcher_tmp is created into Toolbox/POPS folder. 
-
-If you want to copy external files to VMC game folders, place them into it. A CHEATS.TXT files with generic automated codes (disabled) is included by default. You can delete it if you want.
-
-CHEATS.TXT content : 
-
-pre. 
-SAFEMODE 
-SMOOTH 
-COMPATIBILITY_0x## (all)
-FAKELC 
-NOPAL 
-FORCEPAL 
-CACHE1 
-USBDELAY_# 
-
-
-5. You are asked if you will use a custom VMC path. A VMCDIR.TXT is generated into batcher_tmp folder. If you choose to use a VMC path, it will be written into it. Otherwise, the VMCDIR.TXT file remains empty.
-
-6. You then get a screen with : 
--the mode you choose
--the VMC path you will use (Default/Custom)
--the files detected into batcher_tmp folder
-Choose S to start batching process, C to cancel it. 
-
-_Notes :_ 
--if the VMC game folder already exists into Toolbox/POPS folder, it will not be created,
--if the VMC game folder already exists into Toolbox/POPS folder, the batch process will only add/overwrite files, it cant delete files.
-
-_Example :_ 
-
-VMC game folder content : 
-
-pre. 
--VMCs
--a game fixe named PATCH_0.BIN
-
-
-batcher_tmp content : 
-
-pre. 
--CHEATS.TXT
--VMCDIR.TXT 
--an IGR behaviour modifier named PATCH_0.BIN
-
-
-In this situation : 
-
-
-pre. 
--the VMC game folder will not be created,
--the VMCs remain intact,
--CHEATS.TXT & VMCDIR.TXT will be added to the VMC game folder,
--PATCH_0.BIN game fixe will be overwritten by the IGR behaviour modifier.
-
-
-List of supported files for batcher_tmp : 
-
-pre. 
--SLOT0.VMC and SLOT1.VMC - be careful to not overwrite your VMCs if you use this !
--VMCDIR.TXT
--CHEATS.TXT
--PATCH_#.BIN 
--TROJAN_#.BIN
--IGR_BG.TM2, IGR_NO.TM2, IGR_YES.TM2
--OSD.BIN
--BIOS.BIN
-
-Any other file will not be copied from batcher_tmp to VMC game folders.
-
-
-* *B/ Version CHECKER :*
-
-- Lets you know which POPStarter version you are using and detects its status (up-to-date/obsolete/unknown),
-- If you are using an unknown or obsolete version of POPStarter, it lets you generate - if desired - a message_to_you.txt file with a download link to last POPStarter version. 
-
-Rename the ELF you want to check as CHECKVERS.ELF and let the app do the job.
-
-Limit : only scan 1 ELF at once.
-
-
-* *C/ UPDATER :*
-
-- Useful if/when a new POPStarter version is out. Only deal with ELF files. Grabs the ELF names and generates new updated ELFs. 
-
-Place the new version of POPStarter (named as POPSTARTER.ELF or .BAK, doesnt matter) into Toolbox/POPS folder and run the app. Of course, it uses the same mode (HDD/USB/SMB)as before the update. 
-
-
-* *D & E/ Games/ELFs list VIEWER :* 
-
-- Lists all your games / ELFs (minus POPSTARTER.ELF if present) and counts them. Useful if you have huge VCD collection. If need, increase the buffer high size of the window so you can see all your games / ELFs. 
+A == will create HDD launchers (no prefix .ELF) and VMC game folders, using the same of the .VCD files ;
+B == will create USB launchers (XX. prefix .ELF) and VMC game folders, using the same of the .VCD files ;
+C == will create SMB launchers (SB. prefix .ELF) and VMC game folders, using the same of the .VCD files ;
+If the VMC game folder already exists, it's skipped.
+D == will update all game launchers - same mode(s) as before the update.
+E == exit the app.
 
 ______________________________________________________________________________________________________________
 
-h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
+h1. "*Back*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home/index
