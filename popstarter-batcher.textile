@@ -14,14 +14,11 @@ ________________________________________________________________________________
 3. Run BATCHER_0.3.EXE ;
 4. Choose option :
 
-* *A/* will create HDD launchers (no prefix .ELF) and VMC game folders, matching the .VCD files.
-* *B/* will create USB launchers (XX. prefix .ELF) and VMC game folders, matching the .VCD files.
-* *C/* will create SMB launchers (SB. prefix .ELF) and VMC game folders, matching the .VCD files.
+A, B and C options are useful when you want to create all launchers for your games at once. These will create HDD or USB or SMB launchers (no prefix .ELFs or XX. prefix .ELFs or SB. prefix .ELFs) and VMC game folders, matching the .VCD files. If the VMC game folder already exists, it's not overwritten.
 
-If the VMC game folder already exists, it's not overwritten.
+D option is useful is uselful when a new POPSTARTER version is out. It will update all game launchers - same mode(s) as before the update.
 
-* *D/* will update all game launchers - same mode(s) as before the update.
-* *E/* exits the app.
+E option exits the app.
 
 ______________________________________________________________________________________________________________
 
