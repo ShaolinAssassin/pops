@@ -3,7 +3,7 @@ h1. [EXE] *POPStarter BATCHER v0.3*
 ______________________________________________________________________________________________________________
 
 
-* *Download :* "here":
+* *Download :* "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/BATCHER_0.3.EXE
 
 !https://bitbucket.org/repo/Mpy7Eg/images/777862948-Sans-titre-1.png(BATCHER_0.3)!
 
@@ -14,11 +14,11 @@ ________________________________________________________________________________
 3. Run BATCHER_0.3.EXE ;
 4. Choose option :
 
-* *A/* will create HDD launchers (no prefix .ELF) and VMC game folders, using the same of the .VCD files.
-* *B/* will create USB launchers (XX. prefix .ELF) and VMC game folders, using the same of the .VCD files.
-* *C/* will create SMB launchers (SB. prefix .ELF) and VMC game folders, using the same of the .VCD files.
+* *A/* will create HDD launchers (no prefix .ELF) and VMC game folders, matching the .VCD files.
+* *B/* will create USB launchers (XX. prefix .ELF) and VMC game folders, matching the .VCD files.
+* *C/* will create SMB launchers (SB. prefix .ELF) and VMC game folders, matching the .VCD files.
 
-If the VMC game folder already exists, it's skipped.
+If the VMC game folder already exists, it's not overwritten.
 
 * *D/* will update all game launchers - same mode(s) as before the update.
 * *E/* exits the app.
