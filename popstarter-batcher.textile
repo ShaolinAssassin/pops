@@ -9,10 +9,10 @@ ________________________________________________________________________________
 
 *How to use BATCHER_0.3.EXE ?*
 
-1. Drop BATCHER_0.3.EXE where your .VCD are (recommended : either from CUE2POPS folder, or from your POPS folder) ;
-2. Drop POPSTARTER.ELF in the same folder ;
-3. Run BATCHER_0.3.EXE ;
-4. Choose option :
+*1.* Drop BATCHER_0.3.EXE where your .VCD are (recommended : either from CUE2POPS folder, or from your POPS folder) ;
+*2.* Drop POPSTARTER.ELF in the same folder ;
+*3.* Run BATCHER_0.3.EXE ;
+*4.* Choose option :
 
 *A*, *B* and *C* options are useful when you want to *create all launchers for your games at once*. These will create HDD or USB or SMB launchers (no prefix .ELFs or XX. prefix .ELFs or SB. prefix .ELFs) and VMC game folders, matching the .VCD files. If the VMC game folder already exists, it's not overwritten.
 
