@@ -2,6 +2,7 @@ h1. [EXE] *POPStarter BATCHER v0.3*
 
 ______________________________________________________________________________________________________________
 
+Note : El_Patas reported me an issue with WinXP. Pls wait, Fixing it.
 
 * *Download :* "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/BATCHER_0.3.EXE
 
