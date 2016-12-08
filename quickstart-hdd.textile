@@ -24,15 +24,15 @@ ________________________________________________________________________________
 
 *1.* Create a folder named "POPS" (without "") in the “__common” partition of your PS2 HDD ;
  
-*2.* Find and download "POPS.ELF" and "IOPRP252.IMG" files (google them, I can't/won't give them to you) and paste them into POPS folder ;
+*2.* Since POPS is SONY copyrighted, it can not be redistributed with POPStarter. You have to find and download "POPS.ELF" (MD5 : 355a892a8ce4e4a105469d4ef6f39a42) and "IOPRP252.IMG" (MD5 : 	1db9c6020a2cd445a7bb176a1a3dd418) files and paste them into POPS folder ;
 
-*3.* POPStarter/POPS doesn't support PS1 games images as .iso - but only as .VCD. First convert your PS1 games to .bin/.cue (using "ImgBurn":http://imgburn.com/ for example). Then copy your .bin/.cue into CUE2POPS folder (from quickstarter pack), and run the file named BULK_CUE2POPS.BAT. You can convert several games at once using BULK_CUE2POPS.BAT.
+*3.* POPStarter/POPS doesn't support PS1 games images as .iso - but only as .VCD. First convert your PS1 games to .bin/.cue (using "ImgBurn":http://imgburn.com/ for example). Then copy your .bin/.cue into CUE2POPS folder (from quickstarter pack), and drag/drop your .cue file over CUE2POPS.EXE. You can convert several games at once running BULK_CUE2POPS.BAT.
 
-*4.* Create a partition named  "__.POPS" in your PS2 HDD, large enough so you can put all your VCDs inside ;
+*4.* Using uLE, create a partition named  "__.POPS" (without + at start) in your PS2 HDD, large enough so you can put all your VCDs inside ;
 
-*5.* Transfer your .VCDs into __.POPS partition. The recommended method is using RadHostClient. See "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/radhostclient about how to use it. 
+*5.* Transfer your .VCDs into __.POPS partition. The recommended (easiest) method is using RadHostClient. See "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/radhostclient about how to use it. 
 
-*6.* Rename POPStarter.ELF to Name of your game.ELF (example : Crash Bandicoot.ELF) and copy/paste it into __.POPS partition. The name of your ELF and the name of your VCD *must* be the same - it's case sensitive. 
+*6.* Rename POPStarter.ELF to GAME.ELF (example : Crash Bandicoot.ELF) and copy/paste it into __.POPS partition. The name of your ELF and the name of your VCD *must* be the same - it's case sensitive. 
 
 Incorrect : 
 
@@ -55,7 +55,7 @@ hdd:/__common/POPS/POPS.ELF
 hdd:/__.POPS/Crash Bandicoot.VCD
 hdd:/__.POPS/Crash Bandicoot.ELF
 
-*8.* Run Name of your game.ELF with uLE and enjoy.
+*8.* Run GAME.ELF (Crash Bandicoot.ELF) using uLE and enjoy.
 
 
 ______________________________________________________________________________________________________________
