@@ -8,20 +8,25 @@ ________________________________________________________________________________
 
 h2. _About VMC :_ 
 
-When you launch a game for the very first time, a new folder named "GAME" (ex : Crash Bandicoot) will be created into your POPS directory (one separate directory for each game). It contains 2 files - SLOT0.VMC & SLOT1.VMC, which are your VMCs. 
+The very first time a game is launched, a new folder named "GAME" (ex : Crash Bandicoot) will be created into your POPS directory - one separate folder for each game. This folder contains 2 files - SLOT0.VMC & SLOT1.VMC, which are your VMCs. 
 
-If you know how to hexedit POPStarter, you can change that behavious to have only 1 VMC created - or not at all. Check the "configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table to know how to change the default setting (offset $429).
+pre. 
+POPS/Crash Bandicoot.VCD
+POPS/Crash Bandicoot/SLOT0.VMC
+POPS/Crash Bandicoot/SLOT1.VMC
+
+If you know how to hexedit POPStarter, you can change that behaviour to have only 1 VMC created - or not at all. Check the "configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table to know how to change the default setting (offset $429).
 
 ______________________________________________________________________________________________________________
 
 h2. _Setting a path for the VMC folder :_
 
 Here's how to change the destination VMC folder of your games :
-Let's say your game is MY_GAME.VCD. The VMCs are saved to /POPS/MY_GAME/. You want the VMCs to be saved into /POPS/BLAHBLAH/ instead.
+Let's say your game is MY_GAME.VCD. The VMCs are saved to POPS/MY_GAME/. You want the VMCs to be saved into POPS/BLAHBLAH/ instead.
 # Create an empty text file;
 # Write BLAHBLAH into it;
 # Save it as VMCDIR.TXT;
-# Copy VMCDIR.TXT to /POPS/MY_GAME/
+# Copy VMCDIR.TXT to POPS/MY_GAME/
 
 Example :
 
