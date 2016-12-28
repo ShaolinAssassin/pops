@@ -26,4 +26,4 @@ To convert your PS1 games from .BIN+.CUE to .VCD format, you need to use the las
 * Linux users, you can get CUE2POPS src code with changes made for Linux "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/cue2pops_src_linux.7z. Download gcc with your distribution package manager and compile the file (info by SovietStriker @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-55#post-792589).
 
 ______________________________________________________________________________________________________________
-h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
+"*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
