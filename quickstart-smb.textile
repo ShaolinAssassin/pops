@@ -2,8 +2,7 @@ h1. *Quick start guide for SMB :*
 
 ______________________________________________________________________________________________________________
 
-This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, 
-you don’t need it.
+This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it.
 
 Quickstarter pack includes last POPStarter BETA version [Rev 13 WIP 5 OBT 16] – which is now considered stable enough to be used as daily gaming version.
 
@@ -11,17 +10,15 @@ Quickstarter pack includes last POPStarter BETA version [Rev 13 WIP 5 OBT 16] �
 
 ______________________________________________________________________________________________________________
 
-*///////*
-*STEPS :*
-*///////*
+h2. Step-by-step : 
 
 *a) Installing the emulator :*
 
 Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it. [1 file for SMB mode, POPS_IOX.PAK - MD5 : a625d0b3036823cdbf04a3c0e1648901]
 
-1. Find and download POPS_IOX.PAK;
-2. Create a directory named POPS in your PS2 shared folder;
-3. Copy POPS_IOP.PAK into POPS directory you’ve just created.
+# Find and download POPS_IOX.PAK;
+# Create a directory named POPS in your PS2 shared folder;
+# Copy POPS_IOP.PAK into POPS directory you’ve just created.
 
 *b) Installing your PS1 Games :*
 
