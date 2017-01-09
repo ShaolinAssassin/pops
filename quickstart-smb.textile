@@ -10,7 +10,7 @@ Quickstarter pack includes last POPStarter BETA version [Rev 13 WIP 5 OBT 16] �
 
 ______________________________________________________________________________________________________________
 
-h2. Step-by-step : 
+h2. _Step-by-step :_ 
 
 *a) Installing the emulator :*
 
@@ -24,23 +24,19 @@ Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed wi
 
 POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 
-1. Create a disc image of your PS1 game as .BIN/.CUE;
-2. Drag & drop your .CUE file over CUE2POPS.EXE to convert your BIN/CUE disc image to .VCD file (you can convert several games at once by running BULK_CUE2POPS.BAT);
-3. Put your .VCD files in POPS directory of your PS2 shared folder.
+# Create a disc image of your PS1 game as .BIN/.CUE;
+# Drag & drop your .CUE file over CUE2POPS.EXE to convert your BIN/CUE disc image to .VCD file (you can convert several games at once by running BULK_CUE2POPS.BAT);
+# Put your .VCD files in POPS directory of your PS2 shared folder.
 
 *c) Installing POPStarter :*
 
-1. Grab the network modules and edit the 2 .DAT files (syntax below) with your network settings;
-2. Create a directory named POPSTARTER in the root of your PS2 memory card and put the network modules and the .DAT files in it;
-3. Rename POPSTARTER.ELF as the name of your VCDs, replace the .VCD extension with a .ELF extension, add the SB. prefix; [example : for running a VCD named “Gran Turismo.VCD”, the POPStarter ELF must be renamed as “SB.Gran Turismo.ELF”];
-4. Copy the ELFs where you want to run them from (example : mass:/POPSTARTER/SB.GAME.ELF).
+# Grab the network modules and edit the 2 .DAT files (syntax below) with your network settings;
+# Create a directory named POPSTARTER in the root of your PS2 memory card and put the network modules and the .DAT files in it;
+# Rename POPSTARTER.ELF as the name of your VCDs, replace the .VCD extension with a .ELF extension, add the SB. prefix; [example : for running a VCD named “Gran Turismo.VCD”, the POPStarter ELF must be renamed as “SB.Gran Turismo.ELF”];
+# Copy the ELFs where you want to run them from (example : mass:/POPSTARTER/SB.GAME.ELF).
 
 
 Now, check your setup. It must be the same as this :
-
-*///////////*
-*SMB SETUP :*
-*///////////*
 
 pre. 
 mc#:/POPSTARTER/IPCONFIG.DAT
