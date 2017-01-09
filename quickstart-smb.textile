@@ -14,7 +14,8 @@ h2. _Step-by-step :_
 
 *a) Installing the emulator :*
 
-Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it. [1 file for SMB mode, POPS_IOX.PAK - MD5 : a625d0b3036823cdbf04a3c0e1648901]
+Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it.
+. 1 file for SMB mode, POPS_IOX.PAK - MD5 : a625d0b3036823cdbf04a3c0e1648901
 
 # Find and download POPS_IOX.PAK;
 # Create a directory named POPS in your PS2 shared folder;
