@@ -1,53 +1,51 @@
 h1. *Quick start guide for SMB :*
+
 ______________________________________________________________________________________________________________
 
 This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, 
 you don’t need it.
 
-Quickstarter pack includes last POPStarter BETA version [Rev 13 WIP 5 OBT 16] – which is now considered 
-stable enough to be used as daily gaming version.
+Quickstarter pack includes last POPStarter BETA version [Rev 13 WIP 5 OBT 16] – which is now considered stable enough to be used as daily gaming version.
 
-Download : POPStarter_Quickstarter_Pack_SMB__2017_01_09
+*Download : POPStarter_Quickstarter_Pack_SMB__2017_01_09*
 
-*///////
-STEPS :
-///////*
+______________________________________________________________________________________________________________
 
-a) Installing the emulator :
+*///////*
+*STEPS :*
+*///////*
 
-Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have 
-to find it. [1 file for SMB mode, POPS_IOX.PAK - MD5 : a625d0b3036823cdbf04a3c0e1648901]
+*a) Installing the emulator :*
+
+Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it. [1 file for SMB mode, POPS_IOX.PAK - MD5 : a625d0b3036823cdbf04a3c0e1648901]
 
 1. Find and download POPS_IOX.PAK;
 2. Create a directory named POPS in your PS2 shared folder;
 3. Copy POPS_IOP.PAK into POPS directory you’ve just created.
 
-b) Installing your PS1 Games :
+*b) Installing your PS1 Games :*
 
 POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 
 1. Create a disc image of your PS1 game as .BIN/.CUE;
-2. Drag & drop your .CUE file over CUE2POPS.EXE to convert your BIN/CUE disc image to .VCD file
-   (you can convert several games at once by running BULK_CUE2POPS.BAT);
+2. Drag & drop your .CUE file over CUE2POPS.EXE to convert your BIN/CUE disc image to .VCD file (you can convert several games at once by running BULK_CUE2POPS.BAT);
 3. Put your .VCD files in POPS directory of your PS2 shared folder.
 
-c) Installing POPStarter :
+*c) Installing POPStarter :*
 
 1. Grab the network modules and edit the 2 .DAT files (syntax below) with your network settings;
-2. Create a directory named POPSTARTER in the root of your PS2 memory card and put the network 
-   modules and the .DAT files in it;
-3. Rename POPSTARTER.ELF as the name of your VCDs, replace the .VCD extension with a .ELF extension, 
-   add the SB. prefix; [example : for running a VCD named “Gran Turismo.VCD”, the POPStarter ELF must 
-   be renamed as “SB.Gran Turismo.ELF”];
+2. Create a directory named POPSTARTER in the root of your PS2 memory card and put the network modules and the .DAT files in it;
+3. Rename POPSTARTER.ELF as the name of your VCDs, replace the .VCD extension with a .ELF extension, add the SB. prefix; [example : for running a VCD named “Gran Turismo.VCD”, the POPStarter ELF must be renamed as “SB.Gran Turismo.ELF”];
 4. Copy the ELFs where you want to run them from (example : mass:/POPSTARTER/SB.GAME.ELF).
 
 
 Now, check your setup. It must be the same as this :
 
-///////////
-SMB SETUP :
-///////////
+*///////////*
+*SMB SETUP :*
+*///////////*
 
+pre. 
 mc#:/POPSTARTER/IPCONFIG.DAT
 mc#:/POPSTARTER/SMBCONFIG.DAT
 mc#:/POPSTARTER/poweroff.irx
@@ -62,23 +60,36 @@ mass:/POPSTARTER/SB.GAME.ELF
 
 => to launch your game, run SB.GAME.ELF.
 
+______________________________________________________________________________________________________________
 
 //////////////////////////
 ** SMBCONFIG.DAT syntax **
 //////////////////////////
 
-In a single line : SERVER IP ADDRESS space SHARE NAME
+In a single line : 
+pre. 
+SERVER IP ADDRESS space SHARE NAME
 
-Example : 192.168.0.254 My Shared Folder
 
-You can also specify a port, like this (default is 445) : 192.168.0.254:139 My Shared Folder
+Example : 
+pre. 
+192.168.0.254 My Shared Folder
+
+
+You can also specify a port, like this (default is 445) : 
+pre. 
+192.168.0.254:139 My Shared Folder
+
 
 For user authentication, write your username to line 2 and your password to line 3.
 
 Example :
+
+pre. 
 192.168.0.254 My Shared Folder
 MyName
 MyPassword
+
 
 Note : don’t write anything to line 2 and 3 for guest access.
 
@@ -86,10 +97,16 @@ Note : don’t write anything to line 2 and 3 for guest access.
 ** IPCONFIG.DAT syntax **
 ///////////////////////// 
 
-In a single line : PS2 IP ADDRESS space NETMASK space GATEWAY
+In a single line : 
+pre. 
+PS2 IP ADDRESS space NETMASK space GATEWAY
+
 
 Example :
+
+pre. 
 192.168.0.13 255.255.255.0 192.168.0.254
+
 
 
 ______________________________________________________________________________________________________________
