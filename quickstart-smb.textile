@@ -55,24 +55,25 @@ mass:/POPSTARTER/SB.GAME.ELF
 
 ______________________________________________________________________________________________________________
 
-//////////////////////////
-** SMBCONFIG.DAT syntax **
-//////////////////////////
+h2. _.DAT syntax :_
 
-In a single line : 
+
+* *SMBCONFIG.DAT syntax :*
+
+In a single line :
+
 pre. 
 SERVER IP ADDRESS space SHARE NAME
 
-
 Example : 
+
 pre. 
 192.168.0.254 My Shared Folder
 
-
 You can also specify a port, like this (default is 445) : 
+
 pre. 
 192.168.0.254:139 My Shared Folder
-
 
 For user authentication, write your username to line 2 and your password to line 3.
 
@@ -83,17 +84,14 @@ pre.
 MyName
 MyPassword
 
-
 Note : don’t write anything to line 2 and 3 for guest access.
 
-/////////////////////////
-** IPCONFIG.DAT syntax **
-///////////////////////// 
+* *IPCONFIG.DAT syntax :*
 
 In a single line : 
+
 pre. 
 PS2 IP ADDRESS space NETMASK space GATEWAY
-
 
 Example :
 
