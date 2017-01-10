@@ -29,8 +29,7 @@ to find it.
 POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 
 # Create a disc image of your PS1 game as BIN/CUE;
-# Drag & drop your .cue file over CUE2POPS.EXE to convert your BIN/CUE disc image to .VCD file
-   (you can convert several games at once by running BULK_CUE2POPS.BAT);
+# Drag & drop your .cue file over CUE2POPS.EXE to convert your BIN/CUE disc image to .VCD file (you can convert several games at once by running BULK_CUE2POPS.BAT);
 # Create a partition named __.POPS in your PS2 HDD, large enough so you can put all your VCDs inside. 
 # Transfer your .VCD file(s) in __.POPS partition. The easiest & recommended method is using "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/radhostclient.
 
