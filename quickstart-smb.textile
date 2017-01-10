@@ -1,6 +1,7 @@
 h1. *Quick start guide for SMB :*
 
 ______________________________________________________________________________________________________________
+_[01-10-2016 - SMB quick start guide first version]_
 
 This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it.
 
