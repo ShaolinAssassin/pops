@@ -44,45 +44,6 @@ mass:/POPS/uLE_kHn.ELF
 
 => to launch your game, run uLE_kHn.ELF, then launch GAME.VCD - just like you would do for any .ELF file.
 
-
-****
-
-*0.* Download quickstarter pack and extract it on your desktop ; 
-
-*1.* Create a folder named "POPS" (without "") in the root of your USB drive and copy/paste PFS_WRAP.BIN in it ;
- 
-*2.* Find and download "POPS.PAK" file (google it, I can't/won't give it to you) and copy it into POPS folder ;
-
-*3.* POPStarter/POPS doesn't support PS1 games images as .iso - but only as .VCD. First convert your PS1 games to .bin/.cue (using "ImgBurn":http://imgburn.com/ for example). Then copy your .bin/.cue into CUE2POPS folder (from quickstarter pack), and run the file named BULK_CUE2POPS.BAT. You can convert several games at once using BULK_CUE2POPS.BAT.
-
-*4.* Copy your .VCD into "POPS" folder on your USB device ;
-
-*5.* Rename POPStarter.ELF to XX.Name of your game.ELF (example : XX.Crash Bandicoot.ELF). The name of your ELF and the name of your VCD must be the same - it's case sensitive.
-
-Incorrect : 
-
-pre. 
-XX.CRASH BANDICOOT.ELF
-Crash_Bandicoot.VCD
-
-Correct : 
-
-pre. 
-XX.CRASH BANDICOOT.ELF
-CRASH BANDICOOT.VCD
-
-
-*6.* Your setup must look like this : 
-
-pre. 
-mass:/POPS/POPS.PAK
-mass:/POPS/PFS_WRAP.BIN
-mass:/POPS/Crash Bandicoot.VCD
-mass:/XX.Crash Bandicoot.elf
-
-*7.* Plug your USB device into your PS2, run XX.Name of your game.ELF with uLE and enjoy.
-
-
 ______________________________________________________________________________________________________________
 
 h3. "*Wiki Homepage*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
