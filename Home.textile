@@ -15,8 +15,6 @@ h2. _Downloads :_
 * *LATEST STABLE VERSION BUNDLE :* "POPStarter Revision 13, WIP 05 (2015/06/03)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_05.zip
 * *LATEST BETA VERSION BUNDLE :* "POPStarter Revision 13, WIP 06, OBT 16 (2016/11/20)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_06_OBT_20161120.zip
 
-*Note :* betas are for testing new features and make useful reports to kHn so he can try to fix the issues. They are not meant to be used as daily gaming version. Don't expect them to be bug free. 
-
 
 "POPStarter Revision 13, WIP 06, OBT 16 (2016/11/20)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_06_OBT_20161120.zip
 
