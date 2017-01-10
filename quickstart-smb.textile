@@ -7,7 +7,7 @@ This is a step-by-step basic guide for new POPStarter users. If you are already 
 
 Quickstarter pack includes last POPStarter BETA version [Rev 13 WIP 5 OBT 16] – which is now considered stable enough to be used as daily gaming version.
 
-*Download : POPStarter_Quickstarter_Pack_SMB__2017_01_10*
+*Download : "POPStarter_Quickstarter_Pack_SMB__2017_01_10":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_Quickstarter_Pack_SMB__2017_01_10.7z*
 
 ______________________________________________________________________________________________________________
 
