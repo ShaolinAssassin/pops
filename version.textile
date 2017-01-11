@@ -3,6 +3,9 @@ h1. *Debug mode*
 
 ______________________________________________________________________________________________________________
 
+
+!https://bitbucket.org/repo/Mpy7Eg/images/3131716167-KELF_ID.JPG(title)!
+
 | *Version* | *Date YYYY/MM//DD (blue)* | *Build ID (red)* |
 | Rev 13 WIP 6 OBT 16 | 20 16 11 20 | 0x10 |
 | Rev 13 WIP 6 OBT 15 | 20 16 11 20 | 0x0F |
