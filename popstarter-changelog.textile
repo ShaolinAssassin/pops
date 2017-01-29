@@ -5,8 +5,12 @@ ________________________________________________________________________________
 
 h2. _WIP 06 Public Betas :_ 
 
+* *"2017/01/28 (Beta 17) = LATEST BETA":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-103#post-932403*
 
-* *"2016/11/20 (Beta 16) = LATEST BETA":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-100#post-920168*
+pre. 
+- Added support for the HDD-OSD 1.00J pfs launch argument.
+
+* *"2016/11/20 = Beta 16":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-100#post-920168*
 
 pre. 
 THIS BUILD HAS NOT BEEN TESTED.
