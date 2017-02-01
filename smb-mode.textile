@@ -8,7 +8,7 @@ h2. _Requirements :_
 
 * *POPS decrypted files :* 
 
-To use POPStarter in SMB mode, you have to find and download the compressed POPS file. This file is named "POPS_IOP.PAK" and it's the same as the USB mode uses... 
+To use POPStarter in SMB mode, you have to find and download the compressed POPS file. This file is named "POPS_IOX.PAK" and it's the same as the USB mode uses... 
 
 | *File name* | *MD5* | *Description* |
 | POPS_IOX.PAK | a625d0b3036823cdbf04a3c0e1648901 | POPS.PAK with network modules embedded |
@@ -35,7 +35,7 @@ h2. _Installation :_
 
 1. Find and download the compressed emulator files;
 2. Create a directory named "POPS" in your PS2 shared folder;
-3. Copy POPS_IOP.PAK  into the "POPS" directory you've just created.
+3. Copy POPS_IOX.PAK  into the "POPS" directory you've just created.
 
 * *b) Installing your PS1 Games :*
 
