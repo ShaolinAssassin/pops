@@ -20,7 +20,7 @@ Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed wi
 
 # Find and download POPS_IOX.PAK;
 # Create a directory named POPS in your PS2 shared folder;
-# Copy POPS_IOP.PAK into POPS directory you’ve just created.
+# Copy POPS_IOX.PAK into POPS directory you’ve just created.
 
 *b) Installing your PS1 Games :*
 
