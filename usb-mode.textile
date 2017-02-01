@@ -75,9 +75,9 @@ h2. _Additional notes :_
 
 
 * The USB hard disk / flash disk has to be FAT12 or FAT16 or FAT32 formatted, AND DEFRAGMENTED.
-* If you use several POPS# folders, the usual files for the POPS folder (POPS_IOP.PAK & the TM2s) must remain in the main POPS folder.
+* If you use several POPS# folders, the usual files for the POPS folder (POPS_IOX.PAK & the TM2s) must remain in the main POPS folder.
 * If you have a BIOS.BIN, a PATCH_#.BIN, a TROJAN_#.BIN or a VMCDIR.TXT in the POPS folder, you'll have to copy them to all the POPS# folder you create.
-* You can still use the old POPS.ELF+IOPRP252.IMG files (POPS.PAK), but updating to POPS_IOP_PAK is highly recommended.
+* You can still use the old POPS.ELF+IOPRP252.IMG files (POPS.PAK), but updating to POPS_IOX.PAK is highly recommended.
 * You can use your own USB modules (usbd.irx & usbhdfsd.irx, case sensitive, lowercase, no file size restriction) from mc#:/POPSTARTER/. When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/.... Mass is not supported (anymore).
 * The third character of the ELF prefix is a dot (XXdot).
 * The prefix has to be uppercase.
