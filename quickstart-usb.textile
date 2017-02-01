@@ -19,7 +19,7 @@ Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed wi
 
 # Find and download POPS_IOX.PAK;
 # Create a directory named POPS in the root of your USB device;
-# Copy POPS_IOP.PAK into POPS directory you’ve just created.
+# Copy POPS_IOX.PAK into POPS directory you’ve just created.
 
 *b) Installing your PS1 Games :*
 
@@ -37,7 +37,7 @@ POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 Now, check your setup. It must be the same as this :
 
 pre. 
-mass:/POPS/POPS_IOP.PAK
+mass:/POPS/POPS_IOX.PAK
 mass:/POPS/POPSTARTER.ELF
 mass:/POPS/GAME.VCD
 mass:/POPS/uLE_kHn.ELF
