@@ -128,7 +128,7 @@ ________________________________________________________________________________
 
 h2. _Additional notes :_
 
-* You can NOT use the old POPS.ELF+IOPRP252.IMG files (POPS.PAK) in SMB mode, updating to POPS_IOP_PAK is mandatory for SMB mode.
+* You can NOT use the old POPS.ELF+IOPRP252.IMG files (POPS.PAK) in SMB mode, updating to POPS_IOX.PAK is mandatory for SMB mode.
 * You can load the network modules from the MC that is in the second slot too. When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/....
 * Debug infos at startup can not be skipped in SMB mode.
 * The third character of the ELF prefix is a dot (SBdot).
