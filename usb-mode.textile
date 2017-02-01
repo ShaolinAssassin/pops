@@ -8,7 +8,7 @@ h2. _Requirements :_
 
 * *POPS decrypted files :* 
 
-To use POPStarter with an external HDD or a flash disk, you have to find and download the compressed POPS file. This file is named "POPS_IOP.PAK"... 
+To use POPStarter with an external HDD or a flash disk, you have to find and download the compressed POPS file. This file is named "POPS_IOX.PAK"... 
 
 | *File name* | *MD5* | *Description* |
 | POPS_IOX.PAK | a625d0b3036823cdbf04a3c0e1648901 | POPS.PAK with network modules embedded |
@@ -31,7 +31,7 @@ h2. _Installation :_
 
 1.  Find and download the emulator compressed file;
 2.  Create a directory named "POPS" in the root of your USB device;
-3.  Copy POPS_IOP.PAK  into the "POPS" directory you've just created.
+3.  Copy POPS_IOX.PAK  into the "POPS" directory you've just created.
 
 * *b) Installing your PS1 Games :*
 
@@ -52,7 +52,7 @@ h2. _Example of Setup :_
 
 pre. 
 === USB DEVICE, NEW LAUNCH TYPE ===
-POPS/POPS_IOP.PAK
+POPS/POPS_IOX.PAK
 POPS/Crash Bandicoot.VCD
 XX.Crash Bandicoot.elf
 
@@ -87,4 +87,3 @@ h2. _Additional notes :_
 ______________________________________________________________________________________________________________
 
 h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
- 
