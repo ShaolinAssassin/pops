@@ -387,12 +387,12 @@ pre.
 Pastie #7667656.
 
 pre. 
-+ Added on-screen debug info at container startup
-+ Added an error handler
-+ Added an user BIOS handler
-+ Added an OSD replacement image handler
-+ Fixed a bug in VMC directory naming
-+ Container protections were completely rewritten
+- Added on-screen debug info at container startup
+- Added an error handler
+- Added an user BIOS handler
+- Added an OSD replacement image handler
+- Fixed a bug in VMC directory naming
+- Container protections were completely rewritten
 
 
 * *POPStarter Revision 9 [PATINFO/KEXEC Bundle] - 2013/04/09*
