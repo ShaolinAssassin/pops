@@ -40,21 +40,27 @@ THIS BUILD HAS NOT BEEN TESTED.
 pre. 
 - The CD lid open/close emulation is now complete. It refreshes the TOC.
   I'm still unsure about the correctness of the CDROM status and mode field values that are used though.
-  This feature pokes the CDROM registers according to the lid open/close state and issues a VCD init RPC call to the IOPCD driver. W00t.
+  This feature pokes the CDROM registers according to the lid open/close state and issues a VCD init RPC call to the IOPCD driver. 
+  W00t.
 - Disc change support, alongside the CD lid open/close emulation mentioned above.
   This feature uses a DISCS.TXT file handler and parser, and separate VCDs.
 - Static SetGsCrt interlace parameter, to help with the HDTVs that can't deal with the interlaced resolutions thru component.
   At least it does work with my crappy led TV. Without it, the said crappy TV keeps displaying plain green screens and other rubbish.
-- Added a GS DISPLAY1/DISPLAY2 value calculator to the unfinished ($ONY's) 480p mode of POPS. 480p output can be enabled with the command $480p in CHEATS.TXT.
-  I haven't found a way to stretch the display area width (damn these black boarders). Some games (like Dead Or Alive) output an odd signal that make them UNPLAYABLE (monitor says "unsupported" hmm).
+- Added a GS DISPLAY1/DISPLAY2 value calculator to the unfinished ($ONY's) 480p mode of POPS. 480p output can be enabled with the 
+  command $480p in CHEATS.TXT.
+  I haven't found a way to stretch the display area width (damn these black boarders). Some games (like Dead Or Alive) output an odd
+  signal that make them UNPLAYABLE (monitor says "unsupported" hmm).
 - Added a couple of CHEATS.TXT commands ($XPOS_decimal and $YPOS_decimal) to adjust the X/Y position in NTSC and PAL modes.
-  Let's say the picture of your NTSC game is badly shifted on the right. Then write $XPOS_604 to your CHEATS.TXT file and check out the result.
+  Let's say the picture of your NTSC game is badly shifted on the right. Then write $XPOS_604 to your CHEATS.TXT file and check out
+  the result.
 - Bugfixes to the MODULE_#.IRX loader, the usbd.irx/usbhdfsd.irx loader and the CHEATS.TXT parser.
   Yelling the f-word three times.
 - The MODULE_#.IRX loader scans the user's files and disables the modules with matching names from POPS.
   Kills the embedded SIO2MAN/PADMAN/LIBSD/SDRDRV/DEV9/ATAD/HDD/PFS drivers on purpose, so only yours stay resident and active.
-- A multitap initialization function was added to the MODULE_#.IRX loader. It's invoked as soon as the user mtapman/freemtap driver is loaded.
-  HAXing into the cold of the fog. Since I don't own a multitap, I cannot give it a try. Although, I'd bet it's useless and doesn't make it work.
+- A multitap initialization function was added to the MODULE_#.IRX loader. It's invoked as soon as the user mtapman/freemtap driver 
+  is loaded.
+  HAXing into the cold of the fog. Since I don't own a multitap, I cannot give it a try. Although, I'd bet it's useless and doesn't 
+  make it work.
 - A game fix was added to make all the retail versions of Parasite Eve II run.
   ... it's missing sounds. BGMs or SFX or both... Haven't played it in depth...
 - A game fix was added to make the PAL version of Spyro 2 run.
