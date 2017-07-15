@@ -137,7 +137,7 @@ pre.
   (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...)
 
 
-* *"2015/10/23 = Beta 8":http://www.metagames-eu.com/forums/1771414-post191.html*
+* *"POPStarter Revision 13, Build Date : 2015/10/23, WIP 06, OBT 8":http://www.metagames-eu.com/forums/1771414-post191.html*
 
 pre. 
 - Complete rewrite and embedding of the PFS wrapper (POPStarter no longer loads PFS_WRAP.BIN)
@@ -154,14 +154,14 @@ pre.
 - Some other changes I can't remember...
 
 
-* *2015/07/28 (Beta 7)*
+* *POPStarter Revision 13, Build Date : 2015/07/28, WIP 06, OBT 7*
 
 pre. 
 - Compiled with the latest USBD again -_-
 - Fixed : Issues with the IOPCD stack
 
 
-* *2015/07/27 (Beta 6)*
+* *POPStarter Revision 13, Build Date : 2015/07/27, WIP 06, OBT 6*
 
 pre. 
 - Sbv from PS2SDK commit c6cd5b3447
@@ -176,14 +176,14 @@ pre.
 - Added uLE_kHn_20150727 to the package (with mass:/POPS#/ support).
 
 
-* *2015/07/14 (Beta 5)*
+* *POPStarter Revision 13, Build Date : 2015/07/14, WIP 06, OBT 5*
 
 pre. 
 - Speedup hack (Select+L2+R2+X) removed
 - Fixed : The LC fix was flushed and $FAKELC could not set it up
 
 
-* *2015/07/13 (Beta 4)*
+* *POPStarter Revision 13, Build Date : 2015/07/13, WIP 06, OBT 4*
 
 pre. 
 - Fixed : Bad cheat engine hook.
@@ -192,7 +192,7 @@ pre.
 - Fixed : $USBDELAY_# didn't coexist with $C0
 
 
-* *2015/07/12 (Beta 3)*
+* *POPStarter Revision 13, Build Date : 2015/07/12, WIP 06, OBT 3*
 
 pre. 
 - Fixed : mass:/POPS#/TROJAN_#.BIN and mass:/POPS#/PATCH_#.BIN integrity check failure
