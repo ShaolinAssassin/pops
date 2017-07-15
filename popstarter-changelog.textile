@@ -122,13 +122,13 @@ SFX are missing in Um Jammer Lammy, muh.
   Even worse, the game boot appears to be hit or miss now. To be improved... or removed hehe.
 
 
-* *"2015/10/26 = Beta 10":http://www.metagames-eu.com/forums/1771431-post203.html*
+* *"POPStarter Revision 13, Build Date : 2015/10/26, WIP 06, OBT 10":http://www.metagames-eu.com/forums/1771431-post203.html*
 
 pre. 
 - Bugfixed : poweroff.irx and ps2ip.irx not loaded from mc0:. Sorry of...
 
 
-* *"2015/10/24 = Beta 9":http://www.metagames-eu.com/forums/1771423-post196.html*
+* *"POPStarter Revision 13, Build Date : 2015/10/24, WIP 06, OBT 9":http://www.metagames-eu.com/forums/1771423-post196.html*
 
 pre. 
 - Bugfixed : The loading of IGR_NO.TM2 was skipped in internal HDD mode.
