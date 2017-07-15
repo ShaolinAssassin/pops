@@ -49,7 +49,7 @@ LIMITATIONS AND RESTRICTIONS [Version 1]
 + NULL/RESERVED/UNDEFINED fields have to be NULL
 + The size of the OSD replacement file (OSD.BIN) has to be the header length PLUS the OSD size
 
-More infos about it @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-4#post-667305
+More infos about it @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-4#post-667305
 
 
 ______________________________________________________________________________________________________________
