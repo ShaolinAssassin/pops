@@ -28,7 +28,7 @@ _Chinese :_
 
 _English :_
 
-* "The Official POPStarter Release Thread at ASSEMblergames":http://assemblergames.com/l/threads/45347/
+* "The Official POPStarter Release Thread at ASSEMblergames":https://assemblergames.com/threads/45347/
 
 _French :_ 
 
@@ -48,4 +48,3 @@ _Portuguese :_
 ______________________________________________________________________________________________________________
 
 h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
-
