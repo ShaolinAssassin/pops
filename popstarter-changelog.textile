@@ -251,7 +251,7 @@ pre.
 -- Now it defaults to a 5 seconds delay if POPStarter somehow does not manage to poke the USB delay value
 
 
-* *2015/06/25 (Beta 2)*
+* *POPStarter Revision 13, Build Date : 2015/06/25, WIP 06, OBT 2*
 
 pre. 
 - In USB mode : Sequential scan of mass:/POPS/, mass:/POPS0/, mass:/POPS1/... up to mass:/POPS9/ for VCDs
