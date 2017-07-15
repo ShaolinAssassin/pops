@@ -16,20 +16,20 @@ pre.
 pre. 
 THIS BUILD HAS NOT BEEN TESTED.
 - The SetGsCrt hack (which was inplemented in beta 15) is now disabled by default, due to the incompatibility with some CRT TVs.
-To enable it, add $HDTVFIX to your CHEATS.TXT, or patch the offset 412h of the ELF/KELF (0x00 == disabled, 0x01 == enabled).
+  To enable it, add $HDTVFIX to your CHEATS.TXT, or patch the offset 412h of the ELF/KELF (0x00 == disabled, 0x01 == enabled).
 - Supposedly bugfixed : $YPOS_## was not working (had no effect at all).
 - Supposedly bugfixed : The safety code of the disc change mechanism (which fills the empty slots with the filename of the 1st disc) was not working.
 - Changes to the Parasite Eve II game fixes... I can't remember what was modified. Probably something related to * some of * the game crashes.
 - Integration of the "D-PAD to Left-Stick Remapping" as CHEATS.TXT commands $D2LS and $D2LS_ALT
-If my memory serves me right, $D2LS is the full code, and $D2LS_ALT is the code minus the "Stay on Digital Mode" part.
+  If my memory serves me right, $D2LS is the full code, and $D2LS_ALT is the code minus the "Stay on Digital Mode" part.
 - Integration of the "IGR Behaviour Modifiers" as CHEATS.TXT commands :
-$IGR0 [Hold L1+L2+R1+R2+X+Down to open the IGR menu]
-$IGR1 [Hold Start+Select to open the IGR menu]
-$IGR2 [Hold L1+L2+R1+R2+Start+Select to open the IGR menu]
-$IGR3 [Hold L1+L2+R1+R2+X+Down to terminate POPS (no IGR menu)]
-$IGR4 [Hold Start+Select to terminate POPS (no IGR menu)]
-$IGR5 [Hold L1+L2+R1+R2+Start+Select to terminate POPS (no IGR menu)]
-$NOIGR [Disables the IGR menu]
+  $IGR0 [Hold L1+L2+R1+R2+X+Down to open the IGR menu]
+  $IGR1 [Hold Start+Select to open the IGR menu]
+  $IGR2 [Hold L1+L2+R1+R2+Start+Select to open the IGR menu]
+  $IGR3 [Hold L1+L2+R1+R2+X+Down to terminate POPS (no IGR menu)]
+  $IGR4 [Hold Start+Select to terminate POPS (no IGR menu)]
+  $IGR5 [Hold L1+L2+R1+R2+Start+Select to terminate POPS (no IGR menu)]
+  $NOIGR [Disables the IGR menu]
 - Added hotkeys to an untested PS1 software reset system, Select+L2+R2+X
 
 
