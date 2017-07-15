@@ -2,7 +2,7 @@ h1. [PS1 devices] *Use your [special device : light gun...] with POPS*
 
 
 ______________________________________________________________________________________________________________
-_[Original tutorial by AKuHAK]_ "@ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-56#post-794781
+_[Original tutorial by AKuHAK]_ "@ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-56#post-794781
 
 
 *1.* Find a PS2 game that supports your special device and look inside its content;
