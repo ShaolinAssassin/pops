@@ -5,13 +5,13 @@ ________________________________________________________________________________
 
 
 
-* *POPStarter Revision 13, WIP 06, 2017/01/28 (Beta 17) = LATEST BETA VERSION":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-103#post-932403*
+* *"POPStarter Revision 13, WIP 06, 2017/01/28 (Beta 17) = LATEST BETA VERSION":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-103#post-932403*
 
 pre. 
 - Added support for the HDD-OSD 1.00J pfs launch argument.
 
 
-* *"2016/11/20 = Beta 16":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-100#post-920168*
+* *"POPStarter Revision 13, Build Date : 2016/11/20, WIP 06, OBT 16":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-100#post-920168*
 
 pre. 
 THIS BUILD HAS NOT BEEN TESTED.
@@ -33,7 +33,7 @@ $NOIGR [Disables the IGR menu]
 - Added hotkeys to an untested PS1 software reset system, Select+L2+R2+X
 
 
-* *"2016/09/19 = Beta 15":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
+* *"POPStarter Revision 13, Build Date : 2016/09/19, WIP 06, OBT 15":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
 
 pre. 
 - The CD lid open/close emulation is now complete. It refreshes the TOC.
@@ -59,7 +59,7 @@ pre.
   ... still crashes loading certain levels and the demo mode, like POPS is going crazy with the LibCrypt crapola.
 
 
-* *"2016/07/23 = Beta 14":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
+* *"POPStarter Revision 13, Build Date : 2016/07/23, WIP 06, OBT 14":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
 
 pre. 
 - Bugfixed : Couldn't load mc#:/POPSTARTER/usbd.irx and mc#:/POPSTARTER/usbhdfsd.irx.
@@ -68,7 +68,7 @@ pre.
 - New compatibility mode ($COMPATIBILITY_0x07 ) - fixes missing textures.
 
 
-* *"2015/12/07 = Beta 13":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-73#post-847749*
+* *"POPStarter Revision 13, Build Date : 2015/12/07, WIP 06, OBT 13":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-73#post-847749*
 
 pre. 
 - Added a PS2 Memory Card BOOT.ELF launcher to the in-game reset function of POPS and to the quit-on-failure code of POPStarter.
@@ -86,7 +86,7 @@ pre.
   Saved about 10KB off the final ELF yay !
 
 
-* *"2015/11/24 = Beta 12":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-71#post-845446*
+* *"POPStarter Revision 13, Build Date : 2015/11/24, WIP 06, OBT 12":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-71#post-845446*
 
 pre. 
 - Bugfixed : $SAFEMODE (in CHEATS.TXT) not working
@@ -100,7 +100,7 @@ pre.
   It forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL).
 
 
-* *"2015/11/11 = Beta 11":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-69#post-842789*
+* *"POPStarter Revision 13, Build Date : 2015/11/11, WIP 06, OBT 11":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-69#post-842789*
 
 pre. 
 - Bugfixed : Couldn't read VCDs from POPS# folders in USB mode and network modes
