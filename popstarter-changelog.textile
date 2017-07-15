@@ -323,16 +323,16 @@ NOTES : No new game fixes / compatibility modes were added in this build. Only t
 * *"POPStarter Revision 13, Build Date : 2014/08/22, WIP 02 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-35#post-770548*
 
 pre. 
-    - Added ~160 LibCrypt cracks (experimental), and truckloads of compatibility modes autoactivations. POPStarter now recognises 402 DISCS (see 5-AUTOMATED.TXT for the list).
-    - Bugfixed: POPS couldn't rename SLOT#.OLD as SLOT#.VMC when the VMC path was too long. To fix that, I've simply relinked the .OLD path to the .VMC pointer like I did for the USB mode in a previous POPStarter build...
-    - Bugfixed: POPStarter failed to set its debug display in realtime mode when the delay value was 0xFF. It's fixed now....
-    - IGR skin and IRX loaders are now enabled by default (in the configuration table)
-    - The POPStarter ELF/KELF configuration table now allows you to force up to 8 compatibility modes together
-    - Removed the tty on/off switch from the USB mode launcher. It's useless now, since the PFS wrapper author did compile it with the debug stuff commented out.
-    - POPStarter was compiled with the USB SUPPORT ON. Now you can load Delcro's PFS Wrapper and play your games from a USB drive
-    - Added Delcro's new build (2014/08/06) of the PFS wrapper in the POPStarter release package
-    - Here too, I did not try the KELF before putting the stuff together and releasing the package. Only the ELF was tested.
-    - Development status is still WIP, although I'll take mah vacations soon
+- Added ~160 LibCrypt cracks (experimental), and truckloads of compatibility modes autoactivations. POPStarter now recognises 402 DISCS (see 5-AUTOMATED.TXT for the list).
+- Bugfixed: POPS couldn't rename SLOT#.OLD as SLOT#.VMC when the VMC path was too long. To fix that, I've simply relinked the .OLD path to the .VMC pointer like I did for the USB mode in a previous POPStarter build...
+- Bugfixed: POPStarter failed to set its debug display in realtime mode when the delay value was 0xFF. It's fixed now....
+- IGR skin and IRX loaders are now enabled by default (in the configuration table)
+- The POPStarter ELF/KELF configuration table now allows you to force up to 8 compatibility modes together
+- Removed the tty on/off switch from the USB mode launcher. It's useless now, since the PFS wrapper author did compile it with the debug stuff commented out.
+- POPStarter was compiled with the USB SUPPORT ON. Now you can load Delcro's PFS Wrapper and play your games from a USB drive
+- Added Delcro's new build (2014/08/06) of the PFS wrapper in the POPStarter release package
+- Here too, I did not try the KELF before putting the stuff together and releasing the package. Only the ELF was tested.
+- Development status is still WIP, although I'll take mah vacations soon
 
 
 * *"POPStarter Revision 13 - 2014/07/11, WIP 01 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-27#post-760647*
@@ -350,37 +350,37 @@ pre.
 Pastie #7937017.
 
 pre. 
-+ Removed libdebug
-+ Removed the IMAGE0.VCD checker
-+ Stripped down the OSD.BIN header parser
-+ Linked expected failures/errors to TESTMODE
+- Removed libdebug
+- Removed the IMAGE0.VCD checker
+- Stripped down the OSD.BIN header parser
+- Linked expected failures/errors to TESTMODE
 
 
 * *"POPStarter Revision 12 - 2013/05/12":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-11#post-674651*
 Pastie #7937017.
 
 pre. 
-+ SCPH-50000 fix
-+ Optimisation of the VMC dir checker and the OSD/BIOS handlers
-+ Removed some time consuming container integrity verifiers
-+ The KELF's payload was stripped down
+- SCPH-50000 fix
+- Optimisation of the VMC dir checker and the OSD/BIOS handlers
+- Removed some time consuming container integrity verifiers
+- The KELF's payload was stripped down
 
 
 * *"POPStarter Revision 11 - 2013/04/30":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-6#post-670228*
 Pastie #7749880.
 
 pre. 
-+ Fixed BIOS & OSD handlers activation failure in EXECUTE.KELF
+- Fixed BIOS & OSD handlers activation failure in EXECUTE.KELF
 
 
 * *"POPStarter Revision 11 - 2013/04/24":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-6#post-670228*
 Pastie #7749880.
 
 pre. 
-+ Added the "ELF name to argument" thing in LAUNCHER (LAUNCHER.ELF) and PORTABLE (EXECUTE.ELF) builds
-+ Solved a file length problem in the OSD replacement file handler
-+ Now displays entrypoint relocations of OSD replacement files (limited to jumps from the segment start and the EOF)
-+ LAUNCHER, PORTABLE and KEXEC builds were packaged all together
+- Added the "ELF name to argument" thing in LAUNCHER (LAUNCHER.ELF) and PORTABLE (EXECUTE.ELF) builds
+- Solved a file length problem in the OSD replacement file handler
+- Now displays entrypoint relocations of OSD replacement files (limited to jumps from the segment start and the EOF)
+- LAUNCHER, PORTABLE and KEXEC builds were packaged all together
 
 
 * *"POPStarter Revision 10 [PATINFO/KEXEC Bundle] - 2013/04/19":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-4#post-667149*
