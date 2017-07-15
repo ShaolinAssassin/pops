@@ -48,7 +48,7 @@ hdd:/__common/uLE_kHn.ELF
 
 => to launch your game, run uLE_kHn.ELF, then launch GAME.VCD - just like you would do for any .ELF file.
 
-Need help ? Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/.
+Need help ? Ask over at "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/.
 ______________________________________________________________________________________________________________
 
 h3. "*Wiki Homepage*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
