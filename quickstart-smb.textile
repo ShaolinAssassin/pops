@@ -100,7 +100,7 @@ Example :
 pre. 
 192.168.0.13 255.255.255.0 192.168.0.254
 
-Need help ? Ask over at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/.
+Need help ? Ask over at "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/.
 
 ______________________________________________________________________________________________________________
 
