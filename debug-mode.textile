@@ -7,7 +7,7 @@ POPStarter has an embedded debug mode. It's ON by default in SMB mode (and it ca
 
 *How to enable POPStarter debug mode :* 
 
-* Easy method : apply "the DEBUG_AND_HALT.PPF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DEBUG_AND_HALT.PPF over POPSTARTER.ELF (or POPSTARTER.KELF) using a PPF patcher (such as "PPF-O-matic":http://www.romhacking.net/utilities/356/).
+* *Easy method :* apply "the DEBUG_AND_HALT.PPF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DEBUG_AND_HALT.PPF over POPSTARTER.ELF (or POPSTARTER.KELF) using a PPF patcher (such as "PPF-O-matic":http://www.romhacking.net/utilities/356/).
 
 !http://www.romhacking.net/utilities/screenshots/356screenshot1.gif!
 
@@ -19,7 +19,7 @@ POPStarter has an embedded debug mode. It's ON by default in SMB mode (and it ca
 # Browse to DEBUG_AND_HALT.PPF location and select it ;
 # Click "Apply" and you're done. Do not forget to rename POPSTARTER.ELF before using it. 
 
-* Advanced method : hexedit manually POPSTARTER.ELF. See POPStarter Configuration Table "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table.
+* *Advanced method :* hexedit manually POPSTARTER.ELF. See POPStarter Configuration Table "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table.
 
 Take note of the debug message and ask/report it @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/ if you need more help.
 
