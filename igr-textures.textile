@@ -2,7 +2,7 @@ h1. [IGR] *Make your own IGR textures*
 
 
 ______________________________________________________________________________________________________________
-_Based on infos shared by arkl1t32_ @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-38#post-771111
+_Based on infos shared by arkl1t32_ @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-38#post-771111
 
 
 h2. _Software Requirements :_ 
@@ -60,7 +60,7 @@ Result :
 
 !https://bitbucket.org/repo/Mpy7Eg/images/2013401434-animated_preview.gif(title)!
 
-Feel free to submit it at "ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/ or at "psx-scene":http://psx-scene.com/forums/f19/popstarter-wiki-155496/ and it will be added to the wiki. 
+Feel free to submit it at "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/ or at "psx-scene":http://psx-scene.com/forums/f19/popstarter-wiki-155496/ and it will be added to the wiki. 
 
 If you want to submit language versions :
 
