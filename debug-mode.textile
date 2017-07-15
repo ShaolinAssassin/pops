@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 POPStarter has an embedded debug mode. It's ON by default in SMB mode (and it can't be turn OFF in this mode) and it can be turn ON in HDD and USB modes. Use debug mode when something is wrong in your setup.
 
-*How to enable POPStarter debug mode :* 
+How to enable POPStarter debug mode :
 
 * *Easy method :* apply "the DEBUG_AND_HALT.PPF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DEBUG_AND_HALT.PPF over POPSTARTER.ELF (or POPSTARTER.KELF) using a PPF patcher (such as "PPF-O-matic":http://www.romhacking.net/utilities/356/).
 
