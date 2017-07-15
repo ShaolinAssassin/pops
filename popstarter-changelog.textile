@@ -268,7 +268,7 @@ pre.
 -- Added a USB delay pattern which is poked by POPStarter
 
 
-* *"POPStarter Revision 13, Build Date : 2015/06/22, WIP 06, OBT 1"*
+* *POPStarter Revision 13, Build Date : 2015/06/22, WIP 06, OBT 1*
 
 pre. 
 - Fixed : OSD.BIN in-RAM corruption
