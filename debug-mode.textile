@@ -21,7 +21,7 @@ POPStarter has an embedded debug mode. It's ON by default in SMB mode (and it ca
 
 * Advanced method : hexedit manually POPSTARTER.ELF. See POPStarter Configuration Table "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table.
 
-Take note of the debug message and ask/report it @"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/ if you need more help.
+Take note of the debug message and ask/report it @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/ if you need more help.
 
 ______________________________________________________________________________________________________________
 
