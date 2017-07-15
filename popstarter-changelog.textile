@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 
 
-* *"2017/01/28 (Beta 17) = LATEST BETA VERSION":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-103#post-932403*
+* *POPStarter Revision 13, WIP 06, 2017/01/28 (Beta 17) = LATEST BETA VERSION":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-103#post-932403*
 
 pre. 
 - Added support for the HDD-OSD 1.00J pfs launch argument.
@@ -268,7 +268,7 @@ pre.
 -- Added a USB delay pattern which is poked by POPStarter
 
 
-* *2015/06/22 (Beta 1)*
+* *"POPStarter Revision 13, Build Date : 2015/06/22, WIP 06, OBT 1"
 
 pre. 
 - Fixed : OSD.BIN in-RAM corruption
