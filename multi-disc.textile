@@ -3,7 +3,7 @@ h1. *Swap disc feature*
 ______________________________________________________________________________________________________________
 
 
-Since OBT 15, POPStarter has a swap disc feature that lets you play multi-disc easily. 
+Since OBT 15, POPStarter has a swap disc feature that lets you play multi-disc games easily. 
 
 1. Create a DISCS.TXT text file containing the file names of your VCDs, one file name per line (with VCD extension) ;
 
