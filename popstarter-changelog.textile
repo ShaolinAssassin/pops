@@ -3,12 +3,13 @@ h1. *POPStarter Changelog :*
 
 ______________________________________________________________________________________________________________
 
-h2. _WIP 06 Public Betas :_ 
+
 
 * *"2017/01/28 (Beta 17) = LATEST BETA VERSION":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-103#post-932403*
 
 pre. 
 - Added support for the HDD-OSD 1.00J pfs launch argument.
+
 
 * *"2016/11/20 = Beta 16":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-100#post-920168*
 
@@ -58,8 +59,6 @@ pre.
   ... still crashes loading certain levels and the demo mode, like POPS is going crazy with the LibCrypt crapola.
 
 
-
-
 * *"2016/07/23 = Beta 14":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
 
 pre. 
@@ -100,6 +99,7 @@ pre.
   Useful for PAL VCDs that don't have a valid license text in their bootsector.
   It forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL).
 
+
 * *"2015/11/11 = Beta 11":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-69#post-842789*
 
 pre. 
@@ -127,6 +127,7 @@ SFX are missing in Um Jammer Lammy, muh.
 pre. 
 - Bugfixed : poweroff.irx and ps2ip.irx not loaded from mc0:. Sorry of...
 
+
 * *"2015/10/24 = Beta 9":http://www.metagames-eu.com/forums/1771423-post196.html*
 
 pre. 
@@ -134,6 +135,7 @@ pre.
   (reported by ElPatas here : http://www.metagames-eu.com/forums/news-ps2/popstarter-revision-13-sorties-et-developpements-20-134569.html#post1771422 )
 - Now you can load the USB and network modules from the MC that is in the second slot too.
   (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...)
+
 
 * *"2015/10/23 = Beta 8":http://www.metagames-eu.com/forums/1771414-post191.html*
 
@@ -151,11 +153,13 @@ pre.
   (if it does not work with your device, you still can change that value in the config table, or using the $USBDELAY_# command of CHEATS.TXT)
 - Some other changes I can't remember...
 
+
 * *2015/07/28 (Beta 7)*
 
 pre. 
 - Compiled with the latest USBD again -_-
 - Fixed : Issues with the IOPCD stack
+
 
 * *2015/07/27 (Beta 6)*
 
@@ -171,11 +175,13 @@ pre.
 -- Cybernetic Empire (SLPS-01913, RGR)
 - Added uLE_kHn_20150727 to the package (with mass:/POPS#/ support).
 
+
 * *2015/07/14 (Beta 5)*
 
 pre. 
 - Speedup hack (Select+L2+R2+X) removed
 - Fixed : The LC fix was flushed and $FAKELC could not set it up
+
 
 * *2015/07/13 (Beta 4)*
 
@@ -184,6 +190,7 @@ pre.
   (The cheat engine was returning to its hook address + 8, causing POPS to execute the next function and fill the memory with garbage. Using a CHEATS.TXT was crashing POPS on startup.)
 - Added the PFS_WRAP.BIN which was posted here http://ps2home.freeforums.net/post/2764/thread , to this POPStarter zip.
 - Fixed : $USBDELAY_# didn't coexist with $C0
+
 
 * *2015/07/12 (Beta 3)*
 
@@ -244,7 +251,6 @@ pre.
 -- Now it defaults to a 5 seconds delay if POPStarter somehow does not manage to poke the USB delay value
 
 
-
 * *2015/06/25 (Beta 2)*
 
 pre. 
@@ -260,6 +266,7 @@ pre.
 -- The MEMCARD_HACK workaround (which has been implemented in r2) was deimplemented
 -- Debug stuff and the UDPTTY module were removed
 -- Added a USB delay pattern which is poked by POPStarter
+
 
 * *2015/06/22 (Beta 1)*
 
@@ -282,10 +289,8 @@ pre.
 - Added a fix for Alundra 2
 - Added the Jackie Chan Stuntmaster (SCES-01444) LibCrypt crack
 
-h2. _POPStarter Stable Releases :_ 
 
-* *"POPStarter Revision 13, Build Date : 2015/06/03, WIP 05 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-61#post-813385* *= LATEST STABLE RELEASE*
-
+* *"POPStarter Revision 13, Build Date : 2015/06/03, WIP 05 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-61#post-813385* 
 
 pre. 
 - Bugfixed : IOP reset code misalignment that randomly caused a fatal IOP crash before the POPS execution (doh !)
@@ -297,10 +302,12 @@ pre.
 - Corrected a mistake in 1-INSTALLATION.TXT (because POPS actually does not allow white spaces in partition names)
 NOTES : So, I tried the "partition icon to VMC folder icon" function of WIP 02. Does not work; looks like that thing never worked lol, so I don't try to reimplement it for now.
 
+
 * *"POPStarter Revision 13, Build Date : 2015/05/31, WIP 04 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-60#post-812678*
 
 pre. 
 - Removed the messed up partition icon to VMC folder icon code. It was saving garbage data in list.ico, so the VMC folders of PP. installed games were displayed as "corrupted data".
+
 
 * *"POPStarter Revision 13, Build Date : 2015/04/24, WIP 03 PUBLIC RELEASE":http://www.metagames-eu.com/forums/1770217-post163.html*
 
@@ -339,7 +346,6 @@ pre.
 - The current project status is work in progress
 
 
-
 * *"POPStarter Revision 12 - No Debug - 2013/05/14":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-11#post-674651*
 Pastie #7937017.
 
@@ -348,7 +354,6 @@ pre.
 + Removed the IMAGE0.VCD checker
 + Stripped down the OSD.BIN header parser
 + Linked expected failures/errors to TESTMODE
-
 
 
 * *"POPStarter Revision 12 - 2013/05/12":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-11#post-674651*
@@ -361,13 +366,11 @@ pre.
 + The KELF's payload was stripped down
 
 
-
 * *"POPStarter Revision 11 - 2013/04/30":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-6#post-670228*
 Pastie #7749880.
 
 pre. 
 + Fixed BIOS & OSD handlers activation failure in EXECUTE.KELF
-
 
 
 * *"POPStarter Revision 11 - 2013/04/24":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-6#post-670228*
@@ -380,7 +383,6 @@ pre.
 + LAUNCHER, PORTABLE and KEXEC builds were packaged all together
 
 
-
 * *"POPStarter Revision 10 [PATINFO/KEXEC Bundle] - 2013/04/19":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-4#post-667149*
 Pastie #7667656.
 
@@ -391,7 +393,6 @@ pre.
 + Added an OSD replacement image handler
 + Fixed a bug in VMC directory naming
 + Container protections were completely rewritten
-
 
 
 * *POPStarter Revision 9 [PATINFO/KEXEC Bundle] - 2013/04/09*
