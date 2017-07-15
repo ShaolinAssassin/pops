@@ -92,7 +92,7 @@ __common/ps1emu/card1.bak [temp VMC image, slot 2, created by the emu]
 __common/ps1emu/card0 [used VMC image, slot 1, created by the emu]
 __common/ps1emu/card1 [used VMC image, slot 2, created by the emu]
 
-@"ASSEMblergames":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-2#post-664727
+@"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-2#post-664727
 
 ______________________________________________________________________________________________________________
 
