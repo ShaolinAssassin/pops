@@ -12,8 +12,10 @@ pre.
 PACKAGE CONTENTS
 ////////////////
 __common/POPS/disc0			= The original virtual CD-ROM image of SLBB-00001
-__common/POPS/EXECUTE.ELF		= The emulator, encapsulated in the POPStarter container (it's the "PORTABLE" build, a stand alone ELF)
-PP.YOUR_GAME_PARTITION/EXECUTE.KELF	= The emulator, encapsulated in the POPStarter container (it's a KryptoELF, for use with the HDD OSD)
+__common/POPS/EXECUTE.ELF		= The emulator, encapsulated in the POPStarter container (it's the "PORTABLE" build, a stand alone 
+ELF)
+PP.YOUR_GAME_PARTITION/EXECUTE.KELF	= The emulator, encapsulated in the POPStarter container (it's a KryptoELF, for use with the 
+HDD OSD)
 LAUNCHER.ELF				= The launcher which executes __common/POPS/EXECUTE.ELF
 CUE2POPS_v1.2.zip			= BIN/CUE to IMAGE0.VCD conversion tool v1.2
 README.TXT				= This file
@@ -25,7 +27,8 @@ I - EMULATOR INSTALLATION [IS DONE ONCE]
 ----------------------
 II - GAME INSTALLATION
 ----------------------
-1) Dump your game as BIN/CUE with your favorite disc replication software (must output a raw Mode 2 disc image and an ASCII cue sheet);
+1) Dump your game as BIN/CUE with your favorite disc replication software (must output a raw Mode 2 disc image and an ASCII cue 
+sheet);
 2) Convert it to a POPS virtual CD-ROM image with "BIN/CUE to IMAGE0.VCD conversion tool v1.2" (CUE2POPS_1_2.EXE);
 3) Create a parent partition in your PS2 HDD (example of a partition name : "PP.PBPX-95000.MY_GAME")
 4) Transfer your virtual CD-ROM image (IT HAS TO BE NAMED "IMAGE0.VCD", UPPERCASE) to the root of the partition you've just created
@@ -34,8 +37,10 @@ II - GAME INSTALLATION
 6) Copy the file "EXECUTE.KELF" to the root of the game partition, or write "EXECUTE.KELF" to the KELF field of PATINFO.
 > No HDD OSD ? <
 5) Setup your partition icons (optional);
-7) Rename "LAUNCHER.ELF" as the name of the game partition (for example, if the game partition name is "PP.PBPX-95000.MY_GAME", rename "LAUNCHER.ELF" as "PP.PBPX-95000.MY_GAME.ELF");
-8) Copy the ELF you've just renamed to any place you want to run it from (examples : USB mass drive, +OPL partition, a folder in a PS2 Memory Card...).
+7) Rename "LAUNCHER.ELF" as the name of the game partition (for example, if the game partition name is "PP.PBPX-95000.MY_GAME", 
+rename "LAUNCHER.ELF" as "PP.PBPX-95000.MY_GAME.ELF");
+8) Copy the ELF you've just renamed to any place you want to run it from (examples : USB mass drive, +OPL partition, a folder in a 
+PS2 Memory Card...).
 You may need uLaunchELF 4.42_ev and pfsshell-0.2a...
 /////////////////////
 OVERVIEW OF THE SETUP
@@ -98,7 +103,8 @@ __common/POPS/SCUS-80085_FAPFAP/SLOT0.VMC
 __common/POPS/SCUS-80085_FAPFAP/SLOT1.VMC
 __common/POPS/SCUS-84115_BAMBAM/SLOT0.VMC
 __common/POPS/SCUS-84115_BAMBAM/SLOT1.VMC
-The container skips the partition prefix when naming the VMC directory, so make sure you always name your partitions with a valid 3 chars prefix ("PP." or "__."); otherwise it will truncate the game name.
+The container skips the partition prefix when naming the VMC directory, so make sure you always name your partitions with a valid 3 
+chars prefix ("PP." or "__."); otherwise it will truncate the game name.
 Examples :
 Partition "PP.PBPX-95000.MY_GAME"	==	VMC directory "PBPX-95000.MY_GAME"
 Partition "PP.SCUS-80085_FAPFAP"	==	VMC directory "SCUS-80085_FAPFAP"
@@ -114,31 +120,39 @@ Examples
 PP.PBPX-95000.MY_GAME/IMAGE0.VCD
 PP.SCUS-80085_FAPFAP/IMAGE0.VCD
 PP.SCUS-84115_BAMBAM/IMAGE0.VCD
-One copy of the original "disc0" has to be placed in __common/POPS/ (where "__common" is a system PARTITION and "POPS" is a DIRECTORY).
+One copy of the original "disc0" has to be placed in __common/POPS/ (where "__common" is a system PARTITION and "POPS" is a 
+DIRECTORY).
 __common/POPS/disc0
 ////////////////
 PLAYSTATION BIOS
 ////////////////
-You can use a PlayStation BIOS dump with POPS. Put a "BIOS.BIN" file in the VMC directory (example : __common/POPS/PBPX-95000.MY_GAME/BIOS.BIN) so POPStarter can handle it.
+You can use a PlayStation BIOS dump with POPS. Put a "BIOS.BIN" file in the VMC directory (example : 
+__common/POPS/PBPX-95000.MY_GAME/BIOS.BIN) so POPStarter can handle it.
 If you didn't, POPS will use the built-in BIOS in fast boot mode (no PS OSD, just like POPStarter Rev.9 does).
 ///////////////////////////
 PLAYSTATION OSD REPLACEMENT
 ///////////////////////////
 POPStarter Revision 11 can replicate the PS-X EXE injection and execution method that was the heart of the POC1.
-If you put an OSD replacement image in the VMC directory, named as "OSD.BIN" (example : __common/POPS/PBPX-95000.MY_GAME/OSD.BIN), the container will inject it in the built-in BIOS for POPS to run it.
+If you put an OSD replacement image in the VMC directory, named as "OSD.BIN" (example : __common/POPS/PBPX-95000.MY_GAME/OSD.BIN), 
+the container will inject it in the built-in BIOS for POPS to run it.
 When using a OSD replacement file, the container ignores "BIOS.BIN" (no user defined BIOS execution is possble).
 ////////////////////
 MBR CALLBACK aka IGR
 ////////////////////
-Your pad does not respond after pressing L1+START+SELECT ? Just disconnect the second pad or use the second pad to validate your choice o_O.
+Your pad does not respond after pressing L1+START+SELECT ? Just disconnect the second pad or use the second pad to validate your 
+choice o_O.
 @@@@@@@@@
 BLAH BLAH
 @@@@@@@@@
 Thanks to everyone who helped me in the making of POPStarter and CUE2POPS, with tests, bug reports and encouragements.
-This should be the last revision of the container, as the POC2 (aka POPS-00001) is now obsolete... unless someone reports a critical problem/bug/error.
-My respect and gratitude to the former project maintainers. It has been a pleasure working with you, in despite of the bullshit that followed the release of the second POC and the abortion of the development.
-Please do not bother me if you wanna make an installer. I'm not interested in spending more of my time in POPS related stuff (other than container/CUE2POPS bugs)...
-Feel free to spread the binaries, pack them with an installer you made, improve CUE2POPS etc etc... but please, do not waste my damn work like some lamers did with teh POPS-00001.
+This should be the last revision of the container, as the POC2 (aka POPS-00001) is now obsolete... unless someone reports a critical
+problem/bug/error.
+My respect and gratitude to the former project maintainers. It has been a pleasure working with you, in despite of the bullshit that
+followed the release of the second POC and the abortion of the development.
+Please do not bother me if you wanna make an installer. I'm not interested in spending more of my time in POPS related stuff (other
+than container/CUE2POPS bugs)...
+Feel free to spread the binaries, pack them with an installer you made, improve CUE2POPS etc etc... but please, do not waste my damn
+work like some lamers did with teh POPS-00001.
 Hope u liek that release and find it useful.
 ---------
 CHANGELOG
@@ -170,5 +184,3 @@ kHn, 2013/04/30
 ______________________________________________________________________________________________________________
 
 h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
-
-
