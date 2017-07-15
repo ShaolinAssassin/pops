@@ -13,6 +13,8 @@ ________________________________________________________________________________
 
 h2. _Fixes integrated into POPStarter Revision 13 WIP 06, OBT 17_
 
+More than 540 games are recognised : 
+
 * 007: Demain Ne Meurt Jamais (SLES-02375) – Crash Fix
 * 007: Der Morgen Stirbt Nie (SLES-02376) – Crash Fix
 * 007: Tomorrow Never Dies (SLES-01324) – Crash Fix
