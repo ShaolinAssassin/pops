@@ -80,8 +80,10 @@ pre.
 
 pre. 
 - Added a PS2 Memory Card BOOT.ELF launcher to the in-game reset function of POPS and to the quit-on-failure code of POPStarter.
-  The launcher looks for mc0:/BOOT/BOOT.ELF and mc1:/BOOT/BOOT.ELF. If not found/invalid, exits to the PS2 browser (OSDSYS should execute FMCB/FHDB, if installed to a COMPATIBLE console).
-  POPS will still kick you out to the OSD if it cannot init (cannot load modules, cannot open the VCD...) the launcher will not be invoked.
+  The launcher looks for mc0:/BOOT/BOOT.ELF and mc1:/BOOT/BOOT.ELF. If not found/invalid, exits to the PS2 browser (OSDSYS should 
+  execute FMCB/FHDB, if installed to a COMPATIBLE console).
+  POPS will still kick you out to the OSD if it cannot init (cannot load modules, cannot open the VCD...) the launcher will not be 
+  invoked.
 - The PAL patcher of POPStarter gets disabled when the XBRA and the GSM magics are found into the memory.
   With that thing, I hope the users of GSModeSelector v0.23x beta will no longer have to use $NOPAL after they launch GSM...
 - Added a small ExcepTrap v1 build, stripped out from the kTLBException catcher and the other boring stuff.
@@ -105,7 +107,8 @@ pre.
   VCDs with messed up bootsector will be run in the POPS native NTSC video mode. Want PAL ? See $FORCEPAL below.
 - Added $FORCEPAL (in CHEATS.TXT)
   Useful for PAL VCDs that don't have a valid license text in their bootsector.
-  It forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL).
+  It forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen 
+  in PAL).
 
 
 * *"POPStarter Revision 13, Build Date : 2015/11/11, WIP 06, OBT 11":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-69#post-842789*
@@ -125,7 +128,8 @@ SFX are missing in Um Jammer Lammy, muh.
 - Automated compatibility fix 0x04 for :
 --- ATV: Quad Power Racing (SLUS-01137)
 --- ATV: Quad Power Racing (SLES-02822)
-- Added something to make Tekken 3 (SCES-01237) look better. Although, it still has got severe framerate and controller response issues :( .
+- Added something to make Tekken 3 (SCES-01237) look better. Although, it still has got severe framerate and controller response 
+  issues :( .
   Almost unplayable... Irritating garbage.
   Even worse, the game boot appears to be hit or miss now. To be improved... or removed hehe.
 
@@ -150,15 +154,18 @@ pre.
 pre. 
 - Complete rewrite and embedding of the PFS wrapper (POPStarter no longer loads PFS_WRAP.BIN)
 - Added support for ps2host, napLink (yuck) and SMB (NOT password protected, fixed port 445) shares
-- Added a loader/unpacker for POPS_IOX.PAK in USB and network modes (note that POPS_IOX.PAK is REQUIRED to make the network modes work)
-- Load network and USB modules from a PS2 MC (first slot ONLY, mc0:/POPSTARTER/). POPStarter no longer loads usbd.irx and usbhdfsd.irx from mass.
+- Added a loader/unpacker for POPS_IOX.PAK in USB and network modes (note that POPS_IOX.PAK is REQUIRED to make the network modes
+  work)
+- Load network and USB modules from a PS2 MC (first slot ONLY, mc0:/POPSTARTER/). POPStarter no longer loads usbd.irx and 
+  usbhdfsd.irx from mass.
 - Yet another built-in BIOS hack, to solve this problem : https://assemblergames.com/threads/45347/page-67#post-832884
 - PAL patching of POPS is now denied for Tom And Jerry In House Trap (SLES-03181)
   ( thanks for reporting, ElPatas. https://assemblergames.com/threads/45347/page-68#post-838947 )
 - No more USB modules and PFS wrapper injections into POPS. POPStarter loads and starts them before POPS is executed
   (so now users can use their mc0:/POPSTARTER/usbd.irx and mc0:/POPSTARTER/usbhdfsd.irx with no file size restriction)
 - Now the default USB delay value of the PFS wrapper (in the config table, offset 417h of the ELF) is zero
-  (if it does not work with your device, you still can change that value in the config table, or using the $USBDELAY_# command of CHEATS.TXT)
+  (if it does not work with your device, you still can change that value in the config table, or using the $USBDELAY_# command of 
+  CHEATS.TXT)
 - Some other changes I can't remember...
 
 
@@ -176,7 +183,8 @@ pre.
 - Old USBD (CRC32 8EA56869) + USBHDFSD of POPStarter r13 WIP 02/05 (CRC32 E96C037A)
 - Fixed : $COMPATIBILITY_0x## (in CHEATS.TXT) did not work
 - Added : Vibration fix ( same as the "Rumble Always On" posted here http://ps2home.freeforums.net/post/2809/thread )
-- The second controller is disabled in the IGR menu, allowing you to decide/cancel from the first controller (same as the "No 2nd pad in IGR" TROJAN)
+- The second controller is disabled in the IGR menu, allowing you to decide/cancel from the first controller (same as the "No 2nd 
+  pad in IGR" TROJAN)
 - Added a crash fix for :
 -- Cybernetic Empire (Disc 1) (SLPS-01912)
 -- Cybernetic Empire (Disc 2) (SLPS-01913)
@@ -195,7 +203,8 @@ pre.
 
 pre. 
 - Fixed : Bad cheat engine hook.
-  (The cheat engine was returning to its hook address + 8, causing POPS to execute the next function and fill the memory with garbage. Using a CHEATS.TXT was crashing POPS on startup.)
+  (The cheat engine was returning to its hook address + 8, causing POPS to execute the next function and fill the memory with 
+  garbage. Using a CHEATS.TXT was crashing POPS on startup.)
 - Added the PFS_WRAP.BIN which was posted here http://ps2home.freeforums.net/post/2764/thread , to this POPStarter zip.
 - Fixed : $USBDELAY_# didn't coexist with $C0
 
@@ -252,7 +261,8 @@ pre.
 -- $USBDELAY_# (where # is a number. Sets up the PFS wrapper USB delay)
 -- $NOPAL (Disables POPStarters' PAL patcher)
 -- $SMOOTH (Enables the smooth texture mapping at startup)
--- $COMPATIBILITY_0x## (where ## is a hexadecimal value. Activates a compatibility mode. You can write as many $COMPATIBILITY_0x## as you want.)
+-- $COMPATIBILITY_0x## (where ## is a hexadecimal value. Activates a compatibility mode. You can write as many $COMPATIBILITY_0x## 
+ as you want.)
 -- $CACHE1 (Makes POPS buffer 1 sector instead of 16.)
 -- $FAKELC (Loads a null LibCrypt magic word into the cop0 register. May be needed by some discs that have a messed up LC protection.)
 - PFS_WRAP.BIN (the PFS wrapper) was updated to r4 :
@@ -267,8 +277,10 @@ pre.
 - Now the VCD is checked, identified and fixes are activated BEFORE the file handlers are run
   (it was a requirement to comply with the USB mode changes)
 - Support for the new TROJAN specs of version 3
-  IF the TROJAN version (offset Ch) is 0x03 AND IF the defined POPStarter build ID (offset Ah) is lower than the ELF build ID ANF IF the internal game fixes were loaded, the loading of the TROJAN is skipped
-- Change to the POPStarter ELF config table : offset 417h value is the USB delay used by the PFS wrapper r3 (default hardcoded value is 0x05)
+  IF the TROJAN version (offset Ch) is 0x03 AND IF the defined POPStarter build ID (offset Ah) is lower than the ELF build ID ANF 
+  IF the internal game fixes were loaded, the loading of the TROJAN is skipped
+- Change to the POPStarter ELF config table : offset 417h value is the USB delay used by the PFS wrapper r3 (default hardcoded 
+  value is 0x05)
 - PFS_WRAP.BIN (the PFS wrapper) was updated to r3 :
 -- Functions remove and mkdir are now dummies
 -- The MEMCARD_HACK workaround (which has been implemented in r2) was deimplemented
@@ -288,7 +300,8 @@ pre.
 - Redesign of the LibCrypt hack
   The magic key is now directly (and constantly) loaded to the COP0r3 (in the SPM actually)
 - Re-coding of the MediEvil specific LibCrypt hack
-- Added a function which allows the user to use another VMC folder (handles VMCDIR.TXT from the POPS folder and from the game VMC folder)
+- Added a function which allows the user to use another VMC folder (handles VMCDIR.TXT from the POPS folder and from the game VMC 
+  folder)
 - Added a cheat engine (handles CHEATS.TXT from the game VMC folder)
   The code list syntax is the same as the ToolBox one. Example : $800ABCDE FFFF
 - Added a new Crash Team Racing fix which is also supposed to fix the sound issue
@@ -302,19 +315,25 @@ pre.
 
 pre. 
 - Bugfixed : IOP reset code misalignment that randomly caused a fatal IOP crash before the POPS execution (doh !)
-- Integration of all the current game fixes TROJANs to POPStarter (but the Casper ones, because they need some serious reworks). Updated 5-AUTOMATED.TXT.
-- Integration of the Harry Potter And The Chamber Of Secrets (SLUS-01503) crash fix that was built today. I also added the TROJAN in the Game Fixes folder.
-- Added automatic compatibility mode activations for Gran Turismo v1.0 (SCUS-94194), Gran Turismo 2 (Simulation Mode) v1.0 (SCUS-94488), Gran Turismo 2 (Simulation Mode) v1.0 (SCUS-94488) and Gran Turismo 2 (Arcade Mode) v1.1 (SCUS-94455)
-- Gran Turismo (SCUS-94194) renamed as Gran Turismo v1.1 (SCUS-94194) in the internal database, because I added the identification data of Gran Turismo v1.0 (SCUS-94194)
+- Integration of all the current game fixes TROJANs to POPStarter (but the Casper ones, because they need some serious reworks). 
+  Updated 5-AUTOMATED.TXT.
+- Integration of the Harry Potter And The Chamber Of Secrets (SLUS-01503) crash fix that was built today. I also added the TROJAN 
+  in the Game Fixes folder.
+- Added automatic compatibility mode activations for Gran Turismo v1.0 (SCUS-94194), Gran Turismo 2 (Simulation Mode) v1.0 
+  (SCUS-94488), Gran Turismo 2 (Simulation Mode) v1.0 (SCUS-94488) and Gran Turismo 2 (Arcade Mode) v1.1 (SCUS-94455)
+- Gran Turismo (SCUS-94194) renamed as Gran Turismo v1.1 (SCUS-94194) in the internal database, because I added the identification 
+  data of Gran Turismo v1.0 (SCUS-94194)
 - Commited changes to uLE upon request, and included it in this package (uLE_kHn_20150602)
 - Corrected a mistake in 1-INSTALLATION.TXT (because POPS actually does not allow white spaces in partition names)
-NOTES : So, I tried the "partition icon to VMC folder icon" function of WIP 02. Does not work; looks like that thing never worked lol, so I don't try to reimplement it for now.
+NOTES : So, I tried the "partition icon to VMC folder icon" function of WIP 02. Does not work; looks like that thing never worked 
+lol, so I don't try to reimplement it for now.
 
 
 * *"POPStarter Revision 13, Build Date : 2015/05/31, WIP 04 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-60#post-812678*
 
 pre. 
-- Removed the messed up partition icon to VMC folder icon code. It was saving garbage data in list.ico, so the VMC folders of PP. installed games were displayed as "corrupted data".
+- Removed the messed up partition icon to VMC folder icon code. It was saving garbage data in list.ico, so the VMC folders of PP. 
+  installed games were displayed as "corrupted data".
 
 
 * *"POPStarter Revision 13, Build Date : 2015/04/24, WIP 03 PUBLIC RELEASE":http://www.metagames-eu.com/forums/1770217-post163.html*
@@ -324,19 +343,24 @@ pre.
 - Fixed: PS logo did not show up with NTSC U/C and PAL games
 - Bugfixed : Unable to inject the user ID in the VMC names, in USB mode
 - Added a new PS BIOS region-freeing method
-- Added ToolBox 1.0 + the CUE2POPS function batch, POPS2CUE 1.0, uLE_kHn_20150506, IGR behaviour modifiers, No 2nd pad in IGR (2014/09/02) and Game Fixes (2014/11/29) to the release bundle
-NOTES : No new game fixes / compatibility modes were added in this build. Only the known internal bugs were fixed, and I decided to release it now because I've also resolved the PStwo / PS2 w/o HDD issue in uLE...
+- Added ToolBox 1.0 + the CUE2POPS function batch, POPS2CUE 1.0, uLE_kHn_20150506, IGR behaviour modifiers, No 2nd pad in IGR 
+  (2014/09/02) and Game Fixes (2014/11/29) to the release bundle
+NOTES : No new game fixes / compatibility modes were added in this build. Only the known internal bugs were fixed, and I decided to 
+release it now because I've also resolved the PStwo / PS2 w/o HDD issue in uLE...
 
 
 * *"POPStarter Revision 13, Build Date : 2014/08/22, WIP 02 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-35#post-770548*
 
 pre. 
-- Added ~160 LibCrypt cracks (experimental), and truckloads of compatibility modes autoactivations. POPStarter now recognises 402 DISCS (see 5-AUTOMATED.TXT for the list).
-- Bugfixed: POPS couldn't rename SLOT#.OLD as SLOT#.VMC when the VMC path was too long. To fix that, I've simply relinked the .OLD path to the .VMC pointer like I did for the USB mode in a previous POPStarter build...
+- Added ~160 LibCrypt cracks (experimental), and truckloads of compatibility modes autoactivations. POPStarter now recognises 402 
+  DISCS (see 5-AUTOMATED.TXT for the list).
+- Bugfixed: POPS couldn't rename SLOT#.OLD as SLOT#.VMC when the VMC path was too long. To fix that, I've simply relinked the .OLD 
+  path to the .VMC pointer like I did for the USB mode in a previous POPStarter build...
 - Bugfixed: POPStarter failed to set its debug display in realtime mode when the delay value was 0xFF. It's fixed now....
 - IGR skin and IRX loaders are now enabled by default (in the configuration table)
 - The POPStarter ELF/KELF configuration table now allows you to force up to 8 compatibility modes together
-- Removed the tty on/off switch from the USB mode launcher. It's useless now, since the PFS wrapper author did compile it with the debug stuff commented out.
+- Removed the tty on/off switch from the USB mode launcher. It's useless now, since the PFS wrapper author did compile it with the 
+  debug stuff commented out.
 - POPStarter was compiled with the USB SUPPORT ON. Now you can load Delcro's PFS Wrapper and play your games from a USB drive
 - Added Delcro's new build (2014/08/06) of the PFS wrapper in the POPStarter release package
 - Here too, I did not try the KELF before putting the stuff together and releasing the package. Only the ELF was tested.
@@ -350,7 +374,8 @@ pre.
 - LC cracks for Ape Escape (SCES-02028), Ape Escape (SCES-01564) and Ape Escape (SCES-02031) were added.
 - The POPS.PAK decompression bug that occured when debug printing was turned OFF has been fixed.
 - Compiled with the NO_PFS_WRAPPER def, so it's OK to be distributed.
-- The KELF wasn't tested. None of the betatesters (including me) use the HDDOSD crap anymore. The ELF was launched via uLE when testing in the PSX.
+- The KELF wasn't tested. None of the betatesters (including me) use the HDDOSD crap anymore. The ELF was launched via uLE when 
+  testing in the PSX.
 - The current project status is work in progress
 
 
