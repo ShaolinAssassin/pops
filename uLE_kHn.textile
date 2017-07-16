@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 h2. _Changelog :_ 
 
-* *uLE_kHn_20160723* = this will be the "last one":http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-93#post-908556 distributed by kHn. 
+* *uLE_kHn_20160723* = this will be the "last one":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-93#post-908556 distributed by kHn. 
 
 pre. 
 Not documented. Minor changes mentionned here :http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-86#post-895756
