@@ -13,7 +13,7 @@ h2. _Links to some softwares you may need :_
 * FHDB, part of the FMCB 1.9x project : "here":http://ichiba.geocities.jp/ysai187/PS2/FMCB/
 * GS Mode Selector (GSM) : "here":http://psx-scene.com/forums/official-gs-mode-selector-forum/
 * ps2rd GUI : "here":http://wescastro.com/2013/09/03/ps2rd-cheat-device-gui-update/
-* MemcardRex : "here":http://shendosoft.blogspot.fr/
+* MemcardRex : "here":http://shendosoft.blogspot.fr/2014/01/memcardrex-18-released.html
 * AKuHAK’s uLaunchELF (WIP7) : "here":http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/
 * uLaunchELF 4.42d : "here":http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/
 
