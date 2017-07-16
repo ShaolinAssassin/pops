@@ -1,12 +1,17 @@
-h1. *Debug mode*
+h1. *POPStarter version*
 
 
 ______________________________________________________________________________________________________________
 
+A tip to know which version of POPStarter you are using...
 
-!https://bitbucket.org/repo/Mpy7Eg/images/3131716167-KELF_ID.JPG(title)!
+Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue) on pic below : it's the Build date.
+In red, starting at offset $5E is the Build ID. 
 
-| *Version* | *Date YY YY MM DD (blue)* | *Build ID (red)* |
+!https://bitbucket.org/repo/Mpy7Eg/images/1963149811-ELF_ID.JPG(title)!
+
+| *Version* | *Build date YY YY MM DD (blue)* | *Build ID (red)* |
+| Rev 13 WIP 6 OBT 17 | 20 17 01 28 | 0x11 |
 | Rev 13 WIP 6 OBT 16 | 20 16 11 20 | 0x10 |
 | Rev 13 WIP 6 OBT 15 | 20 16 09 19 | 0x0F |
 | Rev 13 WIP 6 OBT 14 | 20 16 07 23 | 0x0E |
@@ -28,6 +33,10 @@ ________________________________________________________________________________
 | Rev 13 WIP 3 | 20 15 04 24 | 0x03 |
 | Rev 13 WIP 2 | 20 14 08 22 | 0x02 |
 | Rev 13 WIP 1 | 20 14 07 11 | 0x01 |
+
+For the .KELF version : 
+
+!https://bitbucket.org/repo/Mpy7Eg/images/3131716167-KELF_ID.JPG(title)!
 
 ______________________________________________________________________________________________________________
 
