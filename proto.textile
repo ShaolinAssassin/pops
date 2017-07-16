@@ -4,6 +4,110 @@ ________________________________________________________________________________
 
 
 
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170703":https://www.metagames-eu.com/forums/1775856-post325.html*
+
+pre. 
+- Encore quelques bugs de patchés sur POPS. Susceptibles d’accroitre la compatibilité.
+- Réécriture des modes de compatibilité. Je me suis rendu compte que le mode 0x05 avait un problème, en laissant Colony Wars tourner une quarantaine de minutes, l'intro (FMV) plantait. Alors j'ai tout recodé proprement.
+- Sécurisation de l'ensemble des fonctionnalités de POPStarter accrochées à POPS.
+- Tentative de résolution du crash de Castlevania SOTN.
+- Tentative de résolution du crash de Rayman 2 : semble fonctionner sur la version FR/DE, j'ai des doutes concernant la version EN/IT/ES, et ne fonctionne pas sur la version NTSC U/C.
+- Suppression des fixes intégrés à POPStarter pour Metal Gear Solid. Ils servaient à contourner les cutscenes qui faisaient crasher POPS. Je pense que le bug de POPS a été corrigé et que nous n'en avons plus besoin...
+- Suppression de l'interdiction d'affichage en PAL pour Driver 2 PAL. Ça semble fonctionner maintenant...
+- Suppression de ExcepTrap.
+- D'autres changements que j'ai oublié...
+$CODECACHE_ADDON_0 automatique sur :
+- Colin McRae Rally 2.0 v1.0 (SLES-02605)
+- Colin McRae Rally 2.0 v1.1 (SLES-02605)
+- Colin McRae Rally 2.0 (SLUS-01222)
+- V-Rally: 97 Championship Edition v1.0 (SLES-00250)
+- V-Rally: 97 Championship Edition v1.1 (SLES-00250)
+- V-Rally: 97 Championship Edition v1.2 (SLES-00250)
+- V-Rally: Championship Edition (SLPS-01149 / SLPS-91099)
+- Need For Speed: V-Rally (SLUS-00590)
+Des jeux qui rament (comme V-Rally autrefois) ou qui se figent temporairement (comme Colin McRae Rally 2.0 autrefois) ?
+Essayez $CODECACHE_ADDON_0 dans CHEATS.TXT si le mode de compatibilité 0x04 n'aide pas.
+
+
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170624":https://www.metagames-eu.com/forums/1775817-post311.html*
+
+pre. 
+Vu que les emails d'ASSEMblergames ne fonctionnent toujours pas, j'ai retouché un peu à POPS et patchée une poignée de bugs.
+Certains jeux devraient cesser de crasher maintenant, mais je n'ai pas encore fait de tests...
+Vu la quantité d'opcodes qui load/store sans alignement, $ONY non plus n'avait pas du faire beaucoup de tests...
+----------------------------------
+EDIT : Quelques tests en cours...
+jeux auxquels j'ai pu jouer un peu :
+- Mega Man Legends (USA)
+- Mega Man Legends 2 (USA)
+- Gunfighter - The Legend of Jesse James (Euro)
+- Crash Bandicoot (USA)
+- WarGames: Defcon 1 (version USA je crois)
+jeux qui ne plantent plus mais qui ont des glitches conséquents (pas de mode de compatibilité essayé) :
+- Action Man: Mission Xtreme/Operation Extreme (Euro/USA)
+- Jurassic Park - Warpath (Euro)
+
+pre. 
+Some more tests, from SMB :
++ Still not working (crashing/stuck in a endless loop) :
+Viper (Europe).VCD
+The Next Tetris (Europe).VCD
+Soccer Kid (Europe).VCD
+Tobal No. 1 (Europe).VCD
+Street Fighter Alpha 2 (Europe).VCD
+Motor Toon Grand Prix 2 (Europe).VCD
+Looney Tunes Racing (Europe) (En,Fr,De,Es,It).VCD
+Penny Racers (Europe).VCD
+Philosoma (Europe) (En,Fr,De).VCD
+WarCraft II - The Dark Saga (Europe) (En,Fr,De,Es,It).VCD
+Worms Armageddon (Europe).VCD
++ Now working :
+Crisis Beat (Europe).VCD
+The Misadventures of Tron Bonne (Europe).VCD
+I wish I could fix that Dino Crisis syndrome that affects quite a lot of games.
+
+
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170615":https://www.metagames-eu.com/forums/1775789-post306.html*
+
+pre. 
+- Correction d'un bug qui touchait les protos des 27, 30 et 31 mai. Les VCDs ne pouvaient plus être lancés depuis les partitions/dossiers POPS#. Il y avait un conflit avec le mode PS1 CD qui faisait planter POPStarter. Ça semble réglé maintenant. Je ne m'en suis rendu compte que ce matin, en voulant lancer un jeu dans la partition __.POPS0 de mon HDD. Preuve que les protos n'ont pas été suffisamment testé par mes soins pour être digne d'une bêta grand public. Il y a peut être d'autres bugs...
+- Ajout de $LOAD_TIMINGS et de $SET_TIMINGS
+LOAD se contente de charger les timings de la VMC, sans squatter les boutons L1/L2/R1/R2 des deux pads (et donc sans permettre les changements).
+SET charge depuis la VMC et permet de les changer les timings, comme indiqué dans le post précédent.
+Il me semble que ce SET_TIMINGS intégré est hyper sensible là où je l'ai accroché. Le TROJAN est sans doute mieux pour faire des réglages affinés.
+EDIT : Pour en revenir à Tekken 3, j'ai fini de régler la version PAL pour réduire le scintillement au maximum. TEKKEN3_PAL.ZIP
+Pertes de trames abominables. Déjà que la version PAL était excessivement lente par rapport à la version NTSC, bidouiller le rafraichissement le rend encore plus déplaisant à jouer.
+Quant à la version NTSC, je n'ai même pas voulu conserver la VMC. Parce qu'il n'y a pas de juste milieu entre le scintillement et le rafraichissement optimal. Résultat, une motion blur absolument dégueulasse.
+
+
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170531":https://www.metagames-eu.com/forums/1775752-post298.html*
+
+pre. 
+Bon, je suis entrain de corriger les problèmes de flickering sur Crash Bash et les ralentissements. C'est concluant (sauf pour les cutscenes), mais j'ai un souci :
+La version US semble avoir d'autres problèmes de plantages, et ils ne sont pas mentionnés dans la liste de compatibilité. J'aimerais avoir une confirmation.
+Est-ce que quelqu'un peut tester le gem challenge du niveau Polar Panic et le niveau Papu Pummel ?
+Voilà ma VMC : SLOT0.VMC
+Chez moi, le gem challenge de Polar Panic plante après le chargement (sur un écran noir), et Papu Pummel plante après quelques secondes de jeu...
+Je suis en mode SMB. Avec la version PAL, je n'ai pas rencontré de problème.
+
+
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170530":https://www.metagames-eu.com/forums/1775741-post296.html*
+
+pre. 
+En fin de compte, ce n'est pas une si bonne stratégie de faire charger padman_hsync par POPStarter sur reconnaissance des MODULE_#.IRX...
+J'ai changé ça, le système refonctionne comme dans la bêta. Libre à vous de donner vos directives dans CHEATS.TXT en fonction de vos besoins :
+$LOAD_PADMAN chargera padman_hsync après sio2man.
+$KILL_PADMAN neutralisera padman_hsync complétement, si vous souhaitez utiliser un remplacement...
+Avec aucune de ces deux commandes, ça fonctionnera normalement.
+Le hack de Dave Mirra Freestyle BMX: Maximum Remix (SLUS-01347) a été porté sur :
+- Dave Mirra Freestyle BMX (SLUS-01026)
+- Dave Mirra Freestyle BMX (SLES-02740)
+- Dave Mirra Freestyle BMX: Maximum Remix (SLES-03371)
+accessible avec 0x04 à l'offset 42Fh.
+Je n'ai pas trouvé les versions jap.
+Hier j'ai fait le même genre modif de caméra sur RR et Tony Hawk's, ça glitch toujours à la même position lol.
+
+
 * *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170527":https://www.metagames-eu.com/forums/1775718-post293.html*
 
 pre. 
