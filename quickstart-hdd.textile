@@ -34,7 +34,7 @@ POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 
 *c) Installing POPStarter :*
 
-# Put uLE_kHn.ELF in __common/POPS. This special uLE version can launch .VCD directly;
+# Put uLE_kHn.ELF in __common. This special uLE version can launch .VCD directly;
 # Put POPSTARTER.ELF into __common/POPS ;
 
 Now, check your setup. It must be the same as this :
