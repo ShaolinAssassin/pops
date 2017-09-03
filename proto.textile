@@ -2,7 +2,7 @@ h1. *OBT 17+ Protos :*
 
 ______________________________________________________________________________________________________________
 
-Notes : These protos are meant to test some new features. They are *NOT* meant to be used as daily gaming version. They refuse to run from OPL, *by design*. More infos "here":http://www.psx-place.com/threads/open-ps2-loader-v0-9-3.13415/page-4#post-84429.
+Notes : These protos are meant to test some new features. They are *NOT* meant to be used as daily gaming version. They refuse to run from OPL, *by design*. More infos "here":http://www.psx-place.com/threads/open-ps2-loader-v0-9-3.13415/page-4#post-84429. "English version (by google)":https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=fr&ie=UTF-8&u=https%3A%2F%2Fbitbucket.org%2FShaolinAssassin%2Fpopstarter-documentation-stuff%2Fwiki%2Fproto&edit-text=&act=url
 
 
 * *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170703":https://www.metagames-eu.com/forums/1775856-post325.html*
