@@ -5,6 +5,22 @@ ________________________________________________________________________________
 Notes : These protos are meant to test some new features. They are *NOT* meant to be used as daily gaming version. They refuse to run from OPL, *by design*. More infos "here":http://www.psx-place.com/threads/open-ps2-loader-v0-9-3.13415/page-4#post-84429. 
 
 
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20171003":https://www.metagames-eu.com/forums/1776217-post330.html*
+
+pre. 
+Can't remember everything I did to POPStarter this summer... Some of the changes :
+- Bugfixed : PS1 codes of type D (aka joker commands) were not working correctly
+- "Support" for old SCEoA license sectors was added
+- GetID (emulated CDROM controller command 0x1A) now returns the proper SCEx, matching the BIOS region and the VCD region
+- POPStarter can now parse the ELF name off a full HDD launch argument
+- Workaround to POPS not handling CDDA tracks pregaps/pauses, specifically for Tomb Raider, Tomb Raider II and Ninja. One remaining messup on TR2 though : cutscenes (not FMVs) aren't synced with the audio, and the gap between audio/video gets worse as the cutscene is runnin, due to animation slowdowns. TR1 looked fine when I tried it. Ninja audio should start ~2 seconds too early or too late, because of non-existent pregaps.
+- Did something for the PAL releases of Team Buddies but can't remember what. Perhaps that has something to do with the PAL patcher issue that was reported over at ElOtroLado...
+- Proper LibCrypt key injection for NFS: Porsche 2000. Both the UK and the other release have the same volume descriptor, but different keys. POPStarter wrongly used the same key for the two versions, because of the VCD identifier design. I got that problem solved with a little trick. Now the race should stop resetting every 12 seconds (the actual LC protection), since the magic word is valid.
+- Added $MUTE_CDDA to mute CDDA. And it's done automatically when you play a physical PS1 CDROM from the disc drive
+- Added $MUTE_VAB to mute VAB/VAG/VB+VH based sounds/music on games. May be useful for these old games which output distorted SFX, wrong audio samples or stupid noises.
+- Added $WIDESCREEN $ULTRA_WIDESCREEN and $EYEFINITY. Does not deal with stuff like HUDs, texts/fonts, menus, 2D backgrounds...
+
+
 * *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170703":https://www.metagames-eu.com/forums/1775856-post325.html*
 
 pre. 
