@@ -34,11 +34,14 @@ backgrounds...
 
 pre. 
 - Encore quelques bugs de patchés sur POPS. Susceptibles d’accroitre la compatibilité.
-- Réécriture des modes de compatibilité. Je me suis rendu compte que le mode 0x05 avait un problème, en laissant Colony Wars tourner une quarantaine de minutes, l'intro (FMV) plantait. Alors j'ai tout recodé proprement.
+- Réécriture des modes de compatibilité. Je me suis rendu compte que le mode 0x05 avait un problème, en laissant Colony 
+Wars tourner une quarantaine de minutes, l'intro (FMV) plantait. Alors j'ai tout recodé proprement.
 - Sécurisation de l'ensemble des fonctionnalités de POPStarter accrochées à POPS.
 - Tentative de résolution du crash de Castlevania SOTN.
-- Tentative de résolution du crash de Rayman 2 : semble fonctionner sur la version FR/DE, j'ai des doutes concernant la version EN/IT/ES, et ne fonctionne pas sur la version NTSC U/C.
-- Suppression des fixes intégrés à POPStarter pour Metal Gear Solid. Ils servaient à contourner les cutscenes qui faisaient crasher POPS. Je pense que le bug de POPS a été corrigé et que nous n'en avons plus besoin...
+- Tentative de résolution du crash de Rayman 2 : semble fonctionner sur la version FR/DE, j'ai des doutes concernant la 
+version EN/IT/ES, et ne fonctionne pas sur la version NTSC U/C.
+- Suppression des fixes intégrés à POPStarter pour Metal Gear Solid. Ils servaient à contourner les cutscenes qui faisaient 
+crasher POPS. Je pense que le bug de POPS a été corrigé et que nous n'en avons plus besoin...
 - Suppression de l'interdiction d'affichage en PAL pour Driver 2 PAL. Ça semble fonctionner maintenant...
 - Suppression de ExcepTrap.
 - D'autres changements que j'ai oublié...
@@ -96,32 +99,46 @@ I wish I could fix that Dino Crisis syndrome that affects quite a lot of games.
 * *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170615":https://www.metagames-eu.com/forums/1775789-post306.html*
 
 pre. 
-- Correction d'un bug qui touchait les protos des 27, 30 et 31 mai. Les VCDs ne pouvaient plus être lancés depuis les partitions/dossiers POPS#. Il y avait un conflit avec le mode PS1 CD qui faisait planter POPStarter. Ça semble réglé maintenant. Je ne m'en suis rendu compte que ce matin, en voulant lancer un jeu dans la partition __.POPS0 de mon HDD. Preuve que les protos n'ont pas été suffisamment testé par mes soins pour être digne d'une bêta grand public. Il y a peut être d'autres bugs...
+- Correction d'un bug qui touchait les protos des 27, 30 et 31 mai. Les VCDs ne pouvaient plus être lancés depuis les 
+partitions/dossiers POPS#. Il y avait un conflit avec le mode PS1 CD qui faisait planter POPStarter. Ça semble réglé 
+maintenant. Je ne m'en suis rendu compte que ce matin, en voulant lancer un jeu dans la partition __.POPS0 de mon HDD. 
+Preuve que les protos n'ont pas été suffisamment testé par mes soins pour être digne d'une bêta grand public. Il y a peut 
+être d'autres bugs...
 - Ajout de $LOAD_TIMINGS et de $SET_TIMINGS
-LOAD se contente de charger les timings de la VMC, sans squatter les boutons L1/L2/R1/R2 des deux pads (et donc sans permettre les changements).
+LOAD se contente de charger les timings de la VMC, sans squatter les boutons L1/L2/R1/R2 des deux pads (et donc sans 
+permettre les changements).
 SET charge depuis la VMC et permet de les changer les timings, comme indiqué dans le post précédent.
-Il me semble que ce SET_TIMINGS intégré est hyper sensible là où je l'ai accroché. Le TROJAN est sans doute mieux pour faire des réglages affinés.
-EDIT : Pour en revenir à Tekken 3, j'ai fini de régler la version PAL pour réduire le scintillement au maximum. TEKKEN3_PAL.ZIP
-Pertes de trames abominables. Déjà que la version PAL était excessivement lente par rapport à la version NTSC, bidouiller le rafraichissement le rend encore plus déplaisant à jouer.
-Quant à la version NTSC, je n'ai même pas voulu conserver la VMC. Parce qu'il n'y a pas de juste milieu entre le scintillement et le rafraichissement optimal. Résultat, une motion blur absolument dégueulasse.
+Il me semble que ce SET_TIMINGS intégré est hyper sensible là où je l'ai accroché. Le TROJAN est sans doute mieux pour 
+faire des réglages affinés.
+EDIT : Pour en revenir à Tekken 3, j'ai fini de régler la version PAL pour réduire le scintillement au maximum. 
+TEKKEN3_PAL.ZIP
+Pertes de trames abominables. Déjà que la version PAL était excessivement lente par rapport à la version NTSC, bidouiller 
+le rafraichissement le rend encore plus déplaisant à jouer.
+Quant à la version NTSC, je n'ai même pas voulu conserver la VMC. Parce qu'il n'y a pas de juste milieu entre le 
+scintillement et le rafraichissement optimal. Résultat, une motion blur absolument dégueulasse.
 
 
 * *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170531":https://www.metagames-eu.com/forums/1775752-post298.html*
 
 pre. 
-Bon, je suis entrain de corriger les problèmes de flickering sur Crash Bash et les ralentissements. C'est concluant (sauf pour les cutscenes), mais j'ai un souci :
-La version US semble avoir d'autres problèmes de plantages, et ils ne sont pas mentionnés dans la liste de compatibilité. J'aimerais avoir une confirmation.
+Bon, je suis entrain de corriger les problèmes de flickering sur Crash Bash et les ralentissements. C'est concluant (sauf 
+pour les cutscenes), mais j'ai un souci :
+La version US semble avoir d'autres problèmes de plantages, et ils ne sont pas mentionnés dans la liste de compatibilité. 
+J'aimerais avoir une confirmation.
 Est-ce que quelqu'un peut tester le gem challenge du niveau Polar Panic et le niveau Papu Pummel ?
 Voilà ma VMC : SLOT0.VMC
-Chez moi, le gem challenge de Polar Panic plante après le chargement (sur un écran noir), et Papu Pummel plante après quelques secondes de jeu...
+Chez moi, le gem challenge de Polar Panic plante après le chargement (sur un écran noir), et Papu Pummel plante après 
+quelques secondes de jeu...
 Je suis en mode SMB. Avec la version PAL, je n'ai pas rencontré de problème.
 
 
 * *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170530":https://www.metagames-eu.com/forums/1775741-post296.html*
 
 pre. 
-En fin de compte, ce n'est pas une si bonne stratégie de faire charger padman_hsync par POPStarter sur reconnaissance des MODULE_#.IRX...
-J'ai changé ça, le système refonctionne comme dans la bêta. Libre à vous de donner vos directives dans CHEATS.TXT en fonction de vos besoins :
+En fin de compte, ce n'est pas une si bonne stratégie de faire charger padman_hsync par POPStarter sur reconnaissance des 
+MODULE_#.IRX...
+J'ai changé ça, le système refonctionne comme dans la bêta. Libre à vous de donner vos directives dans CHEATS.TXT en 
+fonction de vos besoins :
 $LOAD_PADMAN chargera padman_hsync après sio2man.
 $KILL_PADMAN neutralisera padman_hsync complétement, si vous souhaitez utiliser un remplacement...
 Avec aucune de ces deux commandes, ça fonctionnera normalement.
@@ -172,7 +189,10 @@ $T0000058 00000000
 Ce sont des codes qui décalent les textures lol.
 + Nouvelle valeur dans la config table du ELF
 Il existait déjà 4 valeurs pour l'offset $42F; j'y ai ajouté la valeur 0x04.
-La valeur 0x04 désactive tous les bons modes de compatibilité, fixes, et cracks LibCrypt intégrés à POPStarter, pour n'activer que des trucs "inefficaces" indisponibles avec 0x01 0x02 et 0x03. C'est en quelque sorte ma poubelle, pour des hacks dont les effets sont éloignés des jeux originaux ou trop pourris pour être considérés comme des correctifs de compatibilité
+La valeur 0x04 désactive tous les bons modes de compatibilité, fixes, et cracks LibCrypt intégrés à POPStarter, pour 
+n'activer que des trucs "inefficaces" indisponibles avec 0x01 0x02 et 0x03. C'est en quelque sorte ma poubelle, pour 
+des hacks dont les effets sont éloignés des jeux originaux ou trop pourris pour être considérés comme des correctifs 
+de compatibilité
 Dans cette build, il y a :
 - Ridge Racer Revolution (SCES-00242)
 - Ridge Racer Revolution (SLUS-00214)
@@ -188,7 +208,8 @@ Dans cette build, il y a :
 [qui ont l'équivalent des codes $T postés plus haut, textures en zigzag]
 et
 - Dave Mirra Freestyle BMX: Maximum Remix (SLUS-01347)
-[qui a l'équivalent d'un vieux TROJAN posté autrefois sur ASSEMblergames, pour éloigner la caméra du rider et limiter les glitches]
+[qui a l'équivalent d'un vieux TROJAN posté autrefois sur ASSEMblergames, pour éloigner la caméra du rider et limiter 
+les glitches]
 + Ajouts de cracks LibCrypt et de mode de compatibilité incorporés
 - Roger Lemerre: La Selection des Champions (SLES-02976) [LibCrypt]
 - This Is Football (SCES-01882) [LibCrypt]
@@ -197,11 +218,21 @@ et
 - Spyro: Year Of The Dragon v1.1 (SCES-02835) [LibCrypt]
 - Spyro 2: Gateway To Glimmer (SCES-02104) [LibCrypt]
 Les Spyro sont TOUJOURS incompatibles.
-D'après le commentaire dans la liste de compatibilité HDD, Action Man: Destruction X bloque après la course. C'est un code de triche qui cause ça.
+D'après le commentaire dans la liste de compatibilité HDD, Action Man: Destruction X bloque après la course. C'est un 
+code de triche qui cause ça.
 === Problèmes connus ===
-- Si le KELF n'est pas renommé en EXECUTE.KELF, POPStarter utilisera son nom en tant que nom de partition de ressources, causant la désactivation des VMCs et probablement des handlers "current game"... Sans doute un truc qui se traine depuis la WIP 01. Faudrait imposer EXECUTE.KELF et kicker à l'OSD si le KELF n'a pas été renommé, dans la prochaine beta.
-- Constaté dans la nouvelle implémentation du lecteur CD, sceCdStatus() renvoie une valeur différente en fonction d'où POPStarter est lancé (WTF ?). Depuis le HDDOSD avec le tiroir éjecté, ça renvoie 0 et depuis uLe ça renvoie 10; ou quelque chose dans ce genre. C'est incompréhensible... Pour le moment, POPStarter jugera le lecteur CDVD inaccessible si sceCdStatus() retourne quoi que ce soit d'autre que 1.
-- fileXioChStat échoue sur les sous-dossiers (donc sur les dossiers VMC, pas sur le dossier POPS) si la structure APA est hors standard. Ce qui rend infaisable la copie de list.ico & icon.sys ainsi que le changement des propriétés des dossiers VMCs par POPStarter (POPS peut néanmoins gérer les VMCs). Avec peut être pour effet collatéral de désactiver les handlers "current game"... Pas grave, je dois être le seul sur terre à causer ce bug avec une structure APA hackée et des partoches de tailles non multiples de 128 MB.
+- Si le KELF n'est pas renommé en EXECUTE.KELF, POPStarter utilisera son nom en tant que nom de partition de ressources, 
+causant la désactivation des VMCs et probablement des handlers "current game"... Sans doute un truc qui se traine depuis
+la WIP 01. Faudrait imposer EXECUTE.KELF et kicker à l'OSD si le KELF n'a pas été renommé, dans la prochaine beta.
+- Constaté dans la nouvelle implémentation du lecteur CD, sceCdStatus() renvoie une valeur différente en fonction d'où 
+POPStarter est lancé (WTF ?). Depuis le HDDOSD avec le tiroir éjecté, ça renvoie 0 et depuis uLe ça renvoie 10; ou 
+quelque chose dans ce genre. C'est incompréhensible... Pour le moment, POPStarter jugera le lecteur CDVD inaccessible 
+si sceCdStatus() retourne quoi que ce soit d'autre que 1.
+- fileXioChStat échoue sur les sous-dossiers (donc sur les dossiers VMC, pas sur le dossier POPS) si la structure APA 
+est hors standard. Ce qui rend infaisable la copie de list.ico & icon.sys ainsi que le changement des propriétés des 
+dossiers VMCs par POPStarter (POPS peut néanmoins gérer les VMCs). Avec peut être pour effet collatéral de désactiver 
+les handlers "current game"... Pas grave, je dois être le seul sur terre à causer ce bug avec une structure APA hackée 
+et des partoches de tailles non multiples de 128 MB.
 
 
 
