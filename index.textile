@@ -57,6 +57,7 @@ _[Original documentation by krHACKen - updated by shaolinassassin]_
 
 *7. About POPStarter & POPS*
 * "POPStarter Changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-changelog
+* "POPStarter Version":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-version
 * "Toolbox/CUE2POPS Changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cue2pops-and-toolbox-changelogs
 * "POPS' History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/history
 
