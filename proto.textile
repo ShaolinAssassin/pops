@@ -11,7 +11,7 @@ pre.
 - Fixed a codecache memory leak, which filled up the memory with iterated calls to the exception handler
 
 
-* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20171003":https://www.metagames-eu.com/forums/1776217-post330.html*
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20171003":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-33-134569.html#post1776217*
 
 pre. 
 Can't remember everything I did to POPStarter this summer... Some of the changes :
@@ -36,7 +36,7 @@ distorted SFX, wrong audio samples or stupid noises.
 backgrounds...
 
 
-* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170703":https://www.metagames-eu.com/forums/1775856-post325.html*
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170703":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-33-134569.html#post1775856*
 
 pre. 
 - Encore quelques bugs de patchés sur POPS. Susceptibles d’accroitre la compatibilité.
@@ -64,7 +64,7 @@ Des jeux qui rament (comme V-Rally autrefois) ou qui se figent temporairement (c
 Essayez $CODECACHE_ADDON_0 dans CHEATS.TXT si le mode de compatibilité 0x04 n'aide pas.
 
 
-* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170624":https://www.metagames-eu.com/forums/1775817-post311.html*
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170624":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-32-134569.html#post1775817*
 
 pre. 
 Vu que les emails d'ASSEMblergames ne fonctionnent toujours pas, j'ai retouché un peu à POPS et patchée une poignée de bugs.
@@ -102,7 +102,7 @@ The Misadventures of Tron Bonne (Europe).VCD
 I wish I could fix that Dino Crisis syndrome that affects quite a lot of games.
 
 
-* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170615":https://www.metagames-eu.com/forums/1775789-post306.html*
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170615":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-31-134569.html#post1775789*
 
 pre. 
 - Correction d'un bug qui touchait les protos des 27, 30 et 31 mai. Les VCDs ne pouvaient plus être lancés depuis les 
@@ -124,7 +124,7 @@ Quant à la version NTSC, je n'ai même pas voulu conserver la VMC. Parce qu'il 
 scintillement et le rafraichissement optimal. Résultat, une motion blur absolument dégueulasse.
 
 
-* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170531":https://www.metagames-eu.com/forums/1775752-post298.html*
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170531":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-30-134569.html#post1775752*
 
 pre. 
 Bon, je suis entrain de corriger les problèmes de flickering sur Crash Bash et les ralentissements. C'est concluant (sauf 
@@ -138,7 +138,7 @@ quelques secondes de jeu...
 Je suis en mode SMB. Avec la version PAL, je n'ai pas rencontré de problème.
 
 
-* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170530":https://www.metagames-eu.com/forums/1775741-post296.html*
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170530":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-30-134569.html#post1775741*
 
 pre. 
 En fin de compte, ce n'est pas une si bonne stratégie de faire charger padman_hsync par POPStarter sur reconnaissance des 
@@ -157,7 +157,7 @@ Je n'ai pas trouvé les versions jap.
 Hier j'ai fait le même genre modif de caméra sur RR et Tony Hawk's, ça glitch toujours à la même position lol.
 
 
-* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170527":https://www.metagames-eu.com/forums/1775718-post293.html*
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20170527":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-30-134569.html#post1775718*
 
 pre. 
 + Modifications sur le chargement des MODULE_#.IRX
