@@ -5,6 +5,12 @@ ________________________________________________________________________________
 Notes : These protos are meant to test some new features. They are *NOT* meant to be used as daily gaming version. They refuse to run from OPL, *by design*. More infos "here":http://www.psx-place.com/threads/open-ps2-loader-v0-9-3.13415/page-4#post-84429. 
 
 
+* *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20171008":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776249*
+
+pre. 
+- Fixed a codecache memory leak, which filled up the memory with iterated calls to the exception handler
+
+
 * *"POPStarter Revision 13, WIP 06, OBT 17+, Proto 20171003":https://www.metagames-eu.com/forums/1776217-post330.html*
 
 pre. 
