@@ -1,4 +1,4 @@
-h1. *Introduction to POPStarter rev13 - unofficial documentation*
+h1. *Introduction to POPStarter rev13 - Official documentation*
 
 ______________________________________________________________________________________________________________
 
