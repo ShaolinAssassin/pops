@@ -1,4 +1,4 @@
-h1. *$WIDESCREEN- screenshots*
+h1. *$WIDESCREEN - screenshots*
 
 
 ______________________________________________________________________________________________________________
@@ -22,7 +22,7 @@ h3. _Crash Bandicoot 2 :_
 
 h3. _Die Hard Trilogy 2 :_ 
 
-!http://aybabtu.chez.com/POPS/WIDE_PRELIM/DIE_HARD_TRILOGY_2_WIDE.JPG!
+!https://bitbucket.org/repo/Mpy7Eg/images/471851278-DIE_HARD_TRILOGY_2_WIDE.jpg(title)!
 
 h3. _Dino Crisis 2 :_ 
 
@@ -34,7 +34,7 @@ h3. _Exhumed :_
 
 h3. _Ghost in the Shell :_ 
 
-!http://aybabtu.chez.com/POPS/WIDE_PRELIM/GHOST_IN_THE_SHELL_WIDE.JPG!
+!https://bitbucket.org/repo/Mpy7Eg/images/727086931-GHOST_IN_THE_SHELL_WIDE.jpg(title)!
 
 h3. _Gran Turismo :_ 
 
