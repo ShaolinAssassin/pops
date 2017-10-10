@@ -40,6 +40,10 @@ _Spanish :_
 
 * "[HILO OFICIAL] POPS emulador de PSX para PS2 @ Elotrolado":http://www.elotrolado.net/hilo_hilo-oficial-pops-emulador-de-psx-para-ps2_1874054
 
+_Polish :_ 
+
+* "[PS2] POPStarter @ CDRinfo":https://forum.cdrinfo.pl/f106/ps2-popstarter-95894/
+
 _Portuguese :_ 
 
 * "(PS2) POPStarter 13 @ Outerspace":http://web.archive.org/web/20141104192642/http://forum.outerspace.terra.com.br/index.php?threads/ps2-popstarter-13.397319/
