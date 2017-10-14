@@ -78,5 +78,15 @@ I've been told by krHACKen that the last POPStarter beta (*Revision 13, WIP 06, 
 
 ______________________________________________________________________________________________________________
 
+h2. _Announcement :_ 
+
+POPStarter project is "officially abandonned by krHACKen (2017/10/09)":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776252. A "new beta (18)":https://www.assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-109#post-950962 will be released in the next few days, based on the "last protos":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/proto. This will be the *last* POPStarter release.
+Thanks anyone who supported and helped this project. 
+
+~shaolinassassin, 2017/10/12
+
+
+______________________________________________________________________________________________________________
+
 
 h1. *">>  ENTER WIKI  <<":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index*
