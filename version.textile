@@ -13,6 +13,16 @@ Example (pic below) : this is *Rev 13 WIP 2*.
 !https://bitbucket.org/repo/Mpy7Eg/images/1963149811-ELF_ID.JPG(title)!
 
 | *Version* | *Build date YY YY MM DD (blue)* | *Build ID (red)* |
+| Rev 13 RIP 06 (final release) | xx xx xx xx | xxxx |
+| Rev 13 WIP 06 OBT 17+	PROTO 9 | xx xx xx xx | xxxx |
+| Rev 13 WIP 06 OBT 17+	PROTO 8 | xx xx xx xx | xxxx |
+| Rev 13 WIP 06 OBT 17+	PROTO 7 | xx xx xx xx | xxxx |
+| Rev 13 WIP 06 OBT 17+	PROTO 6 | xx xx xx xx | xxxx |
+| Rev 13 WIP 06 OBT 17+	PROTO 5 | xx xx xx xx | xxxx |
+| Rev 13 WIP 06 OBT 17+	PROTO 4 | xx xx xx xx | xxxx |
+| Rev 13 WIP 06 OBT 17+	PROTO 3 | xx xx xx xx | xxxx |
+| Rev 13 WIP 06 OBT 17+	PROTO 2 | xx xx xx xx | xxxx |
+| Rev 13 WIP 06 OBT 17+	PROTO 1 | xx xx xx xx | xxxx |
 | Rev 13 WIP 6 OBT 17 | 20 17 01 28 | 0x11 |
 | Rev 13 WIP 6 OBT 16 | 20 16 11 20 | 0x10 |
 | Rev 13 WIP 6 OBT 15 | 20 16 09 19 | 0x0F |
