@@ -23,28 +23,28 @@ Example (pic below) : this is *Rev 13 WIP 2*.
 | Rev 13 WIP 06 OBT 17+	PROTO 3 | xx xx xx xx | xxxx |
 | Rev 13 WIP 06 OBT 17+	PROTO 2 | xx xx xx xx | xxxx |
 | Rev 13 WIP 06 OBT 17+	PROTO 1 | xx xx xx xx | xxxx |
-| Rev 13 WIP 6 OBT 17 | 20 17 01 28 | 0x11 |
-| Rev 13 WIP 6 OBT 16 | 20 16 11 20 | 0x10 |
-| Rev 13 WIP 6 OBT 15 | 20 16 09 19 | 0x0F |
-| Rev 13 WIP 6 OBT 14 | 20 16 07 23 | 0x0E |
-| Rev 13 WIP 6 OBT 13 | 20 15 12 07 | 0x0D |
-| Rev 13 WIP 6 OBT 12 | 20 15 11 24 | 0x0C |
-| Rev 13 WIP 6 OBT 11 | 20 15 11 11 | 0x0B |
-| Rev 13 WIP 6 OBT 10 | 20 15 10 26 | 0x0A |
-| Rev 13 WIP 6 OBT 9 | 20 15 10 24 | 0x09 |
-| Rev 13 WIP 6 OBT 8 | 20 15 10 23 | 0x08 |
-| Rev 13 WIP 6 OBT 7 | 20 15 07 28 | 0x06 |
-| Rev 13 WIP 6 OBT 6 | 20 15 07 27 | 0x06 |
-| Rev 13 WIP 6 OBT 5 | 20 15 07 14 | 0x06 |
-| Rev 13 WIP 6 OBT 4 | 20 15 07 13 | 0x06 |
-| Rev 13 WIP 6 OBT 3 | 20 15 07 12 | 0x06 |
-| Rev 13 WIP 6 OBT 2 | 20 15 06 25 | 0x06 |
-| Rev 13 WIP 6 OBT 1 | 20 15 06 22 | 0x06 |
-| Rev 13 WIP 5 | 20 15 06 03 | 0x05 |
-| Rev 13 WIP 4 | 20 15 05 31 | 0x04 |
-| Rev 13 WIP 3 | 20 15 04 24 | 0x03 |
-| Rev 13 WIP 2 | 20 14 08 22 | 0x02 |
-| Rev 13 WIP 1 | 20 14 07 11 | 0x01 |
+| Rev 13 WIP 06 OBT 17 | 20 17 01 28 | 0x11 |
+| Rev 13 WIP 06 OBT 16 | 20 16 11 20 | 0x10 |
+| Rev 13 WIP 06 OBT 15 | 20 16 09 19 | 0x0F |
+| Rev 13 WIP 06 OBT 14 | 20 16 07 23 | 0x0E |
+| Rev 13 WIP 06 OBT 13 | 20 15 12 07 | 0x0D |
+| Rev 13 WIP 06 OBT 12 | 20 15 11 24 | 0x0C |
+| Rev 13 WIP 06 OBT 11 | 20 15 11 11 | 0x0B |
+| Rev 13 WIP 06 OBT 10 | 20 15 10 26 | 0x0A |
+| Rev 13 WIP 06 OBT 9 | 20 15 10 24 | 0x09 |
+| Rev 13 WIP 06 OBT 8 | 20 15 10 23 | 0x08 |
+| Rev 13 WIP 06 OBT 7 | 20 15 07 28 | 0x06 |
+| Rev 13 WIP 06 OBT 6 | 20 15 07 27 | 0x06 |
+| Rev 13 WIP 06 OBT 5 | 20 15 07 14 | 0x06 |
+| Rev 13 WIP 06 OBT 4 | 20 15 07 13 | 0x06 |
+| Rev 13 WIP 06 OBT 3 | 20 15 07 12 | 0x06 |
+| Rev 13 WIP 06 OBT 2 | 20 15 06 25 | 0x06 |
+| Rev 13 WIP 06 OBT 1 | 20 15 06 22 | 0x06 |
+| Rev 13 WIP 05 | 20 15 06 03 | 0x05 |
+| Rev 13 WIP 04 | 20 15 05 31 | 0x04 |
+| Rev 13 WIP 03 | 20 15 04 24 | 0x03 |
+| Rev 13 WIP 02 | 20 14 08 22 | 0x02 |
+| Rev 13 WIP 01 | 20 14 07 11 | 0x01 |
 
 For the .KELF version : 
 
