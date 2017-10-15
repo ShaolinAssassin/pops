@@ -6,7 +6,7 @@ ________________________________________________________________________________
 A tip to know which version of POPStarter you are using...
 
 Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue) on pic below : it's the Build date.
-In red, starting at offset $5E is the Build ID. 
+In red, starting at offset $5E is the Build ID.
 
 Example (pic below) : this is *Rev 13 WIP 2*. 
 
