@@ -5,8 +5,8 @@ ________________________________________________________________________________
 
 A tip to know which version of POPStarter you are using...
 
-Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue) on pic below : it's the Build date.
-In red, starting at offset $5E is the Build ID.
+Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue) on pic below : it's the *Build date*.
+In red, starting at offset $5E is the *Build ID*. Please note : 1) that the Build ID did not change from OBT 1 to OBT 7 ; 2) that protos share the same build ID ; 3) that some protos doesn't have a build date.
 
 Example (pic below) : this is *Rev 13 WIP 2*. 
 
