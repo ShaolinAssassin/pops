@@ -14,15 +14,15 @@ Example (pic below) : this is *Rev 13 WIP 2*.
 
 | *Version* | *Build date YY YY MM DD (blue)* | *Build ID (red)* |
 | Rev 13 RIP 06 (final release) | xx xx xx xx | xxxx |
-| Rev 13 WIP 06 OBT 17+	PROTO 9 | xx xx xx xx | xxxx |
-| Rev 13 WIP 06 OBT 17+	PROTO 8 | xx xx xx xx | xxxx |
-| Rev 13 WIP 06 OBT 17+	PROTO 7 | xx xx xx xx | xxxx |
-| Rev 13 WIP 06 OBT 17+	PROTO 6 | xx xx xx xx | xxxx |
-| Rev 13 WIP 06 OBT 17+	PROTO 5 | xx xx xx xx | xxxx |
-| Rev 13 WIP 06 OBT 17+	PROTO 4 | xx xx xx xx | xxxx |
-| Rev 13 WIP 06 OBT 17+	PROTO 3 | xx xx xx xx | xxxx |
-| Rev 13 WIP 06 OBT 17+	PROTO 2 | xx xx xx xx | xxxx |
-| Rev 13 WIP 06 OBT 17+	PROTO 1 | xx xx xx xx | xxxx |
+| Rev 13 WIP 06 PROTO 9 | 20 17 10 08 | 0xFE |
+| Rev 13 WIP 06 PROTO 8 | 20 17 10 03 | 0xFE |
+| Rev 13 WIP 06 PROTO 7 | 20 17 07 03 | 0xFE |
+| Rev 13 WIP 06 PROTO 6 | 20 17 06 24 | 0xFE |
+| Rev 13 WIP 06 PROTO 5 | 20 17 06 15 | 0xFE |
+| Rev 13 WIP 06 PROTO 4 | 20 17 05 31 | 0xFE |
+| Rev 13 WIP 06 PROTO 3 | 20 17 05 30 | 0xFE |
+| Rev 13 WIP 06 PROTO 2 | 00 00 00 00 | 0x00 |
+| Rev 13 WIP 06 PROTO 1 | 00 00 00 00 | 0x00 |
 | Rev 13 WIP 06 OBT 17 | 20 17 01 28 | 0x11 |
 | Rev 13 WIP 06 OBT 16 | 20 16 11 20 | 0x10 |
 | Rev 13 WIP 06 OBT 15 | 20 16 09 19 | 0x0F |
