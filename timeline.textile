@@ -7,32 +7,32 @@ POPStarter timeline is kinda confused, especially for someone not familiar with 
 
 | *Version* | *Release date YYYY/MM/DD* |
 | Rev 13 RIP 06 (final release) | (yet to come) |
-| Rev 13 WIP 06 PROTO 9 | 2017/10/08 |
-| Rev 13 WIP 06 PROTO 8 | 2017/10/03 |
-| Rev 13 WIP 06 PROTO 7 | 2017/07/03 |
-| Rev 13 WIP 06 PROTO 6 | 2017/06/25 |
-| Rev 13 WIP 06 PROTO 5 | 2017/06/15 |
-| Rev 13 WIP 06 PROTO 4 | 2017/05/31 |
-| Rev 13 WIP 06 PROTO 3 | 2017/05/30 |
-| Rev 13 WIP 06 PROTO 2 | 2017/05/27 |
-| Rev 13 WIP 06 PROTO 1 | 2017/02/10 |
-| Rev 13 WIP 06 OBT 17 | 2017/01/28 |
-| Rev 13 WIP 06 OBT 16 | 2016/11/20 |
-| Rev 13 WIP 06 OBT 15 | 2016/09/19 |
-| Rev 13 WIP 06 OBT 14 | 2016/07/23 |
-| Rev 13 WIP 06 OBT 13 | 2015/12/07 |
-| Rev 13 WIP 06 OBT 12 | 2015/11/24 |
-| Rev 13 WIP 06 OBT 11 | 2015/11/11 |
-| Rev 13 WIP 06 OBT 10 | 2015/10/26 |
-| Rev 13 WIP 06 OBT 9 | 2015/10/24 |
-| Rev 13 WIP 06 OBT 8 | 2015/10/23 |
-| Rev 13 WIP 06 OBT 7 | 2015/07/28 |
-| Rev 13 WIP 06 OBT 6 | 2015/07/27 |
-| Rev 13 WIP 06 OBT 5 | 2015/07/14 |
-| Rev 13 WIP 06 OBT 4 | 2015/07/13 |
-| Rev 13 WIP 06 OBT 3 | 2015/07/12 |
-| Rev 13 WIP 06 OBT 2 | 2015/06/25 |
-| Rev 13 WIP 06 OBT 1 | 2015/06/22 |
+| Rev 13 Prototype 9 | 2017/10/08 |
+| Rev 13 Prototype 8 | 2017/10/03 |
+| Rev 13 Prototype 7 | 2017/07/03 |
+| Rev 13 Prototype 6 | 2017/06/25 |
+| Rev 13 Prototype 5 | 2017/06/15 |
+| Rev 13 Prototype 4 | 2017/05/31 |
+| Rev 13 Prototype 3 | 2017/05/30 |
+| Rev 13 Prototype 2 | 2017/05/27 |
+| Rev 13 Prototype 1 | 2017/02/10 |
+| Rev 13 WIP 06 Beta 17 | 2017/01/28 |
+| Rev 13 WIP 06 Beta 16 | 2016/11/20 |
+| Rev 13 WIP 06 Beta 15 | 2016/09/19 |
+| Rev 13 WIP 06 Beta 14 | 2016/07/23 |
+| Rev 13 WIP 06 Beta 13 | 2015/12/07 |
+| Rev 13 WIP 06 Beta 12 | 2015/11/24 |
+| Rev 13 WIP 06 Beta 11 | 2015/11/11 |
+| Rev 13 WIP 06 Beta 10 | 2015/10/26 |
+| Rev 13 WIP 06 Beta 9 | 2015/10/24 |
+| Rev 13 WIP 06 Beta 8 | 2015/10/23 |
+| Rev 13 WIP 06 Beta 7 | 2015/07/28 |
+| Rev 13 WIP 06 Beta 6 | 2015/07/27 |
+| Rev 13 WIP 06 Beta 5 | 2015/07/14 |
+| Rev 13 WIP 06 Beta 4 | 2015/07/13 |
+| Rev 13 WIP 06 Beta 3 | 2015/07/12 |
+| Rev 13 WIP 06 Beta 2 | 2015/06/25 |
+| Rev 13 WIP 06 Beta 1 | 2015/06/22 |
 | Rev 13 WIP 05 | 2015/06/03 |
 | Rev 13 WIP 04 | 2015/05/31 |
 | Rev 13 WIP 03 | 2015/04/24 |
