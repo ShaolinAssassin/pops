@@ -1,0 +1,26 @@
+h1. [DS3] *Use DualShock 3 Controller with POPStarter*
+
+
+______________________________________________________________________________________________________________
+
+Credits : "belek666":https://github.com/belek666/Open-PS2-Loader for the DS3 modules.
+
+*Notes :* 
+. works only with WIP 06 beta 17, does *NOT* work with the prototypes (due to an issue affecting the IRX loader). 
+. compiled and provided by belek666 (2017/06/25 @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-106#post-939746).
+
+* "DualShock 3 modules - USB mode":link
+* "DualShock 3 modules - Bluetooth mode":link
+
+These modules are ready to use - you just need to download and copy them into your POPS folder as they are.
+
+FYI : 
+. MODULE_1.IRX = USBD.IRX 
+. MODULE_2.IRX = usb_pademu.irx / bt_pademu.irx
+
+You can switch from analog to digital mode by pressing !https://bitbucket.org/repo/Mpy7Eg/images/4289708765-Playstation-Button-PS.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! - with $D2LS in a GAME/CHEATS.TXT file. 
+
+
+______________________________________________________________________________________________________________
+
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
