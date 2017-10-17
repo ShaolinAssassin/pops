@@ -3,7 +3,7 @@ h1. [DS3] *Use DualShock 3 Controller with POPStarter*
 
 ______________________________________________________________________________________________________________
 
-Credits : "belek666":https://github.com/belek666/Open-PS2-Loader for the DS3 modules.
+Credits : "belek666":https://github.com/belek666/Open-PS2-Loader for the DualShock 3 modules.
 
 *Notes :* 
 . works only with WIP 06 beta 17, does *NOT* work with the prototypes (due to an issue affecting the IRX loader). 
@@ -13,6 +13,10 @@ Credits : "belek666":https://github.com/belek666/Open-PS2-Loader for the DS3 mod
 * "DualShock 3 modules - Bluetooth mode":link
 
 These modules are ready to use - you just need to download and copy them into your POPS folder as they are.
+
+pre. 
+POPS/MODULE_1.IRX
+POPS/MODULE_2.IRX
 
 FYI : 
 . MODULE_1.IRX = USBD.IRX 
