@@ -14,6 +14,8 @@ Thanks to El_Patas for keeping the archive updated ; credits for these codes go 
 
 *Example :* Colin McRae Rally 2.0 (SLUS-01222) 
 
+CHEATS.TXT : 
+
 pre. 
 Widescreen hack by VIRGIN KLM (Gameshark/Action Replay codes) & Paul_met (Hexadecimal codes)
 $SAFEMODE
@@ -24,6 +26,8 @@ GAMESHARK/ACTION REPLAY CODES
 //Widescreen 16:9
 $80056BB0 2EEE
 $80056BB2 0001
+
+*Screenshots :* 
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3801833563-2md7xs.jpg(4:3)!
 
