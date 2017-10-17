@@ -9,8 +9,8 @@ Credits : "belek666":https://github.com/belek666/Open-PS2-Loader for the DualSho
 . works only with WIP 06 beta 17, does *NOT* work with the prototypes (due to an issue affecting the IRX loader). 
 . compiled and provided by belek666 (2017/06/25 @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-106#post-939746).
 
-* "DualShock 3 modules - USB mode":link
-* "DualShock 3 modules - Bluetooth mode":link
+* "DualShock 3 modules - USB mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DS3_modules_USB_20171017.7z
+* "DualShock 3 modules - Bluetooth mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/DS3_modules_BT_20171017.7z
 
 These modules are ready to use - you just need to download and copy them into your POPS folder as they are.
 
