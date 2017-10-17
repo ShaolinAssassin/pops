@@ -15,7 +15,7 @@ _[Original tutorial by AKuHAK]_ "@ASSEMblergames":https://assemblergames.com/thr
 
 *5.* Then search for your specific IRX files. It can be one file or multiple files. For light gun, it might be USBD.IRX and USBGUN.IRX;
 
-*6.* Rename them as MODULE_1.IRX, MODULE_2.IRX, ... etc. You have to experiment to find the correct order. For light gun, first .IRX might be USBD.IRX and second .IRX USBD.IRX;
+*6.* Rename them as MODULE_1.IRX, MODULE_2.IRX, ... etc. You have to experiment to find the correct order. For light gun, first .IRX might be USBD.IRX and second .IRX USBGUN.IRX;
 
 *7.* Copy these files into POPS folder and run your game. If you got special device to work - have fun! 
 
