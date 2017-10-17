@@ -14,8 +14,6 @@ h2. _Downloads :_
 
 * *LATEST BETA VERSION BUNDLE :* "POPStarter Revision 13 WIP 06 Beta 17 (2017/01/28)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_06_OBT_20170128.zip
 
-_Changelog [Rev 13 WIP 06 Beta 17]_
-
 pre. 
 - Added support for the HDD-OSD 1.00J pfs launch argument.
 
