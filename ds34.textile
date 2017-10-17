@@ -22,7 +22,7 @@ FYI :
 . MODULE_1.IRX = USBD.IRX 
 . MODULE_2.IRX = usb_pademu.irx / bt_pademu.irx
 
-You can switch from analog to digital mode by pressing !https://bitbucket.org/repo/Mpy7Eg/images/4289708765-Playstation-Button-PS.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! - with $D2LS in a GAME/CHEATS.TXT file. 
+You can switch from analog to digital mode by pressing !https://bitbucket.org/repo/Mpy7Eg/images/4289708765-Playstation-Button-PS.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! - with $D2LS in a "GAME/CHEATS.TXT":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special-cheats file. 
 
 
 ______________________________________________________________________________________________________________
