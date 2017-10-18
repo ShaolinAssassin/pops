@@ -11,7 +11,7 @@ pre.
 - Fixed a codecache memory leak, which filled up the memory with iterated calls to the exception handler
 
 
-* *"Rev 13 Prototype 8 - 2017/10/03":
+* *"Rev 13 Prototype 8 - 2017/10/03":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-33-134569.html#post1776217*
 
 pre. 
 Can't remember everything I did to POPStarter this summer... Some of the changes :
@@ -32,7 +32,7 @@ Can't remember everything I did to POPStarter this summer... Some of the changes
 - Added $WIDESCREEN $ULTRA_WIDESCREEN and $EYEFINITY. Does not deal with stuff like HUDs, texts/fonts, menus, 2D backgrounds...
 
 
-* *"Rev 13 Prototype 7 - 2017/07/03":
+* *"Rev 13 Prototype 7 - 2017/07/03":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-33-134569.html#post1775856*
 
 pre. 
 - [yet another] cumulative POPS patches (always applied, regardless of the VCD you launch)
@@ -68,7 +68,7 @@ pre.
   The recompiler hooktable and some debug functions were probably implemented in this build.
 
 
-* *"Rev 13 Prototype 6 - 2017/06/24":
+* *"Rev 13 Prototype 6 - 2017/06/24":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-32-134569.html#post1775817*
 
 pre. 
 - Cumulative POPS patches (always applied, regardless of the VCD you launch)
@@ -86,7 +86,7 @@ pre.
   From my quick tests, Action Man: Mission Xtreme/Operation Extreme (Euro/USA) and Jurassic Park - Warpath (Euro) had glitches.
 
 
-* *"Rev 13 Prototype 5 - 2017/06/15":
+* *"Rev 13 Prototype 5 - 2017/06/15":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-31-134569.html#post1775789*
 
 pre. 
 - Bugfixed : Could no longer run VCDs from POPS# partition/folder (since the PS1CD support implementation)
@@ -105,7 +105,7 @@ pre.
   Sample VMC and CHEATS.TXT, to try with the PAL version of Tekken 3 : http://aybabtu.chez.com/kHn/SOFTWARES/RateWithControllers/TEKKEN3_PAL.ZIP
 
 
-* *"Rev 13 Prototype 4 - 2017/05/31":
+* *"Rev 13 Prototype 4 - 2017/05/31":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-30-134569.html#post1775752*
 
 pre. 
 - Added a fix for Crash Bash.
@@ -114,7 +114,7 @@ pre.
   Special thanks to El Patas for the feedback and to Bluesfire for recording a video of the US version in action.
 
 
-* *"Rev 13 Prototype 3 - 2017/05/30":
+* *"Rev 13 Prototype 3 - 2017/05/30":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-30-134569.html#post1775741*
 
 pre. 
 - IRX Loader : reverted the padman_hsync related changes (proto 2)
@@ -127,7 +127,7 @@ pre.
 --- Dave Mirra Freestyle BMX: Maximum Remix (SLES-03371)
 
 
-* *"Rev 13 Prototype 2 - 2017/05/27":
+* *"Rev 13 Prototype 2 - 2017/05/27":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-30-134569.html#post1775718*
 
 pre. 
 - PS2SDK update.
@@ -162,7 +162,7 @@ pre.
 - Automated compatibility mode 0x05 for Action Man: Destruction X (SLES-03083).
 
 
-* *"Rev 13 Prototype 1 - 2017/02/10":
+* *"Rev 13 Prototype 1 - 2017/02/10":https://www.assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-104#post-934744*
 
 pre. 
 - PS2SDK update, no core changes. For PS3 testings...
