@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 
 
-* *"Rev 13 Prototype 9 - 2017/10/08":
+* *"Rev 13 Prototype 9 - 2017/10/08":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776249*
 
 pre. 
 - Fixed a codecache memory leak, which filled up the memory with iterated calls to the exception handler
