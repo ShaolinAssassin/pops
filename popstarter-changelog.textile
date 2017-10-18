@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 
 
-* *"POPStarter Revision 13, Build Date : 2017/01/28, WIP 06, OBT 17 = LATEST BETA VERSION":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-103#post-932403*
+* *"Rev 13 WIP 06 Beta 17 - 2017/01/28 = LATEST BETA VERSION":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-103#post-932403*
 
 pre. 
 - Added support for the HDD-OSD 1.00J pfs launch argument.
