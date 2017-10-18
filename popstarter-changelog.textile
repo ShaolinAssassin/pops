@@ -11,7 +11,7 @@ pre.
 - Added support for the HDD-OSD 1.00J pfs launch argument.
 
 
-* *"POPStarter Revision 13, Build Date : 2016/11/20, WIP 06, OBT 16":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-100#post-920168*
+* *"Rev 13 WIP 06 Beta 16 - 2016/11/20":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-100#post-920168*
 
 pre. 
 THIS BUILD HAS NOT BEEN TESTED.
@@ -35,7 +35,7 @@ THIS BUILD HAS NOT BEEN TESTED.
 - Added hotkeys to an untested PS1 software reset system, Select+L2+R2+X
 
 
-* *"POPStarter Revision 13, Build Date : 2016/09/19, WIP 06, OBT 15":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
+* *"Rev 13 WIP 06 Beta 15 - 2016/09/19":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
 
 pre. 
 - The CD lid open/close emulation is now complete. It refreshes the TOC.
@@ -67,7 +67,7 @@ pre.
   ... still crashes loading certain levels and the demo mode, like POPS is going crazy with the LibCrypt crapola.
 
 
-* *"POPStarter Revision 13, Build Date : 2016/07/23, WIP 06, OBT 14":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
+* *"Rev 13 WIP 06 Beta 14 - 2016/07/23":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
 
 pre. 
 - Bugfixed : Couldn't load mc#:/POPSTARTER/usbd.irx and mc#:/POPSTARTER/usbhdfsd.irx.
@@ -76,7 +76,7 @@ pre.
 - New compatibility mode ($COMPATIBILITY_0x07 ) - fixes missing textures.
 
 
-* *"POPStarter Revision 13, Build Date : 2015/12/07, WIP 06, OBT 13":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-73#post-847749*
+* *"Rev 13 WIP 06 Beta 13 - 2015/12/07":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-73#post-847749*
 
 pre. 
 - Added a PS2 Memory Card BOOT.ELF launcher to the in-game reset function of POPS and to the quit-on-failure code of POPStarter.
@@ -96,7 +96,7 @@ pre.
   Saved about 10KB off the final ELF yay !
 
 
-* *"POPStarter Revision 13, Build Date : 2015/11/24, WIP 06, OBT 12":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-71#post-845446*
+* *"Rev 13 WIP 06 Beta 12 - 2015/11/24":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-71#post-845446*
 
 pre. 
 - Bugfixed : $SAFEMODE (in CHEATS.TXT) not working
@@ -111,7 +111,7 @@ pre.
   in PAL).
 
 
-* *"POPStarter Revision 13, Build Date : 2015/11/11, WIP 06, OBT 11":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-69#post-842789*
+* *"Rev 13 WIP 06 Beta 11 - 2015/11/11":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-69#post-842789*
 
 pre. 
 - Bugfixed : Couldn't read VCDs from POPS# folders in USB mode and network modes
@@ -134,13 +134,13 @@ SFX are missing in Um Jammer Lammy, muh.
   Even worse, the game boot appears to be hit or miss now. To be improved... or removed hehe.
 
 
-* *"POPStarter Revision 13, Build Date : 2015/10/26, WIP 06, OBT 10":http://www.metagames-eu.com/forums/1771431-post203.html*
+* *"Rev 13 WIP 06 Beta 10 - 2015/10/26":http://www.metagames-eu.com/forums/1771431-post203.html*
 
 pre. 
 - Bugfixed : poweroff.irx and ps2ip.irx not loaded from mc0:. Sorry of...
 
 
-* *"POPStarter Revision 13, Build Date : 2015/10/24, WIP 06, OBT 9":http://www.metagames-eu.com/forums/1771423-post196.html*
+* *"Rev 13 WIP 06 Beta 9 - 2015/10/24":http://www.metagames-eu.com/forums/1771423-post196.html*
 
 pre. 
 - Bugfixed : The loading of IGR_NO.TM2 was skipped in internal HDD mode.
@@ -149,7 +149,7 @@ pre.
   (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...)
 
 
-* *"POPStarter Revision 13, Build Date : 2015/10/23, WIP 06, OBT 8":http://www.metagames-eu.com/forums/1771414-post191.html*
+* *"Rev 13 WIP 06 Beta 8 - 2015/10/23":http://www.metagames-eu.com/forums/1771414-post191.html*
 
 pre. 
 - Complete rewrite and embedding of the PFS wrapper (POPStarter no longer loads PFS_WRAP.BIN)
@@ -169,14 +169,14 @@ pre.
 - Some other changes I can't remember...
 
 
-* *POPStarter Revision 13, Build Date : 2015/07/28, WIP 06, OBT 7*
+* *Rev 13 WIP 06 Beta 7 - 2015/07/28*
 
 pre. 
 - Compiled with the latest USBD again -_-
 - Fixed : Issues with the IOPCD stack
 
 
-* *POPStarter Revision 13, Build Date : 2015/07/27, WIP 06, OBT 6*
+* *Rev 13 WIP 06 Beta 6 - 2015/07/27*
 
 pre. 
 - Sbv from PS2SDK commit c6cd5b3447
@@ -192,14 +192,14 @@ pre.
 - Added uLE_kHn_20150727 to the package (with mass:/POPS#/ support).
 
 
-* *POPStarter Revision 13, Build Date : 2015/07/14, WIP 06, OBT 5*
+* *Rev 13 WIP 06 Beta 5 - 2015/07/14*
 
 pre. 
 - Speedup hack (Select+L2+R2+X) removed
 - Fixed : The LC fix was flushed and $FAKELC could not set it up
 
 
-* *POPStarter Revision 13, Build Date : 2015/07/13, WIP 06, OBT 4*
+* *Rev 13 WIP 06 Beta 4 - 2015/07/13*
 
 pre. 
 - Fixed : Bad cheat engine hook.
@@ -209,7 +209,7 @@ pre.
 - Fixed : $USBDELAY_# didn't coexist with $C0
 
 
-* *POPStarter Revision 13, Build Date : 2015/07/12, WIP 06, OBT 3*
+* *Rev 13 WIP 06 Beta 3 - 2015/07/12*
 
 pre. 
 - Fixed : mass:/POPS#/TROJAN_#.BIN and mass:/POPS#/PATCH_#.BIN integrity check failure
@@ -269,7 +269,7 @@ pre.
 -- Now it defaults to a 5 seconds delay if POPStarter somehow does not manage to poke the USB delay value
 
 
-* *POPStarter Revision 13, Build Date : 2015/06/25, WIP 06, OBT 2*
+* *Rev 13 WIP 06 Beta 2 - 2015/06/25*
 
 pre. 
 - In USB mode : Sequential scan of mass:/POPS/, mass:/POPS0/, mass:/POPS1/... up to mass:/POPS9/ for VCDs
@@ -288,7 +288,7 @@ pre.
 -- Added a USB delay pattern which is poked by POPStarter
 
 
-* *POPStarter Revision 13, Build Date : 2015/06/22, WIP 06, OBT 1*
+* *Rev 13 WIP 06 Beta 1 - 2015/06/22*
 
 pre. 
 - Fixed : OSD.BIN in-RAM corruption
@@ -311,7 +311,7 @@ pre.
 - Added the Jackie Chan Stuntmaster (SCES-01444) LibCrypt crack
 
 
-* *"POPStarter Revision 13, Build Date : 2015/06/03, WIP 05 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-61#post-813385* 
+* *"Rev 13 WIP 05 - 2015/06/03":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-61#post-813385* 
 
 pre. 
 - Bugfixed : IOP reset code misalignment that randomly caused a fatal IOP crash before the POPS execution (doh !)
@@ -329,14 +329,14 @@ NOTES : So, I tried the "partition icon to VMC folder icon" function of WIP 02. 
 lol, so I don't try to reimplement it for now.
 
 
-* *"POPStarter Revision 13, Build Date : 2015/05/31, WIP 04 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-60#post-812678*
+* *"Rev 13 WIP 04 - 2015/05/31":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-60#post-812678*
 
 pre. 
 - Removed the messed up partition icon to VMC folder icon code. It was saving garbage data in list.ico, so the VMC folders of PP. 
   installed games were displayed as "corrupted data".
 
 
-* *"POPStarter Revision 13, Build Date : 2015/04/24, WIP 03 PUBLIC RELEASE":http://www.metagames-eu.com/forums/1770217-post163.html*
+* *"Rev 13 WIP 03 - 2015/04/24":http://www.metagames-eu.com/forums/1770217-post163.html*
 
 pre. 
 - Fixed: SJIS conversion error in the icon.sys generator for the VMC directories
@@ -349,7 +349,7 @@ NOTES : No new game fixes / compatibility modes were added in this build. Only t
 release it now because I've also resolved the PStwo / PS2 w/o HDD issue in uLE...
 
 
-* *"POPStarter Revision 13, Build Date : 2014/08/22, WIP 02 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-35#post-770548*
+* *"Rev 13 WIP 02 - 2014/08/22":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-35#post-770548*
 
 pre. 
 - Added ~160 LibCrypt cracks (experimental), and truckloads of compatibility modes autoactivations. POPStarter now recognises 402 
@@ -367,7 +367,7 @@ pre.
 - Development status is still WIP, although I'll take mah vacations soon
 
 
-* *"POPStarter Revision 13 - 2014/07/11, WIP 01 PUBLIC RELEASE":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-27#post-760647*
+* *"Rev 13 WIP 01 - 2014/07/11":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-27#post-760647*
 
 pre. 
 - Removed the PL-2301 launch method, same for the debugging thru NapClient.
@@ -379,7 +379,7 @@ pre.
 - The current project status is work in progress
 
 
-* *"POPStarter Revision 12 - No Debug - 2013/05/14":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-11#post-674651*
+* *"Rev 12 No Debug - 2013/05/14":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-11#post-674651*
 Pastie #7937017.
 
 pre. 
@@ -389,7 +389,7 @@ pre.
 - Linked expected failures/errors to TESTMODE
 
 
-* *"POPStarter Revision 12 - 2013/05/12":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-11#post-674651*
+* *"Rev 12 - 2013/05/12":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-11#post-674651*
 Pastie #7937017.
 
 pre. 
@@ -399,14 +399,14 @@ pre.
 - The KELF's payload was stripped down
 
 
-* *"POPStarter Revision 11 - 2013/04/30":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-6#post-670228*
+* *"Rev 11 - 2013/04/30":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-6#post-670228*
 Pastie #7749880.
 
 pre. 
 - Fixed BIOS & OSD handlers activation failure in EXECUTE.KELF
 
 
-* *"POPStarter Revision 11 - 2013/04/24":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-6#post-670228*
+* *"Rev 11 - 2013/04/24":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-6#post-670228*
 Pastie #7749880.
 
 pre. 
@@ -416,7 +416,7 @@ pre.
 - LAUNCHER, PORTABLE and KEXEC builds were packaged all together
 
 
-* *"POPStarter Revision 10 [PATINFO/KEXEC Bundle] - 2013/04/19":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-4#post-667149*
+* *"Rev 10 PATINFO/KEXEC Bundle - 2013/04/19":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-4#post-667149*
 Pastie #7667656.
 
 pre. 
@@ -428,7 +428,7 @@ pre.
 - Container protections were completely rewritten
 
 
-* *POPStarter Revision 9 [PATINFO/KEXEC Bundle] - 2013/04/09*
+* *Rev 9 PATINFO/KEXEC Bundle - 2013/04/09*
 
 pre. 
 First public release
