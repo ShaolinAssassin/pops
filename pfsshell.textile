@@ -83,7 +83,7 @@ _[Original tutorial by ElPatas]_ "@elotrolado":http://www.elotrolado.net/hilo_ho
 
 3. You need to launch the .bat file from it's folder. In the example below, pfshell is placed into D: partition, into a folder named "CD Juegos PSX". 
 
-!http://i205.photobucket.com/albums/bb235/El_Patas/POPS/pops05_zps81df52b9.jpg(title)!
+!https://bitbucket.org/repo/Mpy7Eg/images/1258137434-pops05_zps81df52b9.jpg(title)!
 
 4. Execute the .bat running the following command line : 
 
