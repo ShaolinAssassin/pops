@@ -12,10 +12,18 @@ ________________________________________________________________________________
 
 h2. _Downloads :_  
 
-* *LATEST BETA VERSION BUNDLE :* "POPStarter Revision 13 WIP 06 Beta 17 (2017/01/28)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_WIP_06_OBT_20170128.zip
+* *LATEST BETA VERSION BUNDLE :* "POPStarter Revision 13 RIP 06 (2017/10/20)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_RIP_06.zip
 
 pre. 
-- Added support for the HDD-OSD 1.00J pfs launch argument.
+- Code cleanup
+- USBD and USBHDFSD drivers reverted to builds from WIP 02
+Since the drivers from prototype 2 reduced performances in BOTH POPStarter and POPS.
+- Bugfixed : POPStarter wasn't loading MODULE_#.IRX.
+Massive thanks to ShaolinAssassin for helping me to find what was broken.
+- POPStarter now accepts PS2CD and PS2CDDA disc types.
+In other words, you can now perform the disc swap trick with a pressed PS2 CDROM, in uLE or Swap Magic for example.
+Your original disc (PS1/PS2) track 1 (data track) must have an equal or bigger TOC than the track 1 of your backup.
+- Automated $COMPATIBILITY_0x05 for Resident Evil SLES-00200/SLES-00227/SLES-00228 as requested.
 
 
 ______________________________________________________________________________________________________________
@@ -78,9 +86,9 @@ ________________________________________________________________________________
 
 h2. _Announcement :_ 
 
-POPStarter project is "officially abandonned by krHACKen (2017/10/09)":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776252. A "new beta ":https://www.assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-109#post-950962 (Rev 13 RIP 06) will be released in the next few days, based on the "last protos":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/proto. This will be the *last* POPStarter release. Thanks anyone who supported and helped this project. 
+POPStarter project is "officially abandonned by krHACKen (2017/10/09)":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776252. Last build - "Rev 13 RIP 06":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_RIP_06.zip - was released on 2017/10/20. This is be the *last* POPStarter release. Thanks anyone who supported and helped this project. 
 
-~shaolinassassin, 2017/10/12
+~shaolinassassin, 2017/10/21
 
 
 ______________________________________________________________________________________________________________
