@@ -3,6 +3,18 @@ h1. *POPStarter Changelog :*
 
 ______________________________________________________________________________________________________________
 
+* *"Rev 13 RIP 06 - 2017/10/20":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-111#post-952484*
+
+pre. 
+- Code cleanup
+- USBD and USBHDFSD drivers reverted to builds from WIP 02
+Since the drivers from prototype 2 reduced performances in BOTH POPStarter and POPS.
+- Bugfixed : POPStarter wasn't loading MODULE_#.IRX.
+Massive thanks to ShaolinAssassin for helping me to find what was broken.
+- POPStarter now accepts PS2CD and PS2CDDA disc types.
+In other words, you can now perform the disc swap trick with a pressed PS2 CDROM, in uLE or Swap Magic for example.
+Your original disc (PS1/PS2) track 1 (data track) must have an equal or bigger TOC than the track 1 of your backup.
+- Automated $COMPATIBILITY_0x05 for Resident Evil SLES-00200/SLES-00227/SLES-00228 as requested.
 
 
 * *"Rev 13 Prototype 9 - 2017/10/08":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776249*
