@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 h2. _Downloads :_  
 
-* *LATEST BETA VERSION BUNDLE :* "POPStarter Revision 13 RIP 06 (2017/10/20)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_RIP_06.zip
+* *FINAL RELEASE :* "POPStarter Revision 13 RIP 06 (2017/10/20)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_RIP_06.zip
 
 pre. 
 - Code cleanup
