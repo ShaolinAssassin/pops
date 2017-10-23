@@ -1,0 +1,21 @@
+h1. *IRX Loader*
+
+
+______________________________________________________________________________________________________________
+
+
+POPStarter has an IRX loader that lets you use your own external drivers (as IRX files). These IRX files must be named MODULE_#.IRX (from MODULE_0.IRX up to MODULE_9.IRX) and must be placed into your POPS folder. They will not be loaded from the VMC game folder. 
+
+______________________________________________________________________________________________________________
+
+h1. _Related stuff :_
+
+You may want to give a look at this :
+
+* "[SPECIAL DEVICE] Use your [special device] with POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-special-devices
+* "[DS3] Use DualShock 3 Controller with POPStarter":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ds34
+
+______________________________________________________________________________________________________________
+
+
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
