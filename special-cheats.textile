@@ -26,6 +26,7 @@ Some useful commands have been automated. Here are them :
 | $DWCROP_#### | Reduces/expands the display area width. | # is a number (decimal). Works only in PAL and NTSC modes. Maximum value : 2560. Decrease it to crop the screen on the right. Not compatible with $480p. |
 | $HDTVFIX | Enables SetGsCrt hack. | Helps with the HDTVs that can’t deal with the interlaced resolutions thru component (plain green screens and other rubbish displayed otherwise). Not compatible with some CRT TVs. |
 | $MUTE_CDDA | Mutes CDDA tracks. | Done automatically when you play a "physical PS1 CDROM from the disc drive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1cd-mode. |
+| $UNDO_MUTE_CDDA | Unmutes CDDA tracks in "PS1CD mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1cd-mode. |  |
 | $MUTE_VAB | Mute VAB/VAG/VB+VH based sounds/music on games. | May be useful for these old games which output distorted SFX, wrong audio samples or stupid noises. |
 | $00507028 00000001 | Rumble Always On (Pad 1). |  |
 | $005070B8 00000001 | Rumble Always On (Pad 2). |  |
