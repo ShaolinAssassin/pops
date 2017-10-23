@@ -14,6 +14,8 @@ ________________________________________________________________________________
 
 * *PS1 CD mode :* we found out after RIP 06 release that the HDD old launch type method (PP.GAME.ELF or PP.PS1CD.ELF) "has a bug":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-112#post-952852 : files from __common/POPS folder (and from __common/POPS/GAME) will not be loaded.
 
+* *"PS3 support :":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-105#post-936970* POPStarter test build works in a CECHA (no controller response on POPS tho).
+
 
 ______________________________________________________________________________________________________________
 
