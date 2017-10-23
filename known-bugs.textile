@@ -4,6 +4,11 @@ h1. *Known bugs / limitations*
 
 ______________________________________________________________________________________________________________
 
+* *$COMPATIBILITY_0x07 mode :* unfinished. 
+
+* *$WIDESCREEN command :* unfinished.
+
+* *Multi-disc support :* does not work properly with all games.
 
 * *POPS USB oddities :* we found out that latest USBD and USBHDFSD drivers reduced performances in BOTH POPStarter and POPS - so USBD and USBHDFSD drivers embedded into POPStarter are quite old. You can use your own USB modules (named as usbd.irx & usbhdfsd.irx, case sensitive, lowercase, no file size restriction) from mc#:/POPSTARTER - but expect lower performances. 
 
