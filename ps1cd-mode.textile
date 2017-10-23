@@ -6,27 +6,31 @@ ________________________________________________________________________________
 
 PS1 CD mode is a native POPS feature. It lets you play your PS1 games (originals, backups and imports) from the CDVD drive. 
 
-To use that mode, you must rename POPSTARTER.ELF file, using the name you want, as long as there is no VCD (or partition) with such a name in your setup (you can use a generic name, such as PS1CD.ELF). It saves VMCs to the device according to the ELF prefix.
+To use that mode, you must rename POPSTARTER.ELF file using the name you want, as long as there is no VCD (or partition) with such a name in your setup (you can use a generic name, such as PS1CD.ELF). It saves VMCs to the device according to the ELF prefix.
 PS1CD.ELF will save into __common/POPS/PS1CD/SLOT#.VMC, XX.PS1CD.ELF will save into mass:/POPS/PS1CD/SLOT#.VMC and 
 SB.PS1CD.ELF will save into smb:/POPS/PS1CD/SLOT#.VMC. 
 
-Example playing MGS *original disc* and make saves into the *internal HDD* :
-1. Rename POPSTARTER.ELF as "Metal Gear Solid.ELF" (without quotes) (Metal Gear Solid.VCD does not exist in *__.POPS#*) ;
+
+*Example playing MGS original disc and make saves into the internal HDD :*
+
+1. Rename POPSTARTER.ELF as "Metal Gear Solid.ELF" (without quotes) (Metal Gear Solid.VCD does not exist in __.POPS#) ;
 2. Insert your MGS in the CDVD drive ; 
 3. Launch Metal Gear Solid (PAL).ELF ;
-4. MGS should start. When you make a save, it will be stored into *__common/POPS/*Metal Gear Solid/SLOT#.VMC. You can store external files such as CHEATS.TXT etc... in *__common/POPS/*Metal Gear Solid and they will be loaded from there. 
+4. MGS should start. When you make a save, it will be stored into __common/POPS/Metal Gear Solid/SLOT#.VMC. You can store external files such as CHEATS.TXT etc... in __common/POPS/Metal Gear Solid and they will be loaded from there. 
 
-Example playing MGS *original disc* and make saves on *your USB device* :
-1. Rename POPSTARTER.ELF as "*XX.*Metal Gear Solid.ELF" (without quotes) (Metal Gear Solid.VCD does not exist in *mass:/POPS#*) ;
-2. Insert your MGS in the CDVD drive ; 
-3. Launch *XX.*Metal Gear Solid (PAL).ELF ;
-4. MGS should start. When you make a save, it will be stored into *mass:/POPS#*/Metal Gear Solid/SLOT#.VMC. You can store external files such as CHEATS.TXT etc... in *mass:/POPS#*Metal Gear Solid and they will be loaded from there. 
+*Example playing MGS original disc and make saves on your USB device :*
 
-Example playing MGS *original disc* and make saves on *SMB* :
-1. Rename POPSTARTER.ELF as "*SB.*Metal Gear Solid.ELF" (without quotes) (Metal Gear Solid.VCD does not exist in *smb:/POPS*) ;
+1. Rename POPSTARTER.ELF as "XX.Metal Gear Solid.ELF" (without quotes) (Metal Gear Solid.VCD does not exist in mass:/POPS#) ;
 2. Insert your MGS in the CDVD drive ; 
-3. Launch *SB.*Metal Gear Solid (PAL).ELF ;
-4. MGS should start. When you make a save, it will be stored into *smb:/POPS*/Metal Gear Solid/SLOT#.VMC. You can store external files such as CHEATS.TXT etc... in *smb:/POPS*Metal Gear Solid and they will be loaded from there.
+3. Launch XX.Metal Gear Solid (PAL).ELF ;
+4. MGS should start. When you make a save, it will be stored into mass:/POPS#/Metal Gear Solid/SLOT#.VMC. You can store external files such as CHEATS.TXT etc... in mass:/POPS#Metal Gear Solid and they will be loaded from there. 
+
+Example playing MGS original disc and make saves on SMB :*
+
+1. Rename POPSTARTER.ELF as "SB.Metal Gear Solid.ELF" (without quotes) (Metal Gear Solid.VCD does not exist in smb:/POPS) ;
+2. Insert your MGS in the CDVD drive ; 
+3. Launch SB.Metal Gear Solid (PAL).ELF ;
+4. MGS should start. When you make a save, it will be stored into smb:/POPS/Metal Gear Solid/SLOT#.VMC. You can store external files such as CHEATS.TXT etc... in smb:/POPS/Metal Gear Solid and they will be loaded from there.
 
 If you want to use a PS1 *import game disc* or a PS1 *backup disc*, you must perform the swap trick (run uLaunchELF, insert an original PS1 original disc (with a bigger TOC than your import game disc/backup disc) then swap with your PS1 import game disc/backup disc) before launching POPSTARTER.ELF (renamed and prefixed). PS2CD and PS2CDDA disc types are accepted to perform the swap trick.
 
