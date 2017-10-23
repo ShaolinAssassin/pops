@@ -62,7 +62,7 @@ If your game is poorly emulated, you can try to enable a compatibility mode to s
 * using a CHEATS.TXT file : see the "cheat engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cheat-engine section to know how to enable a mode using the cheat engine.
 * hardcoding the mode in POPStarter (advanced) : see "POPStarter configuration table":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table.
 
-*Note :* if your game lags badly or stalls randomly, you can try to use $CODECACHE_ADDON_0 command in a GAME/CHEATS.TXT file. Do not use it by default on all your games, because most games will stop working with it.
+*Note :* if your game lags badly or stalls randomly, you can try to use "$CODECACHE_ADDON_0 command":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/edit/special-cheats in a GAME/CHEATS.TXT file. Do not use it by default on all your games, because most games will stop working with it.
 
 ______________________________________________________________________________________________________________
 
