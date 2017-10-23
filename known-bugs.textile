@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 * *"PS3 support :":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-105#post-936970* POPStarter test build works in a CECHA (no controller response on POPS tho).
 
-* *"OPL blocked":http://www.psx-place.com/threads/open-ps2-loader-v0-9-3.13415/page-4#post-84429 :" POPStarter refuses to run from OPL, *by design*. It's not a bug, it's a feature * wink wink *.
+* *"OPL blocked":http://www.psx-place.com/threads/open-ps2-loader-v0-9-3.13415/page-4#post-84429 :"* POPStarter refuses to run from OPL, *by design*. It's not a bug, it's a feature * wink wink *.
 
 
 ______________________________________________________________________________________________________________
