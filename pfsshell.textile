@@ -10,7 +10,7 @@ h2. _Hardware Requirements :_
 
 h2. _Software Requirements :_ 
 
-* "PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/pfsshell-0.2a.7z (running under winxp - or enable XP compatibility mode)
+* "PFSSHELL 0.2a":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/pfsshell-0.2a.7z (running under winxp - or enable XP compatibility mode). You can find an updated version of this program "here":https://github.com/uyjulian/pfsshell by @"uyjulian":https://assemblergames.com/members/uyjulian.103145/ - but you have to compile it yourself. 
 
 ______________________________________________________________________________________________________________
 
