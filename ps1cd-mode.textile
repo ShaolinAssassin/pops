@@ -33,7 +33,7 @@ It saves VMCs to the device according to the ELF prefix. PS1CD.ELF will save int
 
 * *Backups and imports discs :* 
 
-If you want to use a PS1 *import game disc* or a PS1 *backup disc*, you must perform the swap trick (run uLaunchELF, insert an original PS1 original disc - with a bigger TOC than your import game disc/backup disc - then swap with your PS1 import game disc/backup disc) before launching POPSTARTER.ELF (renamed and prefixed). PS2CD and PS2CDDA disc types are accepted to perform the swap trick.
+If you want to use a PS1 *import game disc* or a PS1 *backup disc*, you must perform the swap trick (run uLaunchELF, insert an original PS1 original disc - with an equal or bigger TOC than your import game disc/backup disc - then swap with your PS1 import game disc/backup disc) before launching POPSTARTER.ELF (renamed and prefixed). PS2CD and PS2CDDA disc types are accepted to perform the swap trick.
 
 *Notes :*
 . no CDDA tracks support in this mode (horrible sound) ;
