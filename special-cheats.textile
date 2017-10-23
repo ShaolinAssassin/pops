@@ -2,7 +2,7 @@ h1. *Special Cheats - Automated Codes*
 
 
 ______________________________________________________________________________________________________________
-_[10-01 : fixed $XPOS and YPOS descriptions, mistake in it due to my Engrish]_
+
 
 
 Some useful commands have been automated. Here are them :
