@@ -41,8 +41,6 @@ Some useful commands have been automated. Here are them :
 | $CACHE1 | Makes POPS buffer 1 sector instead of 16. | |
 | $USBDELAY_# | Sets up the PFS wrapper USB delay. | # is a number. |
 
-A sample containing all special commands : "*here*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/SAMPLE_CHEATS.TXT.
-
 ______________________________________________________________________________________________________________
 
 h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
