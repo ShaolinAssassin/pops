@@ -36,7 +36,7 @@ It saves VMCs to the device according to the ELF prefix. PS1CD.ELF will save int
 If you want to use a PS1 *import game disc* or a PS1 *backup disc*, you must perform the swap trick (run uLaunchELF, insert an original PS1 original disc - with an equal or bigger TOC than your import game disc/backup disc - then swap with your PS1 import game disc/backup disc) before launching POPSTARTER.ELF (renamed and prefixed). PS2CD and PS2CDDA disc types are accepted to perform the swap trick.
 
 *Notes :*
-. no CDDA tracks support in this mode (horrible sound) ;
+. no CDDA tracks support in this mode (outputs some awful noises instead of the actual CDDA music/sound) ;
 . if you use a multi discs game, use the "hotkeys":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi-disc to swap the discs ;
 . we found out after RIP 06 release that the HDD old launch type method (PP.GAME.ELF or PP.PS1CD.ELF) "has a bug":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-112#post-952852 : files from __common/POPS folder (and from __common/POPS/GAME) will not be loaded.
 
