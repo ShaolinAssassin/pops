@@ -64,59 +64,6 @@ If your game is poorly emulated, you can try to enable a compatibility mode to s
 
 *Note :* if your game lags badly or stalls randomly, you can try to use "$CODECACHE_ADDON_0 command":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/edit/special-cheats in a GAME/CHEATS.TXT file. Do not use it by default on all your games, because most games will stop working with it.
 
-______________________________________________________________________________________________________________
-
-h2. _Game fixes (manual) :_ 
-
-In the "game fixes archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Game_Fixes.7z, you can find some TROJAN files fixing problematic games. Copy the file in the VMC directory of your problematic game.
-
-*List of game fixes :* 
-
-* 007 - Demain Ne Meurt Jamais (SLES-02375) - AntiCrash Fix
-* 007 - Der Morgen Stirbt Nie (SLES-02376) - AntiCrash Fix
-* 007 - Tomorrow Never Dies (SLES-01324) - AntiCrash Fix
-* 007 - Tomorrow Never Dies (SLPS-02604) - AntiCrash Fix
-* 007 - Tomorrow Never Dies (SLUS-00975) - AntiCrash Fix
-* Casper (SLES-00045) - LoadinFix
-* Casper (SLUS-00162) - LoadinFix
-* Crash Bandicoot Racing (SCPS-10118) - LoadinFix
-* Crash Team Racing (SCUS-94426) - Boot Fix
-* CTR - Crash Team Racing (SCES-02105) - Boot Fix
-* Destruction Derby 2 (SCUS-94350) - AntiCrash Fix
-* Destruction Derby 2 (SIPS-60012)  - AntiCrash Fix
-* Destruction Derby 2 (SLES-00299)  - AntiCrash Fix
-* Future Racer (SLES-03508) - "Boost" Fix + mode 0x04
-* Harry Potter And The Chamber Of Secrets (SLES-03972) - AntiCrash Fix
-* Harry Potter And The Chamber Of Secrets (SLES-03973) - AntiCrash Fix
-* Harry Potter And The Chamber Of Secrets (SLES-03974) - AntiCrash Fix
-* Harry Potter And The Chamber Of Secrets (SLUS-01503) - AntiCrash Fix
-* Harry Potter And The Philosopher's Stone (SLES-03662) - AntiCrash Fix
-* Harry Potter And The Philosopher's Stone (SLES-03663) - AntiCrash Fix
-* Harry Potter And The Philosopher's Stone (SLES-03664) - AntiCrash Fix
-* Harry Potter And The Philosopher's Stone (SLES-03665) - AntiCrash Fix
-* Harry Potter And The Sorcerer's Stone (SLUS-01415) - AntiCrash Fix
-* Harry Potter To Kenja No Ishi (SLPS-03355) - AntiCrash Fix
-* Metal Gear Solid (Disc 1) (SLES-01370) - Skip problematic CutScenes
-* Metal Gear Solid (Disc 1) (SLES-01506) - Skip problematic CutScenes
-* Metal Gear Solid (Disc 1) (SLES-01507) - Skip problematic CutScenes
-* Metal Gear Solid (Disc 1) (SLES-01508) - Skip problematic CutScenes
-* Metal Gear Solid (Disc 1) (SLES-01734) - Skip problematic CutScenes
-* Metal Gear Solid (Disc 1) (SLPM-86111) - Skip problematic CutScenes
-* Metal Gear Solid v1.0 (Disc 1) (SLUS-00594) - Skip problematic CutScenes
-* Metal Gear Solid v1.1 (Disc 1) (SLUS-00594) - Skip problematic CutScenes
-* Roadsters (SLES-02326) - AntiCrash Fix
-* Roadsters (SLUS-01024)  - AntiCrash Fix
-* Tomb Raider (PAL Retail) - SkipVSync
-* Tomb Raider (SLUS-00152) - SkipVSync
-* Tomb Raider 2 (SLPS-01200) - SkipVSync
-* Tomb Raider II - Starring Lara Croft (Beta 1997-09-30) - SkipVSync
-* Tomb Raider II - Starring Lara Croft (PAL Retail) - SkipVSync 
-* Tomb Raider II - Starring Lara Croft v1.0 (SLUS-00437) - SkipVSync
-* Tomb Raiders (SLPS-00617) - SkipVSync
-* WipEout (SCUS-94301) - AntiCrash Fix
-* WipEout (SIPS-60003)  - AntiCrash Fix
-* WipEout v1.0 (SCES-00010)  - AntiCrash Fix 
-* WipEout v1.1 (SCES-00010)  - AntiCrash Fix
 
 ______________________________________________________________________________________________________________
 
