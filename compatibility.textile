@@ -52,7 +52,7 @@ If your game is poorly emulated, you can try to enable a compatibility mode to s
 | 0x04 | Fixes slowdowns, flickering, and many other glitches (prevents the emulator from writing a garbage value in two of the virtual GPU registers). |
 | 0x05 | Made for fixing the cutscenes of the PAL Resident Evil: Director’s Cut. |
 | 0x06 | Disables the OSD shell of the emulator’s built-in BIOS, making some games that freeze on startup run. |
-| 0x07 | Fixes the missing textures problems (example : "Tomb Raider III":https://www.youtube.com/watch?v=3LmGlgY_rNs&feature=youtu.be ). |
+| 0x07 | Fixes the missing textures problems (example : "Tomb Raider III":https://www.youtube.com/watch?v=3LmGlgY_rNs&feature=youtu.be ). Unfinished. |
 
 *Caution :* Modes 0x01, 0x02, 0x03 and 0x05 cannot be enabled in the same time or combined. These are variants of the same hack and they are conflicting, so use only use one of them at a time. Please let us know (at "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/) if you managed to solve a problem in your game by forcing modes, so the fix can be integrated in POPStarter.
 
