@@ -1,13 +1,15 @@
-h1. *Known bugs*
+h1. *Known bugs / limitations*
 
 
 
 ______________________________________________________________________________________________________________
-_[From wip05 documentation]_
 
-* The clock rate of the emulator running in PAL is not correct. This may lead the emulator to re-sync the A/V by itself and to cause stuttering during XA playback.
+
+* *POPS USB oddities :* we found out that latest USBD and USBHDFSD drivers reduced performances in BOTH POPStarter and POPS - so USBD and USBHDFSD drivers embedded into POPStarter are quite old. You can use your own USB modules (named as usbd.irx & usbhdfsd.irx, case sensitive, lowercase, no file size restriction) from mc#:/POPSTARTER - but expect lower performances. 
+
+* *PS1 CD mode :* we found out after RIP 06 release that the HDD old launch type method (PP.GAME.ELF or PP.PS1CD.ELF) "has a bug":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-112#post-952852 : files from __common/POPS folder (and from __common/POPS/GAME) will not be loaded.
+
 
 ______________________________________________________________________________________________________________
-
 
 h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
