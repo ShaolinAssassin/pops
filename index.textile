@@ -44,6 +44,7 @@ _[Original documentation by krHACKen - updated by shaolinassassin]_
 * "Special Cheats":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special-cheats
 * "In-Game-Reset":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/igr
 * "Swap Disc Feature":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi-disc
+* "PS1 CD mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1cd-mode
 * "IRX Loader":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/irx-loader
 * "BIOS & OSD Handlers":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/bios-osd-handlers
 * "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode
