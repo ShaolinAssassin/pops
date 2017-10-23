@@ -37,6 +37,7 @@ If you want to use a PS1 *import game disc* or a PS1 *backup disc*, you must per
 
 *Notes :*
 . no CDDA tracks support in this mode (horrible sound) ;
+. if you use a multi discs game, use the "hotkeys":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/multi-disc to swap the discs ;
 . we found out after RIP 06 release that the HDD old launch type method (PP.GAME.ELF or PP.PS1CD.ELF) "has a bug":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-112#post-952852 : files from __common/POPS folder (and from __common/POPS/GAME) will not be loaded.
 
 ______________________________________________________________________________________________________________
