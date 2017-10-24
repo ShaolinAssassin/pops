@@ -65,6 +65,7 @@ MGS_CD2.VCD
 * The swap disc feature is useful only if you must swap discs *without any PS1 reboot*. For the other games, you only need to swap the VMCs manually (copy/paste VMCs from VMC disc 1 folder to VMC disc 2 folder) - or you can use the "trick" below to avoid such a manipulation.
 * If your disc has more than 4 discs, install the forth first ones, play them until disc 4, then uninstall discs 1, 2 and 3, and install disc 5, 6, 7...
 * Does not work properly with all games.
+* Multi disc games "combined" to single VCDs still work, up to ~2GB per VCD.
 
 
 ______________________________________________________________________________________________________________
