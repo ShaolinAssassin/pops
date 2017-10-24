@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 * *$WIDESCREEN command :* unfinished.
 
-* *Multi-disc support :* does not work properly with all games.
+* *Multi-disc support :* does not work properly with all games (not working with : "Final Fantasy IX":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-102#post-927043, "Grandia":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-100#post-920264).
 
 * *"POPS USB oddities :":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-109#post-950500* we found out that latest USBD and USBHDFSD drivers reduced performances in BOTH POPStarter and POPS - so USBD and USBHDFSD drivers embedded into POPStarter are quite old. You can use your own USB modules (named as usbd.irx & usbhdfsd.irx, case sensitive, lowercase, no file size restriction) from mc#:/POPSTARTER - but expect lower performances. 
 
