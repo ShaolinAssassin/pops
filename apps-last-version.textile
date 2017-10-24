@@ -7,6 +7,11 @@ ________________________________________________________________________________
 Last version of each main app related to POPStarter (yeah, I'm too lazy to fix so many hotlinks in this wiki :P ).
 
 
+| *App* | *Version* | *Release date* |*Download* |
+| CUE2POPS | v2.3 | 2016/11/03 | "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/CUE2POPS_2.3.7z |
+
+
+
 * *CUE2POPS* v2.3 (2016/11/03) : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/CUE2POPS_2.3.7z.
 
 * *POPStarter* rev 13 RIP 06 (2017/10/20) : "here":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_RIP_06.zip.
