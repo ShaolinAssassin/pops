@@ -50,7 +50,7 @@ pre.
 - Fixed : dumpsize not known / daTrack_ptr set to zero when trying to patch a single track game to NTSC
 - The CUE2POPS version identifier is now 0x02
 
-*2013/04/19 - v1.1*
+*"2013/04/19 - v1.1":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-4#post-667149*
 
 pre. 
 - A bit of sanitization
