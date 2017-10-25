@@ -16,9 +16,9 @@ Unfortunately, some famous and epic games are still unplayable. Here's a short l
 
 h2. _Compatibility lists and forms :_ 
 
-These compatibility lists are managed by AlGollan84 (aka Algol aka Allan58) and krHACKen.
-
 * *Rev 13 Official Compatibility Lists :*
+
+These compatibility lists are managed by AlGollan84 (aka Algol aka Allan58) and krHACKen.
 
 | *Device* | *Compatibility list (read-only)* | *The form for submitting reports* |
 | *Internal HDD* | "here":https://docs.google.com/spreadsheet/ccc?key=0AkthiKwj1VJMdFIzb3NuOWU2eWZqUDNwVl9uTzFPTGc#gid=0 | "here":https://docs.google.com/forms/d/17fb0I0GxnPpIuCvayFgFhd8MlozcBqR42kdzuOA5b1I/viewform |
