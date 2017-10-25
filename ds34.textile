@@ -3,7 +3,7 @@ h1. [DS3] *Use DualShock 3 Controller with POPStarter*
 
 ______________________________________________________________________________________________________________
 
-Credits : "belek666":https://github.com/belek666/Open-PS2-Loader for the DualShock 3 modules.
+* *Credits :* "belek666":https://github.com/belek666/Open-PS2-Loader for the DualShock 3 modules.
 
 *Notes :* 
 * works only with WIP 06 betas & RIP 06, does *NOT* work with the prototypes (due to a bug affecting the IRX loader). 
