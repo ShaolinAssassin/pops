@@ -3,23 +3,15 @@ h1. *Game Compatibility*
 
 ______________________________________________________________________________________________________________
 
-
-
-h2. _Compatibility rates (04/21/2016) :_ 
-
-
-pre. 
-* MODE (Region) : XX% games playable (games partially or perfectly emulated/games tested)
-
-
-* HDD (PAL) : 78% (343/438)
-* HDD (NTSC) : 75% (165/219)
-* USB (PAL) : 79% (298/377)
-* USB (NTSC) : 83% (211/252)
-* SMB (PAL) : 76% (133/174)
-* SMB (NTSC) : 80% (92/114)
-
-______________________________________________________________________________________________________________
+POPS is able to emulate a large range of games perfectly fine with the POPStarter fixes - which makes it superior to "PS2PSXE":http://psx-scene.com/forums/f292/ps2psxe-public-preview-feedback-discussions-64878/. Best results are expected in internal HDD mode. 
+Unfortunately, some famous and epic games are still unplayable. Here's a short list of them :
+- Crash Bash (extreme flickering)
+- Tekken 3 (extreme flickering)
+- Spyro 2 & 3 (crashes)
+- Gran Turismo 2 (black cars)
+- Dino Crisis (crashes)
+- Parasite Eve II (crashes, and no SFX/music until a cutscene is played)
+- Resident Evil 3 (random crashes)
 
 
 h2. _Compatibility lists and forms :_ 
