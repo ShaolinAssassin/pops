@@ -43,7 +43,8 @@ Offset 40h		= Executable segment start
 LIMITATIONS AND RESTRICTIONS [Version 1]
 ========================================
 + The file identifier must be "PS-X OSD"
-+ The name of the OSD replacement (in the header, starting from offset 20h) must be at least 1 ASCII character long; the length can be up to 20 characters
++ The name of the OSD replacement (in the header, starting from offset 20h) must be at least 1 ASCII character long;
+the length can be up to 20 characters
 + The OSD Load Address and the Entrypoint have to be multiples of 10000h
 + The image version (offset Ch) and the OSD build (offset Eh) cannot be NULL
 + NULL/RESERVED/UNDEFINED fields have to be NULL
