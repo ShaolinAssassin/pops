@@ -9,7 +9,7 @@ ________________________________________________________________________________
 | 2004/10 | PS2 slimline case release. |
 | 2007 | Proper RAW dump of the HDD partition PP.SLBB-00001. |
 | 2008/05/30 |  RAW dump uploaded to third part host service, named as "PP_SLBB-00001.rar", 76,7MB sized. |
-| 2010/02/07 |  Decrypted files from the dump uploaded to third part host service (POPS = 3.166.988 bytes - the POPS executable, crc32 1ef0a3a7, md5 355a892a8ce4e4a105469d4ef6f39a42). The REAL leak of "Sony's official PSX emulator for PS2 HDD" - sorry PSX-SCENE, you was all wrong on this point. |
+| 2010/02/07 |  Decrypted files from the dump uploaded to third part host service (POPS = 3.166.988 bytes - the POPS executable, crc32 1ef0a3a7, md5 355a892a8ce4e4a105469d4ef6f39a42). The REAL leak of "Sony's official PSX emulator for PS2 HDD". |
 | Unknown |  POC1 : first POPS hack/rape. Allows the user to rung "unauthorized" PS-X code by the injection of the executable into the PlayStation BIOS. In other words, it's now possible to play PS1 homebrews with POPS. It's the heart of POPStarter OSD.BIN handler feature. POPS is still protected against disc image replacement/alteration tho. |
 | 2013/01/07 |  After some days of tests, conan14 finally found a way to change the 2nd mounth path of the virtual drive and spread a launcher. Commercial games can now be launched with POPS. |
 | 2013/01/22 | POC2 release on a russian private w@rez website. |
