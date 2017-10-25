@@ -19,7 +19,6 @@ ________________________________________________________________________________
 | 2013/02/14 | First public mention of the secret project. |
 | 2013/03/07 - 2013/03/12  | POPS project cancelled. No announcement about it. We will know on 2013/03/12. |
 | 2013/03/12/ | First public mention about POPStarter (as a continuation of the cancelled project) by krHACKen, currently in test and already in rev7. Only one version is planned : the "PATINFO" one (which means POPStarter will be HDDOSD compatible only). |
-| 2013/03/18 | "Delcro's patch release":https://assemblergames.com/threads/psx-play-on-ps2-usb.50756/#post-737107, adding USB support to POPS-00001 - big step forward. |
 | 2013/03/19 | Plans changed. POPStarter is still in test and currently in his 8th revision. 4 versions are in work : "PATINFO", "PORTABLE", "LAUCHER" & "KEXEC". POPstarter released is delayed because of a bug in the "KEXEC" version. |
 | 2013/04/09 | POPStarter Revision 9 - first public release @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/. |
 
