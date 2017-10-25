@@ -32,14 +32,8 @@ $80097BA0 270F // Infinite Health
 * You can enable a code for ALL your games if you place the CHEATS.TXT file in POPS folder instead of the VMC game folder ;
 * You can find a list of useful generic commands "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special-cheats ;
 * "Gamehacking.org":http://gamehacking.org/system/psx/all is a great place for PS1 cheats code.
+* You can also use POPStarter with a PS2 cheat device (ps2rd, Codebreaker, Cheat Device...). POPS Mastercode is 902377F4 0C0902EF. Massive PS1 codes list in PS2 RAW format - ready-to-use - can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-codes-in-ps2-raw-format. In order to use a PS1 code with a PS2 cheat device, you need to convert it to PS2 RAW format : add $01000000 to the PS1 code adresses and comply with the code type definitions of the target PS2 cheat engine. For more info about how to convert codes, check this "post":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-27#post-760915.
 
-
-
-* Massive PS1 codes list in PS2 RAW format - ready-to-use - can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-codes-in-ps2-raw-format.
-* POPS Mastercode - for use with a PS2 cheat device (ps2rd, codebreaker, Cheat device...) is 902377F4 0C0902EF. You don't need it if you use CHEATS.TXT.
-* To convert a PS1 code to PS2 RAW format,  add $01000000 to the adresses and comply with the code type definitions of the target PS2 cheat engine. For more info about how to convert codes, check this "post":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-27#post-760915.
-
-PS1 RAW codes of types 30, 50, 80 and D0 are supported 
 
 
 ______________________________________________________________________________________________________________
