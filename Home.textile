@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 h2. _Downloads :_  
 
-* *FINAL RELEASE :* "POPStarter Revision 13 RIP 06 (2017/10/20)":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_RIP_06.zip
+* *FINAL RELEASE :* *"POPStarter Revision 13 RIP 06 (2017/10/20)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_RIP_06.zip*
 
 pre. 
 - Code cleanup
