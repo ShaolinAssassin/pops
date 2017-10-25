@@ -50,12 +50,9 @@ h2. _Installation :_
 # Copy or leave the ELFs where you want to run them from ;
 # Enjoy !
 
-______________________________________________________________________________________________________________
-
-h2. _Example of Setup :_ 
+*Example of setup :* 
 
 pre. 
-=== INTERNAL HDD, NEW LAUNCH TYPE ===
 __common/POPS/IOPRP252.IMG
 __common/POPS/POPS.ELF
 __.POPS/Crash Bandicoot (PAL).VCD
@@ -96,7 +93,9 @@ HDD supports 3 "launch types". The "launch type" relies on the prefix of your EL
 
 (3) With the POPStarter ELF renamed as Some Game.elf, POPStarter will launch Some Game.VCD which is in the partition named __.POPS or __.POPS0 or __.POPS1... up to __.POPS9.
 
-*Examples of Setups :*
+______________________________________________________________________________________________________________
+
+h2. _Examples of setup :_ 
 
 pre. 
 === INTERNAL HDD, OLD LAUNCH TYPE (HDDOSD COMPATIBLE) ===
@@ -110,14 +109,14 @@ pre.
 __common/POPS/IOPRP252.IMG
 __common/POPS/POPS.ELF
 __.Crash_Bandicoot/IMAGE0.VCD
-__sysconf/FMCB/__.Crash Bandicoot.elf
+__sysconf/FMCB/__.Crash_Bandicoot.ELF
 
 pre. 
 === INTERNAL HDD, NEW LAUNCH TYPE ===
 __common/POPS/IOPRP252.IMG
 __common/POPS/POPS.ELF
-__.POPS/Crash Bandicoot.VCD
-__sysconf/FMCB/Crash Bandicoot.elf
+__.POPS/Crash Bandicoot (PAL).VCD
+__sysconf/FMCB/Crash Bandicoot (PAL).ELF
 
 ______________________________________________________________________________________________________________
 
