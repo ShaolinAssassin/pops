@@ -4,6 +4,8 @@ h1. *Toolbox commands*
 ______________________________________________________________________________________________________________
 _[ToolBox Version 1.0]_
 
+*Note :* this tool is now obsolete. Please use the "latest version of CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version instead. 
+
 h2. _List of Toolbox commands :_
 
 !https://bitbucket.org/repo/Mpy7Eg/images/4139879895-toolbox01.jpg(title)!
