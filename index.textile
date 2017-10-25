@@ -29,10 +29,8 @@ _[Original documentation by krHACKen - updated by shaolinassassin]_
 * "Additional notes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smb-mode
 
 *4. Compatibility*
-* "Compatibility rates and forms":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
 * "Compatibility lists (official)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
 * "Compatibility modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
-* "Game fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
 * "Automated Fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated
 
 *5.  Features and Settings*
