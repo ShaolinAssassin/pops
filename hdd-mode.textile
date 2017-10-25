@@ -29,7 +29,7 @@ To use POPStarter with an internal HDD, you have to find and download the POPS d
 
 ______________________________________________________________________________________________________________
 
-h2. _Installation :_
+h2. _Installation (r13 new launch type) :_
 
 *a) Installing the Emulator :*
 
