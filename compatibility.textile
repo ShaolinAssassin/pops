@@ -5,13 +5,13 @@ ________________________________________________________________________________
 
 POPS is able to emulate a large range of games perfectly fine with the POPStarter fixes - which makes it superior to "PS2PSXE":http://psx-scene.com/forums/f292/ps2psxe-public-preview-feedback-discussions-64878/. Best results are expected in internal HDD mode. 
 Unfortunately, some famous and epic games are still unplayable. Here's a short list of them :
-- Crash Bash (extreme flickering)
-- Tekken 3 (extreme flickering)
-- Spyro 2 & 3 (crashes)
-- Gran Turismo 2 (black cars)
-- Dino Crisis (crashes)
-- Parasite Eve II (crashes, and no SFX/music until a cutscene is played)
-- Resident Evil 3 (random crashes)
+* Crash Bash (extreme flickering) ;
+* Tekken 3 (extreme flickering) :
+* Spyro 2 & 3 (crashes) ;
+* Gran Turismo 2 (black cars) ;
+* Dino Crisis (crashes) ;
+* Parasite Eve II (crashes, and no SFX/music until a cutscene is played) ;
+* Resident Evil 3 (random crashes).
 
 
 h2. _Compatibility lists and forms :_ 
