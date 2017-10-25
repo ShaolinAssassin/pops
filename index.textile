@@ -4,7 +4,7 @@ h1. *Wiki - Table of Content*
 ______________________________________________________________________________________________________________
 _[Original documentation by krHACKen - updated by shaolinassassin]_
 
-*Note :* the following documentation is up-to-date with *Rev13 RIP 06*. Wiki last update : 2017/10/23.
+*Note :* the following documentation is up-to-date with *Rev13 RIP 06*. Wiki last update : 2017/10/##.
 
 "*1. POPStarter for Internal HDD*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
 * "Requirements":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
