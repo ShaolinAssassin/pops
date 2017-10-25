@@ -10,8 +10,8 @@ h2. _Requirements :_
 To use POPStarter with an internal HDD, you have to find and download the POPS decrypted files. These files are named "POPS.ELF" and "IOPRP252.IMG"...
 
 | *File name* | *MD5* | *Description* |
-| POPS.ELF | 355a892a8ce4e4a105469d4ef6f39a42 | main SLBB-00001 ELF, decrypted |
-| IOPRP252.IMG | 1db9c6020a2cd445a7bb176a1a3dd418 | can be found in some retail game discs and $CEI SDKs too |
+| POPS.ELF | 355a892a8ce4e4a105469d4ef6f39a42 | Main SLBB-00001 ELF, decrypted. |
+| IOPRP252.IMG | 1db9c6020a2cd445a7bb176a1a3dd418 | Can be found in some retail game discs and $CEI SDKs too. |
 
 *Other Software Requirements :* 
 
