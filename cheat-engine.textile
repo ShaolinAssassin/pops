@@ -9,8 +9,12 @@ POPStarter has an embedded cheat engine that supports Gameshark/Action Replay PS
 * each code line has to start with the $ character otherwise the code is not enabled ;
 * each code line must have a space between the adress and the value ;
 
-*Example - Castlevania - Symphony of the Night (NTSC-U) :* 
+*Example :* 
 
+_Castlevania - Symphony of the Night (NTSC-U)_ 
+
+CHEATS.TXT location :
+ 
 pre. 
 POPS/Castlevania - Symphony of the Night (NTSC-U)/CHEATS.TXT
 
