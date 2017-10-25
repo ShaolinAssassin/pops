@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 
 | *Date* | *Event* |
-| 2003 | Bishi Bashi Stepchamp 3 downloaded from PSBBN. Tho POPS is hardly linked to this game and because of its native features which are not used in it (VMC, vibration, analogic control, CDDA tracks support...), we can think POPS was made for something bigger. Selling PS1 classics games - like PSN - via PSBBN was maybe SONY's plan for POPS. |
+| 2003 | "Bishi Bashi Stepchamp 3 downloaded from PSBBN":http://psx-scene.com/forums/f153/free-hdboot-starts-58323/index2.html#post423581. Tho POPS is hardly linked to this game and because of its native features which are not used in it (VMC, vibration, analogic control, CDDA tracks support...), we can think POPS was made for something bigger. Selling PS1 classics games - like PSN - via PSBBN was maybe SONY's plan for POPS. |
 | 2004/06 | HDLoader release. Bishi Bashi Stepchamp 3 removed a bit later from PSBBN - perhaps because of the fear of piracy and POPS' weak protection once decrypted. |
 | 2004/10 | PS2 slimline case release. |
 | 2007 | Proper RAW dump of the HDD partition PP.SLBB-00001. |
