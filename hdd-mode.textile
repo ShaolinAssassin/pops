@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 h2. _Requirements :_
 
-* *POPS decrypted files :* 
+*POPS decrypted files :* 
 
 To use POPStarter with an internal HDD, you have to find and download the POPS decrypted files. These files are named "POPS.ELF" and "IOPRP252.IMG"...
 
@@ -13,13 +13,13 @@ To use POPStarter with an internal HDD, you have to find and download the POPS d
 | POPS.ELF | 355a892a8ce4e4a105469d4ef6f39a42 | main SLBB-00001 ELF, decrypted |
 | IOPRP252.IMG | 1db9c6020a2cd445a7bb176a1a3dd418 | can be found in some retail game discs and $CEI SDKs too |
 
-* *Other Software Requirements :* 
+*Other Software Requirements :* 
 
-. A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
-. A software that allows you to manage/create partitions in your PS2 HDD (such as "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
-. A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
-. A software that allows you to transfer the converted disc images to your PS2 HDD (such as "PFSshell":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff, or "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version and "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff)
-. A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version )
+* A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
+* A software that allows you to manage/create partitions in your PS2 HDD (such as "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
+* A software that allows you to copy the decrypted POPS files to the __common partition of your PS2 HDD (such as "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version)
+* A software that allows you to transfer the converted disc images to your PS2 HDD (such as "PFSshell":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff, or "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version and "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff)
+* A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version )
 
 *Hardware Requirements :* 
 
@@ -42,7 +42,7 @@ h2. _Installation :_
 # Convert your BIN/CUE disc images to .VCD files using the latest stable version of "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/vcd ;
 # Create a partition named "__.POPS" in your PS2 HDD, large enough so you can put all your VCDs inside. 
 
-Note : "+__.POPS is not correct". Use "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version to create a partition without +.
+*Note :* +__.POPS" is not correct. Use "AKuHAK's uLaunchELF build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff or "uLE_kHn build":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version to create a partition without +.
 
 *c) Installing POPStarter :*
 
@@ -58,14 +58,14 @@ pre.
 === INTERNAL HDD, NEW LAUNCH TYPE ===
 __common/POPS/IOPRP252.IMG
 __common/POPS/POPS.ELF
-__.POPS/Crash Bandicoot.VCD
-__sysconf/FMCB/Crash Bandicoot.elf
+__.POPS/Crash Bandicoot (PAL).VCD
+__sysconf/FMCB/Crash Bandicoot (PAL).ELF
 
 ______________________________________________________________________________________________________________
 
 h2. _POPSTARTER.KELF :_ 
 
-POPStarter bundle comes with a file named POPSTARTER.KELF (KELF = Krypo-ELF = ELF embedded into a container). It can be used if you have SONY Browser 2.00 (aka HDDOSD) installed on your HDD. Otherwise, it's useless. 
+POPStarter bundle includes a file named POPSTARTER.KELF (KELF = Krypo-ELF = ELF embedded into a container). It can be used if you have "SONY Browser 2.00":https://www.youtube.com/watch?v=AIncx59OFAQ (aka HDDOSD) installed on your HDD. Otherwise, it's useless. 
 
 *Notes :* 
 * Partition name prefix is of course PP. (PP(dot)) ;
@@ -81,12 +81,12 @@ HDD supports 3 "launch types". The "launch type" relies on the prefix of your EL
 
 |  | *Old launch type* | *Alternate old launch type* | *New launch type* |
 | *HDDOSD compatible* | Yes | No | No |
-| *Partition shown in the HDDOSD/PSBBN/PSX XMB* | Yes | No | - |
-| *Prefix for POPStarter.ELF* | PP. (if used) | __. | No prefix |
+| *Partition shown in the HDDOSD / PSBBN / PSX XMB* | Yes | No | - |
+| *Prefix for POPSTARTER.ELF* | PP. (if used) | __. | No prefix |
 | *Prefix for partition name* | PP. | __. | __.POPS or __.POPS# |
 | *Game name* | IMAGE0.VCD (all uppercase) | IMAGE0.VCD (all uppercase) | Name of the Game.VCD |
 | *Examples* | (1) | (2) | (3) |
-| *Description* | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type introduced in POPStarter 13 WIP 01. Allows to put multiple VCDs in a single partition. |
+| *Description* | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type introduced in POPStarter 13. Allows to put multiple VCDs in a single partition. |
  
 *Examples :* 
 
