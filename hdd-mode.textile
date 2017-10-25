@@ -73,17 +73,17 @@ HDD supports 3 "launch types". The "launch type" relies on the prefix of your EL
 | *Partition shown in the HDDOSD / PSBBN / PSX XMB* | Yes | No | - |
 | *Prefix for POPSTARTER.ELF* | PP. (if used) | __. | No prefix |
 | *Prefix for partition name* | PP. | __. | __.POPS or __.POPS# |
-| *Game name* | IMAGE0.VCD (all uppercase) | IMAGE0.VCD (all uppercase) | Name of the Game.VCD |
+| *Game name* | IMAGE0.VCD (all uppercase) | IMAGE0.VCD (all uppercase) | GAME.VCD |
 | *Examples* | (1) | (2) | (3) |
 | *Description* | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type that was used in POPStarter 12 and older. Allows to install one VCD per partition. | Launch type introduced in POPStarter 13. Allows to put multiple VCDs in a single partition. |
  
 *Examples :* 
 
-(1) With the POPStarter ELF renamed as PP.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the partition named PP.SomeGame.
+(1) With the POPStarter ELF renamed as PP.GAME.ELF, POPStarter will launch IMAGE0.VCD which is in the partition named PP.GAME.
 
-(2) With the POPStarter ELF renamed as __.SomeGame.elf, POPStarter will launch IMAGE0.VCD which is in the partition named __.SomeGame.
+(2) With the POPStarter ELF renamed as __.GAME.ELF, POPStarter will launch IMAGE0.VCD which is in the partition named __.GAME.
 
-(3) With the POPStarter ELF renamed as Some Game.elf, POPStarter will launch Some Game.VCD which is in the partition named __.POPS or __.POPS0 or __.POPS1... up to __.POPS9.
+(3) With the POPStarter ELF renamed as GAME.ELF, POPStarter will launch GAME.VCD which is in the partition named __.POPS or __.POPS0 or __.POPS1... up to __.POPS9.
 
 ______________________________________________________________________________________________________________
 
