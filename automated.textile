@@ -323,7 +323,10 @@ ________________________________________________________________________________
 
 h3. _LibCrypt fixes :_ 
 
-POPStarter Revision 13 RIP 06 auto-activates "LibCrypt":http://redump.org/special-discs/ fixes for the following games :
+
+"LibCrypt":http://wiki.redump.org/index.php?title=PlayStation_1:_LibCrypt_protection is a protection introduced by SONY to prevent games being used on a mod-chipped system. POPStarter can by-pass this protection for "all known LibCrypt protected games":":http://redump.org/special-discs/. 
+
+POPStarter Revision 13 RIP 06 auto-activates LibCrypt fixes for the following games :
 
 * Actua Ice Hockey 2 (SLES-01226)
 * Anstoss: Premier Manager (SLES-02563)
