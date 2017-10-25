@@ -4,7 +4,7 @@ h1. *Apps last version - download links*
 ______________________________________________________________________________________________________________
 
 
-Last version of each main app related to POPStarter (yeah, I'm too lazy to fix so many hotlinks in this wiki :P ).
+Last version of each main app related to POPStarter.
 
 
 | *App* | *Version* | *Release date* |*Download* |
