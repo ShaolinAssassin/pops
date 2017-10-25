@@ -39,7 +39,7 @@ pre.
 - Pregap correctors (gap--, gap-- and the unconditional one) were rewritten
 - The CUE2POPS version identifier is now 0x20
 
-* *2013/04/22 - v1.2*
+* *"2013/04/22 - v1.2":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-5#post-667711*
 
 pre. 
 - Fixed : dumpsize not known / daTrack_ptr set to zero when trying to patch a single track game to NTSC
