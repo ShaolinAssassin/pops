@@ -85,7 +85,7 @@ ________________________________________________________________________________
 
 h2. _Announcement :_ 
 
-POPStarter project is "officially abandonned by krHACKen":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776252. Last build - "Rev 13 RIP 06":http://aybabtu.chez.com/kHn/SOFTWARES/POPStarter_r13_RIP_06.zip - was released on 2017/10/20. This is the *last* POPStarter release. Thanks anyone who contributed, supported and helped this project. 
+POPStarter project is "officially abandonned by krHACKen":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776252. Last build - "Rev 13 RIP 06":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_RIP_06.zip - was released on 2017/10/20. Thanks anyone who contributed, supported and helped this project. 
 
 ~shaolinassassin, 2017/10/21
 
