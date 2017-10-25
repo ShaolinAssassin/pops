@@ -69,8 +69,7 @@ ________________________________________________________________________________
 
 h2. _Automated fixes :_ 
 
-A list of all the LC cracks, crash fixes & compatibility modes integrated into POPStarter can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated. You don't need to enable them/do something to get them enabled, as POPStarter will detect your game and apply the matching fix all by itself.
-
+POPStarter has an "internal database":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated containing various fixes (compatibility modes, LibCrypt cracks and miscellaneous fixes) for a big amount of games. These fixes will be automatically applied to your game, as long as you use proper dumps (for identification). 
 
 ______________________________________________________________________________________________________________
 
