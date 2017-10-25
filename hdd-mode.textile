@@ -50,14 +50,6 @@ h2. _Installation :_
 # Copy or leave the ELFs where you want to run them from ;
 # Enjoy !
 
-*Example of setup :* 
-
-pre. 
-__common/POPS/IOPRP252.IMG
-__common/POPS/POPS.ELF
-__.POPS/Crash Bandicoot (PAL).VCD
-__sysconf/FMCB/Crash Bandicoot (PAL).ELF
-
 ______________________________________________________________________________________________________________
 
 h2. _POPSTARTER.KELF :_ 
