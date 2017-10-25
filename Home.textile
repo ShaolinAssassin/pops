@@ -10,7 +10,7 @@ POPStarter is available for free download. If you spent an outrageous amount of 
 
 ______________________________________________________________________________________________________________
 
-h2. _Downloads :_  
+h2. _Download :_  
 
 * *FINAL RELEASE :* *"POPStarter Revision 13 RIP 06 (2017/10/20)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_RIP_06.zip*
 
