@@ -3,30 +3,39 @@ h1. *Cheat Engine*
 
 ______________________________________________________________________________________________________________
 
-Since WIP06 OBT 01, POPStarter has an embedded cheat engine :
+POPStarter has an embedded cheat engine that supports Gameshark/Action Replay PS1 codes (PS1 RAW codes of types 30, 50, 80 and D0 are supported). Some basic rules about the cheat engine : 
 
-* codes will be stored into a txt file named CHEATS.TXT placed into the VMC game folder;
-* each code line has to start with the $ character;
-* each code line must have a space between the adress and the value;
-* PS1 RAW codes of types 30, 50, 80 and D0 are supported (Gameshark/Action Replay);
-* PS2 RAW codes of types 0, 1 and 2 are supported. 
+* codes will be stored into a txt file named CHEATS.TXT placed into the VMC game folder (each game will have his own dedicated CHEATS.TXT file) ;
+* each code line has to start with the $ character otherwise the code is not enabled ;
+* each code line must have a space between the adress and the value ;
 
-Create a text file named CHEATS.TXT & place it into the VMC folder of your game. In this text file, write $, then your code in GameShark/Action Replay format. 
-
-Ex : 
+*Example - Castlevania - Symphony of the Night (NTSC-U) :* 
 
 pre. 
-$800AC402 0800
+POPS/Castlevania - Symphony of the Night (NTSC-U)/CHEATS.TXT
+
+CHEATS.TXT content : 
+
+pre. 
+$SAFEMODE
+$80097BA0 270F // Infinite Health
 
 *Notes :* 
 
-* Each game must have his own CHEATS.TXT file.
-* Some PS1 games need mastercodes otherwise they crash (ex : Air Race Championship). Only type C0 are supported. Mastercodes of type C1 (aka activation on delay time) are not and will not be supported.
-* You can enable a code for ALL your games if you place the CHEATS.TXT file in POPS folder instead of the VMC game folder.
+* It is *highly recommended* to have to "$SAFEMODE command":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special-cheats code at the very first line of the CHEATS.TXT file ;
+* Some PS1 games need mastercodes otherwise they crash (ex : Air Race Championship). Only type C0 are supported. Mastercodes of type C1 (aka activation on delay time) are not and will not be supported ;
+* You can disable a code if your remove the $ character from the code ;
+* You can enable a code for ALL your games if you place the CHEATS.TXT file in POPS folder instead of the VMC game folder ;
+* You can find a list of useful generic commands "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special-cheats ;
+* "Gamehacking.org":http://gamehacking.org/system/psx/all is a great place for PS1 cheats code.
+
+
+
 * Massive PS1 codes list in PS2 RAW format - ready-to-use - can be found "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1-codes-in-ps2-raw-format.
 * POPS Mastercode - for use with a PS2 cheat device (ps2rd, codebreaker, Cheat device...) is 902377F4 0C0902EF. You don't need it if you use CHEATS.TXT.
 * To convert a PS1 code to PS2 RAW format,  add $01000000 to the adresses and comply with the code type definitions of the target PS2 cheat engine. For more info about how to convert codes, check this "post":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-27#post-760915.
-* "gamehacking.org":http://gamehacking.org/system/psx/all is a great place for PS1 cheats.
+
+PS1 RAW codes of types 30, 50, 80 and D0 are supported 
 
 
 ______________________________________________________________________________________________________________
