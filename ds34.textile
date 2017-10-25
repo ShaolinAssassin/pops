@@ -6,7 +6,7 @@ ________________________________________________________________________________
 Credits : "belek666":https://github.com/belek666/Open-PS2-Loader for the DualShock 3 modules.
 
 *Notes :* 
-* works only with WIP 06 betas, does *NOT* work with the prototypes (due to a bug affecting the IRX loader). 
+* works only with WIP 06 betas & RIP 06, does *NOT* work with the prototypes (due to a bug affecting the IRX loader). 
 * modules compiled and provided by belek666 - 2017/06/25 @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-106#post-939746.
 
 *Downloads :*
