@@ -12,6 +12,7 @@ Some useful commands have been automated. Here are them :
 | $SAFEMODE | Disables the cheat engine and only activate it after POPS has left the PS OSD. | Should be always ON. Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
 | $COMPATIBILITY_0x## | Activates a "compatibility mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility. | ## is a hexadecimal value. You can write as many $COMPATIBILITY_0x## as you want. |
 | $CODECACHE_ADDON_0 | For games that lag badly or stall randomly. | If compatibility mode and mode 0x04 doesn't fix that doesn't fix your issue. Do not use it by default on all your games, because most games will stop working with it. |
+| $SUBCDSTATUS | Undocumented |  |
 | $FAKELC | Loads a null LibCrypt magic word into the cop0 register. | May be needed by some discs that have a messed up LC protection. |
 | $SMOOTH | Enables the "smooth texture":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smooth mapping at startup. | Just for the records : value is $S0003390 00000001. |
 | $NOPAL | Disables POPStarters' PAL patcher. | PATCH_9.BIN now obsolete (still working tho). |
@@ -32,6 +33,8 @@ Some useful commands have been automated. Here are them :
 | $005070B8 00000001 | Rumble Always On (Pad 2). |  |
 | "$D2LS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/D2LS  | "Left Stick is the D-Pad" code + Stay on Digital Mode.  | Enables joystick support for games that doesn't support it natively. $D2LS should be OK for most games. If it doesn't work, the user should try $D2LS_ALT. |
 | $D2LS_ALT | "Left Stick is the D-Pad" code + Stay on Analog Mode. | Enables joystick support for games that doesn't support it natively. |
+| $NOVMC0 | Undocumented. |  |
+| $NOVMC1 | Undocumented. |  |
 | $IGR0 | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/310130791-Playstation-Button-X.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)! | Opens the IGR menu. |
 | $IGR1 | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! |  Opens the IGR menu. |
 | $IGR2 | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! |  Opens the IGR menu. |
