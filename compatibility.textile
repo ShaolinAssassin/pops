@@ -45,7 +45,7 @@ If your game is poorly emulated, you can enable a compatibility mode to try to f
 *Notes :* 
 * Modes 0x01, 0x02, 0x03 and 0x05 cannot be enabled in the same time or combined. These are variants of the same hack and they are conflicting, so use only use one of them at a time. 
 
-*How to use enable a compatibility mode :*
+*How to enable a compatibility mode :*
 
 * using a PATCH_#.BIN file from the "compatibility mode archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/Compatibility_Modes.7z : place the PATCH_#.BIN file in the VMC directory of your problematic game and test. 
 * using a CHEATS.TXT file : see the "cheat engine":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cheat-engine section to know how to enable a mode using the cheat engine.
