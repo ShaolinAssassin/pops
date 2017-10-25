@@ -11,12 +11,12 @@ POPStarter has an embedded cheat engine that supports Gameshark/Action Replay PS
 
 *Example :* 
 
-_Castlevania - Symphony of the Night (NTSC-U)_ 
+"Castlevania - Symphony of the Night (NTSC-U)":https://gamehacking.org/game/88578
 
 CHEATS.TXT location :
  
 pre. 
-POPS/Castlevania - Symphony of the Night (NTSC-U)/CHEATS.TXT
+POPS/Castlevania Symphony of the Night (NTSC-U)/CHEATS.TXT
 
 CHEATS.TXT content : 
 
