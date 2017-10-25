@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 h2. _Installation (new launch type) :_
 
-*a) Installing the Emulator :*
+*a) Installing the emulator :*
 
 # Find and download the decrypted emulator files ;
 # Create a directory named "POPS" in the "__common" partition of your PS2 HDD ;
