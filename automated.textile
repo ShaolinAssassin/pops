@@ -3,6 +3,8 @@ h1. *Compatibility modes, LibCrypt and various fixes integrated into POPStarter*
 
 ______________________________________________________________________________________________________________
 
+These fixes will be automatically applied to your game *as long as you use proper dumps* (for identification).
+
 h3. _Compatibility modes :_ 
 
 POPStarter Revision 13 RIP 06 auto-activates "compatibility modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility for the following games :
@@ -668,10 +670,6 @@ POPStarter Revision 13 RIP 06 auto-activates miscellaneous fixes for the followi
 * WipEout v1.0 (SCES-00010)
 * WipEout v1.1 (SCES-00010)
 * Worms Pinball (SLES-00483)
-
-
-
-
 
 ______________________________________________________________________________________________________________
 
