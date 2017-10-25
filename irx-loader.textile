@@ -6,6 +6,8 @@ ________________________________________________________________________________
 
 POPStarter allows the user to load up to 10 modules (as IRX files) after the IOP was reset with the POPS IOPRP. Modules have to be named MODULE_0.IRX, MODULE_1.IRX... up to MODULE_9.IRX and put in the POPS folder. They will not be loaded from the VMC game folder. 
 
+MODULE_#.IRX location : 
+
 pre. 
 POPS/MODULE_0.IRX
 POPS/MODULE_1.IRX
