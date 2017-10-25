@@ -31,7 +31,7 @@ _[Original documentation by krHACKen - updated by shaolinassassin]_
 *4. Compatibility*
 * "Compatibility lists (official)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
 * "Compatibility modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility
-* "Automated Fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated
+* "Automated fixes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/automated
 
 *5.  Features and Settings*
 * "General Note":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/general-note
