@@ -4,12 +4,9 @@ h1. *CUE2POPS changelog :*
 
 ______________________________________________________________________________________________________________
 
-
 h2. _CUE2POPS (standalone versions) :_ 
 
-
-
-*2016/11/03 - v2.3*
+* *2016/11/03 - v2.3*
 
 pre. 
 - Bugfix for the input file being overwritten (the issue which was reported by MonkeyBoyJoey);
@@ -21,14 +18,12 @@ name, ie drag'n'drop) is checked before the creation of the VCD.
 If for some oddball reason the output file extension is not .VCD, CUE2POPS will display an error and not
 create the file.
 
-*2016/07/23 - v2.2*
+* *2016/07/23 - v2.2*
 
 pre. 
 Not documented.
 
-
-
-*2013/05/16 - v2.0*
+* *2013/05/16 - v2.0*
 
 pre. 
 - Fixed : dumpsize not known / daTrack_ptr set to zero when running a non-debug build
@@ -44,13 +39,13 @@ pre.
 - Pregap correctors (gap--, gap-- and the unconditional one) were rewritten
 - The CUE2POPS version identifier is now 0x20
 
-*2013/04/22 - v1.2*
+* *2013/04/22 - v1.2*
 
 pre. 
 - Fixed : dumpsize not known / daTrack_ptr set to zero when trying to patch a single track game to NTSC
 - The CUE2POPS version identifier is now 0x02
 
-*"2013/04/19 - v1.1":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-4#post-667149*
+* *"2013/04/19 - v1.1":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-4#post-667149*
 
 pre. 
 - A bit of sanitization
@@ -58,7 +53,7 @@ pre.
 - Now adds 2 seconds to all tracks unconditionally
 - Writes a CUE2POPS version identifier in the POPS header, for interaction with POPStarter Revision 10
 
-*2013/04/06 - v1.0*
+* *2013/04/06 - v1.0*
 
 pre. 
 Initial release
@@ -69,7 +64,7 @@ h2. _Toolbox :_
 
 *Note :* this tool is discontinued. 
 
-*2014/10/19 - v1.0*
+* *2014/10/19 - v1.0*
 
 pre. 
 Initial release
