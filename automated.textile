@@ -1,7 +1,325 @@
-h1. *LibCrypt and various fixes integrated into POPStarter*
+h1. *Compatibility modes, LibCrypt and various fixes integrated into POPStarter*
 
 
 ______________________________________________________________________________________________________________
+
+h3. _Compatibility modes :_ 
+
+POPStarter Revision 13 RIP 06 auto-activates compatibility modes for the following games :
+
+* 40 Winks (SLUS-00874) : $COMPATIBILITY_0x04
+* ASCII Entertainment Demo CD (SLUS-90010) : $COMPATIBILITY_0x04
+* ATV: Quad Power Racing (SLES-02822) : $COMPATIBILITY_0x04
+* ATV: Quad Power Racing (SLUS-01137) : $COMPATIBILITY_0x04
+* Action Man: Destruction X (SLES-03083) : $SUBCDSTATUS
+* Akumajou Dracula X: Gekka No Yasoukyoku v1.0 (SLPM-86023) : $COMPATIBILITY_0x01
+* Akumajou Dracula X: Gekka No Yasoukyoku v1.1 (SLPM-86023) : $COMPATIBILITY_0x01
+* Akumajou Dracula X: Gekka No Yasoukyoku v1.2 (SLPM-86023) : $COMPATIBILITY_0x01
+* Akumajou Dracula X: Gekka No Yasoukyoku v1.2 (SLPM-86023) : $COMPATIBILITY_0x01
+* Apocalypse (SLES-00460) : $COMPATIBILITY_0x01
+* Apocalypse (SLES-00834) : $COMPATIBILITY_0x01
+* Apocalypse (SLES-00835, Megera) : $COMPATIBILITY_0x01
+* Apocalypse (SLES-01463) : $COMPATIBILITY_0x01
+* Apocalypse (SLUS-00373) : $COMPATIBILITY_0x01
+* BDFL Manager 2001 (SLES-02977) : $COMPATIBILITY_0x04
+* BDFL Manager 2002 (SLES-03605) : $COMPATIBILITY_0x04
+* Beat Mania 6th Mix + Core Remix (SLPM-87012) : $COMPATIBILITY_0x01
+* Beat Mania 6th Mix + Core Remix (SLPM-87012, R18) : $COMPATIBILITY_0x01
+* Bio Hazard v1.1 (SLPS-00222) : $COMPATIBILITY_0x05
+* Bio Hazard: Director's Cut (SLPS-00998) : $COMPATIBILITY_0x05
+* Bio Hazard: Director's Cut: Dual Shock Ver. (SLPS-01512) : $COMPATIBILITY_0x05
+* Bloody Roar II (SCUS-94424) : $COMPATIBILITY_0x04
+* Bust A Groove (SCUS-94263) : $COMPATIBILITY_0x04
+* Bust A Groove 2 (SLUS-01159) : $COMPATIBILITY_0x04
+* Bust A Move 2: Dance Tengoku Mix (SLPM-86219) : $COMPATIBILITY_0x04
+* Bust A Move: Dance & Rhythm Action v1.0 (SLPS-01232) : $COMPATIBILITY_0x04
+* Bust A Move: Dance & Rhythm Action v1.1 (SLPS-01232) : $COMPATIBILITY_0x04
+* Bust-A-Groove (SCES-01313) : $COMPATIBILITY_0x04
+* Capcom Generation: Dai 5 Shuu Kakutouka Tachi (SLPS-01725) : $COMPATIBILITY_0x01
+* Captain Tsubasa J: Get In The Tomorrow (SLPS-00310) : $COMPATIBILITY_0x04
+* Castlevania: Symphony Of The Night (SLES-00524) : $COMPATIBILITY_0x01
+* Castlevania: Symphony Of The Night (SLUS-00067) : $COMPATIBILITY_0x01
+* Chessmaster II (SLES-02117) : $COMPATIBILITY_0x04
+* Chrono Cross (Disc 1) (SLUS-01041) : $COMPATIBILITY_0x04
+* Chrono Cross (Disc 2) (SLUS-01080) : $COMPATIBILITY_0x04
+* Circuit Breakers (SLUS-00697) : $COMPATIBILITY_0x04
+* Clock Tower (SLES-00870) : $COMPATIBILITY_0x04
+* Clock Tower (SLES-00871) : $COMPATIBILITY_0x04
+* Clock Tower (SLUS-00539) : $COMPATIBILITY_0x04
+* Clock Tower 2 (SLPS-00657) : $COMPATIBILITY_0x04
+* Clock Tower 2 (Taikenban) (SLPM-80063) : $COMPATIBILITY_0x04
+* Clock Tower II: The Struggle Within (SLUS-00695) : $COMPATIBILITY_0x04
+* Clock Tower II: The Struggle Within (SLUS-00695, RGR) : $COMPATIBILITY_0x04
+* Clock Tower: Ghost Head (SLPS-01290) : $COMPATIBILITY_0x04
+* Codename: Tenka (SCUS-94409, Kudos) : $NOVMC1
+* Codename: Tenka v1.0 (SCUS-94409) : $NOVMC1
+* Colin McRae Rally 2.0 (SLUS-01222) : $CODECACHE_ADDON_0
+* Colin McRae Rally 2.0 v1.0 (SLES-02605) : $CODECACHE_ADDON_0
+* Colin McRae Rally 2.0 v1.1 (SLES-02605) : $CODECACHE_ADDON_0
+* Colony Wars (Disc 1) (SLES-00860) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars (Disc 1) (SLES-00861) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars (Disc 1) (SLUS-00543) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars (Disc 2) (SLES-10860) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars (Disc 2) (SLES-10861) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars (Disc 2) (SLUS-00554) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars (SLED-00091) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars: Red Sun (SCES-01924) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars: Red Sun (SCES-02621) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars: Red Sun (SCES-02623) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars: Red Sun (SLUS-00866) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars: Vengeance (SLES-01392) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars: Vengeance (SLES-01405) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars: Vengeance (SLES-01408) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Colony Wars: Vengeance (SLUS-00722) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Cool Boarders (SCES-00568) : $COMPATIBILITY_0x03
+* Cool Boarders (SCUS-94356) : $COMPATIBILITY_0x03
+* Cool Boarders 2 (SCES-00992) : $COMPATIBILITY_0x03
+* Cool Boarders 2 (SCUS-94358) : $COMPATIBILITY_0x03
+* Cool Boarders 2: Killing Session (SLPS-00967) : $COMPATIBILITY_0x03
+* Critical Blow (SLPS-01044) : $COMPATIBILITY_0x04
+* Cybernetic Empire (Disc 1) (SLPS-01912) : $COMPATIBILITY_0x04
+* Cybernetic Empire (Disc 2) (SLPS-01913) : $COMPATIBILITY_0x04
+* Cybernetic Empire (SLPS-01913, RGR) : $COMPATIBILITY_0x04
+* Dead Or Alive (SCES-01259) : $COMPATIBILITY_0x04
+* Dead Or Alive (SLPS-01289) : $COMPATIBILITY_0x04 $COMPATIBILITY_0x06
+* Dead Or Alive (SLUS-00606) : $COMPATIBILITY_0x04
+* Die Hard Trilogy (SLES-00445) : $COMPATIBILITY_0x03
+* Die Hard Trilogy v1.0 (SLUS-00119) : $COMPATIBILITY_0x03
+* Die Hard Trilogy v1.1 (SLUS-00119) : $COMPATIBILITY_0x03
+* Disney Fais Ton Histoire!: Mulan (SCES-02004) : $COMPATIBILITY_0x01
+* Disney Libro Animato Creativo: Mulan (SCES-02006) : $COMPATIBILITY_0x01
+* Disney's Aventura Interactiva: Mulan (SCES-02007) : $COMPATIBILITY_0x01
+* Disney's Story Studio: Mulan (SCES-01695) : $COMPATIBILITY_0x01
+* Disney's Verhalenstudio: Mulan (SCES-02264) : $COMPATIBILITY_0x01
+* Disneys Interaktive Abenteuer: Mulan (SCES-02005) : $COMPATIBILITY_0x01
+* Double Dragon (SLPS-00191) : $COMPATIBILITY_0x03
+* Dragon Valor (Disc 1) (SCES-01705) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 1) (SCES-02565) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 1) (SCES-02566) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 1) (SCES-02567) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 1) (SCES-02568) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 1) (SLPS-02190) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 1) (SLUS-01092) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 2) (SCES-11705) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 2) (SCES-12565) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 2) (SCES-12566) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 2) (SCES-12567) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 2) (SCES-12568) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 2) (SLPS-02191) : $COMPATIBILITY_0x04
+* Dragon Valor (Disc 2) (SLUS-01164) : $COMPATIBILITY_0x04
+* Enigma (Disc 1) (SLPS-01351) : $COMPATIBILITY_0x04
+* Enigma (Disc 2) (SLPS-01352) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 1) (SLES-02965) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 1) (SLES-02966) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 1) (SLES-02967) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 1) (SLES-02968) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 1) (SLES-02969) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 1) (SLPS-02000) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 1) (SLUS-01251) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 2) (SLES-12965) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 2) (SLES-12966) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 2) (SLES-12967) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 2) (SLES-12968) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 2) (SLES-12969) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 2) (SLPS-02001) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 2) (SLUS-01295) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 3) (SLES-22965) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 3) (SLES-22966) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 3) (SLES-22967) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 3) (SLES-22968) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 3) (SLES-22969) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 3) (SLPS-02002) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 3) (SLUS-01296) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 4) (SLES-32965) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 4) (SLES-32966) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 4) (SLES-32967) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 4) (SLES-32968) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 4) (SLES-32969) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 4) (SLPS-02003) : $COMPATIBILITY_0x04
+* Final Fantasy IX (Disc 4) (SLUS-01297) : $COMPATIBILITY_0x04
+* Frogger (SLES-00704) : $COMPATIBILITY_0x04
+* Frogger (SLUS-00506) : $COMPATIBILITY_0x04
+* Future Racer (SLES-03508) : $COMPATIBILITY_0x04
+* Gex 3D: Enter The Gecko (SLES-00596) : $COMPATIBILITY_0x04
+* Gran Turismo (PAPX-90026) : $COMPATIBILITY_0x04
+* Gran Turismo (SCES-00984) : $COMPATIBILITY_0x04
+* Gran Turismo (SCPS-10045) : $COMPATIBILITY_0x04
+* Gran Turismo 2 (Arcade Mode) v1.0 (SCUS-94455) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Gran Turismo 2 (Arcade Mode) v1.1 (SCUS-94455) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Gran Turismo 2 (Disc 1) (Arcade Mode) (SCES-02380) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Gran Turismo 2 (Disc 1) (Arcade) (SCPS-10116) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Gran Turismo 2 (Disc 2) (GT Mode) (SCES-12380) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Gran Turismo 2 (Disc 2) (Gran Turismo) v1.0 (SCPS-10117) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Gran Turismo 2 (Disc 2) (Gran Turismo) v1.1 (SCPS-10117) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Gran Turismo 2 (Simulation Mode) v1.0 (SCUS-94488) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Gran Turismo 2 (Simulation Mode) v1.1 (SCUS-94488) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Gran Turismo 2 (Simulation Mode) v1.2 (SCUS-94488) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Gran Turismo v1.0 (SCUS-94194) : $COMPATIBILITY_0x04
+* Gran Turismo v1.1 (SCUS-94194) : $COMPATIBILITY_0x04
+* Grandia (Disc 1) (SCUS-94457) : $COMPATIBILITY_0x04
+* Grandia (Disc 1) (SLES-02397) : $COMPATIBILITY_0x04
+* Grandia (Disc 1) (SLES-02398) : $COMPATIBILITY_0x04
+* Grandia (Disc 1) (SLES-02399) : $COMPATIBILITY_0x04
+* Grandia (Disc 1) (SLPS-02124) : $COMPATIBILITY_0x04
+* Grandia (Disc 2) (SCUS-94465) : $COMPATIBILITY_0x04
+* Grandia (Disc 2) (SLES-12397) : $COMPATIBILITY_0x04
+* Grandia (Disc 2) (SLES-12398) : $COMPATIBILITY_0x04
+* Grandia (Disc 2) (SLES-12399) : $COMPATIBILITY_0x04
+* Grandia (Disc 2) (SLPS-02125) : $COMPATIBILITY_0x04
+* Grandia: Prologue (Taikenban) (SLPM-80297) : $COMPATIBILITY_0x04
+* Jumping Flash! (SCUS-94103) : $COMPATIBILITY_0x01 $COMPATIBILITY_0x04
+* Jumping Flash! 2 (SCUS-94108) : $COMPATIBILITY_0x04
+* LMA Manager 2001 (SLES-02975) : $COMPATIBILITY_0x04
+* LMA Manager 2002 (SLES-03603) : $COMPATIBILITY_0x04
+* Legaia Densetsu (SCPS-10059) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Legend Of Legaia (SCES-01752) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Legend Of Legaia (SCES-01944) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Legend Of Legaia (SCES-01945) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Legend Of Legaia (SCES-01946) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Legend Of Legaia (SCES-01947) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Legend Of Legaia (SCUS-94254) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Legend Of Legaia (SCUS-94366) : $COMPATIBILITY_0x02 $COMPATIBILITY_0x04
+* Lifeforce Tenka (SLES-00613) : $NOVMC1
+* Lifeforce Tenka (SLES-00614) : $NOVMC1
+* Lifeforce Tenka (SLES-00615) : $NOVMC1
+* Manager De Liga 2001 (SLES-02979) : $COMPATIBILITY_0x04
+* Manager De Liga 2002 (SLES-03607) : $COMPATIBILITY_0x04
+* Marvel Super Heroes Vs. Street Fighter (SLES-01792) : $COMPATIBILITY_0x01
+* Marvel Super Heroes Vs. Street Fighter (SLUS-00793) : $COMPATIBILITY_0x01
+* Marvel Super Heroes Vs. Street Fighter: EX Edition (SLPS-01915) : $COMPATIBILITY_0x01
+* Marvel Super Heroes Vs. Street Fighter: EX Edition (Taikenban) (SLPM-80376) : $COMPATIBILITY_0x01
+* Marvel Vs. Capcom: Clash Of Super Heroes (SLES-02305) : $COMPATIBILITY_0x01
+* Marvel Vs. Capcom: Clash Of Super Heroes (SLUS-01059) : $COMPATIBILITY_0x01
+* Marvel Vs. Capcom: Clash Of Super Heroes: EX Edition (SLPS-02368) : $COMPATIBILITY_0x01
+* MediEvil (SCES-00311) : $COMPATIBILITY_0x01
+* MediEvil (SCES-01492) : $COMPATIBILITY_0x01
+* MediEvil (SCES-01493) : $COMPATIBILITY_0x01
+* MediEvil (SCES-01494) : $COMPATIBILITY_0x01
+* MediEvil (SCES-01495) : $COMPATIBILITY_0x01
+* MediEvil (SCUS-94227) : $COMPATIBILITY_0x01
+* Mega Man Legends (SLES-01485) : $COMPATIBILITY_0x04
+* Mega Man Legends (SLUS-00603) : $COMPATIBILITY_0x04
+* Mizzurna Falls (SLPS-01783) : $COMPATIBILITY_0x04
+* Mobil 1 Rally Championship (SLES-02574) : $COMPATIBILITY_0x04
+* Mobil 1 Rally Championship (SLUS-01103) : $COMPATIBILITY_0x04
+* Muppet RaceMania (SLUS-01237) : $COMPATIBILITY_0x04
+* Myst (SCUS-94602) : $COMPATIBILITY_0x04
+* Myst (SLES-00218) : $COMPATIBILITY_0x04
+* Myst v1.0 (SLPS-00024) : $COMPATIBILITY_0x04
+* Myst v1.1 (SLPS-91023) : $COMPATIBILITY_0x04
+* N-Gen Racing (SLES-02086) : $COMPATIBILITY_0x04
+* N-Gen Racing (SLUS-01155) : $COMPATIBILITY_0x04
+* Need For Speed: V-Rally (SLUS-00590) : $CODECACHE_ADDON_0
+* Nightmare Creatures II (SLES-02751) : $COMPATIBILITY_0x04
+* Nightmare Creatures II (SLUS-01112) : $COMPATIBILITY_0x04
+* PaRappa The Rapper (SCES-00743) : $COMPATIBILITY_0x04
+* PaRappa The Rapper (SCUS-94183) : $COMPATIBILITY_0x04
+* Pac-Man World (SLUS-00439) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 1) (SLES-02558) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 1) (SLES-02559) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 1) (SLES-02560) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 1) (SLES-02561) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 1) (SLES-02562) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 1) (SLPS-02480) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 1) (SLUS-01042) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 2) (SLES-12558) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 2) (SLES-12559) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 2) (SLES-12560) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 2) (SLES-12561) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 2) (SLES-12562) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 2) (SLPS-02481) : $COMPATIBILITY_0x04
+* Parasite Eve II (Disc 2) (SLUS-01055) : $COMPATIBILITY_0x04
+* Pop'n Music (SLPM-87089) : $COMPATIBILITY_0x01
+* Porsche Challenge (SCES-00409) : $COMPATIBILITY_0x02
+* Porsche Challenge (SCUS-94187) : $COMPATIBILITY_0x02
+* Porsche Challenge (SIPS-60016) : $COMPATIBILITY_0x02
+* Rapid Racer (SCES-00394) : $COMPATIBILITY_0x04
+* Ray Crisis (SLES-02882) : $COMPATIBILITY_0x04
+* Raycrisis (SLPM-86450) : $COMPATIBILITY_0x04
+* Raycrisis: Series Termination (SLUS-01217) : $COMPATIBILITY_0x04
+* Resident Evil (SLES-00200) : $COMPATIBILITY_0x05
+* Resident Evil (SLES-00227) : $COMPATIBILITY_0x05
+* Resident Evil (SLES-00228) : $COMPATIBILITY_0x05
+* Resident Evil (SLUS-00170) : $COMPATIBILITY_0x05
+* Resident Evil: Director's Cut (SLES-00969) : $COMPATIBILITY_0x05
+* Resident Evil: Director's Cut (SLES-00970) : $COMPATIBILITY_0x05
+* Resident Evil: Director's Cut (SLUS-00551) : $COMPATIBILITY_0x05
+* Resident Evil: Director's Cut: Dual Shock Ver. (SLUS-00747) : $COMPATIBILITY_0x05
+* Rockman Dash: Hagane No Boukenshin (SLPS-01141) : $COMPATIBILITY_0x04
+* Silent Hill (SLED-01735) : $COMPATIBILITY_0x04
+* Silent Hill (SLES-01514) : $COMPATIBILITY_0x04
+* Silent Hill (SLUS-00707) : $COMPATIBILITY_0x04
+* Silent Hill v1.0 (SLPM-86192) : $COMPATIBILITY_0x04
+* Silent Hill v1.1 (SLPM-86192) : $COMPATIBILITY_0x04
+* Sled Storm (SLES-02194) : $COMPATIBILITY_0x04
+* Spider-Man (SLES-02886) : $SUBCDSTATUS
+* Spider-Man (SLES-02887) : $SUBCDSTATUS
+* Spider-Man (SLES-02888) : $SUBCDSTATUS
+* Spider-Man (SLES-02889) : $SUBCDSTATUS
+* Spider-Man (SLES-02890) : $SUBCDSTATUS
+* Spider-Man (SLUS-00875) : $SUBCDSTATUS
+* Spyro 2: Gateway To Glimmer (SCES-02104) : $COMPATIBILITY_0x01
+* Spyro: Year Of The Dragon v1.0 (SCUS-94467) : $COMPATIBILITY_0x01
+* Spyro: Year Of The Dragon v1.1 (SCUS-94467) : $COMPATIBILITY_0x01
+* Star Gladiator: Episode 1: Final Crusade (SLES-00495) : $COMPATIBILITY_0x04
+* Star Gladiator: Episode 1: Final Crusade (SLPS-00539) : $COMPATIBILITY_0x04
+* Star Gladiator: Episode 1: Final Crusade (SLUS-00372) : $COMPATIBILITY_0x04
+* Street Fighter Collection 2 (SLES-01721) : $COMPATIBILITY_0x01
+* Street Fighter Collection 2 (SLUS-00746) : $COMPATIBILITY_0x01
+* Street Fighter EX Plus Alpha (SLES-00939) : $COMPATIBILITY_0x04
+* Street Fighter EX Plus Alpha (SLPM-86041) : $COMPATIBILITY_0x04
+* Street Fighter EX Plus Alpha (SLUS-00548) : $COMPATIBILITY_0x04
+* Strikers 1945 (SLPS-00407) : $COMPATIBILITY_0x04
+* Super Puzzle Fighter II Turbo (SLES-00605) : $COMPATIBILITY_0x01
+* Super Puzzle Fighter II Turbo (SLUS-00418) : $COMPATIBILITY_0x01
+* Syphon Filter (SCES-01910) : $COMPATIBILITY_0x04
+* Syphon Filter (SCES-01911) : $COMPATIBILITY_0x04
+* Syphon Filter (SCES-01913) : $COMPATIBILITY_0x04
+* Syphon Filter (SCES-01914) : $COMPATIBILITY_0x04
+* Syphon Filter (SLPS-02216) : $COMPATIBILITY_0x04
+* Syphon Filter v1.0 (SCUS-94240) : $COMPATIBILITY_0x04
+* Syphon Filter v1.1 (SCUS-94240) : $COMPATIBILITY_0x04
+* Team Buddies (SCES-01923) : $COMPATIBILITY_0x04
+* Team Buddies (SCES-02986) : $COMPATIBILITY_0x04
+* Team Buddies (SLUS-00869) : $COMPATIBILITY_0x04
+* Tekken 3 (SCES-01237) : $COMPATIBILITY_0x01
+* Tekken 3 (SLUS-00402) : $COMPATIBILITY_0x01
+* Tekken 3 v1.0 (SLPS-01300 / SLPS-91202) : $COMPATIBILITY_0x01
+* Test Drive 4 (SLES-00948) : $COMPATIBILITY_0x04
+* Test Drive 4 (SLUS-00487) : $COMPATIBILITY_0x04
+* Test Drive 4x4 (SLES-01179) : $COMPATIBILITY_0x04
+* Tobal No.1 (SCUS-94208) : $COMPATIBILITY_0x04
+* Tobal No.1 (SLES-00497) : $COMPATIBILITY_0x04
+* Tobal No.1 (SLPM-87405 / SLPS-00400) : $COMPATIBILITY_0x04
+* Tom And Jerry In House Trap (SLES-03181) : $NOPAL
+* Turbo Prop Racing (SCUS-94229) : $COMPATIBILITY_0x01
+* V-Rally: 97 Championship Edition v1.0 (SLES-00250) : $CODECACHE_ADDON_0
+* V-Rally: 97 Championship Edition v1.1 (SLES-00250) : $CODECACHE_ADDON_0
+* V-Rally: 97 Championship Edition v1.2 (SLES-00250) : $CODECACHE_ADDON_0
+* V-Rally: Championship Edition (SLPS-01149 / SLPS-91099) : $CODECACHE_ADDON_0
+* Vigilante 8: 2nd Battle (SLPS-02615) : $COMPATIBILITY_0x04
+* Vigilante 8: 2nd Offense (SLES-02162) : $COMPATIBILITY_0x04
+* Vigilante 8: 2nd Offense (SLUS-00868) : $COMPATIBILITY_0x04
+* WWF SmackDown! 2: Know Your Role (SLUS-01234) : $COMPATIBILITY_0x04
+* Wild 9 (SLES-01333) : $COMPATIBILITY_0x04
+* Wild 9 (SLUS-00425) : $COMPATIBILITY_0x04
+* Wildroid 9 (SCPS-10080) : $COMPATIBILITY_0x04
+* Wip3out (SCES-01909) : $COMPATIBILITY_0x04
+* WipEout 2097 (SLES-00327) : $COMPATIBILITY_0x04
+* WipEout 3 (SCPS-10098) : $COMPATIBILITY_0x04
+* WipEout 3 (SLUS-00865) : $COMPATIBILITY_0x04
+* WipEout 3: Special Edition (SCES-02845) : $COMPATIBILITY_0x04
+* Wipeout XL (SCUS-94351) : $COMPATIBILITY_0x04
+* Wipeout XL (SIPS-60010) : $COMPATIBILITY_0x04
+* X-Men: Children Of The Atom (SLES-00198) : $COMPATIBILITY_0x04
+* X-Men: Children Of The Atom (SLUS-00044) : $COMPATIBILITY_0x04
+* Zero Divide (SLES-00159) : $COMPATIBILITY_0x04 $SUBCDSTATUS
+* Zero Divide (SLPS-00083) : $COMPATIBILITY_0x04 $SUBCDSTATUS
+* Zero Divide (SLUS-00183) : $COMPATIBILITY_0x04 $SUBCDSTATUS
+
+
+______________________________________________________________________________________________________________
+
 
 h3. _LibCrypt fixes :_ 
 
