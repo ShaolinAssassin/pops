@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 h3. _Compatibility modes :_ 
 
-POPStarter Revision 13 RIP 06 auto-activates compatibility modes for the following games :
+POPStarter Revision 13 RIP 06 auto-activates "compatibility modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility for the following games :
 
 * 40 Winks (SLUS-00874) : $COMPATIBILITY_0x04
 * ASCII Entertainment Demo CD (SLUS-90010) : $COMPATIBILITY_0x04
