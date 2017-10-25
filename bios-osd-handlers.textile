@@ -14,9 +14,13 @@ h2. _OSD handler :_
 
 POPStarter has an OSD replacement image handler. The OSD replacement image have to be named as OSD.BIN and placed into the VMC game folder of your game (or in POPS folder). When an OSD replacement image is found in your VMC game folder (or in POPS folder), it will be injected in the built-in BIOS.
 
-*Notes : 
-. When using a OSD replacement file, "BIOS.BIN" is ignored. 
+*Notes :*
+* When using a OSD replacement image, "BIOS.BIN" is ignored ;
+* 2 OSD replacement examples were released by krHACKen : Import Player CD v1.4 and CodeBreaker Release 2.00 Build 2E. They are both copyrighted so I will not share them here ; 
+* To create your own OSD files, you need a tool named OSD.BIN Maker ;
+* More infos about the OSD replacement image @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-4#post-667305.
 
+*Description of the header structure of an OSD replacement image :* 
 
 pre. 
 ===================================================
@@ -44,9 +48,6 @@ LIMITATIONS AND RESTRICTIONS [Version 1]
 + The image version (offset Ch) and the OSD build (offset Eh) cannot be NULL
 + NULL/RESERVED/UNDEFINED fields have to be NULL
 + The size of the OSD replacement file (OSD.BIN) has to be the header length PLUS the OSD size
-
-More infos about it @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-4#post-667305
-
 
 ______________________________________________________________________________________________________________
 
