@@ -18,7 +18,7 @@ name, ie drag'n'drop) is checked before the creation of the VCD.
 If for some oddball reason the output file extension is not .VCD, CUE2POPS will display an error and not
 create the file.
 
-* *2016/07/23 - v2.2*
+* *"2016/07/23 - v2.2":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-84#post-895401*
 
 pre. 
 Not documented.
