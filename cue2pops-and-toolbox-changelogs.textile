@@ -25,7 +25,8 @@ Not documented.
 
 * *"2013/12/27- v2.1b1":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-23#post-719131*
 
-
+pre. 
+Not documented.
 
 * *"2013/05/16 - v2.0":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-10#post-674126*
 
@@ -68,7 +69,7 @@ h2. _Toolbox :_
 
 *Note :* this tool is discontinued. 
 
-* *2014/10/19 - v1.0*
+* *"2014/10/19 - v1.0":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-43#post-781168*
 
 pre. 
 Initial release
