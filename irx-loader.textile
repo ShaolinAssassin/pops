@@ -4,8 +4,7 @@ h1. *IRX Loader*
 ______________________________________________________________________________________________________________
 
 
-POPStarter has an IRX loader that lets you use your own external drivers (as IRX files). These IRX files must be named MODULE_#.IRX (from MODULE_0.IRX up to MODULE_9.IRX) and must be placed into your POPS folder. They will not be loaded from the VMC game folder. 
-
+POPStarter allows the user to load up to 10 modules (as IRX files) after the IOP was reset with the POPS IOPRP. Modules have to be named MODULE_0.IRX, MODULE_1.IRX... up to MODULE_9.IRX and put in the POPS folder. They will not be loaded from the VMC game folder. 
 
 pre. 
 POPS/MODULE_0.IRX
