@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 h2. _CUE2POPS (standalone versions) :_ 
 
-* *2016/11/03 - v2.3*
+* *"2016/11/03 - v2.3":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-97#post-917595*
 
 pre. 
 - Bugfix for the input file being overwritten (the issue which was reported by MonkeyBoyJoey);
