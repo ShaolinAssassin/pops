@@ -31,11 +31,11 @@ ________________________________________________________________________________
 
 h2. _Installation :_
 
-* *a) Installing the Emulator :*
+*a) Installing the Emulator :*
 
-1. Find and download the decrypted emulator files;
-2. Create a directory named "POPS" in the "__common" partition of your PS2 HDD;
-3. Paste POPS.ELF and IOPRP252.IMG into the "POPS" directory you've just created.
+# Find and download the decrypted emulator files;
+# Create a directory named "POPS" in the "__common" partition of your PS2 HDD;
+# Paste POPS.ELF and IOPRP252.IMG into the "POPS" directory you've just created.
 
 * *b) Installing your PS1 Games :*
 
