@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 *Sources :* 
 
-* [PS2] POPS stuff & POPStarter @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/
+* [PS2] POPS stuff & POPStarter @ "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/
 * Testing out POPS-00001 on PS2 (Need help on PATINFO.KELF) @"ASSEMblergames":https://assemblergames.com/threads/testing-out-pops-00001-on-ps2-need-help-on-patinfo-kelf.44087/
 * PSX play on PS2 USB @"ASSEMblergames":https://assemblergames.com/threads/psx-play-on-ps2-usb.50756/
 
