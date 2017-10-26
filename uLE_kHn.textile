@@ -42,7 +42,7 @@ pre.
 - The stub of the packed ELF is a clone of the POPStarter r13 payload.
 Side note : compiled the same day as POPStarter r13 WIP 06 open beta 6
 
-* *uLE_kHn_20150602*
+* *"uLE_kHn_20150602":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-61#post-813385*
 
 pre. 
 - Fixed : Red screen of death in the PSX after selecting MISC/PS2Browser
