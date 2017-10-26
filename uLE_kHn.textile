@@ -48,7 +48,7 @@ pre.
 - Fixed : Red screen of death in the PSX after selecting MISC/PS2Browser
 - MISC/PS2Browser does not skip the HDD and the MC when uLE has not been run from the MBR
 
-* *uLE_kHn_20150506*
+* *"uLE_kHn_20150506":https://www.metagames-eu.com/forums/1770217-post163.html*
 
 pre. 
 - Fixed : Cannot launch ELFs/VCDs on slims and fats that don't have a HDD
