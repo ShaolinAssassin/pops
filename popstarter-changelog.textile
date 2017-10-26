@@ -136,18 +136,18 @@ http://aybabtu.chez.com/kHn/SOFTWARES/RateWithControllers/TEKKEN3_PAL.ZIP
 
 pre. 
 - Added a fix for Crash Bash.
-  Cutscenes are still messed up. Characters animations are a bit choppy. US version suffers of major slowdowns.
-  Best results with the PAL version.
-  Special thanks to El Patas for the feedback and to Bluesfire for recording a video of the US version in action.
+Cutscenes are still messed up. Characters animations are a bit choppy. US version suffers of major slowdowns.
+Best results with the PAL version.
+Special thanks to El Patas for the feedback and to Bluesfire for recording a video of the US version in action.
 
 
 * *"Rev 13 Prototype 3 - 2017/05/30":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-30-134569.html#post1775741*
 
 pre. 
-- IRX Loader : reverted the padman_hsync related changes (proto 2)
+- IRX Loader : reverted the padman_hsync related changes (proto 2).
 - New CHEATS.TXT commands : $LOAD_PADMAN and $KILL_PADMAN
-  $LOAD_PADMAN is to load padman_hsync right after sio2man
-  $KILL_PADMAN is to neutalise padman_hsync, may be useful if you want to load your own padman module using the IRX loader
+$LOAD_PADMAN is to load padman_hsync right after sio2man
+$KILL_PADMAN is to neutalise padman_hsync, may be useful if you want to load your own padman module using the IRX loader.
 - Added test-hacks (test mode, value 04h at ELF/KELF offset 42Fh) for the following games :
 --- Dave Mirra Freestyle BMX (SLUS-01026)
 --- Dave Mirra Freestyle BMX (SLES-02740)
@@ -158,15 +158,15 @@ pre.
 
 pre. 
 - PS2SDK update.
-  [NB : later on, we've found that this PS2SDK update has degraded the USB mode perfs]
+[NB : later on, we've found that this PS2SDK update has degraded the USB mode perfs]
 - IRX Loader : loads padman_hsync before ds3ps2/ds3usb/ds3bt.
 - IRX Loader : in SMB mode, mc#:/POPSTARTER/smsutils.irx is loaded between MODULE_4.IRX and MODULE_5.IRX.
 - The CDVD drive is checked if the VCD wasn't found, to launch a valid PS1 CDROM.
-  There's no CDDA support for physical PS1 discs. It saves VMCs to the device according to the ELF prefix.
+There's no CDDA support for physical PS1 discs. It saves VMCs to the device according to the ELF prefix.
 - Cheat Engine : New code type $T to peek/poke the PS1 scatch pad memory, based off the $S code (PS2 scratch pad memory code) syntax.
 - Configuration Table : new "test mode" assigned to value 04h at ELF/KELF offset 42Fh.
-  "Test mode" disables per-game fixes, automated compatibility modes, LibCrypt fixes, and enables integrated test-hacks.
-   Test-hacks integrated to this build are for the following games :
+"Test mode" disables per-game fixes, automated compatibility modes, LibCrypt fixes, and enables integrated test-hacks.
+Test-hacks integrated to this build are for the following games :
 --- Ridge Racer Revolution (SCES-00242)
 --- Ridge Racer Revolution (SLUS-00214)
 --- Ridge Racer Revolution v1.0 (SLPS-00150)
@@ -185,7 +185,7 @@ pre.
 --- World Championship Snooker (SLES-02196)
 --- Spyro: Year Of The Dragon v1.1 (SCES-02835)
 --- Spyro 2: Gateway To Glimmer (SCES-02104)
-   Spyro games are still incompatible.
+Spyro games are still incompatible.
 - Automated compatibility mode 0x05 for Action Man: Destruction X (SLES-03083).
 
 
