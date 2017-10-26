@@ -16,11 +16,11 @@ It saves VMCs to the device according to the ELF prefix.
 
 *Example :*
 
-1. Rename POPSTARTER.ELF as "Metal Gear Solid.ELF" (Metal Gear Solid.VCD shall not exist in your setup) ;
-2. If you want to make your saves on USB device, add the XX. prefix to the ELF launcher ("XX.Metal Gear Solid.ELF"), if you want to make your saves on SMB, add the SB. prefix to the ELF launcher ("SB.Metal Gear Solid.ELF") ;
-3. Insert your MGS disc in the CDVD drive ; 
-4. Launch ##.Metal Gear Solid.ELF ;
-5. MGS disc should start. When you make a save, it will be stored into POPS/Metal Gear Solid/SLOT#.VMC. You can store external files such as CHEATS.TXT etc... in POPS/Metal Gear Solid folder and they will be loaded from there. 
+# Rename POPSTARTER.ELF as "Metal Gear Solid.ELF" (Metal Gear Solid.VCD shall not exist in your setup) ;
+# If you want to make your saves on USB device, add the XX. prefix to the ELF launcher ("XX.Metal Gear Solid.ELF"), if you want to make your saves on SMB, add the SB. prefix to the ELF launcher ("SB.Metal Gear Solid.ELF") ;
+# Insert your MGS disc in the CDVD drive ; 
+# Launch ##.Metal Gear Solid.ELF ;
+# MGS disc should start. When you make a save, it will be stored into POPS/Metal Gear Solid/SLOT#.VMC. You can store external files such as CHEATS.TXT etc... in POPS/Metal Gear Solid folder and they will be loaded from there. 
 
 *Backups and imports discs :* 
 
