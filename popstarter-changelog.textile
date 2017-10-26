@@ -348,7 +348,8 @@ pre.
 
 pre. 
 - Bugfixed : The loading of IGR_NO.TM2 was skipped in internal HDD mode.
-(reported by ElPatas here : http://www.metagames-eu.com/forums/news-ps2/popstarter-revision-13-sorties-et-developpements-20-134569.html#post1771422 )
+(reported by ElPatas here : 
+http://www.metagames-eu.com/forums/news-ps2/popstarter-revision-13-sorties-et-developpements-20-134569.html#post1771422 )
 - Now you can load the USB and network modules from the MC that is in the second slot too.
 (When a file can't be found in mc0:/POPSTARTER/, POPStarter tries to load it from mc1:/POPSTARTER/...)
 
