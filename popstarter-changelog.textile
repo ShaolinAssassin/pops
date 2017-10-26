@@ -164,9 +164,11 @@ pre.
 - IRX Loader : in SMB mode, mc#:/POPSTARTER/smsutils.irx is loaded between MODULE_4.IRX and MODULE_5.IRX.
 - The CDVD drive is checked if the VCD wasn't found, to launch a valid PS1 CDROM.
 There's no CDDA support for physical PS1 discs. It saves VMCs to the device according to the ELF prefix.
-- Cheat Engine : New code type $T to peek/poke the PS1 scatch pad memory, based off the $S code (PS2 scratch pad memory code) syntax.
+- Cheat Engine : New code type $T to peek/poke the PS1 scatch pad memory, based off the $S code (PS2 scratch pad 
+memory code) syntax.
 - Configuration Table : new "test mode" assigned to value 04h at ELF/KELF offset 42Fh.
-"Test mode" disables per-game fixes, automated compatibility modes, LibCrypt fixes, and enables integrated test-hacks.
+"Test mode" disables per-game fixes, automated compatibility modes, LibCrypt fixes, and enables integrated 
+test-hacks.
 Test-hacks integrated to this build are for the following games :
 --- Ridge Racer Revolution (SCES-00242)
 --- Ridge Racer Revolution (SLUS-00214)
