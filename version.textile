@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 A tip to know which version of POPStarter you are using...
 
-Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue) on pic below : it's the *Build date*. In red, starting at offset $5E is the *Build ID*. With these two informations, you can determine what version you are currently using (see table below).
+Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue) on pic below : it's the *build date*. In red, starting at offset $5E is the *build ID*. With these two informations, you can determine what version you are currently using (see table below).
 
 *Notes :* 
 
@@ -51,7 +51,7 @@ Example (pic below) : this is *Rev 13 WIP 2*.
 
 !https://bitbucket.org/repo/Mpy7Eg/images/1963149811-ELF_ID.JPG(title)!
 
-For the .KELF version : 
+For the .KELF version, the build date starts at offset $29 and the build ID at offset $2E.
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3131716167-KELF_ID.JPG(title)!
 
