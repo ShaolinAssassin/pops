@@ -560,8 +560,8 @@ pre.
 - Added a new PS BIOS region-freeing method.
 - Added ToolBox 1.0 + the CUE2POPS function batch, POPS2CUE 1.0, uLE_kHn_20150506, IGR behaviour modifiers, No 
 2nd pad in IGR (2014/09/02) and Game Fixes (2014/11/29) to the release bundle.
-NOTES : No new game fixes / compatibility modes were added in this build. Only the known internal bugs were fixed, and I decided to 
-release it now because I've also resolved the PStwo / PS2 w/o HDD issue in uLE...
+NOTES : No new game fixes / compatibility modes were added in this build. Only the known internal bugs were 
+fixed, and I decided to release it now because I've also resolved the PStwo / PS2 w/o HDD issue in uLE...
 
 
 * *"Rev 13 WIP 02 - 2014/08/22":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-35#post-770548*
