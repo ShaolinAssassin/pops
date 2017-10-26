@@ -123,13 +123,7 @@ MBR CALLBACK aka IGR
 Your pad does not respond after pressing L1+START+SELECT ? Just disconnect the second pad or use the second pad to validate your choice o_O.
 kHn, 2013/04/09
 
-
-
-
-
-
 ______________________________________________________________________________________________________________
-
 
 h2. _PORTABLE Bundle_
 
