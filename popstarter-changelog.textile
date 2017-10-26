@@ -208,56 +208,64 @@ pre.
 
 pre. 
 THIS BUILD HAS NOT BEEN TESTED.
-- The SetGsCrt hack (which was inplemented in beta 15) is now disabled by default, due to the incompatibility with some CRT TVs.
-  To enable it, add $HDTVFIX to your CHEATS.TXT, or patch the offset 412h of the ELF/KELF (0x00 == disabled, 0x01 == enabled).
+- The SetGsCrt hack (which was inplemented in beta 15) is now disabled by default, due to the incompatibility 
+with some CRT TVs.
+To enable it, add $HDTVFIX to your CHEATS.TXT, or patch the offset 412h of the ELF/KELF (0x00 == disabled, 
+0x01 == enabled).
 - Supposedly bugfixed : $YPOS_## was not working (had no effect at all).
-- Supposedly bugfixed : The safety code of the disc change mechanism (which fills the empty slots with the filename of the 1st disc)
-  was not working.
-- Changes to the Parasite Eve II game fixes... I can't remember what was modified. Probably something related to * some of * the 
-  game crashes.
+- Supposedly bugfixed : The safety code of the disc change mechanism (which fills the empty slots with the 
+filename of the 1st disc)
+was not working.
+- Changes to the Parasite Eve II game fixes... I can't remember what was modified. Probably something related to 
+* some of * the game crashes.
 - Integration of the "D-PAD to Left-Stick Remapping" as CHEATS.TXT commands $D2LS and $D2LS_ALT
-  If my memory serves me right, $D2LS is the full code, and $D2LS_ALT is the code minus the "Stay on Digital Mode" part.
+If my memory serves me right, $D2LS is the full code, and $D2LS_ALT is the code minus the "Stay on Digital Mode" 
+part.
 - Integration of the "IGR Behaviour Modifiers" as CHEATS.TXT commands :
-  $IGR0 [Hold L1+L2+R1+R2+X+Down to open the IGR menu]
-  $IGR1 [Hold Start+Select to open the IGR menu]
-  $IGR2 [Hold L1+L2+R1+R2+Start+Select to open the IGR menu]
-  $IGR3 [Hold L1+L2+R1+R2+X+Down to terminate POPS (no IGR menu)]
-  $IGR4 [Hold Start+Select to terminate POPS (no IGR menu)]
-  $IGR5 [Hold L1+L2+R1+R2+Start+Select to terminate POPS (no IGR menu)]
-  $NOIGR [Disables the IGR menu]
-- Added hotkeys to an untested PS1 software reset system, Select+L2+R2+X
+$IGR0 [Hold L1+L2+R1+R2+X+Down to open the IGR menu]
+$IGR1 [Hold Start+Select to open the IGR menu]
+$IGR2 [Hold L1+L2+R1+R2+Start+Select to open the IGR menu]
+$IGR3 [Hold L1+L2+R1+R2+X+Down to terminate POPS (no IGR menu)]
+$IGR4 [Hold Start+Select to terminate POPS (no IGR menu)]
+$IGR5 [Hold L1+L2+R1+R2+Start+Select to terminate POPS (no IGR menu)]
+$NOIGR [Disables the IGR menu]
+- Added hotkeys to an untested PS1 software reset system, Select+L2+R2+X.
 
 
 * *"Rev 13 WIP 06 Beta 15 - 2016/09/19":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
 
 pre. 
 - The CD lid open/close emulation is now complete. It refreshes the TOC.
-  I'm still unsure about the correctness of the CDROM status and mode field values that are used though.
-  This feature pokes the CDROM registers according to the lid open/close state and issues a VCD init RPC call to the IOPCD driver. 
-  W00t.
+I'm still unsure about the correctness of the CDROM status and mode field values that are used though.
+This feature pokes the CDROM registers according to the lid open/close state and issues a VCD init RPC call to 
+the IOPCD driver. W00t.
 - Disc change support, alongside the CD lid open/close emulation mentioned above.
-  This feature uses a DISCS.TXT file handler and parser, and separate VCDs.
-- Static SetGsCrt interlace parameter, to help with the HDTVs that can't deal with the interlaced resolutions thru component.
-  At least it does work with my crappy led TV. Without it, the said crappy TV keeps displaying plain green screens and other rubbish.
-- Added a GS DISPLAY1/DISPLAY2 value calculator to the unfinished ($ONY's) 480p mode of POPS. 480p output can be enabled with the 
-  command $480p in CHEATS.TXT.
-  I haven't found a way to stretch the display area width (damn these black boarders). Some games (like Dead Or Alive) output an odd
-  signal that make them UNPLAYABLE (monitor says "unsupported" hmm).
-- Added a couple of CHEATS.TXT commands ($XPOS_decimal and $YPOS_decimal) to adjust the X/Y position in NTSC and PAL modes.
-  Let's say the picture of your NTSC game is badly shifted on the right. Then write $XPOS_604 to your CHEATS.TXT file and check out
-  the result.
+This feature uses a DISCS.TXT file handler and parser, and separate VCDs.
+- Static SetGsCrt interlace parameter, to help with the HDTVs that can't deal with the interlaced resolutions 
+thru component.
+At least it does work with my crappy led TV. Without it, the said crappy TV keeps displaying plain green screens 
+and other rubbish.
+- Added a GS DISPLAY1/DISPLAY2 value calculator to the unfinished ($ONY's) 480p mode of POPS. 480p output can be 
+enabled with the command $480p in CHEATS.TXT.
+I haven't found a way to stretch the display area width (damn these black boarders). Some games (like Dead Or 
+Alive) output an odd signal that make them UNPLAYABLE (monitor says "unsupported" hmm).
+- Added a couple of CHEATS.TXT commands ($XPOS_decimal and $YPOS_decimal) to adjust the X/Y position in NTSC and 
+PAL modes.
+Let's say the picture of your NTSC game is badly shifted on the right. Then write $XPOS_604 to your CHEATS.TXT 
+file and check out the result.
 - Bugfixes to the MODULE_#.IRX loader, the usbd.irx/usbhdfsd.irx loader and the CHEATS.TXT parser.
-  Yelling the f-word three times.
+Yelling the f-word three times.
 - The MODULE_#.IRX loader scans the user's files and disables the modules with matching names from POPS.
-  Kills the embedded SIO2MAN/PADMAN/LIBSD/SDRDRV/DEV9/ATAD/HDD/PFS drivers on purpose, so only yours stay resident and active.
-- A multitap initialization function was added to the MODULE_#.IRX loader. It's invoked as soon as the user mtapman/freemtap driver 
-  is loaded.
-  HAXing into the cold of the fog. Since I don't own a multitap, I cannot give it a try. Although, I'd bet it's useless and doesn't 
-  make it work.
+Kills the embedded SIO2MAN/PADMAN/LIBSD/SDRDRV/DEV9/ATAD/HDD/PFS drivers on purpose, so only yours stay resident 
+and active.
+- A multitap initialization function was added to the MODULE_#.IRX loader. It's invoked as soon as the user 
+mtapman/freemtap driver is loaded.
+HAXing into the cold of the fog. Since I don't own a multitap, I cannot give it a try. Although, I'd bet it's 
+useless and doesn't make it work.
 - A game fix was added to make all the retail versions of Parasite Eve II run.
-  ... it's missing sounds. BGMs or SFX or both... Haven't played it in depth...
+... it's missing sounds. BGMs or SFX or both... Haven't played it in depth...
 - A game fix was added to make the PAL version of Spyro 2 run.
-  ... still crashes loading certain levels and the demo mode, like POPS is going crazy with the LibCrypt crapola.
+... still crashes loading certain levels and the demo mode, like POPS is going crazy with the LibCrypt crapola.
 
 
 * *"Rev 13 WIP 06 Beta 14 - 2016/07/23":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-84#post-895246*
@@ -272,21 +280,24 @@ pre.
 * *"Rev 13 WIP 06 Beta 13 - 2015/12/07":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-73#post-847749*
 
 pre. 
-- Added a PS2 Memory Card BOOT.ELF launcher to the in-game reset function of POPS and to the quit-on-failure code of POPStarter.
-  The launcher looks for mc0:/BOOT/BOOT.ELF and mc1:/BOOT/BOOT.ELF. If not found/invalid, exits to the PS2 browser (OSDSYS should 
-  execute FMCB/FHDB, if installed to a COMPATIBLE console).
-  POPS will still kick you out to the OSD if it cannot init (cannot load modules, cannot open the VCD...) the launcher will not be 
-  invoked.
+- Added a PS2 Memory Card BOOT.ELF launcher to the in-game reset function of POPS and to the quit-on-failure code 
+of POPStarter.
+The launcher looks for mc0:/BOOT/BOOT.ELF and mc1:/BOOT/BOOT.ELF. If not found/invalid, exits to the PS2 browser 
+(OSDSYS should execute FMCB/FHDB, if installed to a COMPATIBLE console).
+POPS will still kick you out to the OSD if it cannot init (cannot load modules, cannot open the VCD...) the 
+launcher will not be invoked.
 - The PAL patcher of POPStarter gets disabled when the XBRA and the GSM magics are found into the memory.
-  With that thing, I hope the users of GSModeSelector v0.23x beta will no longer have to use $NOPAL after they launch GSM...
+With that thing, I hope the users of GSModeSelector v0.23x beta will no longer have to use $NOPAL after they 
+launch GSM...
 - Added a small ExcepTrap v1 build, stripped out from the kTLBException catcher and the other boring stuff.
-  I bet its debug screen isn't displayed on HDTVs. Has no PAL selector, because switching to PAL causes a weird VBLANK messup.
+I bet its debug screen isn't displayed on HDTVs. Has no PAL selector, because switching to PAL causes a weird 
+VBLANK messup.
 - Removed stuff, in order to clean out the code and produce a smaller binary :
 --- ps2host launcher (IP.)
 --- napLink launcher (PL.)
 --- POPStarter function skipper (config table offset $412)
 --- Homebrew mcman (POPStarter loads rom0:MCMAN instead)
-  Saved about 10KB off the final ELF yay !
+Saved about 10KB off the final ELF yay !
 
 
 * *"Rev 13 WIP 06 Beta 12 - 2015/11/24":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-71#post-845446*
