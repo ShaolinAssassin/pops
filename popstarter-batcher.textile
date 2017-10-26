@@ -2,7 +2,7 @@ h1. [EXE] *POPStarter BATCHER v0.3.1*
 
 ______________________________________________________________________________________________________________
 
-*Note :* 11/26/2016 - compatibility fix for WinXP (thanks to El_Patas for the report).
+*Note :* 2016/11/26 - compatibility fix for WinXP (thanks to El_Patas for the report).
 
 !https://bitbucket.org/repo/Mpy7Eg/images/483632241-Capture.PNG(title)!
 
@@ -16,7 +16,9 @@ ________________________________________________________________________________
 4. Choose option :
 
 Options 1, 2 and 3 are useful when you want to *create all launchers for your games at once*. These will create HDD or USB or SMB launchers (no prefix .ELFs or XX. prefix .ELFs or SB. prefix .ELFs) and VMC game folders, matching the .VCD files. If the VMC game folder already exists, it's not overwritten.
+
 Option 4 is useful when a new POPSTARTER version is out. It will *update all game launchers at once* - same mode(s) as before the update.
+
 Option 5 exits the app.
 
 ______________________________________________________________________________________________________________
