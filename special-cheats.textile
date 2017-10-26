@@ -3,8 +3,6 @@ h1. *Special Cheats - Automated Codes*
 
 ______________________________________________________________________________________________________________
 
-
-
 Some useful commands have been automated. Here are them :
 
 
@@ -16,7 +14,7 @@ Some useful commands have been automated. Here are them :
 | $FAKELC | Loads a null LibCrypt magic word into the cop0 register. | May be needed by some discs that have a messed up LC protection. |
 | $SMOOTH | Enables the "smooth texture":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smooth mapping at startup. | Just for the records : value is $S0003390 00000001. |
 | $NOPAL | Disables POPStarters' PAL patcher. | Can be done using a PATCH_#.BIN file. See notes. |
-| $FORCEPAL | Forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL).  | Useful for PAL VCDs that don't have a valid license text in their bootsector. Can be done using a PATCH_#.BIN file. See notes. |
+| $FORCEPAL | Forces the activation of the PAL patcher (POPS will run it PAL) and patches the BIOS region code to Euro (shows the boot screen in PAL).  | Useful for PAL VCDs that don't have a valid license text in their bootsector. Can be done using a "PATCH_#.BIN file":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/FORCEPAL_PATCH.7z. |
 | $480p | Forces 480p. | Not compatible with $XPOS, $YPOS, $DWSTRETCH, $DWCROP & NOT reliable ATM. See notes "here":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-93#post-908556  |
 | $"WIDESCREEN":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/widescreen | Enables POPS GTE widescreen hack and forces 16:9. | Does not deal with stuff like HUDs, texts/fonts, menus, 2D backgrounds... This hack is not finished (no render fix...). |
 | $ULTRA_WIDESCREEN | Same as $WIDESCREEN, but wider FOV. | Does not match any aspect ratio standard. Does not deal with stuff like HUDs, texts/fonts, menus, 2D backgrounds... |
