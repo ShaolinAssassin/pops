@@ -147,7 +147,8 @@ pre.
 - IRX Loader : reverted the padman_hsync related changes (proto 2).
 - New CHEATS.TXT commands : $LOAD_PADMAN and $KILL_PADMAN
 $LOAD_PADMAN is to load padman_hsync right after sio2man
-$KILL_PADMAN is to neutalise padman_hsync, may be useful if you want to load your own padman module using the IRX loader.
+$KILL_PADMAN is to neutalise padman_hsync, may be useful if you want to load your own padman module using the IRX 
+loader.
 - Added test-hacks (test mode, value 04h at ELF/KELF offset 42Fh) for the following games :
 --- Dave Mirra Freestyle BMX (SLUS-01026)
 --- Dave Mirra Freestyle BMX (SLES-02740)
