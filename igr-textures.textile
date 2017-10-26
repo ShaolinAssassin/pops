@@ -5,20 +5,20 @@ ________________________________________________________________________________
 _Based on infos shared by arkl1t32_ @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-38#post-771111
 
 
-h2. _Software Requirements :_ 
+*Software requirements :*
 
 * A graphic editor, such as "Photoshop":https://media.giphy.com/media/z1RWCfBXTue3K/giphy.gif or "GIMP":http://www.gimp.org/ ; 
 * A TIM2 editor, such as OPTPiX iMageStudio;
 * A hex editor, such as "HxD":https://mh-nexus.de/en/hxd/. 
 
-Sample files : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_sample_kit.7z. 
+*Sample files :* "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_sample_kit.7z. 
 
 Included : 
-. PSD file with guidelines
-. 3 image files, as .bmp
-. 3 image files, as .TM2
-. static & animated previews
-. IGR replacement, compiled as PATCH1.BIN file.
+* PSD file with guidelines ;
+* 3 image files, as .bmp ;
+* 3 image files, as .TM2 ;
+* static & animated previews ;
+* IGR replacement, compiled as PATCH_1.BIN file.
 
 ______________________________________________________________________________________________________________
 
