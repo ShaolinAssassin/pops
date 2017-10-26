@@ -314,13 +314,7 @@ Input_file can be :
 . an ASCII cuesheet (CUE) which points to a Mode 2 Form 1 CD-ROM image
 . a POPS virtual CD-ROM image (VCD)
 
-______________________________________________________________________________________________________________
 
-h2. _"POPS2CUE":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version :_
-
-!https://bitbucket.org/repo/Mpy7Eg/images/3844714277-POPS2CUE.JPG(title)!
-
-It does what its name says : revert back the conversion from .VCD to .BIN+.CUE or (.CUE only) files. See the screenshot for commands.
 
 
 
