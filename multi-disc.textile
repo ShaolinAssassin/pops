@@ -18,7 +18,8 @@ DISCS.TXT line 4 = disc 4
 pre. 
 Metal Gear Solid (Disc 1).VCD
 Metal Gear Solid (Disc 2).VCD
-
+[Empty]
+[Empty]
 
 2. Copy/paste this DISCS.TXT file to the VMC folders of ALL your game discs ;
 3. When required by the game, open the lid using the hotkey ;
