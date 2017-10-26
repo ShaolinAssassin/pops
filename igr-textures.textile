@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 !https://bitbucket.org/repo/Mpy7Eg/images/1390009092-IGR_BG.png(title)!
 
-. IGR_YES & IGR_NO : 74 x 34 px
+- IGR_YES & IGR_NO : 74 x 34 px
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3308953039-IGR_YES.png(title)! 
 
@@ -37,7 +37,7 @@ Use the PSD file with guidelines if need to crop properly.
 
 !https://bitbucket.org/repo/Mpy7Eg/images/4238144417-preview-guidelines.png(title)!
 
-*2.* Open these 3 files with a TM2 editor & save them as .TM2 files.
+# Open these 3 files with a TM2 editor & save them as .TM2 files.
 
 *3.* Open IGR_YES.TM2 and IGR_NO.TM2 with a hex editor and delete the last 8 digits in last offset (1D80) : 
 
