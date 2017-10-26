@@ -9,8 +9,10 @@ PS1 CD mode is a native POPS feature. It lets you play your PS1 games (originals
 *Warning : playing game CDs is not recommended. Playing game CDs with swap trick is super-not-recommended. (see notes).*
 
 To use that mode, you must rename POPSTARTER.ELF file using the name you want, as long as there is no VCD (or partition) with such a name in your setup (you can use a generic name, such as (##.)PS1CD.ELF). 
-It saves VMCs to the device according to the ELF prefix. PS1CD.ELF will save into __common/POPS/PS1CD/SLOT#.VMC, XX.PS1CD.ELF will save into mass:/POPS/PS1CD/SLOT#.VMC and SB.PS1CD.ELF will save into smb:/POPS/PS1CD/SLOT#.VMC. 
-
+It saves VMCs to the device according to the ELF prefix. 
+* PS1CD.ELF will save into __common/POPS/PS1CD/SLOT#.VMC ; 
+* XX.PS1CD.ELF will save into mass:/POPS/PS1CD/SLOT#.VMC ;
+* SB.PS1CD.ELF will save into smb:/POPS/PS1CD/SLOT#.VMC.
 
 * *Example playing MGS original disc and make saves into the internal HDD :*
 
