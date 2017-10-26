@@ -10,30 +10,38 @@ h2. _IGR Behaviour Modifiers :_
 POPStarter has his own IGR ( !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! ). You can change the button combo using one PATCH/TROJAN of the "IGR behaviour modifiers archive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_Behaviour_Modifiers.zip - or just use a "special command":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/special-cheats for it in POPS/CHEATS.TXT or POPS/GAME/CHEATS.TXT.
 
 | *File name* | *Button combo* | *Action* |
-| TROJAN_0.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/310130791-Playstation-Button-X.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)! | Opens the IGR menu |
-| TROJAN_1.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Opens the IGR menu |
-| TROJAN_2.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Opens the IGR menu |
-| TROJAN_3.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/310130791-Playstation-Button-X.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)! | Terminates POPS (no IGR menu) |
-| TROJAN_4.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Terminates POPS (no IGR menu) |
-| TROJAN_5.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Terminates POPS (no IGR menu) |
-| PATCH_0.BIN | (none) | Disables the IGR menu |
+| TROJAN_0.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/310130791-Playstation-Button-X.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)! | Opens the IGR menu. |
+| TROJAN_1.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Opens the IGR menu. |
+| TROJAN_2.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Opens the IGR menu. |
+| TROJAN_3.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/310130791-Playstation-Button-X.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)! | Terminates POPS (no IGR menu). |
+| TROJAN_4.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Terminates POPS (no IGR menu). |
+| TROJAN_5.BIN | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! | Terminates POPS (no IGR menu). |
+| PATCH_0.BIN | (none) | Disables the IGR menu. |
 
 * *How to install :*
-Copy one of the PATCH/TROJAN files to the VMC directory of your game, or to the POPS directory.
-When copied to a VMC directory, it's used on the relative game only.
-When copied to the POPS directory, it's used on all the installed games.
+
+Copy one of the PATCH/TROJAN files to the VMC game folder or to the POPS folder.
+When copied to a VMC game folder, it's used on the relative game only.
+When copied to the POPS folder, it's used on all the installed games.
 
 * *What to do if you don't want to overwrite your existing TROJAN_#.BIN/PATCH_#.BIN file :* 
-1. Change the number in the name of the file you want to copy;
-2. Open the file you want to copy with a hexadecimal editor, change the number in its header according to the one of the new file name;
-3. And finally copy the edited file.
+
+# Change the number in the name of the file you want to copy ;
+# Open the file you want to copy with a hexadecimal editor, change the number in its header according to the one of the new file name ;
+# And finally copy the edited file.
 POPStarter will refuse to load the PATCH/TROJAN file if the number in its filename doesn't match the number in its header.
 
 ______________________________________________________________________________________________________________
 
 h2. _IGR Textures:_ 
 
-POPStarter has a built-in IGR loader texture making you able to change the japanese IGR screen with one of your language. Just drop the "IGR_BG.TM2", "IGR_NO.TM2" and "IGR_YES.TM2" files into your POPS folder (hdd0:/__common /POPS, or mass0:/POPS, or smb0:/YourSharedFolder/POPS).
+POPStarter has a built-in IGR loader texture making you able to change the japanese IGR screen with one of your language. Just drop the "IGR_BG.TM2", "IGR_NO.TM2" and "IGR_YES.TM2" files into your POPS folder.
+
+*Example :*
+
+__common/POPS/IGR_BG.TM2
+__common/POPS/IGR_NO.TM2
+__common/POPS/IGR_YES.TM2
 
 *Note :* .TM2 extension MUST be UPPERCASE for internal HDD - or it won't work. 
 
@@ -50,14 +58,12 @@ Some IGR textures made by the guys @"ASSEMbler":https://assemblergames.com/threa
 | !https://bitbucket.org/repo/Mpy7Eg/images/1470393228-lopoprev.png(title)! | LopoTRI| - | X | - | - | - | - | X |
 | *Download links for language packs* |  | *"Chinese":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_textures_-_Chinese_pack.7z* |*"English":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_textures_-_English_pack.7z* | *"French":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_textures_-_French_pack.7z* | *"Spanish":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_textures_-_Spanish_pack.7z* | *"Polish":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_textures_-_Polish_pack.7z* | *"Portuguese":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_textures_-_Portuguese_pack.7z* | *"German":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/IGR_textures_-_German_Pack.7z* |
 
-
 ______________________________________________________________________________________________________________
 
 h2. _"Exit to [name of app]" function :_ 
 
 POPStarter has a built-in launcher added to the in-game reset function. It looks for mc0:/BOOT/BOOT.ELF then mc1:/BOOT/BOOT.ELF. If not found/invalid, it exits to the PS2 browser. 
 If you want to exit game to some app (uLE_kHn for example), name it BOOT.ELF and place it in the BOOT folder of your memory card. 
-
 
 ______________________________________________________________________________________________________________
 
