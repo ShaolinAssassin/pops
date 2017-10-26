@@ -5,12 +5,13 @@ ________________________________________________________________________________
 
 A tip to know which version of POPStarter you are using...
 
-Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue) on pic below : it's the *Build date*.
-In red, starting at offset $5E is the *Build ID*. Please note : 1) that the Build ID did not change from OBT 1 to OBT 7 ; 2) that protos share the same build ID ; 3) that some protos doesn't have a build date.
+Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue) on pic below : it's the *Build date*. In red, starting at offset $5E is the *Build ID*. With these two informations, you can determine what version you are currently using (see table below).
 
-Example (pic below) : this is *Rev 13 WIP 2*. 
+*Notes :* 
 
-!https://bitbucket.org/repo/Mpy7Eg/images/1963149811-ELF_ID.JPG(title)!
+* the build ID did not change from Beta 1 to Beta 7 (0x06) ;
+* most protos have the same build ID (0xFE) :
+* that some protos doesn't have a build date.
 
 | *Version* | *Build date YY YY MM DD (blue)* | *Build ID (red)* |
 | Rev 13 RIP 06 (final release) | 20 17 10 20 | 0x06 |
@@ -43,8 +44,12 @@ Example (pic below) : this is *Rev 13 WIP 2*.
 | Rev 13 WIP 05 | 20 15 06 03 | 0x05 |
 | Rev 13 WIP 04 | 20 15 05 31 | 0x04 |
 | Rev 13 WIP 03 | 20 15 04 24 | 0x03 |
-| Rev 13 WIP 02 | 20 14 08 22 | 0x02 |
+| *Rev 13 WIP 02* | *20 14 08 22* | *0x02* |
 | Rev 13 WIP 01 | 20 14 07 11 | 0x01 |
+
+Example (pic below) : this is *Rev 13 WIP 2*. 
+
+!https://bitbucket.org/repo/Mpy7Eg/images/1963149811-ELF_ID.JPG(title)!
 
 For the .KELF version : 
 
