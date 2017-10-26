@@ -54,18 +54,19 @@ PLAYSTATION BIOS
 ----------------
 You can use a PlayStation BIOS dump with POPS. Put a "BIOS.BIN" file in the VMC directory (example : 
 __common/POPS/PBPX-95000.MY_GAME/BIOS.BIN) so POPStarter can handle it.
-If you didn't, the container will just use the built-in BIOS in fast boot mode (no OSD, just like POPStarter Rev.9 does).
+If you didn't, the container will just use the built-in BIOS in fast boot mode (no OSD, just like POPStarter 
+Rev.9 does).
 ------------------
 PS OSD REPLACEMENT
 ------------------
 POPStarter Revision 10 can replicate the PS-X EXE injection and execution method that was the heart of the POC1.
-If you put an OSD replacement image in the VMC directory, named as "OSD.BIN" (example : __common/POPS/PBPX-95000.MY_GAME/OSD.BIN), 
-the container will inject it in the built-in BIOS for POPS to run it.
+If you put an OSD replacement image in the VMC directory, named as "OSD.BIN" (example : 
+__common/POPS/PBPX-95000.MY_GAME/OSD.BIN), the container will inject it in the built-in BIOS for POPS to run it.
 --------------------
 MBR CALLBACK aka IGR
 --------------------
-Your pad does not respond after pressing L1+START+SELECT ? Just disconnect the second pad or use the second pad to validate your 
-choice o_O.
+Your pad does not respond after pressing L1+START+SELECT ? Just disconnect the second pad or use the second pad 
+to validate your choice o_O.
 ---------
 CHANGELOG
 ---------
