@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 PS1 CD mode is a native POPS feature. It lets you play your PS1 games (originals, backups and imports) from the CDVD drive. 
 
-*Warning : playing game CDs is not recommended. Playing game CDs with swap trick is super-not-recommended. (see notes).*
+*Warning :* playing game CDs is not recommended. Playing game CDs with swap trick is super-not-recommended (see notes).
 
 To use that mode, you must rename POPSTARTER.ELF file using the name you want, as long as there is no VCD (or partition) with such a name in your setup (you can use a generic name, such as (##.)PS1CD.ELF). 
 It saves VMCs to the device according to the ELF prefix. 
