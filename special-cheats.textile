@@ -46,8 +46,8 @@ Some useful commands have been automated. Here are them :
 | $USBDELAY_# | Sets up the PFS wrapper USB delay. | # is a number. |
 
 *Notes :* 
-* $FORCEPAL PATCH_#BIN version : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/$FORCEPAL_PATCH.7z
-* $NOPAL PATCH_#BIN version : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/$NOPAL_PATCH.7z
+* FORCEPAL PATCH_#.BIN version : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/FORCEPAL_PATCH.7z
+* NOPAL PATCH_#.BIN version : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/NOPAL_PATCH.7z
 
 ______________________________________________________________________________________________________________
 
