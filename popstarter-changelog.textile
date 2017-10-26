@@ -114,20 +114,22 @@ had glitches.
 * *"Rev 13 Prototype 5 - 2017/06/15":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-31-134569.html#post1775789*
 
 pre. 
-- Bugfixed : Could no longer run VCDs from POPS# partition/folder (since the PS1CD support implementation)
-- New CHEATS.TXT commands : $SET_TIMINGS and $LOAD_TIMINGS
-  That's tech stuff... $SET_TIMINGS is for setting timings (?? what timings ??), and saving them to the VMC at the same time you save your game progress.
-  Controls from $SET_TIMINGS are :
-  L1 on pad 1 == Sync0 += 1
-  L2 on pad 1 == Sync0 -= 1
-  R1 on pad 1 == Sync1 += 1
-  R2 on pad 1 == Sync1 -= 1
-  L1 on pad 2 == Clock += 1
-  L2 on pad 2 == Clock -= 1
-  R1 on pad 2 == Clock += 16
-  R2 on pad 2 == Clock -= 16
-  $LOAD_TIMINGS just loads (once, when POPS has booted) the Sync0/Sync1/Clock values that are saved in your VMC.
-  Sample VMC and CHEATS.TXT, to try with the PAL version of Tekken 3 : http://aybabtu.chez.com/kHn/SOFTWARES/RateWithControllers/TEKKEN3_PAL.ZIP
+- Bugfixed : Could no longer run VCDs from POPS# partition/folder (since the PS1CD support implementation).
+- New CHEATS.TXT commands : $SET_TIMINGS and $LOAD_TIMINGS.
+That's tech stuff... $SET_TIMINGS is for setting timings (?? what timings ??), and saving them to the VMC at the 
+same time you save your game progress.
+Controls from $SET_TIMINGS are :
+L1 on pad 1 == Sync0 += 1
+L2 on pad 1 == Sync0 -= 1
+R1 on pad 1 == Sync1 += 1
+R2 on pad 1 == Sync1 -= 1
+L1 on pad 2 == Clock += 1
+L2 on pad 2 == Clock -= 1
+R1 on pad 2 == Clock += 16
+R2 on pad 2 == Clock -= 16
+$LOAD_TIMINGS just loads (once, when POPS has booted) the Sync0/Sync1/Clock values that are saved in your VMC.
+Sample VMC and CHEATS.TXT, to try with the PAL version of Tekken 3 : 
+http://aybabtu.chez.com/kHn/SOFTWARES/RateWithControllers/TEKKEN3_PAL.ZIP
 
 
 * *"Rev 13 Prototype 4 - 2017/05/31":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-30-134569.html#post1775752*
