@@ -1,4 +1,4 @@
-h1. [HDD] *HDDOSD / POPStarter.KELF*
+h1. [HDD] *HDDOSD / POPSTARTER.KELF*
 
 
 ______________________________________________________________________________________________________________
@@ -7,7 +7,7 @@ ________________________________________________________________________________
 !https://bitbucket.org/repo/Mpy7Eg/images/137826717-PREVIEW.JPG(Cotton Original)!
 
 
-POPStarter bundle always come with a file named "POPStarter.KELF". This file allows you to install POPStarter in the PS2 Broswer 2.00 - aka HDDOSD. Let's find out how. 
+POPStarter bundle includes a file named POPSTARTER.KELF (KELF = Krypo-ELF = ELF embedded into a container). It can be used if you have "SONY Browser 2.00":https://www.youtube.com/watch?v=AIncx59OFAQ (aka HDDOSD) installed on your HDD. Otherwise, it’s useless.
 
 ______________________________________________________________________________________________________________
 
@@ -15,7 +15,7 @@ h2. _Hardware Requirements :_
 
 * PS2 HDD formatted, locally connected to your PC ;
 
-* NA ;
+* A Network Adaptor ;
 
 * A crossover cable ;
 
@@ -23,11 +23,11 @@ h2. _Software Requirements :_
 
 * uLE_kHn : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version ;
 
-* POPStarter.KELF : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version ;
+* POPSTARTER.KELF : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version ;
 
 * AKuHAK’s reworked HDL_Dump : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff ;
 
-* HDDOSD already installed on your PS2 HDD (note : there was "a bug with 1.00J HDDOSD version":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-102#post-932375 - fixed in WIP 6 OBT 17)..
+* HDDOSD already installed on your PS2 HDD.
 
 ______________________________________________________________________________________________________________
 
