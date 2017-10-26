@@ -56,27 +56,30 @@ backgrounds...
 * *"Rev 13 Prototype 7 - 2017/07/03":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-33-134569.html#post1775856*
 
 pre. 
-- [yet another] cumulative POPS patches (always applied, regardless of the VCD you launch)
-  El Patas reported that it helps with the game Paranoia Scape (Japan)
-- All the compatibility modes were refactored
-  After I've found a critical design fault in mode 0x05 (which caused a POPS crash after playing a long time).
-- Secured all the POPStarter functions that are attached to POPS
-  There I wanted to make sure not a single register gets destroyed after returning from a subroutine or a hooktable
-- Tried to fix the Castlevania SOTN (retail versions) random crashes
-  ...looks fixed now.
-- Tried to fix the Rayman 2 (retail versions) crash
-  FR/DE seems to work now.
-  UK/IT/ES version crashes (at least after the level 2 opening animation, confirmed by Jolek).
-  US version crashes. Can't remember where. Probably on level 2 like the UK release...
+- [yet another] cumulative POPS patches (always applied, regardless of the VCD you launch).
+El Patas reported that it helps with the game Paranoia Scape (Japan)
+- All the compatibility modes were refactored.
+After I've found a critical design fault in mode 0x05 (which caused a POPS crash after playing a long time).
+- Secured all the POPStarter functions that are attached to POPS.
+There I wanted to make sure not a single register gets destroyed after returning from a subroutine or a 
+hooktable.
+- Tried to fix the Castlevania SOTN (retail versions) random crashes.
+...looks fixed now.
+- Tried to fix the Rayman 2 (retail versions) crash.
+FR/DE seems to work now.
+UK/IT/ES version crashes (at least after the level 2 opening animation, confirmed by Jolek).
+US version crashes. Can't remember where. Probably on level 2 like the UK release...
 - Removed the Metal Gear Solid stuff which skipped some cutscenes.
-  Thanks to one of the cumulative POPS patches, autoskipping the Metal Gear Rex featured cutscenes is no longer needed. The game plays them fine. No more crashes.
+Thanks to one of the cumulative POPS patches, autoskipping the Metal Gear Rex featured cutscenes is no longer 
+needed. The game plays them fine. No more crashes.
 - Removed the PAL patcher block for Driver 2 PAL releases.
-  Here too, the game seems to not crash since the cumulative patches. So $NOPAL isn't needed.
+Here too, the game seems to not crash since the cumulative patches. So $NOPAL isn't needed.
 - Removed ExcepTrap.
-  This thing was plain useless to the end user and was eating ram for nothing. Had bugs too. So, it's removed.
-- New CHEATS.TXT command : $CODECACHE_ADDON_0
-  Try this if your game lags badly or stalls randomly. Do not use it by default on all your games, because most games will stop working with it.
-  Is auto-activated with the following games :
+This thing was plain useless to the end user and was eating ram for nothing. Had bugs too. So, it's removed.
+- New CHEATS.TXT command : $CODECACHE_ADDON_0.
+Try this if your game lags badly or stalls randomly. Do not use it by default on all your games, because most 
+games will stop working with it.
+Is auto-activated with the following games :
 --- Colin McRae Rally 2.0 v1.0 (SLES-02605)
 --- Colin McRae Rally 2.0 v1.1 (SLES-02605)
 --- Colin McRae Rally 2.0 (SLUS-01222)
@@ -86,7 +89,7 @@ pre.
 --- V-Rally: Championship Edition (SLPS-01149 / SLPS-91099)
 --- Need For Speed: V-Rally (SLUS-00590)
 - Other changes that I don't remember...
-  The recompiler hooktable and some debug functions were probably implemented in this build.
+The recompiler hooktable and some debug functions were probably implemented in this build.
 
 
 * *"Rev 13 Prototype 6 - 2017/06/24":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-32-134569.html#post1775817*
