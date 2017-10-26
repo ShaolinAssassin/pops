@@ -23,9 +23,9 @@ Included :
 ______________________________________________________________________________________________________________
 
 
-*1.* Using your favorite graphic editor, create 3 .bmp files with the above dimensions : 
+# Using your favorite graphic editor, create 3 .bmp files with the above dimensions : 
 
-. IGR_BG : 400 x 260 px
+- IGR_BG : 400 x 260 px
 
 !https://bitbucket.org/repo/Mpy7Eg/images/1390009092-IGR_BG.png(title)!
 
