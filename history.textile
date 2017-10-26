@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 !https://bitbucket.org/repo/Mpy7Eg/images/781950224-psbb2-21.jpg(title)!
 
-The emulator has no official name, it was named "POPS" because that string were found in the disc0 file header (which is the TOC of the RAW source dump). It has few similarities with the PSP Popsloader (undocumented).
+The emulator has no official name - it was named "POPS" because that string was found in the disc0 file header (which is the TOC of the RAW source dump). It has few similarities with the PSP Popsloader (undocumented).
 
 !https://bitbucket.org/repo/Mpy7Eg/images/122718397-spop.png(title)!
 
