@@ -39,9 +39,11 @@ POPStarter has a built-in IGR loader texture making you able to change the japan
 
 *Example :*
 
+pre. 
 __common/POPS/IGR_BG.TM2
 __common/POPS/IGR_NO.TM2
 __common/POPS/IGR_YES.TM2
+
 
 *Note :* .TM2 extension MUST be UPPERCASE for internal HDD - or it won't work. 
 
