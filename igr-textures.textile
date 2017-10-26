@@ -23,7 +23,7 @@ Included :
 ______________________________________________________________________________________________________________
 
 
-# Using your favorite graphic editor, create 3 .bmp files with the above dimensions : 
+   1. Using your favorite graphic editor, create 3 .bmp files with the above dimensions : 
 
 - IGR_BG : 400 x 260 px
 
