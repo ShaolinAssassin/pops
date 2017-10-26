@@ -11,7 +11,7 @@ Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue on the p
 
 * the build ID did not change from Beta 1 to Beta 7 (0x06) ;
 * most protos have the same build ID (0xFE) :
-* that some protos doesn't have a build date.
+* some protos doesn't have a build date and build ID.
 
 | *Version* | *Build date YY YY MM DD (blue)* | *Build ID (red)* |
 | Rev 13 RIP 06 (final release) | 20 17 10 20 | 0x06 |
