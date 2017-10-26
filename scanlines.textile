@@ -2,7 +2,8 @@ h1. *Scanlines generator preview*
 
 
 ______________________________________________________________________________________________________________
-_[Images thanks to @jolek - you can see it in action "here":https://www.youtube.com/watch?time_continue=86&v=7vOKTq1XGrY]_
+
+[Images thanks to @jolek - you can see it in action "here":https://www.youtube.com/watch?time_continue=86&v=7vOKTq1XGrY]
 
 !https://bitbucket.org/repo/Mpy7Eg/images/2494224678-noscan.jpg(title)!
 
