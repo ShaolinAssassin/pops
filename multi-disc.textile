@@ -114,9 +114,9 @@ DISCS_POOPER is a little program that does the boring job for you.
 3. Drop DISCS_POOPER.EXE in the folder and run it ;
 
 DISCS_POOPER creates : 
-- A VMC folder for each VCD in the folder ;
-- A DISCS.TXT inside each VMC folder ;
-- A VMCDIR.TXT inside each VMC to use only a pair of VMC for this multi-disc game.
+. A VMC folder for each VCD in the folder ;
+. A DISCS.TXT inside each VMC folder ;
+. A VMCDIR.TXT inside each VMC to use only a pair of VMC for this multi-disc game.
 
 4. Move your VCD and VMC game folders to your POPS folder ;
 5. Enjoy.
