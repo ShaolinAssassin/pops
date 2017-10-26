@@ -3,7 +3,7 @@ h1. *Timeline*
 
 ______________________________________________________________________________________________________________
 
-POPStarter timeline is kinda confused, especially for someone not familiar with it. Here are the versions released, from newest to oldest. You can find a complete changelog "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-changelog. If you are lost about which version you are now using, please read "this":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/version.
+POPStarter rev13 timeline is kinda confused, especially for someone not familiar with it. Here are the versions released, from newest to oldest. You can find a complete changelog "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-changelog. If you are lost about which version you are now using, please read "this":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/version.
 
 | *Version* | *Release date YYYY/MM/DD* |
 | Rev 13 RIP 06 (final release) | 2017/10/20 |
