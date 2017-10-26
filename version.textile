@@ -3,7 +3,7 @@ h1. *POPStarter version*
 
 ______________________________________________________________________________________________________________
 
-A tip to know which version of POPStarter you are using...
+A tip to know what version of POPStarter you are using...
 
 Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue on the picture the below the table) : it's the *build date*. In red, starting at offset $5E is the *build ID*. With these two informations, you can determine what version you are currently using.
 
