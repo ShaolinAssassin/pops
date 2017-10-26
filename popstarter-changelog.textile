@@ -95,8 +95,8 @@ The recompiler hooktable and some debug functions were probably implemented in t
 * *"Rev 13 Prototype 6 - 2017/06/24":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-32-134569.html#post1775817*
 
 pre. 
-- Cumulative POPS patches (always applied, regardless of the VCD you launch)
-  From the later reports, it helped with the following games (boot/crash-wise) :
+- Cumulative POPS patches (always applied, regardless of the VCD you launch).
+From the later reports, it helped with the following games (boot/crash-wise) :
 --- Mega Man Legends (USA)
 --- Mega Man Legends 2 (USA)
 --- Gunfighter - The Legend of Jesse James (Euro)
@@ -106,8 +106,9 @@ pre.
 --- Jurassic Park - Warpath (Euro)
 --- Crisis Beat (Europe)
 --- The Misadventures of Tron Bonne (Europe)
-  User shmoo has reported that Mega Man Legends (USA) crashes if you don't skip a specific cutscene.
-  From my quick tests, Action Man: Mission Xtreme/Operation Extreme (Euro/USA) and Jurassic Park - Warpath (Euro) had glitches.
+User shmoo has reported that Mega Man Legends (USA) crashes if you don't skip a specific cutscene.
+From my quick tests, Action Man: Mission Xtreme/Operation Extreme (Euro/USA) and Jurassic Park - Warpath (Euro) 
+had glitches.
 
 
 * *"Rev 13 Prototype 5 - 2017/06/15":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-31-134569.html#post1775789*
