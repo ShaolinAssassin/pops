@@ -24,7 +24,8 @@ EMULATOR INSTALLATION
 ---------------------
 1) Mount the partition "__common" and create a directory called "POPS" (UPPERCASE) into it's root;
 2) Open the "POPS" directory you've just created and put the file "disc0" into it;
-3) Hardcode the name of your PlayStation game partition in "LAUNCHER.ELF" (31 CHARACTERS MAX, TERMINATED WITH 00h), at offset 60h (decimal 96);
+3) Hardcode the name of your PlayStation game partition in "LAUNCHER.ELF" (31 CHARACTERS MAX, TERMINATED WITH 00h),
+at offset 60h (decimal 96);
 4) Mount the PlayStation game partition and put the file "EXECUTE.ELF" into it's root,
 5) Copy your modified "LAUNCHER.ELF" anywhere you want to run it from.
 -----------------
