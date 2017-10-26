@@ -14,19 +14,14 @@ ________________________________________________________________________________
 h2. _Hardware Requirements :_ 
 
 * PS2 HDD formatted, locally connected to your PC ;
-
 * A Network Adaptor ;
-
 * A crossover cable ;
 
 h2. _Software Requirements :_ 
 
 * uLE_kHn : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version ;
-
 * POPSTARTER.KELF : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version ;
-
 * AKuHAK’s reworked HDL_Dump : "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff ;
-
 * HDDOSD already installed on your PS2 HDD.
 
 ______________________________________________________________________________________________________________
@@ -34,20 +29,20 @@ ________________________________________________________________________________
 
 To install POPStarter in HDDOSD, you will need : 
 
-. to use the first HDD launch type (1 game = 1 partition). You can't do it with the __.POPS partition. Your game partition will be a parent partition named PP.Name_of_my_Game.
-. to inject some files into the partition header, to make it bootable from HDDOSD + to display infos related to your game + to customize the icon shown in the HDDOSD. 
+* to use the first HDD launch type (1 game = 1 partition). You can't do it with the __.POPS partition. Your game partition will be a parent partition named PP.Name_of_my_Game.
+* to inject some files into the partition header, to make it bootable from HDDOSD + to display infos related to your game + to customize the icon shown in the HDDOSD. 
 
-*Set-by-step :* 
+*How to install it :* 
 
-*1.* [PS2] - First - if you don't have it yet - install POPS (copy/paste IOPRP252.IMG & POPS.ELF into __common/POPS/).
+1. [PS2 side] - First - if you don't have it yet - install POPS (copy/paste IOPRP252.IMG & POPS.ELF into __common/POPS/) ;
 
-*2.* [PC] - Convert your game as .VCD file.
+2. [PC side] - Convert your game as VCD file ;
 
-*3.* [PS2] - Using uLE_kHn, create a partition large enough to store your game. Name it as PP.Name_of_my_Game. Example : PP.Cotton_Original. (*! no "+" in the partition name, no whitespaces !*)
+3. [PS2] - Using uLE_kHn, create a partition large enough to store your game. Name it as PP.GAME. Example : PP.Cotton_Original. (*! no "+" in the partition name, no whitespaces !*)
 
-*4*. [PS2] - Transfer your VCD into your PP.Name of my Game partition and rename it IMAGE0.VCD. 
+4. [PS2] - Transfer your VCDs into your PP.GAME partition and rename it IMAGE0.VCD ;
 
-*5.* [PS2] - Rename POPStarter.KELF as EXECUTE.KELF and copy/paste it into your PP.Name of my Game.
+5. [PS2] - Rename POPSTARTER.KELF as EXECUTE.KELF and copy/paste it into your PP.GAME partition ;
 
 Your files should look like this : 
 
@@ -57,9 +52,9 @@ __common/POPS/POPS.ELF
 PP.Cotton_Original/EXECUTE.KELF
 PP.Cotton_Original/IMAGE0.VCD
 
-Before you can inject the files into the partition hearder, you need to get them ready for your particular game.
+Before you can inject the files into the partition header, you need to get them ready for your particular game.
 
-*6.* [PC] - Download the "sample files":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/hddosd_sample_files.7z. The .7z includes : 
+6. [PC] - Download the "sample files":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/hddosd_sample_files.7z. The .7z includes : 
 
 - system.cnf = this file tells the PS2 where to look at for launching POPStarter (BOOT2 = pfs:/EXECUTE.KELF in system.cnf means that the file that will be launched from HDDOSD is EXECUTE.KELF, placed into the root of the partition). 
 
@@ -87,11 +82,11 @@ uninstallmes0= Voulez-vous supprimer ce jeu ? // Uninstall warning message.
 uninstallmes1= // Ignored if uninstallmes0 is 0 chars.
 uninstallmes2= // Ignored if uninstallmes0/1 is 0 chars.
 
-*7.* [PC] - So, create your icon(s) and edit icon.sys according to your will.
+7. [PC] - So create your icon(s) and edit icon.sys according to your will ;
 
-*8.* [PC] - Download AKuHAK’s reworked HDL_Dump zip folder, extract it at the root of your PC (C:), and delete boot.elf file from inside (it's miniopl - we don't need it).
+8. [PC] - Download AKuHAK’s reworked HDL_Dump zip folder, extract it at the root of your PC (C:), and delete boot.elf file from inside (it's miniopl - we don't need it) ;
 
-*9.* [PC] - Drop your system.cnf, list.ico, icon.sys inside hdl_dumx folder. Hdl_dumx folder content : 
+9. [PC] - Drop your system.cnf, list.ico, icon.sys inside hdl_dumx folder. Hdl_dumx folder content : 
 
 pre. 
 - hdl_dumb.exe - no GUI version
@@ -100,16 +95,16 @@ pre.
 - list.ico 
 - system.cnf 
 
-*10.* [PS2] - Connect your PS2 to your PC using a crossover cable, and launch hdl_svr_0.93.elf using uLE from it.
+10. [PS2] - Connect your PS2 to your PC using a crossover cable, and launch hdl_svr_0.93.elf using uLE from it ;
 
-*11.* [PC] - Launch command promt.
+11. [PC] - Launch command prompt ;
 
-*12.* [PC] - Type :
+12. [PC] - Type :
 
 pre. 
 cd C:\hdl_dumx_rev47\
 
-*13.* [PC] - then : 
+13. [PC] - then : 
 
 pre. 
 C:\hdl_dumx_rev47\hdl_dump.exe modify_header 192.168.0.5 PP.Cotton_Original
@@ -117,7 +112,7 @@ C:\hdl_dumx_rev47\hdl_dump.exe modify_header 192.168.0.5 PP.Cotton_Original
 192.168.0.5 = your PS2 IP adress ;
 PP.Cotton_Original = your partition.
 
-*14.* [PC] - if you got it working you should get a message like this : 
+14. [PC] - if you got it working you should get a message like this : 
 
 pre. 
 Succesfully read system.cnf = system.cnf injected into partition header
@@ -128,15 +123,9 @@ Skipped boot.kelf
 Skipped boot.elf
 Skipped boot.kirx
 
-*15.* Done ! ;)
+15. Done ! ;)
 
-*Note :* when POPStarter gets an update, delete the file EXECUTE.KELF from PP.Name_of_my_Game and replace it with the new version. 
-
-
-
-
-
-
+*Note :* when POPStarter gets an update, delete the file EXECUTE.KELF from PP.GAME and replace it with the new version. 
 
 ______________________________________________________________________________________________________________
 
