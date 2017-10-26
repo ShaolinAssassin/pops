@@ -28,10 +28,12 @@ ________________________________________________________________________________
 
 h2. _Changelog :_ 
 
-* *uLE_kHn_20160723* = this will be the "last one":https://assemblergames.com/threads/ps2-pops-stuff.45347/page-93#post-908556 distributed by kHn. 
+*Note :* uLE_kHn is discontinued.
+
+* *"uLE_kHn_20160723":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-84#post-895246*
 
 pre. 
-Not documented. Minor changes mentionned here :http://assemblergames.com/l/threads/ps2-pops-stuff.45347/page-86#post-895756
+The new uLE_kHn_20160723 is the same as uLE_kHn_20150727, but I've restored the USB drivers of my PS2SDK installation.
 
 * *uLE_kHn_20150727*
 
