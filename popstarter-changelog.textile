@@ -549,8 +549,7 @@ pre.
 - LC cracks for Ape Escape (SCES-02028), Ape Escape (SCES-01564) and Ape Escape (SCES-02031) were added.
 - The POPS.PAK decompression bug that occured when debug printing was turned OFF has been fixed.
 - Compiled with the NO_PFS_WRAPPER def, so it's OK to be distributed.
-- The KELF wasn't tested. None of the betatesters (including me) use the HDDOSD crap anymore. The ELF was launched via uLE when 
-  testing in the PSX.
+- The KELF wasn't tested. None of the betatesters (including me) use the HDDOSD crap anymore. The ELF was launched via uLE when testing in the PSX.
 - The current project status is work in progress
 
 
