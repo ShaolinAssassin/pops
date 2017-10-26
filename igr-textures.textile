@@ -37,18 +37,18 @@ Use the PSD file with guidelines if need to crop properly.
 
 !https://bitbucket.org/repo/Mpy7Eg/images/4238144417-preview-guidelines.png(title)!
 
-2. Open these 3 files with a TM2 editor & save them as .TM2 files.
+2. Open these 3 files with a TM2 editor & save them as .TM2 files ;
 
-3. Open IGR_YES.TM2 and IGR_NO.TM2 with a hex editor and delete the last 8 digits in last offset (1D80) : 
+3. Open IGR_YES.TM2 and IGR_NO.TM2 with a hex editor and delete the last 8 digits in last offset (1D80) ; 
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3117688129-bez%C3%82%C2%A0tytu%C5%82u.png(title)!
 
 4. You can either : 
-- place your .TM2 files as they are in the POPS folder (named as IGR_BG.TM2, IGR_NO.TM2 & IGR_YES.TM2)
+- place your .TM2 files as they are in the POPS folder (named as IGR_BG.TM2, IGR_NO.TM2 & IGR_YES.TM2) ;
 OR
-- [optionnal step] compiled them as a PATCH_#.BIN.
+- [optionnal step] compiled them as a PATCH_#.BIN ;
 
-5. If you want to compile them as PATCH_#.BIN, use "toolbox command":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/toolbox-commands : 
+5. If you want to compile them as PATCH_#.BIN, use "toolbox command":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/toolbox-commands ;
 
 pre. 
 toolbox.exe -igrpix "background.tm2" "no_button.tm2 "yes_button.tm2"
@@ -74,7 +74,6 @@ pre.
 
 * *FRENCH :*
 
-
 pre. 
 1. Voulez-vous retourner au menu principal de la PlayStation®2 ?
 2. Attention : toutes les données non sauvegardées seront perdues.
@@ -82,9 +81,7 @@ pre.
 4. Oui
 5. Non
 
-
 * *GERMAN :*
-
 
 pre. 
 1. Möchten Sie POPStarter verlassen ?
@@ -95,8 +92,6 @@ pre.
 
 * *POLISH :*  
 
-
-
 pre. 
 1. Czy chcesz powrócić do głównego menu PlayStation®2?
 2. Uwaga, wszystkie niezapisane dane zostaną utracone!
@@ -104,10 +99,7 @@ pre.
 4. Tak
 5. Nie
 
-
 * *PORTUGUESE :* 
-
-
 
 pre. 
 1. Você deseja retornar para o menu principal do Playstation®2?
@@ -116,10 +108,7 @@ pre.
 4. Sim
 5. Não
 
-
 * *SPANISH :* 
-
-
 
 pre. 
 1. ¿Deseas volver al menú principal de Playstation®2?
