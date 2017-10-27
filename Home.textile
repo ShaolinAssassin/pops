@@ -46,17 +46,18 @@ ________________________________________________________________________________
 h2. _Features :_ 
 
 * "PSX DVR":https://en.wikipedia.org/wiki/PSX_%28video_game_console%29 support
-* HDD, USB & SMB support
-* High compatibility rate (around 75%-80%)
+* CD, HDD, USB & SMB support
 * CDDA tracks support
 * VMC support
-* Embedded cheat engine
 * In-Game-Reset support
+* In-Game Hotkeys
+* Embedded cheat engine
 * Automatic PAL patcher for PAL games
 * 480p support (NOT reliable ATM)
+* GTE widescreen hack
 * Multi-disc support
 * Analog and vibration support
-* BIOS & OSD handlers 
+
 
 ______________________________________________________________________________________________________________
 
