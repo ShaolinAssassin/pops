@@ -85,7 +85,7 @@ pre.
 MyName
 MyPassword
 
-*Note :* for guest access, don’t write anything to line 2 and 3.
+For guest access, don’t write anything to line 2 and 3.
 
 * *IPCONFIG.DAT syntax :*
 
