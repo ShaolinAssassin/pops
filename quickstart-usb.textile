@@ -34,7 +34,7 @@ POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 # Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .ELF extension, add the XX. prefix (example : for running a VCD named “Crash Bandicoot.VCD”, the POPStarter ELF must be renamed as “XX.Crash Bandicoot.ELF”) ;
 # Copy the ELFs in mass:/POPS.
 
-Now, check your setup. It must be the same as this :
+Now, check your setup. It must be the same as this one :
 
 pre. 
 mass:/POPS/POPS_IOX.PAK
