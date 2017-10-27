@@ -1,12 +1,10 @@
 h1. *Quick start guide for USB :*
 
 ______________________________________________________________________________________________________________
-_[UPDATE 01-10-2016 – POPStarter version updated to OBT16]_
 
-This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it.
-Quickstarter pack includes last POPStarter BETA version [Rev 13 WIP 6 OBT 16] – which is now considered stable enough to be used as daily gaming version.
+This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it. Quickstarter pack includes last POPStarter version (Rev 13 RIP 06).
 
-*Download : "POPStarter_Quickstarter_Pack_USB__2017_01_10":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_Quickstarter_Pack_USB__2017_01_10.7z*
+*Download :* "here":
 
 ______________________________________________________________________________________________________________
 
@@ -14,24 +12,26 @@ h2. _Step-by-step :_
 
 *a) Installing the emulator :*
 
-Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it.
-. 1 file for USB mode, POPS_IOX.PAK - MD5 : a625d0b3036823cdbf04a3c0e1648901
+Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it. It’s made of 2 files (for USB mode).
 
-# Find and download POPS_IOX.PAK;
-# Create a directory named POPS in the root of your USB device;
+pre. 
+POPS_IOX.PAK - MD5 : a625d0b3036823cdbf04a3c0e1648901
+
+# Find and download POPS_IOX.PAK ;
+# Create a directory named POPS at the root of your USB device ;
 # Copy POPS_IOX.PAK into POPS directory you’ve just created.
 
 *b) Installing your PS1 Games :*
 
 POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 
-# Create a disc image of your PS1 game as .BIN/.CUE;
-# Drag & drop your .CUE file over CUE2POPS.EXE to convert your BIN/CUE disc image to .VCD file (you can convert several games at once by running BULK_CUE2POPS.BAT);
+# Create a disc image of your PS1 game as .BIN/.CUE ;
+# Drag & drop your .CUE file over CUE2POPS.EXE to convert your BIN/CUE disc image to .VCD file (you can convert several games at once by running BULK_CUE2POPS.BAT) ;
 # Put your .VCD files in mass:/POPS directory.
 
 *c) Installing POPStarter :*
 
-# Put uLE_kHn.ELF in mass:/POPS directory. This special uLE version can launch .VCD directly;
+# Put uLE_kHn_20160723/BOOT in mc0:/BOOT folder. This special uLE version can launch .VCD directly ;
 # Put POPSTARTER.ELF in mass:/POPS directory.
 
 Now, check your setup. It must be the same as this :
@@ -40,9 +40,9 @@ pre.
 mass:/POPS/POPS_IOX.PAK
 mass:/POPS/POPSTARTER.ELF
 mass:/POPS/GAME.VCD
-mass:/POPS/uLE_kHn.ELF
+mc0:/BOOT/BOOT.ELF
 
-=> to launch your game, run uLE_kHn.ELF, then launch GAME.VCD - just like you would do for any .ELF file.
+=> to launch your game, run mc0:/BOOT/BOOT.ELF, then launch GAME.VCD - just like you would do for any .ELF file.
 
 Need help ? Ask over at "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/.
 ______________________________________________________________________________________________________________
