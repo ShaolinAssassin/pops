@@ -2,7 +2,7 @@ h1. *Wiki - Table of Content*
 
 
 ______________________________________________________________________________________________________________
-_[Original documentation by "krHACKen":https://assemblergames.com/members/krhacken.73270/ - updated by "shaolinassassin":https://assemblergames.com/members/dasa.76928/]_
+_[ Original documentation by "krHACKen":https://assemblergames.com/members/krhacken.73270/ - updated by "shaolinassassin":https://assemblergames.com/members/dasa.76928/ ]_
 
 *Note :* the following documentation is up-to-date with *Rev13 RIP 06*. Wiki last update : 2017/10/27.
 
