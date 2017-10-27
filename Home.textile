@@ -70,7 +70,7 @@ Since this documentation is growing - a lot - as POPStarter is developped, I fel
 
 * *"Quickstart guide for SMB":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-smb*
 
-_Update (2017/10/25) :* these packs include now Rev 13 RIP 06 as POPStarter version._
+_Update (2017/10/25) : these packs include now Rev 13 RIP 06 as POPStarter version._
 
 ______________________________________________________________________________________________________________
 
