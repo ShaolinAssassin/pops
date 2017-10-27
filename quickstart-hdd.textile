@@ -15,7 +15,7 @@ h2. _Step-by-step :_
 Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it. It's made of 2 files (for HDD mode). 
 
 pre. 
-POPS.ELF - MD5 : 355a892a8ce4e4a105469d4ef6f39a42
+POPS.ELF     - MD5 : 355a892a8ce4e4a105469d4ef6f39a42
 IOPRP252.IMG - MD5 : 1db9c6020a2cd445a7bb176a1a3dd418
 
 # Find and download POPS.ELF & IOPRP252.IMG ;
