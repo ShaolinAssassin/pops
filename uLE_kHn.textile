@@ -3,26 +3,24 @@ h1. *"uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-st
 
 ______________________________________________________________________________________________________________
 
-
-
-h2. _Few words :_
-
-uLE_kHn is a modified version of AKuHAK's uLE 4.42e HDD edition ("WIP7":http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/#post261143).
+uLE_kHn is a modified version of AKuHAK's "uLE 4.42e HDD edition WIP7":http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/#post261143.
 
 It has 2 main features : 
-* Same as WIP7, it can create HDD partitions with no "+" symbol at start - to create the __.POPS/ partition.
-* It can launch your VCDs directly so you don't have to rename your POPStarter.ELF files. Just place a copy of POPStarter.ELF in your POPS directory and you're done. 
+* Same as WIP7, it can create HDD partitions with no "+" symbol at start - to create the __.POPS/ partition ;
+* It can be used as a GUI launch your VCDs directly. Just place a single copy of POPSTARTER.ELF in your POPS folder and you're done (no need to rename it). 
 
-Ex.
+*Ex ample of working setup - USB mode :*
 
 pre. 
-=== USB DEVICE, NEW LAUNCH TYPE ===
-mass:/POPS/POPS_IOP.PAK
+mass:/POPS/POPS_IOX.PAK
 mass:/POPS/Crash Bandicoot.VCD
 mass:/POPS/POPSTARTER.ELF
+mc0:/BOOT/BOOT.ELF
 
-*Note :* 
-* SMB not supported ATM.
+*Notes :* 
+
+* Launching VCDs in SMB mode is not supported ;
+* Do not use it as your normal uLE version - it's based on obsolete stuff.
 
 ______________________________________________________________________________________________________________
 
@@ -38,22 +36,22 @@ The new uLE_kHn_20160723 is the same as uLE_kHn_20150727, but I've restored the 
 * *uLE_kHn_20150727*
 
 pre. 
-- Sbv from PS2SDK commit c6cd5b3447
-- Old USBD (CRC32 8EA56869) + USBHDFSD of POPStarter r13 WIP 02/05 (CRC32 E96C037A)
-- Added support for running VCDs from mass:/POPS#/ (as introduced in POPStarter r13 WIP 06 OBT)
+- Sbv from PS2SDK commit c6cd5b3447.
+- Old USBD (CRC32 8EA56869) + USBHDFSD of POPStarter r13 WIP 02/05 (CRC32 E96C037A).
+- Added support for running VCDs from mass:/POPS#/ (as introduced in POPStarter r13 WIP 06 OBT).
 - The stub of the packed ELF is a clone of the POPStarter r13 payload.
-Side note : compiled the same day as POPStarter r13 WIP 06 open beta 6
+Side note : compiled the same day as POPStarter r13 WIP 06 open beta 6.
 
 * *"uLE_kHn_20150602":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-61#post-813385*
 
 pre. 
-- Fixed : Red screen of death in the PSX after selecting MISC/PS2Browser
-- MISC/PS2Browser does not skip the HDD and the MC when uLE has not been run from the MBR
+- Fixed : Red screen of death in the PSX after selecting MISC/PS2Browser.
+- MISC/PS2Browser does not skip the HDD and the MC when uLE has not been run from the MBR.
 
 * *"uLE_kHn_20150506":https://www.metagames-eu.com/forums/1770217-post163.html*
 
 pre. 
-- Fixed : Cannot launch ELFs/VCDs on slims and fats that don't have a HDD
+- Fixed : Cannot launch ELFs/VCDs on slims and fats that don't have a HDD.
 
 ______________________________________________________________________________________________________________
 
