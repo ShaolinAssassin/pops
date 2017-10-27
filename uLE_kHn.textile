@@ -3,13 +3,11 @@ h1. *"uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-st
 
 ______________________________________________________________________________________________________________
 
-uLE_kHn is a modified version of AKuHAK's "uLE 4.42e HDD edition WIP7":http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/#post261143.
-
-It has 2 main features : 
+uLE_kHn is a modified version of AKuHAK's "uLE 4.42e HDD edition WIP7":http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/#post261143. It has 2 main features : 
 * Same as WIP7, it can create HDD partitions with no "+" symbol at start - to create the __.POPS/ partition ;
 * It can be used as a GUI launch your VCDs directly. Just place a single copy of POPSTARTER.ELF in your POPS folder and you're done (no need to rename it). 
 
-*Ex ample of working setup - USB mode :*
+*Example of working setup - USB mode :*
 
 pre. 
 mass:/POPS/POPS_IOX.PAK
@@ -48,7 +46,7 @@ pre.
 - Fixed : Red screen of death in the PSX after selecting MISC/PS2Browser.
 - MISC/PS2Browser does not skip the HDD and the MC when uLE has not been run from the MBR.
 
-* *"uLE_kHn_20150506":https://www.metagames-eu.com/forums/1770217-post163.html*
+* *"uLE_kHn_20150506 - 2015/05/06":https://www.metagames-eu.com/forums/1770217-post163.html*
 
 pre. 
 - Fixed : Cannot launch ELFs/VCDs on slims and fats that don't have a HDD.
