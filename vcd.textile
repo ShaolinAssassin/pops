@@ -25,9 +25,11 @@ To convert your PS1 games from BIN+CUE to VCD format, you need to use the last v
 
 ______________________________________________________________________________________________________________
 
-h2. _"POPS2CUE":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version :_
+h2. _POPS2CUE :_
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3844714277-POPS2CUE.JPG(title)!
+
+*Download :* "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version
 
 This tool reverts back the conversion from VCD to BIN+CUE or (CUE only) files. See the screenshot for commands.
 
