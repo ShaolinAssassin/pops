@@ -11,15 +11,15 @@ h2.  _Software Requirements :_
 
 ______________________________________________________________________________________________________________
 
-1. [PS2] Copy/paste (uLE) your VMC from POPS directory to USB, then to your PC. 
+1. [PS2 side] Copy/paste (uLE) your VMC from POPS directory to USB, then to your PC ;
 
-2. [PC] Launch MemcardRex, click "Open", then "All files", then browse to your VMC. You will see your VMC content.
+2. [PC side] Launch MemcardRex, click "Open", then "All files", then browse to your VMC. You will see your VMC content ;
 
 !https://bitbucket.org/repo/Mpy7Eg/images/1060162485-04_bmp10.jpg(title)!
 
 !https://bitbucket.org/repo/Mpy7Eg/images/2290081780-14_bmp10.jpg(title)!
 
-3. [PC] Select the save you want to export, click "Export", then choose "RAW single save (B???????????*)", then save. 
+3. [PC] Select the save you want to export, click "Export", then choose "RAW single save (B???????????*)", then save ; 
 
 !https://bitbucket.org/repo/Mpy7Eg/images/126152954-15_bmp10.jpg(title)!
 
@@ -31,7 +31,7 @@ Your save is now extracted from the VMC.
 
 4. [PS2] Time to import it to your PS1 MC. Use uLE to copy/paste it from USB to PS1 MC. 
 
-
+5. Done.
 
 ______________________________________________________________________________________________________________
 
