@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it. Quickstarter pack includes last POPStarter version (Rev 13 RIP 06).
 
-* *Download :* "here":
+* *Download :* "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_SMB_Quickstarter_Pack_20171027.7z
 
 ______________________________________________________________________________________________________________
 
