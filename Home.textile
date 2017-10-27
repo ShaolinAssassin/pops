@@ -60,7 +60,7 @@ h2. _Features :_
 
 ______________________________________________________________________________________________________________
 
-h2. _Quickstart guides (updated ~ 2017/10/25) :_ 
+h2. _Quickstart guides (updated ~ 2017/10/27) :_ 
 
 Since this documentation is growing - a lot - as POPStarter is developped, I felt that new users could be over either too bored to read the whole documentation or overwhelmed by too much informations at the same time. So I wrote 3 quickstart guides, whose explain how to set-up POPStarter quickly.
 
