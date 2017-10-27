@@ -63,7 +63,7 @@ USB supports only 1 launch type - the "new" one :
 |  | *USB launch type* | 
 | *Prefix for POPStarter.ELF* | XX. | 
 | *POPStarter folder name* | POPS or POPS# | 
-| *Game name* | Name of the Game.VCD | 
+| *Game name* | GAME.VCD | 
 | *Description* | Launch type introduced in POPStarter 13 WIP 02. Allows to run VCDs from an USB mass storage device. |
 | *Example* | With the POPStarter ELF renamed as SB.GAME.ELF, POPStarter will launch GAME.VCD  which is in the POPStarter folder named POPS or POPS0 or POPS1 up to POPS9 placed at root of your USB device. |
 
