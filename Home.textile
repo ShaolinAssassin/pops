@@ -60,9 +60,11 @@ h2. _Features :_
 
 ______________________________________________________________________________________________________________
 
-h2. _Quickstart guides :_ 
+h2. _Quickstart guides (updated ~ 2017/10/25) :_ 
 
 Since this documentation is growing - a lot - as POPStarter is developped, I felt that new users could be over either too bored to read the whole documentation or overwhelmed by too much informations at the same time. So I wrote 3 quickstart guides, whose explain how to set-up POPStarter quickly.
+
+These packs include now Rev 13 RIP 06 as POPStarter version.
 
 * *"Quickstart guide for Internal HDD":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-hdd*
 
@@ -70,7 +72,7 @@ Since this documentation is growing - a lot - as POPStarter is developped, I fel
 
 * *"Quickstart guide for SMB":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-smb*
 
-_Update (2017/10/25) : these packs include now Rev 13 RIP 06 as POPStarter version._
+
 
 ______________________________________________________________________________________________________________
 
