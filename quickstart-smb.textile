@@ -1,13 +1,10 @@
 h1. *Quick start guide for SMB :*
 
 ______________________________________________________________________________________________________________
-_[01-10-2016 - SMB quick start guide first version]_
 
-This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it.
+This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it. Quickstarter pack includes last POPStarter version (Rev 13 RIP 06).
 
-Quickstarter pack includes last POPStarter BETA version [Rev 13 WIP 6 OBT 16] – which is now considered stable enough to be used as daily gaming version.
-
-*Download : "POPStarter_Quickstarter_Pack_SMB__2017_01_10":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_Quickstarter_Pack_SMB__2017_01_10.7z*
+* *Download :* "here":
 
 ______________________________________________________________________________________________________________
 
@@ -15,11 +12,13 @@ h2. _Step-by-step :_
 
 *a) Installing the emulator :*
 
-Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it.
-. 1 file for SMB mode, POPS_IOX.PAK - MD5 : a625d0b3036823cdbf04a3c0e1648901
+Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it. It’s made of 2 files (for SMB mode).
 
-# Find and download POPS_IOX.PAK;
-# Create a directory named POPS in your PS2 shared folder;
+pre. 
+POPS_IOX.PAK - MD5 : a625d0b3036823cdbf04a3c0e1648901
+
+# Find and download POPS_IOX.PAK ;
+# Create a directory named POPS in your PS2 shared folder ;
 # Copy POPS_IOX.PAK into POPS directory you’ve just created.
 
 *b) Installing your PS1 Games :*
@@ -32,7 +31,7 @@ POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 
 *c) Installing POPStarter :*
 
-# Grab the network modules and edit the 2 .DAT files (syntax below) with your network settings;
+# Edit the 2 .DAT files (syntax below) included with the network modules with your network settings;
 # Create a directory named POPSTARTER in the root of your PS2 memory card and put the network modules and the .DAT files in it;
 # Rename POPSTARTER.ELF as the name of your VCDs, replace the .VCD extension with a .ELF extension, add the SB. prefix; [example : for running a VCD named “Gran Turismo.VCD”, the POPStarter ELF must be renamed as “SB.Gran Turismo.ELF”];
 # Copy the ELFs where you want to run them from (example : mass:/POPSTARTER/SB.GAME.ELF).
@@ -86,7 +85,7 @@ pre.
 MyName
 MyPassword
 
-Note : don’t write anything to line 2 and 3 for guest access.
+*Note :* for guest access, don’t write anything to line 2 and 3.
 
 * *IPCONFIG.DAT syntax :*
 
