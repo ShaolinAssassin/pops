@@ -64,15 +64,13 @@ h2. _Quickstart guides :_
 
 Since this documentation is growing - a lot - as POPStarter is developped, I felt that new users could be over either too bored to read the whole documentation or overwhelmed by too much informations at the same time. So I wrote 3 quickstart guides, whose explain how to set-up POPStarter quickly.
 
-I've been told by krHACKen that *Rev 13 WIP 06 Beta 16* can be considered stable enough to be used as daily gaming version. So I updated the quickstart guides accordingly and created the SMB guide. 
-
 * *"Quickstart guide for Internal HDD":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-hdd*
 
 * *"Quickstart guide for USB Device Storage Type":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-usb*
 
 * *"Quickstart guide for SMB":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-smb*
 
-*Note (2017/10/25) :* I will update these packs including RIP 06 version as soon as I can. 
+*Update (2017/10/25) :* these packs include now Rev 13 RIP 06 as POPStarter version. 
 
 ______________________________________________________________________________________________________________
 
@@ -81,7 +79,6 @@ h2. _Announcement :_
 POPStarter project is "officially abandonned by krHACKen":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776252. Last build - "Rev 13 RIP 06":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_RIP_06.zip - was released on 2017/10/20. Thanks anyone who contributed, supported and helped this project. 
 
 ~shaolinassassin, 2017/10/21
-
 
 ______________________________________________________________________________________________________________
 
