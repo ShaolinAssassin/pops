@@ -28,7 +28,7 @@ Let's say your game is MY_GAME.VCD. The VMCs are saved to POPS/MY_GAME/. You wan
 # Save it as VMCDIR.TXT;
 # Copy VMCDIR.TXT to POPS/MY_GAME/
 
-Example :
+*Example :*
 
 pre. 
 mass:/POPS/MY_GAME.VCD
@@ -36,16 +36,20 @@ mass:/POPS/MY_GAME/VMCDIR.TXT
 mass:/POPS/BLAHBLAH/SLOT0.VMC
 mass:/POPS/BLAHBLAH/SLOT1.VMC
 
+VMCDIR.TXT content : 
+
+pre. 
+BLAHBLAH
 
 *Notes :* 
-*  All the POPStarter files (TROJANs, PATCHes, CHEATS.TXT...) will still be loaded from /POPS/MY_GAME/, but POPS will use the VMCs that are in /POPS/BLAHBLAH/
+*  All the POPStarter files (TROJANs, PATCHes, CHEATS.TXT...) will still be loaded from /POPS/MY_GAME/, but POPS will use the VMCs that are in /POPS/BLAHBLAH/ ;
 * Characters that are obviously not allowed are / \ and :
-* VMCDIR.TXT will not be loaded if it's bigger than 103 bytes or if it contains more than 1 line.
-* Target folder must remain in POPS folder.
-* This feature is useful when you are several users and want to use different VMCs. Each user can have his own VMC folder.
+* VMCDIR.TXT will not be loaded if it's bigger than 103 bytes or if it contains more than 1 line ;
+* Target folder must remain in POPS folder ;
+* This feature is useful when you are several users and want to use different VMCs. Each user can have his own VMC folder ;
 * If you want to use a single pair of VMCs for ALL your games, place the VMCDIR.TXT file in POPS folder. The VMCs will not be overwritten but mounted and loaded, and you will be able to save in them with no data loss.
 
-Example :
+*Example :*
 
 pre. 
 smb:/YourSharedFolder/POPS/Crash Bandicoot.VCD
@@ -55,15 +59,19 @@ smb:/YourSharedFolder/POPS/VMCDIR.TXT
 smb:/YourSharedFolder/POPS/SAVES/SLOT0.VMC
 smb:/YourSharedFolder/POPS/SAVES/SLOT1.VMC
 
-with SAVES written into smb:/YourSharedFolder/POPS/VMCDIR.TXT
+VMCDIR content : 
 
-Here the 3 games mentionned will use smb:/YourSharedFolder/POPS/SAVES/SLOT0.VMC and smb:/YourSharedFolder/POPS/SAVES/SLOT1.VMC as VMCs with no issue.
+pre. 
+SAVES
+
+Here the 3 games mentionned will use POPS/SAVES/SLOT0.VMC and POPS/SAVES/SLOT1.VMC as VMCs with no issue.
 
 ______________________________________________________________________________________________________________
 
 h2. _Additional notes :_ 
 
-* No physical MC support ATM - would be too slow.
+
+* No physical MC support - would be too slow.
 
 ______________________________________________________________________________________________________________
 
@@ -77,4 +85,3 @@ You may want to give a look at this :
 ______________________________________________________________________________________________________________
 
 h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
-
