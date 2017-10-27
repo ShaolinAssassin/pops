@@ -8,16 +8,18 @@ Thanks to El_Patas for keeping the archive updated ; credits for these codes go 
 
 *How to use them ?*
 
-(1) Find the patch for your game in the archive ;
-(2) Copy/paste the CHEATS.TXT file into your VMC game folder ;
-(3) With uLE TextEditor, open the CHEATS.TXT file and add the "$" symbol to enable the code. 
+1. Find the patch for your game in the archive ;
+2. Copy/paste the CHEATS.TXT file into your VMC game folder ;
+3. With uLE TextEditor, open the CHEATS.TXT file and add the "$" symbol to enable the code. 
 
-*Example :* Colin McRae Rally 2.0 (SLUS-01222) 
+*Example :* 
 
-CHEATS.TXT : 
+Colin McRae Rally 2.0 (SLUS-01222) 
+
+CHEATS.TXT content : 
 
 pre. 
-Widescreen hack by VIRGIN KLM (Gameshark/Action Replay codes) & Paul_met (Hexadecimal codes)
+Widescreen hack by VIRGIN KLM (Gameshark/Action Replay codes) and Paul_met (Hexadecimal codes)
 $SAFEMODE
 #Colin McRae Rally 2.0 [NTSC-U] (SLUS-01222) 
 ----------------------------------------------------------------------------------------
@@ -37,13 +39,14 @@ _4:3_
 
 _16:9_
 
-For some games, Eyefinity codes were also created :
+For some games, Eyefinity (3x16:9) codes were also created :
 
 !https://bitbucket.org/repo/Mpy7Eg/images/270560112-16h0lcg.jpg!
 
 _Eyefinity_
 
-* *Note :* these codes can be converted into HEX codes, applied to game images and used on a PlayStation 1 retail console with no problem (as reported by some users). 
+
+*Note :* these codes can be used on a PlayStation 1 retail console with no problem (either as GS codes with a PS1 cheat device, either as HEX codes and applied to game images. 
 
 
 ______________________________________________________________________________________________________________
