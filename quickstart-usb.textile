@@ -12,7 +12,7 @@ h2. _Step-by-step :_
 
 *a) Installing the emulator :*
 
-Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it. It’s made of 2 files (for USB mode).
+Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it. It’s made of 1 file (for USB mode).
 
 pre. 
 POPS_IOX.PAK - MD5 : a625d0b3036823cdbf04a3c0e1648901
