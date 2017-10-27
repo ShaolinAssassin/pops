@@ -33,10 +33,20 @@ POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 
 *c) Installing POPStarter :*
 
-# Put uLE_kHn_20160723/BOOT in mc0:/BOOT folder. This special uLE version can launch .VCD directly ;
-# Put POPSTARTER.ELF into __common/POPS ;
+# Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .ELF extension (example : for running a VCD named “Crash Bandicoot.VCD”, the POPStarter ELF must be renamed as “Crash Bandicoot.ELF”) ;
+# Copy the ELFs in __common/POPS.
 
-Now, check your setup. It must be the same as this :
+Now, check your setup. It must be the same as this one :
+
+pre. 
+hdd:/__common/POPS/IOPRP252.IMG
+hdd:/__common/POPS/POPS.ELF
+hdd:/__common/POPS/GAME.ELF
+hdd:/__.POPS/GAME.VCD
+
+=> to launch your game, run GAME.ELF.
+
+*Note :* tired of renaming tons of ELF files ? Put uLE_kHn_20160723/BOOT in mc0:/BOOT folder and put POPSTARTER.ELF (not renamed) in __common/POPS directory. This special uLE version can launch .VCD directly – just like you would do for any .ELF file.
 
 pre. 
 hdd:/__common/POPS/IOPRP252.IMG
@@ -44,8 +54,6 @@ hdd:/__common/POPS/POPS.ELF
 hdd:/__common/POPS/POPSTARTER.ELF
 hdd:/__.POPS/GAME.VCD
 mc0:/BOOT/BOOT.ELF
-
-=> to launch your game, run mc0:/BOOT/BOOT.ELF, then launch GAME.VCD - just like you would do for any .ELF file.
 
 Need help ? Ask over at "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/.
 ______________________________________________________________________________________________________________
