@@ -15,20 +15,11 @@ h2. _Software Requirements :_
 ______________________________________________________________________________________________________________
 
 
-h2. Video tutorial : "here":https://www.youtube.com/watch?v=ks5CN-Kfv04
+h3. _Video tutorial :_ "here":https://www.youtube.com/watch?v=ks5CN-Kfv04
 
-_[Made by Waats]_
+h3. _Text version - based on the video :_
 
-
-______________________________________________________________________________________________________________
-
-
-
-h2. _Text version_ - based on the video :
-
-
-h3. _*Transfer one VCD :*_ 
-
+*Transfer one VCD :*
 
 1. Put your VCDs files in the psshell 0.2a folder.
 2. Run pfsshell.exe
@@ -37,7 +28,7 @@ h3. _*Transfer one VCD :*_
 pre. 
 device hddX:
 
-where X is the number of your PS2 HDD.
+X = the number of your PS2 HDD.
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3283922665-1.png(title)!
 
@@ -66,14 +57,12 @@ umount
 
 then 
 
-
 pre. 
 exit 
 
-7. You're done. 
+7. Done. 
 
-
-h3. _*Transfer several VCD at once :*_   
+*Transfer several VCD at once :*
 
 _[Original tutorial by ElPatas]_ "@elotrolado":http://www.elotrolado.net/hilo_ho-pops-emulador-de-psx-para-ps2_1874054 -  _[.bat files thanks to "deba5er":http://psx-scene.com/forums/members/deba5er/ ]_
 
@@ -93,9 +82,6 @@ pfs.bat hddX: __.POPS *.VCD
 * where X is the number of your PS2 HDD;
 * __.POPS the partition where the VCDs will be transfer;
 * *.VCD means to tranfer all files with .VCD extension.
-
-
-
 
 
 ______________________________________________________________________________________________________________
