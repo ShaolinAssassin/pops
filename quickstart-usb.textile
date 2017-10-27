@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it. Quickstarter pack includes last POPStarter version (Rev 13 RIP 06).
 
-*Download :* "here":
+* *Download :* "here":
 
 ______________________________________________________________________________________________________________
 
@@ -31,10 +31,19 @@ POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 
 *c) Installing POPStarter :*
 
-# Put uLE_kHn_20160723/BOOT in mc0:/BOOT folder. This special uLE version can launch .VCD directly ;
-# Put POPSTARTER.ELF in mass:/POPS directory.
+# Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .ELF extension, add the XX. prefix (example : for running a VCD named “Crash Bandicoot (PAL).VCD”, the POPStarter ELF must be renamed as “XX.Crash Bandicoot (PAL).ELF”) ;
+# Copy the ELFs in mass:/POPS.
 
 Now, check your setup. It must be the same as this :
+
+pre. 
+mass:/POPS/POPS_IOX.PAK
+mass:/POPS/XX.GAME.ELF
+mass:/POPS/GAME.VCD
+
+=> to launch your game, run XX.GAME.ELF.
+
+*Note :* tired of renaming tons of ELF files ? Put uLE_kHn_20160723/BOOT in mc0:/BOOT folder and put POPSTARTER.ELF (not renamed) in mass:/POPS directory. This special uLE version can launch .VCD directly - just like you would do for any .ELF file.
 
 pre. 
 mass:/POPS/POPS_IOX.PAK
@@ -42,9 +51,8 @@ mass:/POPS/POPSTARTER.ELF
 mass:/POPS/GAME.VCD
 mc0:/BOOT/BOOT.ELF
 
-=> to launch your game, run mc0:/BOOT/BOOT.ELF, then launch GAME.VCD - just like you would do for any .ELF file.
-
 Need help ? Ask over at "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/.
+
 ______________________________________________________________________________________________________________
 
 h3. "*Wiki Homepage*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
