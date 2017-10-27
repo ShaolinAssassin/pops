@@ -10,7 +10,7 @@ Some useful commands have been automated. Here are them :
 | $SAFEMODE | Disables the cheat engine and only activate it after POPS has left the PS OSD. | Should be always ON. Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
 | $COMPATIBILITY_0x## | Activates a "compatibility mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility. | ## is a hexadecimal value. You can write as many $COMPATIBILITY_0x## as you want. |
 | $CODECACHE_ADDON_0 | For games that lag badly or stall randomly. | If compatibility mode and mode 0x04 doesn't fix that doesn't fix your issue. Do not use it by default on all your games, because most games will stop working with it. |
-| $SUBCDSTATUS | Undocumented |  |
+| $SUBCDSTATUS | A variant of $COMPATIBILITY_0x05. |  |
 | $FAKELC | Loads a null LibCrypt magic word into the cop0 register. | May be needed by some discs that have a messed up LC protection. |
 | $SMOOTH | Enables the "smooth texture":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/smooth mapping at startup. | Just for the records : value is $S0003390 00000001. |
 | $NOPAL | Disables POPStarters' PAL patcher. | Can be done using a "PATCH_#.BIN":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/NOPAL_PATCH.7z file.  |
