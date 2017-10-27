@@ -17,7 +17,7 @@ To use POPStarter in SMB mode, you have to find and download the compressed POPS
 
 * A software that allows you to convert your disc images to the POPS virtual CDROM format (such as "CUE2POPS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version) ;
 * A PS2 software that allows you to execute the POPStarter ELFs (such as "uLaunchELF":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff, or "Free Harddisk Drive Boot":http://ichiba.geocities.jp/ysai187/PS2/FMCB/) or a GUI to execute POPSTARTER.ELF by selecting the VCDs (such as "uLE_kHn":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version) ;
-* "PS2 network modules":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/network_modules.zip ;
+* "PS2 network modules":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/network_modules.7z ;
 * A text editor (such as Notepad).
 
 *Hardware Requirements :* 
