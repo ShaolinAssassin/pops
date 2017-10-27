@@ -41,8 +41,8 @@ h2. _Installation :_
 *c) Installing POPStarter :* 
 
 # Rename the POPStarter ELF as the name of your VCDs, replace the .VCD extension with a .ELF extension, add the XX. prefix (example : for running a VCD named “Crash Bandicoot (PAL).VCD”, the POPStarter ELF must be renamed as “XX.Crash Bandicoot (PAL).ELF”) ;
-2. Copy or leave the ELFs where you want to run them from.
-3. Enjoy !
+# Copy or leave the ELFs where you want to run them from.
+# Enjoy !
 
 ______________________________________________________________________________________________________________
 
