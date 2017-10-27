@@ -10,21 +10,21 @@ h2.  _Software Requirements :_
 * "MemcardRex 1.8":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/related-stuff
 ______________________________________________________________________________________________________________
 
-1. [PS2] Gather all the necessary files :
-* Copy/paste - with uLE - all your PS1 saves from your PS1 MC to USB, then to your PC;
-* Copy/paste - with uLE - the VMC of your game (SLOT1.VMC, in POPS directory) to USB, then to your PC.
+1. [PS2 side] Gather all the necessary files :
+* Copy/paste - with uLE - all your PS1 saves from your PS1 MC to USB, then to your PC ;
+* Copy/paste - with uLE - the VMC of your game (SLOT1.VMC, in POPS directory) to USB, then to your PC ;
 
-2. [PC] Launch MemcardRex, click "Open", then "All files", then browse to your VMC.
+2. [PC side] Launch MemcardRex, click "Open", then "All files", then browse to your VMC ;
 
 !https://bitbucket.org/repo/Mpy7Eg/images/1060162485-04_bmp10.jpg(title)!
 
-3. [PC] Import PS1 saves into the VMC : select the first Free slot, then "Import Save", then browse to your PS1 MC save, select it and you're done. Your PS1 MC save is now in your VMC.
+3. [PC] Import PS1 saves into the VMC : select the first Free slot, then "Import Save", then browse to your PS1 MC save, select it and you're done. Your PS1 MC save is now in your VMC ;
 
 !https://bitbucket.org/repo/Mpy7Eg/images/3387794816-05_bmp10.jpg(title)!
 !https://bitbucket.org/repo/Mpy7Eg/images/1817022192-06_bmp10.jpg(title)!
 !https://bitbucket.org/repo/Mpy7Eg/images/1144105031-07_bmp10.jpg(title)!
 
-4. [PC] If your PS1 game saves different kind of content (game date, settings data, replay data like in this _Gran Turismo_ save), you can also import them by repeating the operation. 
+4. [PC] If your PS1 game saves different kind of content (game date, settings data, replay data like in this _Gran Turismo_ save), you can also import them by repeating the operation ; 
 
 !https://bitbucket.org/repo/Mpy7Eg/images/2785125941-10_bmp10.jpg(title)!
 
