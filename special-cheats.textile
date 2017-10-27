@@ -5,6 +5,7 @@ ________________________________________________________________________________
 
 Some useful commands have been automated. Here are them :
 
+* *Sample :* "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/CHEATS.TXT
 
 | *Cheat Code* | *Description* | *Notes* |
 | $SAFEMODE | Disables the cheat engine and only activate it after POPS has left the PS OSD. | Should be always ON. Some game codes do patch the memory area where the PS OSD is loaded, causing crashes and other garbage... |
