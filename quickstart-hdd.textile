@@ -1,12 +1,10 @@
 h1. *Quick start guide for internal HDD :*
 
 ______________________________________________________________________________________________________________
-_[UPDATE 01-10-2016 – POPStarter version updated to OBT16]_
 
-This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it.
-Quickstarter pack includes last POPStarter BETA version [Rev 13 WIP 6 OBT 16] – which is now considered stable enough to be used as daily gaming version.
+This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it. Quickstarter pack includes last POPStarter version (Rev 13 RIP 06).
 
-*Download : "POPStarter_Quickstarter_Pack_HDD__2017_01_10":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_Quickstarter_Pack_HDD_2017_01_10.7z*
+* *Download : "here":
 
 ______________________________________________________________________________________________________________
 
@@ -14,27 +12,28 @@ h2. _Step-by-step :_
 
 *a) Installing the emulator :*
 
-Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it. 
-[2 files for HDD mode : 
-. POPS.ELF - MD5 : 355a892a8ce4e4a105469d4ef6f39a42
-. IOPRP252.IMG - MD5 : 1db9c6020a2cd445a7bb176a1a3dd418]
+Since POPS (the emulator) is copyrighted by SONY, it can not be redistributed with POPStarter. You have to find it. It's made of 2 files (for HDD mode). 
 
-# Find and download POPS.ELF & IOPRP252.IMG;
-# Create a directory named POPS in the __common partition of your PS2 HDD;
+pre. 
+POPS.ELF - MD5 : 355a892a8ce4e4a105469d4ef6f39a42
+IOPRP252.IMG - MD5 : 1db9c6020a2cd445a7bb176a1a3dd418
+
+# Find and download POPS.ELF & IOPRP252.IMG ;
+# Create a directory named POPS in the __common partition of your PS2 HDD ;
 # Paste POPS.ELF and IOPRP252.IMG into the “POPS” directory you’ve just created.
 
 *b) Installing your PS1 Games :*
 
 POPStarter/POPS doesn’t support PS1 disc images as .iso – but only as .VCD.
 
-# Create a disc image of your PS1 game as BIN/CUE;
-# Drag & drop your .cue file over CUE2POPS.EXE to convert your BIN/CUE disc image to .VCD file (you can convert several games at once by running BULK_CUE2POPS.BAT);
-# Create a partition named __.POPS in your PS2 HDD, large enough so you can put all your VCDs inside. 
-# Transfer your .VCD file(s) in __.POPS partition. The easiest & recommended method is using "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/radhostclient.
+# Create a disc image of your PS1 game as BIN/CUE ;
+# Drag & drop your .cue file over CUE2POPS.EXE to convert your BIN/CUE disc image to .VCD file (you can convert several games at once by running BULK_CUE2POPS.BAT) ;
+# Create a partition named __.POPS in your PS2 HDD, large enough so you can put all your VCDs inside ; 
+# Transfer your .VCD files in __.POPS partition. The easiest & recommended method is using "RadHostClient":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/radhostclient.
 
 *c) Installing POPStarter :*
 
-# Put uLE_kHn.ELF in __common. This special uLE version can launch .VCD directly;
+# Put uLE_kHn_20160723/BOOT in mc0:/BOOT folder. This special uLE version can launch .VCD directly ;
 # Put POPSTARTER.ELF into __common/POPS ;
 
 Now, check your setup. It must be the same as this :
@@ -44,9 +43,9 @@ hdd:/__common/POPS/IOPRP252.IMG
 hdd:/__common/POPS/POPS.ELF
 hdd:/__common/POPS/POPSTARTER.ELF
 hdd:/__.POPS/GAME.VCD
-hdd:/__common/uLE_kHn.ELF
+mc0:/BOOT/BOOT.ELF
 
-=> to launch your game, run uLE_kHn.ELF, then launch GAME.VCD - just like you would do for any .ELF file.
+=> to launch your game, run mc0:/BOOT/BOOT.ELF, then launch GAME.VCD - just like you would do for any .ELF file.
 
 Need help ? Ask over at "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/.
 ______________________________________________________________________________________________________________
