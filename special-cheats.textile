@@ -31,8 +31,8 @@ Some useful commands have been automated. Here are them :
 | $005070B8 00000001 | Rumble Always On (Pad 2). |  |
 | "$D2LS":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/D2LS  | "Left Stick is the D-Pad" code + Stay on Digital Mode.  | Enables joystick support for games that doesn't support it natively. $D2LS should be OK for most games. If it doesn't work, the user should try $D2LS_ALT. |
 | $D2LS_ALT | "Left Stick is the D-Pad" code + Stay on Analog Mode. | Enables joystick support for games that doesn't support it natively. |
-| $NOVMC0 | Undocumented. |  |
-| $NOVMC1 | Undocumented. |  |
+| $NOVMC0 | Use VMC1 only. |  |
+| $NOVMC1 | Use VMC0 only. |  |
 | $IGR0 | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/310130791-Playstation-Button-X.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/202135531-Playstation-Dpad-Down.png(title)! | Opens the IGR menu. |
 | $IGR1 | !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! |  Opens the IGR menu. |
 | $IGR2 | !https://bitbucket.org/repo/Mpy7Eg/images/1415872802-Playstation-Button-L1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3667653909-Playstation-Button-L2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/3507486238-Playstation-Button-R1.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2283666138-Playstation-Button-R2.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2984521000-Playstation-Button-Select.png(title)! + !https://bitbucket.org/repo/Mpy7Eg/images/2691718556-Playstation-Button-Start.png(title)! |  Opens the IGR menu. |
