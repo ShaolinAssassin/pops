@@ -1,6 +1,7 @@
 h1. *Quick start guide for SMB :*
 
 ______________________________________________________________________________________________________________
+_(updated ~ 2017/10/27)_
 
 This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it. Quickstarter pack includes last POPStarter version (Rev 13 RIP 06).
 
