@@ -59,6 +59,7 @@ _[ Original documentation by "krHACKen":https://assemblergames.com/members/krhac
 * "POPStarter Changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-changelog
 * "Toolbox/CUE2POPS Changelog":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/cue2pops-and-toolbox-changelogs
 * "POPS' History":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/history
+* "Rip-offs – warning":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/rip-off
 
 "*8. Downloads*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads
 * "Apps Last Version – Download Links":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/apps-last-version
