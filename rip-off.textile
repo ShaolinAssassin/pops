@@ -1,0 +1,18 @@
+h1. *Rip-off - warning*
+
+
+______________________________________________________________________________________________________________
+
+You may find online some POPS-00001 and POPStarter bundles distributed by a guy named _psalmsamuel_. This guy is famous for distributing hexediting homebrews ("FMCB":http://psx-scene.com/forums/f153/their-scammer-fmcb-115279/ and Open PS2 Loader for example...), removing splash screens/logos/credits, replacing texts by its own, spreading lies... He uses various nicknames : psalmsamuel, Yeshuachrist, The_Pot_Of_Greed...
+
+You are strongly adviced to *NOT* use his stuff, as it was proved that is was nothing but "sabotage":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-14#post-684424 - which could ruin your PS2 stuff. 
+
+
+
+
+
+
+______________________________________________________________________________________________________________
+
+
+h3. "*Index*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/index
