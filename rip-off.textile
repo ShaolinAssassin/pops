@@ -7,7 +7,7 @@ You may find online some POPS-00001 and POPStarter bundles distributed by a guy 
 
 You are strongly adviced to *NOT* use his stuff, as it was proved that is was nothing but "sabotage":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-14#post-684424 - which could ruin your PS2 stuff. 
 
-* *Known bundles distributed by psalmsamuel/yeshuachrist :*
+*Known bundles distributed by psalmsamuel/yeshuachrist :*
 
 * "POPS-00001 Emulator Working.rar" (MD5 : 7a3d61bfd48c6cf2db6f38b2f48b53eb) - distributed as psalmsamuel ;
 * "POPS-00001 Working.rar" (distributed on a google drive account, MD5 : 191faf0722f78730c7cf09bdf8071f13) - distributed as psalmsamuel ;
