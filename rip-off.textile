@@ -11,7 +11,7 @@ You are strongly adviced to *NOT* use his stuff, as it was proved that is was no
 
 * "POPS-00001 Emulator Working.rar" (MD5 : 7a3d61bfd48c6cf2db6f38b2f48b53eb) - distributed as psalmsamuel ;
 * "POPS-00001 Working.rar" (distributed on a google drive account, MD5 : 191faf0722f78730c7cf09bdf8071f13) - as psalmsamuel ;
-* "POPS-00001 Tool Kit No more Hex Editors + Tutorial" pack - as yeshuachrist ;
+* "POPS-00001 Tool Kit.rar" - as yeshuachrist ;
 * "POPSTARTER_Package_11.rar" (distributed on a google drive account, MD5 : cf97c7d103b3689e694467c3e44ebb17) - as psalmsamuel ;
 * "POPSTARTER_Package_15_7_15.rar" (distributed on a google drive account, MD5 : 4da9d8e27d278ed5b99a99c6f9782fe1) - as yeshuachrist ;
 * "POPSTARTER_Package_15_7_27.rar" (distributed on a google drive account, MD5 : f4e5e37a9461e6de88885b0fbfbf376f) - as yeshuachrist ;
