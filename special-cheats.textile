@@ -43,6 +43,8 @@ Some useful commands have been automated. Here are them :
 | $NOIGR | Disables the IGR menu. |  |
 | $CACHE1 | Makes POPS buffer 1 sector instead of 16. | |
 | $USBDELAY_# | Sets up the PFS wrapper USB delay. | # is a number. |
+| $SET_TIMINGS | Tech stuff... | Read changes introduced in Prototype 5 in the "changelog": https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-changelog. |
+| $LOAD_TIMINGS | Tech stuff... | Read changes introduced in Prototype 5 in the "changelog": https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/popstarter-changelog. |
 
 
 
