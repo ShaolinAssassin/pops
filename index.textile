@@ -49,6 +49,7 @@ _[ Original documentation by "krHACKen":https://assemblergames.com/members/krhac
 * "Advanced Settings":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/configuration-table
 
 *6. Help*
+* "Search on the wiki":https://www.google.fr/search?biw=1280&bih=700&ei=It71WbMawbBqq-eikA0&q=your+search+site%3Ahttps%3A%2F%2Fbitbucket.org%2FShaolinAssassin%2Fpopstarter-documentation-stuff%2Fwiki%2F&oq=your+search+site%3Ahttps%3A%2F%2Fbitbucket.org%2FShaolinAssassin%2Fpopstarter-documentation-stuff%2Fwiki%2F&gs_l=psy-ab.3...10048.12909.0.13709.12.12.0.0.0.0.220.1249.10j1j1.12.0....0...1.1.64.psy-ab..0.0.0....0.jNvnI7s_gyM
 * "POPStarter Help":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/help
 * "Debug Mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode
 * "FAQs":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/faqs
