@@ -19,7 +19,7 @@ You are strongly adviced to *NOT* use his stuff, as it was proved that is was no
 * "POPSTARTER_Package__15_6.rar" (MD5 : 3ed32a3899255953c93a32e478384577) distributed on a google drive account ;
 * "POPSTARTER_Package_15_7_22.rar" (MD5 : 2f55b7a5bcbec074e35e6b6f8e50c854) distributed on a google drive account ;
 
-* Unrelated bundles : 
+*Unrelated bundles :*
 
 * "FMCB_Plus_OPL_Invisible_Icon_and_More.rar" (MD5 : 9f08e22062b4560ac96633b9d5f311cb) ;
 * "HDD-OSD Plus KERMIT.rar" (MD5 : d7338ee6a18267a56dc6c587c36eb5c1) ;
