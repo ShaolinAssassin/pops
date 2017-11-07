@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 * *"PS3 support :":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-105#post-936970* POPStarter test build works in a CECHA (no controller response on POPS tho).
 
-* *"IGR :"https://www.metagames-eu.com/forums/1776443-post480.html* not working with a DS3 controller in BT mode (working in USB mode).
+* *"IGR :":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-a-48-134569.html#post1776443* not working with a DS3 controller in BT mode (working in USB mode).
 
 
 ______________________________________________________________________________________________________________
