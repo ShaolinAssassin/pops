@@ -8,6 +8,10 @@ This documentation concerns the advanced configuration of POPStarter r13, involv
 
 The POPStarter r13 ELF and KELF have a 32 bytes long configuration table, starting from the offset $410 (or 1040 in decimal).
 
+_Default values :_ 
+
+!https://bitbucket.org/repo/Mpy7Eg/images/28454758-Sans-titre-1.jpg(title)!
+
 *Caution* : Unless you know exactly what it is for and what you're doing, please don't tamper with it. Hexediting of that stuff is for advanced users only. Make a backup of the default config before you start changing values. 
 
 | *Offset* | *Description* | *Values* | *Notes* |
@@ -78,11 +82,7 @@ The POPStarter r13 ELF and KELF have a 32 bytes long configuration table, starti
 |   |   | 0x03 = Enable all |   |
 |   |   | 0x04 = Enable "test mode" | "Test mode" disables per-game fixes, automated compatibility modes, LibCrypt fixes, and enables integrated test-hacks |
 
-______________________________________________________________________________________________________________
 
-h2. _Default values :_ 
-
-!https://bitbucket.org/repo/Mpy7Eg/images/28454758-Sans-titre-1.jpg(title)!
 
 ______________________________________________________________________________________________________________
 
