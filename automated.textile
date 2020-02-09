@@ -7,7 +7,7 @@ These fixes will be automatically applied to your game *as long as you use prope
 
 h3. _Compatibility modes :_ 
 
-POPStarter Revision 13 RIP 06 auto-activates "compatibility modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility for the following games :
+POPStarter Revision 13 Beta 2019/06/05 auto-activates "compatibility modes":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/compatibility for the following games :
 
 * 40 Winks (SLUS-00874) : $COMPATIBILITY_0x04
 * ASCII Entertainment Demo CD (SLUS-90010) : $COMPATIBILITY_0x04
@@ -328,7 +328,7 @@ h3. _LibCrypt fixes :_
 
 "LibCrypt":http://wiki.redump.org/index.php?title=PlayStation_1:_LibCrypt_protection is a protection introduced by SONY to prevent games being used on a mod-chipped system. POPStarter can by-pass this protection for "all known LibCrypt protected games":http://redump.org/special-discs/. 
 
-POPStarter Revision 13 RIP 06 auto-activates LibCrypt fixes for the following games :
+POPStarter Revision 13 Beta 2019/06/05 auto-activates LibCrypt fixes for the following games :
 
 * Actua Ice Hockey 2 (SLES-01226)
 * Anstoss: Premier Manager (SLES-02563)
@@ -559,7 +559,7 @@ ________________________________________________________________________________
 
 h3. _Miscellaneous fixes :_ 
 
-POPStarter Revision 13 RIP 06 auto-activates miscellaneous fixes for the following games :
+POPStarter Revision 13 Beta 2019/06/05 auto-activates miscellaneous fixes for the following games :
 
 * 007: Demain Ne Meurt Jamais (SLES-02375)
 * 007: Der Morgen Stirbt Nie (SLES-02376)
