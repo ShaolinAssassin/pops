@@ -1,11 +1,11 @@
 h1. *Quick start guide for internal HDD :*
 
 ______________________________________________________________________________________________________________
-_(updated ~ 2017/10/27)_
+_(updated ~ 2020/02/09)_
 
-This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it. Quickstarter pack includes last POPStarter version (Rev 13 RIP 06).
+This is a step-by-step basic guide for new POPStarter users. If you are already familiar with POPStarter, you don’t need it. Quickstarter pack includes last POPStarter version (Rev 13 Beta 2019/06/05).
 
-* *Download :* "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_HDD_Quickstarter_Pack_20171027.7z
+* *Download :* "here":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_HDD_Quickstarter_Pack_20200209.zip
 
 ______________________________________________________________________________________________________________
 
@@ -47,7 +47,7 @@ hdd:/__.POPS/GAME.VCD
 
 => to launch your game, run GAME.ELF.
 
-*Note :* tired of renaming tons of ELF files ? Put uLE_kHn_20160723/BOOT in mc0:/BOOT folder and put POPSTARTER.ELF (not renamed) in __common/POPS directory. This special uLE version can launch .VCD directly – just like you would do for any .ELF file.
+*Note :* tired of renaming tons of ELF files ? Put uLE_kHn_20191110/BOOT in mc0:/BOOT folder and put POPSTARTER.ELF (not renamed) in __common/POPS directory. This special uLE version can launch .VCD directly – just like you would do for any .ELF file.
 
 pre. 
 hdd:/__common/POPS/IOPRP252.IMG
@@ -56,7 +56,7 @@ hdd:/__common/POPS/POPSTARTER.ELF
 hdd:/__.POPS/GAME.VCD
 mc0:/BOOT/BOOT.ELF
 
-Need help ? Ask over at "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/.
+Need help ? Ask over at "PSX-Place":https://www.psx-place.com/threads/popstarter-beta-from-2019-06-05.19139/.
 ______________________________________________________________________________________________________________
 
 h3. "*Wiki Homepage*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/Home
