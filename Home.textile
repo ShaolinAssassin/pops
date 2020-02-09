@@ -12,25 +12,20 @@ ________________________________________________________________________________
 
 h2. _Download :_  
 
-* *FINAL RELEASE :* *"POPStarter Revision 13 RIP 06 (2017/10/20)":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_RIP_06.zip*
+* *FINAL RELEASE :* *"POPStarter Revision 13 Beta 2019/06/05":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_Beta_20190605.zip*
 
 pre. 
-- Code cleanup
-- USBD and USBHDFSD drivers reverted to builds from WIP 02
-Since the drivers from prototype 2 reduced performances in BOTH POPStarter and POPS.
-- Bugfixed : POPStarter wasn't loading MODULE_#.IRX.
-Massive thanks to ShaolinAssassin for helping me to find what was broken.
-- POPStarter now accepts PS2CD and PS2CDDA disc types.
-In other words, you can now perform the disc swap trick with a pressed PS2 CDROM, in uLE or Swap Magic for example.
-Your original disc (PS1/PS2) track 1 (data track) must have an equal or bigger TOC than the track 1 of your backup.
-- Automated $COMPATIBILITY_0x05 for Resident Evil SLES-00200/SLES-00227/SLES-00228 as requested.
+- Compiled with jan 14 2019 USB drivers. 
+- One (or more) non-working command was fixed too. 
+I vaguely remember that $IGR5 was not working, and was fixed in this last build.
+- This is the POPStarter version everyone should use, 2019/06/05. This is the last beta.
 
 
 ______________________________________________________________________________________________________________
 
 h2. _Official Thread :_ 
 
-* [PS2] POPS stuff & POPStarter @"ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/
+* [PS2] POPS stuff & POPStarter @"PSX-Place":https://www.psx-place.com/threads/popstarter-beta-from-2019-06-05.19139/
 
 ______________________________________________________________________________________________________________
 
@@ -79,7 +74,7 @@ ________________________________________________________________________________
 
 h2. _Announcement :_ 
 
-POPStarter project is "officially abandonned by krHACKen":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776252. Last build - "Rev 13 RIP 06":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_RIP_06.zip - was released on 2017/10/20. POPStarter src code is unreleased. Some stuff you need to know about it "here":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-112#post-953611.
+POPStarter project is "officially abandonned by krHACKen":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776252. Last build - "Rev 13 Beta 2019/06/05":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_Beta_20190605.zip - was released on 2019/06/05. POPStarter src code is unreleased. Some stuff you need to know about it "here":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-112#post-953611.
 Thanks anyone who contributed, supported and helped this project. 
 
 ~shaolinassassin, 2017/10/27
