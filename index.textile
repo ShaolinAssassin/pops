@@ -4,7 +4,7 @@ h1. *Wiki - Table of Content*
 ______________________________________________________________________________________________________________
 _[ Original documentation by "krHACKen":https://assemblergames.com/members/khn.105594/ - updated by "shaolinassassin":https://assemblergames.com/members/dasa.76928/ ]_
 
-*Note :* the following documentation is up-to-date with *Rev13 RIP 06*. 
+*Note :* the following documentation is up-to-date with *Rev13 Beta 2019/06/05*. 
 
 "*1. POPStarter for Internal HDD*":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
 * "Requirements":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/hdd-mode
@@ -84,7 +84,7 @@ ________________________________________________________________________________
 
 _*Need help ?*_ 
 
-Ask over at "ASSEMblergames":https://assemblergames.com/threads/ps2-pops-stuff.45347/. Be sure to run POPStarter in "debug mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode before.
+Ask over at "PSX-Place":https://www.psx-place.com/threads/popstarter-beta-from-2019-06-05.19139/. Be sure to run POPStarter in "debug mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/debug-mode before.
 
 ______________________________________________________________________________________________________________
 
