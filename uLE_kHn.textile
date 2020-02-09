@@ -26,6 +26,8 @@ h2. _Changelog :_
 
 *Note :* uLE_kHn is discontinued.
 
+* *uLE_kHn_20191110 - 2019/11/10*
+
 * *"uLE_kHn_20160723 - 2016/07/24":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-84#post-895246*
 
 pre. 
