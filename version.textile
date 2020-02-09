@@ -14,7 +14,7 @@ Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue on the p
 * some protos doesn't have a build date and build ID.
 
 | *Version* | *Build date YY YY MM DD (blue)* | *Build ID (red)* |
-| Rev 13 Beta 20190605 (Final release) | 2019/06/05 |
+| Rev 13 Beta 20190605 (Final release) | 20 19 06 05 |
 | Rev 13 Beta 20190104 | 20 19 01 04 |
 | Rev 13 Beta 20180924 | 20 18 09 24 |
 | Rev 13 Beta 20180922 | 20 18 09 22 |
