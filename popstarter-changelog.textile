@@ -3,7 +3,76 @@ h1. *POPStarter Changelog :*
 
 ______________________________________________________________________________________________________________
 
-* *"Rev 13 RIP 06 - 2017/10/20":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-111#post-952484*
+* *"Rev 13 Beta - 2019/06/05":https://web.archive.org/web/20191112102620/https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-124*
+
+pre. 
+- Compiled with jan 14 2019 USB drivers. 
+- One (or more) non-working command was fixed too. 
+I vaguely remember that $IGR5 was not working, and was fixed in this last build.
+- This is the POPStarter version everyone should use, 2019/06/05. This is the last beta.
+ 
+
+* *"Rev 13 Beta - 2019/01/04":https://web.archive.org/web/20191112102619/https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-123*
+
+pre. 
+- Compiled current POPStarter code with different USB drivers: 
+- 20181103_POPSTARTER.ELF = with Jolek's drivers from package POPSTARTER-USB03112018.7z
+- 20181105_POPSTARTER.ELF = with Jolek's drivers from package POPSTARTER-USB05112018.7z
+- 20181208_POPSTARTER.ELF = with Jolek's drivers from package POPSTARTER-USB [081218].7z
+- BUILDBOT_POPSTARTER.ELF = with drivers from AKuHAK's buildbot. 
+Actually I've extracted them from the wLE build.
+wLaunchELF 1c8a005 2019-01-03_22:39:24 / ps2sdk 9cf086df 2019-01-03_05:05:32
+Although the last commit on USBHDFSD is 97b53a1 from 2018/12/08, this binary was somehow 
+different from Jolek's...
+- ORIGINAL_POPSTARTER.ELF = with the "reliable" 2014 drivers that i would like to get rid of. 
+Same drivers were embedded in all the POPStarter binaries (except in some broken builds) 
+since r13 WIP 02 and the introduction of the USB loading mode.
+- RIP06_POPSTARTER.ELF = with drivers of the rushed RIP 06 release. From 2017. 
+If my memory serves me right, they're supposedly causing stuttering issues with POPS. 
+But it was told before i've found (and finally fixed) something awful in my own code, 
+which was causing a gignormous waste of perfs.
+- Before you use the above POPStarter builds, don't forget to remove or rename the 
+USB drivers that you've copied to mc#:/POPSTARTER/, otherwise POPStarter 
+will load them of course. 
+
+
+* *"Rev 13 Beta - 2018/09/24":https://web.archive.org/web/20191112064559/https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-119*
+
+pre. 
+- Game fixes 
+- The MediEvil-specific LibCrypt crack are now working.
+
+
+* *"Rev 13 Beta - 2018/09/22":https://web.archive.org/web/20191112064559/https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-119*
+
+pre. 
+There is no commented information about the changes of this beta.
+
+
+* *"Rev 13 Beta - 2018/09/21":https://web.archive.org/web/20191112064559/https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-119*
+
+pre. 
+- USB drivers rolled back. 
+- Cheat engine hook fixed
+- Re-enabled 9 recompiler subroutines that has been forgotten to uncomment in the previous beta build.
+A blob of assembly that was crafted during the prototype series and which is present in the final RIP 06. 
+I guess it was required for some game(s) to stop glitching... Seems to not impact the performances.
+- Also, is not tried, but the command $SET_TIMINGS may potentially cause slowdows and crap to come back,
+judging by how this has been implemented. No one uses it anyway, it's useless. 
+Will be patched it in the next build.
+EDIT : Nope. In fact $SET_TIMINGS got completely disabled.
+
+
+* *"Rev 13 Beta - 2018/09/20":https://web.archive.org/web/20191112064559/https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-119*
+
+pre. 
+- Tried to solve the piss poor performances of the rushed RIP 06 release, but since 
+it's been 11 months, there are probably broke things. 
+Need to know if they can fixed this possibly broken things, add LibCrypt keys.
+- The cheat engine is down.
+
+
+* *"Rev 13 RIP 06 - 2017/10/20":https://web.archive.org/web/20191108225459/https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-111*
 
 pre. 
 - Code cleanup.
