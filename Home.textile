@@ -56,11 +56,11 @@ h2. _Features :_
 
 ______________________________________________________________________________________________________________
 
-h2. _Quickstart guides (updated ~ 2017/10/27) :_ 
+h2. _Quickstart guides (updated ~ 2020/02/09) :_ 
 
 Since this documentation is growing - a lot - as POPStarter is developped, I felt that new users could be over either too bored to read the whole documentation or overwhelmed by too much informations at the same time. So I wrote 3 quickstart guides, whose explain how to set-up POPStarter quickly.
 
-These packs include now Rev 13 RIP 06 as POPStarter version.
+These packs include now Rev 13 Beta 2019/06/05 as POPStarter version.
 
 * *"Quickstart guide for Internal HDD":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/quickstart-hdd*
 
@@ -77,7 +77,7 @@ h2. _Announcement :_
 POPStarter project is "officially abandonned by krHACKen":https://www.metagames-eu.com/forums/playstation-2/popstarter-revision-13-sorties-et-developpements-36-134569.html#post1776252. Last build - "Rev 13 Beta 2019/06/05":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/downloads/POPStarter_r13_Beta_20190605.zip - was released on 2019/06/05. POPStarter src code is unreleased. Some stuff you need to know about it "here":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-112#post-953611.
 Thanks anyone who contributed, supported and helped this project. 
 
-~shaolinassassin, 2017/10/27
+~shaolinassassin, 2020/02/09
 
 ______________________________________________________________________________________________________________
 
