@@ -15,11 +15,11 @@ Open POPSTARTER.ELF file with a hex editor and look at offset $59 (blue on the p
 
 | *Version* | *Build date YY YY MM DD (blue)* | *Build ID (red)* |
 | Rev 13 Beta 20190605 (Final release) | 2019/06/05 |
-| Rev 13 Beta 20190104 | 2019/01/04 |
-| Rev 13 Beta 20180924 | 2018/09/24 |
-| Rev 13 Beta 20180922 | 2018/09/22 |
-| Rev 13 Beta 20180921 | 2018/09/21 |
-| Rev 13 Beta 20180920 | 2018/09/20 |
+| Rev 13 Beta 20190104 | 20 19 01 04 |
+| Rev 13 Beta 20180924 | 20 18 09 24 |
+| Rev 13 Beta 20180922 | 20 18 09 22 |
+| Rev 13 Beta 20180921 | 20 18 09 21 |
+| Rev 13 Beta 20180920 | 20 18 09 20 |
 | Rev 13 RIP 06      | 20 17 10 20 | 0x06 |
 | Rev 13 Prototype 9 | 20 17 10 08 | 0xFE |
 | Rev 13 Prototype 8 | 20 17 10 03 | 0xFE |
