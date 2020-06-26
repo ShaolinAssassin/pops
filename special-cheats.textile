@@ -25,6 +25,7 @@ Some useful commands have been automated. Here are them :
 | $"DWSTRETCH_####":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-108#post-944768 |  Stretches the display horizontally to your screen. | # is a number (decimal). Works only in PAL and NTSC modes. Default value : 2559. Increase it to stretch the screen on the right, decrease it for the left. Not compatible with $480p. |
 | $"DWCROP_####":https://assemblergames.com/threads/ps2-pops-stuff-popstarter.45347/page-108#post-944768 | Reduces/expands the display area width. | # is a number (decimal). Works only in PAL and NTSC modes. Maximum value : 2560. Decrease it to crop the screen on the right. Not compatible with $480p. |
 | $HDTVFIX | Enables SetGsCrt hack. | Helps with the HDTVs that can’t deal with the interlaced resolutions thru component (plain green screens and other rubbish displayed otherwise). Not compatible with some CRT TVs. |
+| $SCANLINES | Enables the scanlines generator. | A scanline is a horizontal line, or row, in a raster scanning pattern, so that the image of the games are seen with this type of lines that the old TVs and tube monitors (CRT) had. | 
 | $MUTE_CDDA | Mutes CDDA tracks. | Done automatically when you play a "physical PS1 CDROM from the disc drive":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1cd-mode. |
 | $UNDO_MUTE_CDDA | Unmutes CDDA tracks in "PS1CD mode":https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/ps1cd-mode. |  |
 | $MUTE_VAB | Mute VAB/VAG/VB+VH based sounds/music on games. | May be useful for these old games which output distorted SFX, wrong audio samples or stupid noises. |
@@ -43,8 +44,8 @@ Some useful commands have been automated. Here are them :
 | $NOIGR | Disables the IGR menu. |  |
 | $CACHE1 | Makes POPS buffer 1 sector instead of 16. | |
 | $USBDELAY_# | Sets up the PFS wrapper USB delay. | # is a number. |
-
-
+| $UNDO_GAME_FIXES | Prevents POPStarter from activating game fixes.  | This comand may not work for some games to show their problems again, since during the end development of the latest beta, work was done fixing bugs to the POPS, and probably due to patching one of this bugs makes the game work well without needing the specific fixes for each game, (which seems to be the case of the game Crash Bandicoot game in its PAL version). Some game fixes were also removed (it is not remembered for which games) because were made obsolete by the subsequent POPS patches. |
+| $20210CF8 2442FFFF $20210CFC 7C640000 $20210D00 00000000 $20210D04 00000000 $20210D08 00000000 $00210D0C 000000FA $S200009C 1F000000 | LibCrypt code for Jackie Chan Stuntmaster (PAL) | With this game in its first batch of discs it has been discovered that it lacks the LibCrypt protection. So if the LibCrypt code built into the POPStarter or the $FAKELC command fails to prevent game freezing, then these codes should be used. |
 
 
 ______________________________________________________________________________________________________________
